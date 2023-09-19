@@ -1,43 +1,43 @@
-Date,Hora,Liga,Home,Away,Placar FT,Winrate,Profit
-15.09.2023,07:00,J1 League,Yokohama F. Marinos,Sagan Tosu,1x1,Half Loss,"-0,5"
-15.09.2023,07:30,J1 League,Urawa Reds,Kyoto Sanga,0x0,Half Loss,"-0,5"
-15.09.2023,08:35,Chinese Super League,Shandong Luneng,Qingdao Jonoon,4x2,Win,"0,5"
-15.09.2023,08:35,Chinese Super League,Shanghai SIPG,Changchun Yatai,2x0,Win,"0,5"
-15.09.2023,09:00,Liga 1,Bali United,Cilegon United,1x2,Loss,-1
-15.09.2023,11:30,1 Lyga,Minija,Kauno Žalgiris II,3x0,Win,"0,5"
-15.09.2023,12:00,1 Lyga,FK Babrungas,Šilas,6x2,Win,"0,5"
-15.09.2023,14:00,Ettan South,Lund,Ängelholm,1x2,Loss,-1
-15.09.2023,14:00,Oberliga Bayern Nord,Sport-Club 1926 Eltersdorf,Jahn Regensburg II,0x1,Loss,-1
-15.09.2023,15:45,First Division,Waterford,Cobh Ramblers,0x2,Loss,-1
-15.09.2023,19:00,Serie B,Vila Nova,Ponte Preta,1x1,Half Loss,"-0,5"
-15.09.2023,19:00,Categoria Primera B,Llaneros,Barranquilla,3x0,Win,"0,5"
-16.09.2023,21:30,Serie A,Palmeiras,Goiás,1x0,Win,"0,5"
-16.09.2023,22:30,Categoria Primera A,Millonarios,Atlético Bucaramanga,3x0,Win,"0,5"
-16.09.2023,02:00,K League 1,Jeonbuk Motors,Gangwon,1x3,Loss,-1
-16.09.2023,04:30,K League 1,Pohang Steelers,Suwon,2x0,Win,"0,5"
-16.09.2023,06:30,K League 2,Busan I'Park,Seongnam,3x0,Win,"0,5"
-16.09.2023,07:00,K League 1,Ulsan,Daejeon Citizen,1x1,Half Loss,"-0,5"
-16.09.2023,07:00,J3 League,Imabari,Parceiro Nagano,2x0,Win,"0,5"
-16.09.2023,07:00,Kakkonen,OLS,RoPS,5x2,Win,"0,5"
-16.09.2023,08:30,China League Two,Yunnan Yukun,Qingdao Red Lions,1x0,Win,"0,5"
-16.09.2023,10:00,Superettan,Brage,Trelleborg,1x1,Half Loss,"-0,5"
-16.09.2023,10:00,Kazakhstan Premier League,Astana,Tobol,2x1,Win,"0,5"
-16.09.2023,11:00,Ettan South,Eskilsminne,Vänersborgs IF,3x1,Win,"0,5"
-16.09.2023,11:00,Ettan South,Falkenberg,Norrby,2x1,Win,"0,5"
-16.09.2023,13:30,Meistriliiga,Tallinna FC Levadia,Paide,1x0,Win,"0,5"
-16.09.2023,17:45,Prim B Nacional,Almirante Brown,Estudiantes Río Cuarto,0x1,Loss,-1
-16.09.2023,18:00,Categoria Primera B,Cúcuta Deportivo,Real Cartagena,2x0,Win,"0,5"
-17.09.2023,05:00,Liga 1,Madura United,Persebaya Surabaya,3x0,Win,"0,5"
-17.09.2023,08:00,Superettan,GAIS,Helsingborg,4x1,Win,"0,5"
-17.09.2023,08:00,Kakkonen,Klubi-04,PEPO,1x0,Win,"0,5"
-17.09.2023,09:00,Liga 1,Borneo,PSS Sleman,1x0,Win,"0,5"
-17.09.2023,10:00,First Division,Fredrikstad,Sogndal,2x1,Win,"0,5"
-17.09.2023,12:30,Allsvenskan,Elfsborg,Kalmar,0x3,Loss,-1
-17.09.2023,12:30,Vysheyshaya Liga,Dinamo Minsk,Neman Grodno,2x1,Win,"0,5"
-17.09.2023,14:00,Primera División FPD,Cartaginés,Sporting San José,2x1,Win,"0,5"
-17.09.2023,15:45,Serie B,Guarani,Tombense,3x0,Win,"0,5"
-17.09.2023,17:15,Prim B Nacional,Deportivo Morón,All Boys,0x0,Half Loss,"-0,5"
-17.09.2023,18:00,Categoria Primera A,Santa Fe,Alianza Petrolera,0x1,Loss,-1
-17.09.2023,18:00,Serie B,Vitória,Avaí,3x0,Win,"0,5"
-17.09.2023,18:00,Prim B Nacional,Quilmes,Club Atlético Mitre,1x3,Loss,-1
-17.09.2023,20:40,Primera División,Academia Puerto Cabello,Portuguesa,4x1,Win,"0,5"
+"Date","Hora","Liga","Home","Away","Placar FT","Winrate","Profit"
+"15.09.2023","07:00","J1 League","Yokohama F. Marinos","Sagan Tosu","1x1",0,"-0,5"
+"15.09.2023","07:30","J1 League","Urawa Reds","Kyoto Sanga","0x0",0,"-0,5"
+"15.09.2023","08:35","Chinese Super League","Shandong Luneng","Qingdao Jonoon","4x2",1,"0,5"
+"15.09.2023","08:35","Chinese Super League","Shanghai SIPG","Changchun Yatai","2x0",1,"0,5"
+"15.09.2023","09:00","Liga 1","Bali United","Cilegon United","1x2",0,-1
+"15.09.2023","11:30","1 Lyga","Minija","Kauno ï¿½algiris II","3x0",1,"0,5"
+"15.09.2023","12:00","1 Lyga","FK Babrungas","ï¿½ilas","6x2",1,"0,5"
+"15.09.2023","14:00","Ettan South","Lund","ï¿½ngelholm","1x2",0,-1
+"15.09.2023","14:00","Oberliga Bayern Nord","Sport-Club 1926 Eltersdorf","Jahn Regensburg II","0x1",0,-1
+"15.09.2023","15:45","First Division","Waterford","Cobh Ramblers","0x2",0,-1
+"15.09.2023","19:00","Serie B","Vila Nova","Ponte Preta","1x1",0,"-0,5"
+"15.09.2023","19:00","Categoria Primera B","Llaneros","Barranquilla","3x0",1,"0,5"
+"16.09.2023","21:30","Serie A","Palmeiras","Goiï¿½s","1x0",1,"0,5"
+"16.09.2023","22:30","Categoria Primera A","Millonarios","Atlï¿½tico Bucaramanga","3x0",1,"0,5"
+"16.09.2023","02:00","K League 1","Jeonbuk Motors","Gangwon","1x3",0,-1
+"16.09.2023","04:30","K League 1","Pohang Steelers","Suwon","2x0",1,"0,5"
+"16.09.2023","06:30","K League 2","Busan I'Park","Seongnam","3x0",1,"0,5"
+"16.09.2023","07:00","K League 1","Ulsan","Daejeon Citizen","1x1",0,"-0,5"
+"16.09.2023","07:00","J3 League","Imabari","Parceiro Nagano","2x0",1,"0,5"
+"16.09.2023","07:00","Kakkonen","OLS","RoPS","5x2",1,"0,5"
+"16.09.2023","08:30","China League Two","Yunnan Yukun","Qingdao Red Lions","1x0",1,"0,5"
+"16.09.2023","10:00","Superettan","Brage","Trelleborg","1x1",0,"-0,5"
+"16.09.2023","10:00","Kazakhstan Premier League","Astana","Tobol","2x1",1,"0,5"
+"16.09.2023","11:00","Ettan South","Eskilsminne","Vï¿½nersborgs IF","3x1",1,"0,5"
+"16.09.2023","11:00","Ettan South","Falkenberg","Norrby","2x1",1,"0,5"
+"16.09.2023","13:30","Meistriliiga","Tallinna FC Levadia","Paide","1x0",1,"0,5"
+"16.09.2023","17:45","Prim B Nacional","Almirante Brown","Estudiantes Rï¿½o Cuarto","0x1",0,-1
+"16.09.2023","18:00","Categoria Primera B","Cï¿½cuta Deportivo","Real Cartagena","2x0",1,"0,5"
+"17.09.2023","05:00","Liga 1","Madura United","Persebaya Surabaya","3x0",1,"0,5"
+"17.09.2023","08:00","Superettan","GAIS","Helsingborg","4x1",1,"0,5"
+"17.09.2023","08:00","Kakkonen","Klubi-04","PEPO","1x0",1,"0,5"
+"17.09.2023","09:00","Liga 1","Borneo","PSS Sleman","1x0",1,"0,5"
+"17.09.2023","10:00","First Division","Fredrikstad","Sogndal","2x1",1,"0,5"
+"17.09.2023","12:30","Allsvenskan","Elfsborg","Kalmar","0x3",0,-1
+"17.09.2023","12:30","Vysheyshaya Liga","Dinamo Minsk","Neman Grodno","2x1",1,"0,5"
+"17.09.2023","14:00","Primera Divisiï¿½n FPD","Cartaginï¿½s","Sporting San Josï¿½","2x1",1,"0,5"
+"17.09.2023","15:45","Serie B","Guarani","Tombense","3x0",1,"0,5"
+"17.09.2023","17:15","Prim B Nacional","Deportivo Morï¿½n","All Boys","0x0",0,"-0,5"
+"17.09.2023","18:00","Categoria Primera A","Santa Fe","Alianza Petrolera","0x1",0,-1
+"17.09.2023","18:00","Serie B","Vitï¿½ria","Avaï¿½","3x0",1,"0,5"
+"17.09.2023","18:00","Prim B Nacional","Quilmes","Club Atlï¿½tico Mitre","1x3",0,-1
+"17.09.2023","20:40","Primera Divisiï¿½n","Academia Puerto Cabello","Portuguesa","4x1",1,"0,5"
