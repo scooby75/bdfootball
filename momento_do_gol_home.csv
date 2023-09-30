@@ -44,16 +44,16 @@ Argentina - Primera B,San Miguel,2,0,1,0,2,0,3,1,0,1,1,3,5,0,4,5
 Argentina - Primera B,T. Remedios,1,0,1,2,0,2,1,1,2,0,0,2,2,4,3,3
 Argentina - Primera B,UAI Urquiza,3,1,1,0,0,4,1,0,1,0,1,4,4,5,3,4
 Argentina - Primera B,V. San Carlos,1,3,5,0,3,1,1,0,1,2,3,3,9,4,5,5
-Armenia - Premier League,Alashkert,1,0,0,0,0,2,2,0,1,0,3,3,1,2,6,3
-Armenia - Premier League,Ararat Yerevan,0,0,3,2,1,0,0,0,0,1,0,3,4,2,0,4
-Armenia - Premier League,Ararat-Armenia,1,0,2,0,2,0,1,1,2,2,0,2,5,0,3,5
-Armenia - Premier League,BKMA,0,2,0,0,0,1,1,1,0,1,2,2,0,3,3,4
-Armenia - Premier League,Noah,2,0,1,0,2,0,1,0,1,0,3,0,5,0,5,0
-Armenia - Premier League,Pyunik,2,1,0,0,2,0,0,0,2,0,1,0,4,1,3,0
-Armenia - Premier League,Shirak,0,2,0,0,0,0,1,0,1,2,0,2,0,2,2,4
-Armenia - Premier League,Urartu,0,0,1,1,1,0,0,0,0,1,1,0,2,1,1,1
-Armenia - Premier League,Van,0,0,0,2,0,1,1,1,0,1,1,2,0,3,2,4
-Armenia - Premier League,West Armenia,3,0,0,3,3,1,0,3,0,2,2,8,6,4,2,13
+Armenia - Premier League,Alashkert,2,0,0,0,0,3,2,0,2,0,3,3,2,3,7,3
+Armenia - Premier League,Ararat Yerevan,0,1,3,2,2,0,0,0,0,1,0,3,5,3,0,4
+Armenia - Premier League,Ararat-Armenia,2,0,3,0,3,0,1,1,2,2,2,4,8,0,5,7
+Armenia - Premier League,BKMA,0,2,0,0,0,1,1,1,0,2,2,5,0,3,3,8
+Armenia - Premier League,Noah,2,0,1,0,2,0,1,0,1,0,3,1,5,0,5,1
+Armenia - Premier League,Pyunik,3,2,0,0,4,0,0,0,3,0,1,0,7,2,4,0
+Armenia - Premier League,Shirak,0,2,0,0,0,1,2,0,1,4,0,2,0,3,3,6
+Armenia - Premier League,Urartu,1,0,1,2,1,0,0,1,2,1,3,0,3,2,5,2
+Armenia - Premier League,Van,0,0,0,3,0,1,1,1,1,1,1,3,0,4,3,5
+Armenia - Premier League,West Armenia,3,1,0,3,3,3,2,3,0,3,2,8,6,7,4,14
 Australia - A-League,Adelaide Utd,2,1,4,2,6,5,4,4,4,2,6,3,12,8,14,9
 Australia - A-League,Brisbane Roar,2,0,2,4,2,3,0,0,3,3,3,1,6,7,6,4
 Australia - A-League,Central Coast,3,4,6,2,3,3,8,3,7,2,4,3,12,9,19,8
@@ -66,141 +66,141 @@ Australia - A-League,Sydney FC,3,4,3,4,1,5,5,2,5,5,3,2,7,13,13,9
 Australia - A-League,Wellington,2,2,5,2,7,0,3,5,6,2,1,9,14,4,10,16
 Australia - A-League,Western Sydney,3,0,5,1,5,1,4,5,3,2,4,1,13,2,11,8
 Australia - A-League,Western United,2,2,1,7,5,4,2,1,1,5,3,4,8,13,6,10
-Austria - Bundesliga,A. Klagenfurt,0,0,0,0,1,3,2,0,0,2,1,1,1,3,3,3
+Austria - Bundesliga,A. Klagenfurt,0,0,1,0,1,3,2,0,0,2,1,1,2,3,3,3
 Austria - Bundesliga,A. Lustenau,0,1,0,2,0,3,2,1,0,2,0,0,0,6,2,3
-Austria - Bundesliga,Altach,0,0,0,0,0,1,0,1,0,1,2,1,0,1,2,3
+Austria - Bundesliga,Altach,2,1,0,0,0,1,0,1,0,1,2,1,2,2,2,3
 Austria - Bundesliga,Austria Wien,1,2,0,0,0,1,0,1,0,1,1,0,1,3,1,2
 Austria - Bundesliga,BW Linz,1,2,1,2,0,1,0,0,0,2,2,2,2,5,2,4
 Austria - Bundesliga,Hartberg,0,1,1,1,2,1,2,3,0,3,0,2,3,3,2,8
 Austria - Bundesliga,LASK Linz,1,0,0,1,1,0,2,0,0,0,3,0,2,1,5,0
-Austria - Bundesliga,Rapid Wien,0,1,2,0,2,0,2,0,1,2,1,2,4,1,4,4
-Austria - Bundesliga,Salzburg,1,0,0,0,1,0,2,0,0,0,3,0,2,0,5,0
+Austria - Bundesliga,Rapid Wien,0,1,3,1,2,0,2,0,1,2,1,2,5,2,4,4
+Austria - Bundesliga,Salzburg,1,0,0,0,1,0,2,0,0,1,3,0,2,0,5,1
 Austria - Bundesliga,Sturm Graz,2,0,1,0,0,1,1,1,2,1,2,0,3,1,5,2
-Austria - Bundesliga,Tirol,0,3,2,0,0,0,0,2,1,2,1,1,2,3,2,5
+Austria - Bundesliga,Tirol,0,4,2,0,0,0,2,3,1,2,1,2,2,4,4,7
 Austria - Bundesliga,Wolfsberger AC,1,1,0,0,1,0,1,2,0,3,1,1,2,1,2,6
-Austria - 2. Liga,Admira Wacker,1,1,1,1,1,0,1,0,1,0,1,0,3,2,3,0
-Austria - 2. Liga,Amstetten,0,0,0,0,0,1,1,1,0,1,1,1,0,1,2,3
+Austria - 2. Liga,Admira Wacker,1,1,1,2,2,0,1,0,1,1,2,0,4,3,4,1
+Austria - 2. Liga,Amstetten,0,0,0,2,0,1,2,1,0,1,1,1,0,3,3,3
 Austria - 2. Liga,Bregenz,2,1,0,0,1,1,0,0,1,0,0,1,3,2,1,1
-Austria - 2. Liga,Dornbirn,0,2,0,0,0,0,0,1,1,1,1,2,0,2,2,4
+Austria - 2. Liga,Dornbirn,0,3,0,1,0,0,0,1,1,1,2,3,0,4,3,5
 Austria - 2. Liga,First Vienna,0,0,2,0,2,0,0,1,0,1,1,3,4,0,1,5
 Austria - 2. Liga,Floridsdorfer,1,1,2,0,1,0,2,2,3,1,1,0,4,1,6,3
-Austria - 2. Liga,Grazer AK,0,0,2,0,1,0,2,0,0,0,0,0,3,0,2,0
+Austria - 2. Liga,Grazer AK,1,0,2,0,2,0,2,0,0,0,1,0,5,0,3,0
 Austria - 2. Liga,Kapfenberger,0,1,0,1,1,1,1,0,0,1,1,1,1,3,2,2
 Austria - 2. Liga,Lafnitz,2,0,0,0,1,0,1,0,1,0,5,1,3,0,7,1
-Austria - 2. Liga,Leoben,0,1,1,0,0,3,3,0,0,0,1,1,1,4,4,1
-Austria - 2. Liga,Liefering,0,0,1,1,0,2,1,1,1,0,1,1,1,3,3,2
-Austria - 2. Liga,Ried,1,0,1,0,2,1,1,0,1,0,0,1,4,1,2,1
-Austria - 2. Liga,St. Polten,0,1,0,0,2,0,1,0,1,1,1,1,2,1,3,2
-Austria - 2. Liga,Stripfing,1,1,0,0,1,1,2,0,1,1,0,2,2,2,3,3
+Austria - 2. Liga,Leoben,0,3,1,0,0,3,3,0,0,1,1,2,1,6,4,3
+Austria - 2. Liga,Liefering,0,0,1,2,1,2,1,1,1,0,2,2,2,4,4,3
+Austria - 2. Liga,Ried,1,0,3,0,2,1,2,0,1,0,2,1,6,1,5,1
+Austria - 2. Liga,St. Polten,0,2,0,0,2,0,1,0,2,1,1,3,2,2,4,4
+Austria - 2. Liga,Stripfing,2,1,0,0,1,2,2,1,2,2,0,2,3,3,4,5
 Austria - 2. Liga,Sturm Graz B,0,2,1,1,0,2,1,2,2,2,2,2,1,5,5,6
-Austria - 2. Liga,SV Horn,1,1,2,0,2,0,0,0,0,0,2,0,5,1,2,0
-Belgium - First Division A,Anderlecht,1,0,0,0,2,0,0,0,1,0,1,2,3,0,2,2
+Austria - 2. Liga,SV Horn,1,1,3,0,4,0,0,0,0,0,3,0,8,1,3,0
+Belgium - First Division A,Anderlecht,1,0,0,0,3,0,0,0,1,1,1,2,4,0,2,3
 Belgium - First Division A,Antwerp,1,0,1,0,3,0,1,0,1,0,0,0,5,0,2,0
-Belgium - First Division A,Cercle Brugge,0,0,1,0,2,0,0,0,1,1,0,1,3,0,1,2
-Belgium - First Division A,Charleroi,1,0,0,0,0,1,0,0,0,0,2,2,1,1,2,2
-Belgium - First Division A,Club Brugge,1,1,2,1,1,2,1,0,3,0,4,0,4,4,8,0
+Belgium - First Division A,Cercle Brugge,0,0,1,1,2,0,0,1,1,1,0,1,3,1,1,3
+Belgium - First Division A,Charleroi,1,0,0,0,1,1,0,0,0,0,2,2,2,1,2,2
+Belgium - First Division A,Club Brugge,1,1,2,1,1,3,1,0,4,0,4,0,4,5,9,0
 Belgium - First Division A,Eupen,0,1,2,2,0,2,2,0,0,4,2,2,2,5,4,6
-Belgium - First Division A,Gent,1,3,2,0,1,1,2,0,1,0,0,1,4,4,3,1
-Belgium - First Division A,Kortrijk,0,0,2,1,0,0,1,3,1,1,0,2,2,1,2,6
-Belgium - First Division A,KRC Genk,0,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1
-Belgium - First Division A,KV Mechelen,0,0,0,0,1,0,0,1,0,0,4,0,1,0,4,1
+Belgium - First Division A,Gent,1,3,2,1,1,1,4,0,1,0,0,1,4,5,5,1
+Belgium - First Division A,Kortrijk,0,0,2,1,0,0,2,3,1,1,1,3,2,1,4,7
+Belgium - First Division A,KRC Genk,0,1,0,0,0,3,1,0,1,1,2,0,0,4,4,1
+Belgium - First Division A,KV Mechelen,0,1,0,0,1,1,1,1,0,0,4,0,1,2,5,1
 Belgium - First Division A,OH Leuven,1,0,1,0,1,3,2,1,0,0,1,0,3,3,3,1
 Belgium - First Division A,Royale Union SG,1,0,2,2,1,2,0,0,2,0,3,1,4,4,5,1
-Belgium - First Division A,RWDM,0,1,1,0,0,3,1,0,1,1,0,0,1,4,2,1
+Belgium - First Division A,RWDM,0,2,1,0,2,4,1,0,1,1,0,1,3,6,2,2
 Belgium - First Division A,Sint-Truiden,0,0,0,0,1,0,0,1,1,2,1,0,1,0,2,3
 Belgium - First Division A,Standard Liege,0,0,1,2,0,0,0,0,0,0,0,1,1,2,0,1
 Belgium - First Division A,Westerlo,0,0,3,1,0,2,0,1,0,3,0,3,3,3,0,7
 Belgium - First Division B,Anderlecht B,2,0,0,1,1,0,0,2,0,1,0,3,3,1,0,6
 Belgium - First Division B,Beerschot,0,0,0,1,1,0,1,1,1,0,0,1,1,1,2,2
-Belgium - First Division B,Beveren,1,0,0,1,0,0,1,0,0,0,1,0,1,1,2,0
-Belgium - First Division B,Club Brugge B,0,0,1,1,0,0,0,1,2,1,2,1,1,1,4,3
+Belgium - First Division B,Beveren,1,0,0,2,1,0,1,0,0,0,1,1,2,2,2,1
+Belgium - First Division B,Club Brugge B,0,0,1,2,0,0,3,1,2,1,3,1,1,2,8,3
 Belgium - First Division B,Deinze,1,1,0,0,0,0,1,0,1,0,2,0,1,1,4,0
 Belgium - First Division B,Dender,1,2,1,0,1,1,1,0,0,2,3,1,3,3,4,3
 Belgium - First Division B,Francs Borains,0,0,0,0,1,2,1,0,0,1,3,2,1,2,4,3
 Belgium - First Division B,KRC Genk B,0,1,1,1,2,1,0,1,0,0,0,3,3,3,0,4
-Belgium - First Division B,Lierse K.,0,0,0,0,1,1,1,0,1,0,0,2,1,1,2,2
-Belgium - First Division B,Lommel SK,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0
-Belgium - First Division B,Oostende,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,1
-Belgium - First Division B,Patro Eisden,0,0,1,0,0,1,1,1,0,0,3,0,1,1,4,1
+Belgium - First Division B,Lierse K.,0,0,0,1,1,1,2,0,1,1,0,3,1,2,3,4
+Belgium - First Division B,Lommel SK,1,0,0,0,0,0,1,0,1,0,2,0,1,0,4,0
+Belgium - First Division B,Oostende,0,1,2,1,0,0,1,0,0,0,0,2,2,2,1,2
+Belgium - First Division B,Patro Eisden,0,0,1,0,1,1,1,2,0,0,3,0,2,1,4,2
 Belgium - First Division B,RFC Liege,0,1,2,0,1,0,1,0,0,0,1,1,3,1,2,1
-Belgium - First Division B,Seraing,0,0,0,0,1,0,0,1,1,0,1,4,1,0,2,5
-Belgium - First Division B,Standard L. B,0,0,0,1,0,0,0,1,2,0,0,0,0,1,2,1
-Belgium - First Division B,Zulte-Waregem,0,1,0,0,1,1,0,0,0,0,1,2,1,2,1,2
-Brazil - Serie A,America MG,2,1,2,3,2,2,1,5,2,3,4,6,6,6,7,14
-Brazil - Serie A,Athletico PR,1,3,2,2,7,2,2,2,2,1,8,3,10,7,12,6
-Brazil - Serie A,Atletico MG,4,2,2,0,3,2,1,2,1,1,3,3,9,4,5,6
+Belgium - First Division B,Seraing,0,0,0,0,1,1,0,1,2,0,1,4,1,1,3,5
+Belgium - First Division B,Standard L. B,0,0,0,1,0,0,0,1,2,0,0,1,0,1,2,2
+Belgium - First Division B,Zulte-Waregem,0,1,0,1,1,1,0,0,1,0,2,2,1,3,3,2
+Brazil - Serie A,America MG,2,1,2,3,2,3,1,5,2,3,4,8,6,7,7,16
+Brazil - Serie A,Athletico PR,1,3,3,2,7,3,2,2,2,1,9,3,11,8,13,6
+Brazil - Serie A,Atletico MG,4,2,2,0,4,2,1,2,1,1,3,3,10,4,5,6
 Brazil - Serie A,Bahia,1,1,5,4,4,3,4,1,4,3,2,3,10,8,10,7
 Brazil - Serie A,Botafogo,5,3,2,1,3,0,9,0,4,1,4,0,10,4,17,1
 Brazil - Serie A,Bragantino,1,2,2,0,7,2,3,0,2,1,4,2,10,4,9,3
-Brazil - Serie A,Corinthians,0,1,1,4,4,0,3,4,5,1,5,2,5,5,13,7
+Brazil - Serie A,Corinthians,0,1,1,4,4,0,4,4,5,1,5,2,5,5,14,7
 Brazil - Serie A,Coritiba,4,2,2,3,3,3,1,1,0,2,2,6,9,8,3,9
 Brazil - Serie A,Cruzeiro,1,0,1,2,1,2,0,2,2,0,0,2,3,4,2,4
 Brazil - Serie A,Cuiaba,1,3,2,0,2,2,3,4,3,3,3,3,5,5,9,10
 Brazil - Serie A,Flamengo,3,1,1,2,1,2,3,0,2,1,6,3,5,5,11,4
-Brazil - Serie A,Fluminense,3,1,2,1,3,1,6,2,2,0,3,1,8,3,11,3
+Brazil - Serie A,Fluminense,3,1,2,1,3,1,6,2,3,0,3,1,8,3,12,3
 Brazil - Serie A,Fortaleza,0,0,2,2,3,2,5,1,1,3,8,2,5,4,14,6
 Brazil - Serie A,Goias,0,2,0,2,3,3,2,3,1,0,5,4,3,7,8,7
-Brazil - Serie A,Gremio,3,2,3,2,7,1,4,1,6,1,2,3,13,5,12,5
+Brazil - Serie A,Gremio,4,2,3,2,7,1,4,1,6,1,2,3,14,5,12,5
 Brazil - Serie A,Internacional,1,2,3,1,0,2,3,0,2,1,3,4,4,5,8,5
 Brazil - Serie A,Palmeiras,2,0,4,1,2,3,1,0,6,1,4,3,8,4,11,4
 Brazil - Serie A,Santos,3,2,4,4,3,2,2,4,2,2,4,4,10,8,8,10
-Brazil - Serie A,Sao Paulo,0,3,4,1,3,1,2,0,1,1,8,3,7,5,11,4
-Brazil - Serie A,Vasco da Gama,1,1,2,2,1,5,2,2,1,3,3,1,4,8,6,6
+Brazil - Serie A,Sao Paulo,0,3,5,2,4,2,2,1,1,1,9,3,9,7,12,5
+Brazil - Serie A,Vasco da Gama,2,1,2,2,2,5,3,2,2,3,4,2,6,8,9,7
 Brazil - Serie C,Altos,2,0,0,2,4,2,1,1,0,1,1,4,6,4,2,6
 Brazil - Serie C,Amazonas,1,2,1,2,1,1,1,0,5,0,3,1,3,5,9,1
 Brazil - Serie C,America RN,2,1,0,1,2,2,3,2,0,1,3,2,4,4,6,5
 Brazil - Serie C,Aparecidense,0,3,0,3,2,1,2,1,2,2,5,2,2,7,9,5
-Brazil - Serie C,Botafogo PB,1,0,0,3,6,2,4,2,2,1,5,6,7,5,11,9
+Brazil - Serie C,Botafogo PB,2,0,0,3,7,4,4,3,2,1,5,6,9,7,11,10
 Brazil - Serie C,Brusque,3,2,3,2,3,1,5,2,1,1,6,2,9,5,12,5
 Brazil - Serie C,Confianca,2,1,2,2,1,3,2,1,3,1,3,1,5,6,8,3
 Brazil - Serie C,CSA,0,1,0,2,4,1,1,1,2,1,2,0,4,4,5,2
-Brazil - Serie C,EC Sao Jose,3,1,2,2,4,0,2,2,7,4,1,2,9,3,10,8
+Brazil - Serie C,EC Sao Jose,3,2,3,2,4,0,2,2,7,4,2,2,10,4,11,8
 Brazil - Serie C,Figueirense,3,2,0,1,1,2,2,1,0,0,6,1,4,5,8,2
 Brazil - Serie C,Floresta,2,1,1,1,0,1,2,1,1,0,3,1,3,3,6,2
 Brazil - Serie C,Manaus,1,0,0,0,2,2,1,1,1,0,4,8,3,2,6,9
 Brazil - Serie C,Nautico,1,0,1,1,4,3,3,1,1,1,2,0,6,4,6,2
-Brazil - Serie C,Operario PR,1,0,1,0,4,0,2,0,1,2,3,0,6,0,6,2
+Brazil - Serie C,Operario PR,2,0,1,0,4,0,2,0,1,2,3,2,7,0,6,4
 Brazil - Serie C,Paysandu,2,1,2,2,4,1,1,5,3,1,5,0,8,4,9,6
 Brazil - Serie C,Pouso Alegre,0,1,0,1,0,1,1,3,1,1,1,4,0,3,3,8
 Brazil - Serie C,Remo,1,0,1,1,3,4,1,2,3,0,3,3,5,5,7,5
 Brazil - Serie C,Sao Bernardo,2,0,2,3,1,0,1,1,3,3,5,2,5,3,9,6
-Brazil - Serie C,Volta Redonda,1,0,4,2,3,1,6,1,6,0,2,2,8,3,14,3
+Brazil - Serie C,Volta Redonda,1,0,4,2,3,2,6,2,6,0,2,2,8,4,14,4
 Brazil - Serie C,Ypiranga,0,0,4,0,2,2,5,1,4,3,4,3,6,2,13,7
-Bulgaria - Parva Liga,Arda,1,0,1,0,1,1,3,0,1,1,1,1,3,1,5,2
+Bulgaria - Parva Liga,Arda,1,0,2,0,1,1,3,0,1,2,3,1,4,1,7,3
 Bulgaria - Parva Liga,Beroe,2,0,1,2,3,0,0,0,0,1,0,0,6,2,0,1
-Bulgaria - Parva Liga,Botev Plovdiv,0,0,2,0,2,2,0,2,0,1,1,3,4,2,1,6
-Bulgaria - Parva Liga,Botev Vratsa,0,2,0,0,0,0,1,1,1,3,0,2,0,2,2,6
-Bulgaria - Parva Liga,Cherno More,0,0,0,0,2,0,2,1,1,0,1,0,2,0,4,1
-Bulgaria - Parva Liga,CSKA 1948 Sofia,1,0,2,0,0,0,1,0,0,0,1,1,3,0,2,1
-Bulgaria - Parva Liga,CSKA Sofia,1,0,1,0,0,0,0,0,1,0,2,2,2,0,3,2
-Bulgaria - Parva Liga,Etar,0,0,0,1,1,2,1,0,1,1,0,2,1,3,2,3
-Bulgaria - Parva Liga,Hebar,1,1,1,1,1,2,2,1,1,1,0,0,3,4,3,2
-Bulgaria - Parva Liga,L. Krumovgrad,2,0,2,1,1,3,0,0,3,0,1,2,5,4,4,2
-Bulgaria - Parva Liga,Levski Sofia,0,0,1,0,2,1,1,0,2,0,5,1,3,1,8,1
-Bulgaria - Parva Liga,Lok. Plovdiv,2,1,3,0,1,1,0,0,1,0,5,0,6,2,6,0
-Bulgaria - Parva Liga,Lokomotiv Sofia,1,0,1,3,1,1,1,1,0,2,2,1,3,4,3,4
-Bulgaria - Parva Liga,Ludogorets,1,0,3,0,2,0,4,1,3,0,2,1,6,0,9,2
-Bulgaria - Parva Liga,Pirin Blag.,0,0,1,0,0,2,0,1,0,1,0,2,1,2,0,4
-Bulgaria - Parva Liga,Slavia Sofia,0,2,0,2,1,1,0,0,0,2,1,2,1,5,1,4
-Canada - Premier League,A. Ottawa,3,2,1,4,2,3,2,1,3,2,5,2,6,9,10,5
-Canada - Premier League,Cavalry,3,1,4,0,2,2,5,1,3,1,4,4,9,3,12,6
-Canada - Premier League,Forge,2,1,1,2,3,2,2,2,3,6,7,3,6,5,12,11
+Bulgaria - Parva Liga,Botev Plovdiv,0,0,2,1,2,2,0,2,0,2,2,3,4,3,2,7
+Bulgaria - Parva Liga,Botev Vratsa,0,2,0,0,0,0,2,1,1,3,0,2,0,2,3,6
+Bulgaria - Parva Liga,Cherno More,0,0,1,0,2,0,2,1,1,0,1,0,3,0,4,1
+Bulgaria - Parva Liga,CSKA 1948 Sofia,1,0,2,0,0,1,1,0,1,0,1,1,3,1,3,1
+Bulgaria - Parva Liga,CSKA Sofia,1,0,1,0,2,0,0,0,1,0,2,2,4,0,3,2
+Bulgaria - Parva Liga,Etar,0,1,0,1,1,3,1,0,1,1,0,2,1,5,2,3
+Bulgaria - Parva Liga,Hebar,1,1,1,1,2,2,2,1,1,2,0,0,4,4,3,3
+Bulgaria - Parva Liga,L. Krumovgrad,2,1,2,3,1,3,0,0,4,0,1,2,5,7,5,2
+Bulgaria - Parva Liga,Levski Sofia,0,0,1,0,2,1,1,0,2,0,6,1,3,1,9,1
+Bulgaria - Parva Liga,Lok. Plovdiv,2,1,3,0,1,1,0,0,3,0,5,0,6,2,8,0
+Bulgaria - Parva Liga,Lokomotiv Sofia,2,0,1,3,1,1,1,2,0,3,2,2,4,4,3,7
+Bulgaria - Parva Liga,Ludogorets,2,0,3,0,2,0,4,1,3,0,2,2,7,0,9,3
+Bulgaria - Parva Liga,Pirin Blag.,0,0,1,0,1,2,0,1,0,1,0,2,2,2,0,4
+Bulgaria - Parva Liga,Slavia Sofia,0,2,0,2,1,2,0,1,0,2,1,2,1,6,1,5
+Canada - Premier League,A. Ottawa,3,2,1,4,2,3,2,1,3,2,5,3,6,9,10,6
+Canada - Premier League,Cavalry,3,1,4,1,3,2,6,1,3,1,4,4,10,4,13,6
+Canada - Premier League,Forge,3,2,1,2,4,2,2,2,3,6,8,3,8,6,13,11
 Canada - Premier League,HFX Wanderers,4,3,3,1,1,4,6,3,3,1,6,3,8,8,15,7
 Canada - Premier League,Pacific,1,2,0,2,5,5,2,2,1,0,6,2,6,9,9,4
-Canada - Premier League,Valour,3,7,0,0,1,2,4,3,5,2,0,4,4,9,9,9
-Canada - Premier League,Vancouver FC,6,5,0,5,3,2,2,4,0,6,4,4,9,12,6,14
-Canada - Premier League,York Utd,1,4,2,5,1,3,1,4,1,3,4,3,4,12,6,10
-Costa Rica - Primera Div. - Apertura,AD Grecia,2,2,1,0,0,1,0,3,1,2,3,3,3,3,4,8
-Costa Rica - Primera Div. - Apertura,Alajuelense,2,1,0,1,5,1,1,0,3,0,1,1,7,3,5,1
-Costa Rica - Primera Div. - Apertura,Cartagines,0,0,0,0,1,0,2,1,3,0,0,1,1,0,5,2
-Costa Rica - Primera Div. - Apertura,Guanacasteca,0,1,1,2,2,1,0,0,4,1,0,1,3,4,4,2
-Costa Rica - Primera Div. - Apertura,Herediano,1,0,1,0,2,1,1,1,3,0,3,3,4,1,7,4
+Canada - Premier League,Valour,3,7,0,0,1,2,4,3,5,2,0,5,4,9,9,10
+Canada - Premier League,Vancouver FC,6,5,0,5,3,3,2,4,1,6,5,4,9,13,8,14
+Canada - Premier League,York Utd,1,4,2,5,1,4,1,4,1,3,4,3,4,13,6,10
+Costa Rica - Primera Div. - Apertura,AD Grecia,2,3,1,0,0,1,1,3,1,2,4,3,3,4,6,8
+Costa Rica - Primera Div. - Apertura,Alajuelense,3,1,2,1,5,1,1,0,4,0,1,1,10,3,6,1
+Costa Rica - Primera Div. - Apertura,Cartagines,1,0,0,0,2,0,3,1,4,0,0,1,3,0,7,2
+Costa Rica - Primera Div. - Apertura,Guanacasteca,1,1,1,5,4,2,0,0,4,1,1,1,6,8,5,2
+Costa Rica - Primera Div. - Apertura,Herediano,1,0,1,0,2,1,1,2,4,1,4,3,4,1,9,6
 Costa Rica - Primera Div. - Apertura,M. Liberia,1,2,1,2,1,1,1,1,1,0,2,1,3,5,4,2
-Costa Rica - Primera Div. - Apertura,Puntarenas,0,2,0,2,1,0,1,1,2,1,3,0,1,4,6,2
-Costa Rica - Primera Div. - Apertura,San Carlos,1,0,1,0,1,1,2,1,1,2,1,1,3,1,4,4
+Costa Rica - Primera Div. - Apertura,Puntarenas,0,2,0,2,2,0,1,1,2,1,4,0,2,4,7,2
+Costa Rica - Primera Div. - Apertura,San Carlos,1,0,1,0,1,1,2,1,2,2,2,2,3,1,6,5
 Costa Rica - Primera Div. - Apertura,Santos DG,1,0,0,1,1,1,1,1,0,2,4,0,2,2,5,3
-Costa Rica - Primera Div. - Apertura,Saprissa,1,0,3,1,2,3,2,0,3,0,3,0,6,4,8,0
-Costa Rica - Primera Div. - Apertura,Sporting SJ,1,0,0,1,1,2,0,1,2,2,0,1,2,3,2,4
+Costa Rica - Primera Div. - Apertura,Saprissa,1,0,4,1,2,3,2,0,3,0,4,0,7,4,9,0
+Costa Rica - Primera Div. - Apertura,Sporting SJ,1,0,1,1,1,2,1,2,2,5,0,2,3,3,3,9
 Costa Rica - Primera Div. - Apertura,Zeledon,0,1,0,0,0,2,2,2,3,2,3,2,0,3,8,6
 Costa Rica - Primera Div. - Clausura,AD Grecia,3,5,4,2,2,2,0,1,2,2,3,2,9,9,5,5
 Costa Rica - Primera Div. - Clausura,Alajuelense,4,0,7,2,5,2,9,1,3,0,0,5,16,4,12,6
@@ -215,199 +215,199 @@ Costa Rica - Primera Div. - Clausura,Saprissa,1,4,7,0,8,0,5,1,4,0,4,0,16,4,13,1
 Costa Rica - Primera Div. - Clausura,Sporting SJ,4,1,3,0,3,1,2,2,1,3,6,2,10,2,9,7
 Costa Rica - Primera Div. - Clausura,Zeledon,0,3,2,1,3,5,3,2,3,3,3,4,5,9,9,9
 Croatia - 1. NL,Bijelo Brdo,1,0,1,0,0,0,0,0,0,1,0,1,2,0,0,2
-Croatia - 1. NL,C. Zmijavci,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,2
-Croatia - 1. NL,Cibalia,1,0,1,0,1,0,2,1,0,0,2,1,3,0,4,2
-Croatia - 1. NL,Dubrava Zagreb,0,1,1,0,0,1,0,0,0,1,1,1,1,2,1,2
-Croatia - 1. NL,Dugopolje,0,1,1,0,1,0,2,0,1,0,0,0,2,1,3,0
+Croatia - 1. NL,C. Zmijavci,0,0,0,1,1,0,1,0,0,3,1,0,1,1,2,3
+Croatia - 1. NL,Cibalia,1,1,2,1,1,0,2,1,0,1,2,2,4,2,4,4
+Croatia - 1. NL,Dubrava Zagreb,0,1,1,1,0,1,0,0,0,1,1,1,1,3,1,2
+Croatia - 1. NL,Dugopolje,0,1,1,0,2,1,2,0,1,0,0,0,3,2,3,0
 Croatia - 1. NL,Jarun,1,0,1,1,1,2,2,0,2,0,4,1,3,3,8,1
-Croatia - 1. NL,Orijent,0,1,2,2,0,2,1,0,1,0,2,1,2,5,4,1
-Croatia - 1. NL,Sesvete,0,0,0,0,1,1,0,0,0,0,0,3,1,1,0,3
+Croatia - 1. NL,Orijent,0,1,2,2,0,2,1,0,1,0,3,1,2,5,5,1
+Croatia - 1. NL,Sesvete,0,0,0,0,1,1,0,0,0,0,1,3,1,1,1,3
 Croatia - 1. NL,Sibenik,1,0,0,0,2,0,3,0,4,0,1,0,3,0,8,0
 Croatia - 1. NL,Solin,1,3,0,0,0,1,2,0,0,0,3,1,1,4,5,1
 Croatia - 1. NL,Vukovar,1,0,0,1,1,1,0,1,3,0,2,0,2,2,5,1
-Croatia - 1. NL,Z. Jurjevac,1,0,0,0,0,0,2,0,2,0,2,2,1,0,6,2
-CzechRepublic - 1. Liga,Banik Ostrava,0,0,0,0,0,0,2,0,2,0,2,0,0,0,6,0
-CzechRepublic - 1. Liga,Bohemians,1,0,0,0,0,2,0,1,1,1,2,1,1,2,3,3
-CzechRepublic - 1. Liga,C. Budejovice,0,4,1,0,2,0,3,1,1,2,1,2,3,4,5,5
-CzechRepublic - 1. Liga,Hradec Kralove,1,0,2,0,2,1,2,1,1,0,0,2,5,1,3,3
+Croatia - 1. NL,Z. Jurjevac,1,0,0,0,1,0,2,1,2,1,3,2,2,0,7,4
+CzechRepublic - 1. Liga,Banik Ostrava,1,0,0,0,0,1,4,0,3,0,3,0,1,1,10,0
+CzechRepublic - 1. Liga,Bohemians,1,1,0,0,1,3,0,1,2,1,3,1,2,4,5,3
+CzechRepublic - 1. Liga,C. Budejovice,0,5,1,0,2,0,3,1,2,2,1,3,3,5,6,6
+CzechRepublic - 1. Liga,Hradec Kralove,1,0,3,0,2,1,2,1,1,0,0,2,6,1,3,3
 CzechRepublic - 1. Liga,Jablonec,0,2,0,1,1,3,2,1,0,0,0,0,1,6,2,1
 CzechRepublic - 1. Liga,Karvina,1,1,1,1,1,0,1,2,1,0,1,1,3,2,3,3
 CzechRepublic - 1. Liga,Mlada Boleslav,3,1,1,0,0,1,3,2,0,1,3,0,4,2,6,3
 CzechRepublic - 1. Liga,Pardubice,0,1,0,2,1,0,1,0,0,0,0,1,1,3,1,1
 CzechRepublic - 1. Liga,Sigma Olomouc,1,0,0,1,3,1,2,0,3,1,0,0,4,2,5,1
-CzechRepublic - 1. Liga,Slavia Prague,2,1,0,0,2,0,3,0,2,0,1,1,4,1,6,1
-CzechRepublic - 1. Liga,Slovacko,1,1,0,0,2,1,0,3,1,0,3,0,3,2,4,3
-CzechRepublic - 1. Liga,Slovan Liberec,1,0,1,0,1,0,0,1,1,1,0,2,3,0,1,4
+CzechRepublic - 1. Liga,Slavia Prague,2,1,0,0,2,0,4,0,2,0,1,2,4,1,7,2
+CzechRepublic - 1. Liga,Slovacko,2,1,1,0,2,1,0,3,1,0,3,0,5,2,4,3
+CzechRepublic - 1. Liga,Slovan Liberec,1,2,3,0,2,0,0,2,1,1,0,2,6,2,1,5
 CzechRepublic - 1. Liga,Sparta Prague,3,0,5,0,1,0,3,0,1,2,2,1,9,0,6,3
 CzechRepublic - 1. Liga,Teplice,0,0,1,0,0,1,0,0,0,0,1,1,1,1,1,1
-CzechRepublic - 1. Liga,Viktoria Plzen,1,0,1,1,4,1,0,0,0,0,2,1,6,2,2,1
+CzechRepublic - 1. Liga,Viktoria Plzen,1,1,3,1,5,1,1,0,0,0,4,2,9,3,5,2
 CzechRepublic - 1. Liga,Zlin,0,2,1,2,1,1,1,2,1,0,0,3,2,5,2,5
-CzechRepublic - FNL,Chrudim,1,1,1,1,0,1,3,1,1,0,2,2,2,3,6,3
-CzechRepublic - FNL,Dukla Praha,2,1,3,0,1,2,0,1,1,1,0,2,6,3,1,4
+CzechRepublic - FNL,Chrudim,1,2,2,1,0,1,3,2,1,0,3,2,3,4,7,4
+CzechRepublic - FNL,Dukla Praha,3,1,3,0,2,2,0,1,2,1,0,3,8,3,2,5
 CzechRepublic - FNL,Han. Kromeriz,0,1,0,0,0,2,3,1,2,0,1,0,0,3,6,1
 CzechRepublic - FNL,Jihlava,1,0,2,2,4,2,2,1,1,1,4,2,7,4,7,4
 CzechRepublic - FNL,Lisen,2,0,1,1,1,2,0,1,2,0,2,1,4,3,4,2
 CzechRepublic - FNL,Opava,2,1,0,0,1,0,3,1,1,2,1,1,3,1,5,4
-CzechRepublic - FNL,Pribram,1,0,0,1,0,0,0,0,2,1,1,2,1,1,3,3
-CzechRepublic - FNL,Prostejov,0,4,0,0,2,0,0,1,0,0,3,1,2,4,3,2
-CzechRepublic - FNL,Sigma Olomouc B,1,0,1,2,0,1,0,1,2,1,0,1,2,3,2,3
-CzechRepublic - FNL,Sparta Prague B,0,1,1,0,1,1,0,1,2,0,0,3,2,2,2,4
-CzechRepublic - FNL,Taborsko,2,0,0,0,1,0,1,1,0,1,1,0,3,0,2,2
+CzechRepublic - FNL,Pribram,1,0,1,1,0,1,0,0,2,1,2,2,2,2,4,3
+CzechRepublic - FNL,Prostejov,0,4,0,0,3,0,0,1,0,0,3,1,3,4,3,2
+CzechRepublic - FNL,Sigma Olomouc B,1,0,1,2,0,1,0,1,2,2,0,1,2,3,2,4
+CzechRepublic - FNL,Sparta Prague B,0,2,1,0,1,1,0,1,4,0,0,3,2,3,4,4
+CzechRepublic - FNL,Taborsko,2,0,0,0,1,0,1,1,0,1,1,1,3,0,2,3
 CzechRepublic - FNL,Varnsdorf,1,2,0,1,3,3,1,1,2,2,2,2,4,6,5,5
 CzechRepublic - FNL,Vikto Zizkov,2,1,0,3,2,2,2,1,2,3,2,1,4,6,6,5
-CzechRepublic - FNL,Vlasim,3,0,0,1,1,0,1,0,1,1,0,1,4,1,2,2
+CzechRepublic - FNL,Vlasim,3,1,0,1,1,0,1,0,2,1,0,1,4,2,3,2
 CzechRepublic - FNL,Vyskov,3,1,2,1,1,1,1,2,3,0,5,1,6,3,9,3
-CzechRepublic - FNL,Zbrojovka Brno,1,0,0,0,1,1,0,1,1,1,3,1,2,1,4,3
+CzechRepublic - FNL,Zbrojovka Brno,1,0,0,1,1,1,0,1,1,1,3,1,2,2,4,3
 Denmark - Superligaen,AGF Aarhus,1,0,1,1,2,2,0,2,0,0,1,3,4,3,1,5
-Denmark - Superligaen,Brondby IF,1,0,2,0,1,0,1,0,0,2,2,1,4,0,3,3
+Denmark - Superligaen,Brondby IF,1,0,3,0,1,0,1,1,1,2,2,3,5,0,4,6
 Denmark - Superligaen,FC Kobenhavn,3,0,2,0,0,1,1,2,1,1,2,0,5,1,4,3
-Denmark - Superligaen,FC Midtjylland,0,0,1,0,2,0,1,0,0,0,0,2,3,0,1,2
+Denmark - Superligaen,FC Midtjylland,0,0,1,0,2,0,2,1,0,0,1,2,3,0,3,3
 Denmark - Superligaen,Hvidovre,0,2,0,1,0,0,0,3,1,1,0,3,0,3,1,7
-Denmark - Superligaen,Lyngby,0,0,2,0,1,1,1,1,1,0,2,2,3,1,4,3
+Denmark - Superligaen,Lyngby,0,0,2,0,1,1,2,1,1,1,2,2,3,1,5,4
 Denmark - Superligaen,Nordsjaelland,1,1,2,1,1,1,3,1,2,0,3,0,4,3,8,1
 Denmark - Superligaen,Odense BK,1,3,1,2,2,0,0,1,1,1,0,3,4,5,1,5
-Denmark - Superligaen,Randers FC,1,1,1,0,1,1,0,1,0,2,0,2,3,2,0,5
-Denmark - Superligaen,Silkeborg,1,0,0,1,0,0,1,1,2,1,2,0,1,1,5,2
+Denmark - Superligaen,Randers FC,1,1,1,0,2,1,0,1,0,2,0,3,4,2,0,6
+Denmark - Superligaen,Silkeborg,1,0,0,1,1,0,2,1,2,1,2,0,2,1,6,2
 Denmark - Superligaen,Vejle BK,0,0,1,1,0,1,2,3,0,2,1,1,1,2,3,6
 Denmark - Superligaen,Viborg,0,0,0,2,1,0,2,1,0,1,3,1,1,2,5,3
-Denmark - 1st Division,Aalborg BK,2,0,2,0,0,1,3,0,2,0,3,1,4,1,8,1
-Denmark - 1st Division,AC Horsens,1,0,3,0,1,0,1,0,1,0,1,1,5,0,3,1
-Denmark - 1st Division,B 93,0,0,0,1,0,3,0,5,0,0,1,5,0,4,1,10
+Denmark - 1st Division,Aalborg BK,2,0,2,0,1,1,3,0,2,0,4,1,5,1,9,1
+Denmark - 1st Division,AC Horsens,1,0,4,0,2,0,2,0,1,0,1,2,7,0,4,2
+Denmark - 1st Division,B 93,0,0,0,1,0,3,0,6,0,0,2,6,0,4,2,12
 Denmark - 1st Division,Fredericia,1,0,0,1,0,0,1,1,0,2,3,0,1,1,4,3
 Denmark - 1st Division,HB Koge,1,1,0,1,0,1,1,3,1,1,1,4,1,3,3,8
-Denmark - 1st Division,Helsingor,1,1,1,1,0,2,2,2,2,2,1,3,2,4,5,7
+Denmark - 1st Division,Helsingor,1,2,1,1,0,3,4,3,3,3,1,3,2,6,8,9
 Denmark - 1st Division,Hillerod,1,0,1,1,0,0,1,1,1,4,0,2,2,1,2,7
 Denmark - 1st Division,Hobro,1,0,0,2,1,1,1,2,0,0,2,3,2,3,3,5
-Denmark - 1st Division,Kolding IF,2,0,0,0,2,2,3,1,2,1,0,1,4,2,5,3
-Denmark - 1st Division,Naestved,1,3,0,3,1,0,1,0,0,2,2,2,2,6,3,4
+Denmark - 1st Division,Kolding IF,2,0,0,0,2,3,4,1,2,1,0,2,4,3,6,4
+Denmark - 1st Division,Naestved,1,3,0,3,2,0,1,1,1,3,2,2,3,6,4,6
 Denmark - 1st Division,SonderjyskE,0,0,3,0,2,0,3,1,0,1,3,2,5,0,6,4
 Denmark - 1st Division,Vendsyssel,1,1,2,1,0,0,1,1,1,1,1,2,3,2,3,4
-England - Premier League,Arsenal,0,1,2,1,1,0,0,0,2,0,2,2,3,2,4,2
+England - Premier League,Arsenal,0,1,3,1,1,1,1,1,2,0,2,2,4,3,5,3
 England - Premier League,Aston Villa,0,0,2,0,0,0,1,1,1,0,3,0,2,0,5,1
 England - Premier League,Bournemouth,0,0,0,1,0,0,0,1,0,1,1,0,0,1,1,2
-England - Premier League,Brentford,1,1,2,1,1,1,0,0,0,0,1,2,4,3,1,2
-England - Premier League,Brighton,0,0,1,1,1,0,0,1,3,1,3,2,2,1,6,4
-England - Premier League,Burnley,1,2,0,2,0,2,1,1,0,4,1,0,1,6,2,5
-England - Premier League,Chelsea,0,0,1,1,1,0,0,1,2,0,0,0,2,1,2,1
+England - Premier League,Brentford,1,2,3,1,1,1,0,0,0,2,1,2,5,4,1,4
+England - Premier League,Brighton,0,0,1,2,2,0,1,1,3,1,4,2,3,2,8,4
+England - Premier League,Burnley,1,2,0,2,0,3,1,1,0,4,1,0,1,7,2,5
+England - Premier League,Chelsea,0,0,1,1,1,0,0,1,2,1,0,0,2,1,2,2
 England - Premier League,Crystal Palace,0,0,0,0,0,0,1,1,0,1,2,1,0,0,3,3
 England - Premier League,Everton,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,3
 England - Premier League,Fulham,0,0,0,0,0,1,0,0,1,1,0,1,0,1,1,2
-England - Premier League,Liverpool,1,1,2,0,1,0,1,0,1,0,0,0,4,1,2,0
-England - Premier League,Luton Town,0,0,0,0,0,1,0,0,0,0,1,1,0,1,1,1
-England - Premier League,Manchester City,0,0,0,0,3,1,1,0,1,0,1,0,3,1,3,0
+England - Premier League,Liverpool,1,1,3,0,1,1,2,0,1,0,1,0,5,2,4,0
+England - Premier League,Luton Town,0,0,0,0,0,1,0,1,1,0,1,1,0,1,2,2
+England - Premier League,Manchester City,2,0,0,0,3,1,1,0,1,0,1,0,5,1,3,0
 England - Premier League,Manchester Utd,0,2,1,1,0,0,1,1,1,1,2,0,1,3,4,2
 England - Premier League,Newcastle Utd,1,1,2,0,0,0,1,0,1,0,2,2,3,1,4,2
 England - Premier League,Nottm Forest,1,0,0,0,0,1,0,1,1,0,1,0,1,1,2,1
-England - Premier League,Sheffield Utd,0,1,0,0,2,0,0,2,0,1,1,1,2,1,1,4
+England - Premier League,Sheffield Utd,0,1,0,1,2,2,0,3,0,4,1,2,2,4,1,9
 England - Premier League,Tottenham,0,0,0,0,0,0,1,0,0,1,3,0,0,0,4,1
 England - Premier League,West Ham Utd,1,0,0,1,1,0,1,1,0,0,1,2,2,1,2,3
 England - Premier League,Wolverhampton,1,1,0,0,0,0,0,4,1,0,0,2,1,1,1,6
 England - Championship,Birmingham City,1,1,0,0,0,0,1,1,0,0,2,0,1,1,3,1
-England - Championship,Blackburn,0,0,2,0,1,0,1,2,1,0,0,2,3,0,2,4
-England - Championship,Bristol City,0,0,0,0,0,1,1,0,0,0,0,2,0,1,1,2
-England - Championship,Cardiff City,0,0,0,0,0,1,1,0,1,1,3,1,0,1,5,2
-England - Championship,Coventry City,1,0,0,0,1,1,0,1,2,0,2,1,2,1,4,2
-England - Championship,Huddersfield,0,1,1,1,0,0,0,1,1,1,0,1,1,2,1,3
+England - Championship,Blackburn,0,0,2,1,2,1,1,2,1,0,0,3,4,2,2,5
+England - Championship,Bristol City,2,0,0,1,1,1,1,0,0,0,1,2,3,2,2,2
+England - Championship,Cardiff City,1,0,0,0,0,2,1,0,2,1,4,2,1,2,7,3
+England - Championship,Coventry City,1,0,1,0,1,1,0,1,2,0,2,2,3,1,4,3
+England - Championship,Huddersfield,0,1,1,1,1,1,0,1,2,2,0,1,2,3,2,4
 England - Championship,Hull City,0,0,1,1,1,1,1,0,1,1,2,1,2,2,4,2
-England - Championship,Ipswich Town,1,2,1,2,1,0,1,1,1,1,3,0,3,4,5,2
-England - Championship,Leeds Utd,0,0,0,1,0,1,1,1,1,0,1,0,0,2,3,1
-England - Championship,Leicester City,0,1,0,0,1,1,0,1,0,0,3,0,1,2,3,1
-England - Championship,Middlesbrough,0,0,0,0,0,1,0,1,1,1,0,1,0,1,1,3
-England - Championship,Millwall,0,1,0,0,1,0,0,0,0,0,0,3,1,1,0,3
-England - Championship,Norwich City,0,0,1,1,2,0,2,0,0,0,1,1,3,1,3,1
-England - Championship,Plymouth,1,0,1,0,0,1,1,1,1,0,3,1,2,1,5,2
-England - Championship,Preston,1,0,2,0,0,2,1,0,1,1,1,0,3,2,3,1
-England - Championship,QP Rangers,1,0,0,0,0,1,0,1,0,1,0,1,1,1,0,3
-England - Championship,Rotherham,0,1,2,0,1,0,2,1,0,1,0,2,3,1,2,4
-England - Championship,Sheffield Wed,0,1,0,0,0,1,1,1,0,0,0,1,0,2,1,2
-England - Championship,Southampton,0,2,4,2,0,3,1,0,1,1,1,1,4,7,3,2
-England - Championship,Stoke City,1,0,0,0,2,0,1,3,0,0,1,0,3,0,2,3
-England - Championship,Sunderland,2,0,1,1,1,1,2,1,0,0,2,0,4,2,4,1
-England - Championship,Swansea City,1,0,0,0,1,2,0,2,0,0,1,0,2,2,1,2
-England - Championship,Watford,1,0,1,0,2,0,0,0,0,1,2,0,4,0,2,1
+England - Championship,Ipswich Town,2,3,3,2,1,0,1,2,1,2,4,0,6,5,6,4
+England - Championship,Leeds Utd,0,0,0,1,0,1,1,1,3,0,2,0,0,2,6,1
+England - Championship,Leicester City,0,1,0,0,1,1,0,1,1,0,3,0,1,2,4,1
+England - Championship,Middlesbrough,0,0,0,1,1,1,0,1,2,1,0,1,1,2,2,3
+England - Championship,Millwall,0,1,1,0,1,0,1,0,0,0,1,3,2,1,2,3
+England - Championship,Norwich City,0,0,1,1,2,1,2,0,0,0,1,2,3,2,3,2
+England - Championship,Plymouth,2,0,1,0,3,1,2,1,1,1,4,2,6,1,7,4
+England - Championship,Preston,1,0,2,0,0,2,2,1,2,1,1,0,3,2,5,2
+England - Championship,QP Rangers,1,1,0,0,0,1,0,1,0,1,1,1,1,2,1,3
+England - Championship,Rotherham,0,1,2,0,2,1,2,1,0,1,0,2,4,2,2,4
+England - Championship,Sheffield Wed,0,3,0,0,1,2,1,2,0,0,0,1,1,5,1,3
+England - Championship,Southampton,0,2,4,3,0,3,1,0,1,1,1,1,4,8,3,2
+England - Championship,Stoke City,1,0,0,1,2,1,1,3,0,1,2,0,3,2,3,4
+England - Championship,Sunderland,2,0,1,1,1,1,2,1,0,0,2,1,4,2,4,2
+England - Championship,Swansea City,1,0,1,0,1,2,0,2,2,0,1,0,3,2,3,2
+England - Championship,Watford,2,1,2,1,2,0,0,0,0,1,2,0,6,2,2,1
 England - Championship,West Brom,0,0,3,1,0,1,3,0,1,1,1,3,3,2,5,4
-England - League One,Barnsley,0,1,2,0,1,0,4,1,3,1,1,3,3,1,8,5
-England - League One,Blackpool,1,0,2,0,0,0,0,0,0,0,1,1,3,0,1,1
-England - League One,Bolton,3,1,0,1,2,2,1,0,2,1,0,1,5,4,3,2
-England - League One,Bristol Rovers,0,1,0,1,0,0,0,1,0,1,3,0,0,2,3,2
-England - League One,Burton Albion,0,1,0,0,0,0,1,1,0,1,0,2,0,1,1,4
-England - League One,Cambridge Utd,1,0,1,1,0,0,0,0,0,0,4,1,2,1,4,1
-England - League One,Carlisle Utd,0,0,0,0,1,2,2,0,0,1,1,1,1,2,3,2
-England - League One,Charlton,1,0,0,1,2,0,0,3,3,0,0,2,3,1,3,5
-England - League One,Cheltenham,0,1,0,1,0,1,0,1,0,0,0,2,0,3,0,3
+England - League One,Barnsley,0,3,2,1,1,0,5,1,3,1,2,3,3,4,10,5
+England - League One,Blackpool,1,0,4,0,1,0,1,0,0,0,1,2,6,0,2,2
+England - League One,Bolton,3,1,0,1,3,3,1,0,2,1,0,1,6,5,3,2
+England - League One,Bristol Rovers,1,1,1,2,0,0,1,1,1,1,3,0,2,3,5,2
+England - League One,Burton Albion,0,1,1,1,0,0,1,1,0,1,0,2,1,2,1,4
+England - League One,Cambridge Utd,1,0,1,2,0,0,0,0,1,0,4,1,2,2,5,1
+England - League One,Carlisle Utd,0,0,0,1,1,2,2,0,0,1,1,2,1,3,3,3
+England - League One,Charlton,1,0,1,1,2,0,0,4,3,0,2,2,4,1,5,6
+England - League One,Cheltenham,0,2,0,1,0,1,0,1,0,2,0,2,0,4,0,5
 England - League One,Derby County,0,0,1,0,0,2,1,0,0,2,2,1,1,2,3,3
 England - League One,Exeter City,0,0,0,0,1,1,1,1,1,0,1,1,1,1,3,2
 England - League One,Fleetwood,0,0,0,2,0,2,0,2,0,0,0,0,0,4,0,2
-England - League One,Leyton Orient,0,0,1,2,0,2,1,1,0,0,0,2,1,4,1,3
+England - League One,Leyton Orient,0,0,2,2,0,2,1,1,0,0,0,2,2,4,1,3
 England - League One,Lincoln City,1,0,0,1,1,0,1,0,3,0,1,0,2,1,5,0
-England - League One,Northampton,0,1,0,1,0,0,0,0,0,0,3,2,0,2,3,2
-England - League One,Oxford Utd,1,0,0,0,0,0,0,0,0,2,3,1,1,0,3,3
-England - League One,Peterborough,0,0,2,1,1,4,0,0,0,0,1,0,3,5,1,0
-England - League One,Port Vale,0,0,0,0,0,0,1,0,1,0,1,0,0,0,3,0
-England - League One,Portsmouth,0,0,0,2,2,0,1,0,1,0,1,0,2,2,3,0
+England - League One,Northampton,0,2,0,1,0,0,0,0,0,0,4,3,0,3,4,3
+England - League One,Oxford Utd,2,0,0,0,0,0,0,0,0,2,5,1,2,0,5,3
+England - League One,Peterborough,0,0,2,1,1,4,1,0,1,0,2,0,3,5,4,0
+England - League One,Port Vale,0,1,0,0,1,0,1,1,1,1,2,0,1,1,4,2
+England - League One,Portsmouth,1,1,0,2,3,0,1,0,1,0,1,0,4,3,3,0
 England - League One,Reading,0,0,0,1,2,1,1,0,0,0,2,0,2,2,3,0
 England - League One,Shrewsbury,1,0,0,0,1,0,1,0,0,1,0,3,2,0,1,4
 England - League One,Stevenage,1,0,0,1,1,0,1,0,1,0,1,2,2,1,3,2
 England - League One,Wigan Athletic,0,0,0,2,0,0,1,0,2,0,1,2,0,2,4,2
 England - League One,Wycombe,2,2,0,0,0,1,1,0,1,0,1,2,2,3,3,2
-England - National League,AFC Fylde,0,1,0,1,0,4,1,2,1,1,6,3,0,6,8,6
-England - National League,Aldershot Town,1,0,1,1,4,1,4,2,1,0,2,5,6,2,7,7
-England - National League,Altrincham,0,1,1,1,1,0,0,0,0,1,3,2,2,2,3,3
-England - National League,Barnet,2,0,1,1,1,0,2,0,3,1,2,2,4,1,7,3
-England - National League,Boreham Wood,0,0,0,0,0,1,1,1,1,0,1,1,0,1,3,2
-England - National League,Bromley,0,1,3,1,3,0,2,2,2,1,0,0,6,2,4,3
-England - National League,Chesterfield,1,2,1,1,0,1,1,1,3,0,5,2,2,4,9,3
-England - National League,Dagenham & R.,0,0,2,1,0,2,1,1,1,1,2,2,2,3,4,4
-England - National League,Dorking,0,1,1,0,1,0,0,1,0,2,2,1,2,1,2,4
-England - National League,Eastleigh,0,1,0,3,2,3,0,0,3,1,1,1,2,7,4,2
-England - National League,Ebbsfleet Utd,0,0,3,1,3,1,1,1,2,0,1,1,6,2,4,2
-England - National League,Gateshead FC,2,0,2,2,0,0,2,2,1,2,2,2,4,2,5,6
+England - National League,AFC Fylde,0,1,1,2,0,4,1,2,1,2,7,3,1,7,9,7
+England - National League,Aldershot Town,1,0,1,1,5,1,4,2,1,1,2,5,7,2,7,8
+England - National League,Altrincham,2,2,2,1,4,1,0,0,0,1,5,3,8,4,5,4
+England - National League,Barnet,2,0,1,1,2,0,3,1,3,1,2,2,5,1,8,4
+England - National League,Boreham Wood,0,0,0,0,0,2,3,3,1,0,1,1,0,2,5,4
+England - National League,Bromley,0,1,3,1,4,0,2,2,2,1,0,0,7,2,4,3
+England - National League,Chesterfield,2,2,2,2,0,2,2,1,5,1,6,3,4,6,13,5
+England - National League,Dagenham & R.,0,0,2,2,0,2,1,1,1,2,2,2,2,4,4,5
+England - National League,Dorking,1,1,2,0,2,0,1,2,0,2,2,3,5,1,3,7
+England - National League,Eastleigh,0,2,2,3,3,3,0,0,4,1,1,3,5,8,5,4
+England - National League,Ebbsfleet Utd,0,0,3,1,3,1,1,2,2,0,1,1,6,2,4,3
+England - National League,Gateshead FC,3,0,3,2,0,0,3,2,2,2,4,2,6,2,9,6
 England - National League,Halifax Town,0,0,0,0,1,1,1,2,2,0,0,0,1,1,3,2
-England - National League,Hartlepool,2,0,1,0,1,1,3,2,1,2,2,1,4,1,6,5
-England - National League,Kidderminster,0,1,1,0,0,0,0,0,0,1,0,0,1,1,0,1
-England - National League,Maidenhead Utd,1,0,1,0,0,1,1,1,0,0,0,1,2,1,1,2
-England - National League,Oldham,0,0,0,0,4,1,0,1,0,2,2,1,4,1,2,4
-England - National League,Oxford City,0,0,0,1,1,2,0,0,6,1,3,1,1,3,9,2
-England - National League,Rochdale,1,1,1,2,3,1,2,0,0,2,1,0,5,4,3,2
-England - National League,Solihull Moors,0,1,4,0,1,0,0,2,2,1,1,1,5,1,3,4
-England - National League,Southend Utd,2,0,2,1,0,0,2,1,0,1,4,1,4,1,6,3
-England - National League,Wealdstone,1,0,0,0,0,2,1,2,2,1,3,1,1,2,6,4
-England - National League,Woking,0,2,2,1,1,1,2,1,1,0,2,1,3,4,5,2
-England - National League,York City,1,0,2,0,2,2,0,2,2,2,1,2,5,2,3,6
+England - National League,Hartlepool,2,1,1,0,1,2,3,2,1,2,2,1,4,3,6,5
+England - National League,Kidderminster,0,1,1,1,0,0,0,0,1,1,0,1,1,2,1,2
+England - National League,Maidenhead Utd,1,0,1,0,0,1,1,1,0,1,0,1,2,1,1,3
+England - National League,Oldham,2,0,0,0,5,1,0,1,0,2,5,1,7,1,5,4
+England - National League,Oxford City,0,0,0,2,1,2,0,1,6,2,3,2,1,4,9,5
+England - National League,Rochdale,2,2,1,3,3,1,2,0,0,2,1,0,6,6,3,2
+England - National League,Solihull Moors,0,2,4,0,3,0,1,3,2,1,1,1,7,2,4,5
+England - National League,Southend Utd,2,1,2,1,0,0,3,1,1,2,5,1,4,2,9,4
+England - National League,Wealdstone,1,0,1,0,0,2,1,2,2,1,3,1,2,2,6,4
+England - National League,Woking,0,2,2,2,2,1,3,2,1,0,2,2,4,5,6,4
+England - National League,York City,2,1,2,0,2,2,0,2,2,4,2,3,6,3,4,9
 FaroeIslands - Premier League,07 Vestur,0,4,2,3,4,4,1,2,3,4,8,3,6,11,12,9
 FaroeIslands - Premier League,AB Argir,3,4,4,2,0,1,2,2,1,4,4,5,7,7,7,11
 FaroeIslands - Premier League,B36 Torshavn,5,3,2,2,4,2,3,0,6,1,5,3,11,7,14,4
-FaroeIslands - Premier League,B68 Toftir,3,2,2,1,2,4,3,3,2,6,0,3,7,7,5,12
-FaroeIslands - Premier League,HB Torshavn,5,1,2,0,9,1,4,2,4,2,9,2,16,2,17,6
-FaroeIslands - Premier League,IF Fuglafjordur,1,8,1,4,1,8,4,3,1,5,3,5,3,20,8,13
+FaroeIslands - Premier League,B68 Toftir,4,2,2,2,2,5,3,3,2,6,1,3,8,9,6,12
+FaroeIslands - Premier League,HB Torshavn,5,1,2,1,9,2,4,2,4,2,10,2,16,4,18,6
+FaroeIslands - Premier League,IF Fuglafjordur,1,8,1,4,3,8,4,4,1,5,4,5,5,20,9,14
 FaroeIslands - Premier League,Klaksvik,3,2,4,0,6,1,2,1,4,1,4,2,13,3,10,4
-FaroeIslands - Premier League,Streymur,3,3,2,4,8,1,0,3,0,5,0,3,13,8,0,11
-FaroeIslands - Premier League,TB Tvoroyri,0,2,0,1,1,2,2,5,2,2,3,4,1,5,7,11
-FaroeIslands - Premier League,Vikingur,4,1,3,1,6,1,5,2,3,2,6,0,13,3,14,4
+FaroeIslands - Premier League,Streymur,3,3,2,4,8,2,0,3,0,6,0,3,13,9,0,12
+FaroeIslands - Premier League,TB Tvoroyri,1,3,0,1,1,2,2,6,2,3,3,6,2,6,7,15
+FaroeIslands - Premier League,Vikingur,4,1,4,1,6,1,5,3,4,2,7,0,14,3,16,5
 Finland - Veikkausliiga,Haka,6,4,2,3,4,3,6,1,2,2,0,4,12,10,8,7
-Finland - Veikkausliiga,HJK Helsinki,1,2,2,0,5,2,5,1,4,0,6,2,8,4,15,3
-Finland - Veikkausliiga,Honka,0,1,3,1,3,2,2,1,3,0,3,2,6,4,8,3
-Finland - Veikkausliiga,Ilves,1,3,3,0,2,3,2,3,0,2,2,4,6,6,4,9
-Finland - Veikkausliiga,Inter Turku,3,0,3,2,1,0,4,3,3,5,3,3,7,2,10,11
-Finland - Veikkausliiga,KTP,2,1,0,4,1,3,2,2,1,4,5,2,3,8,8,8
+Finland - Veikkausliiga,HJK Helsinki,1,2,3,0,5,2,6,1,4,0,7,2,9,4,17,3
+Finland - Veikkausliiga,Honka,0,1,3,1,3,4,2,1,3,1,3,2,6,6,8,4
+Finland - Veikkausliiga,Ilves,1,3,4,1,2,3,2,3,0,2,3,4,7,7,5,9
+Finland - Veikkausliiga,Inter Turku,3,0,3,2,1,0,4,3,3,5,3,4,7,2,10,12
+Finland - Veikkausliiga,KTP,2,1,0,5,1,3,2,3,1,5,5,2,3,9,8,10
 Finland - Veikkausliiga,KuPS,3,1,4,1,2,2,2,0,0,3,4,1,9,4,6,4
-Finland - Veikkausliiga,Lahti,2,2,4,3,0,2,4,2,4,6,0,3,6,7,8,11
-Finland - Veikkausliiga,Mariehamn,1,3,3,4,1,1,1,5,1,0,0,3,5,8,2,8
-Finland - Veikkausliiga,Oulu,2,2,5,3,3,3,2,4,2,7,4,3,10,8,8,14
-Finland - Veikkausliiga,SJK,3,0,2,1,2,3,4,7,2,1,4,4,7,4,10,12
-Finland - Veikkausliiga,VPS,2,0,2,1,4,1,3,2,2,4,4,2,8,2,9,8
-Finland - Ykkonen,Ekenas IF,5,0,4,2,5,1,2,1,2,2,4,2,14,3,8,5
-Finland - Ykkonen,Gnistan,2,1,3,3,2,3,3,2,5,0,6,1,7,7,14,3
-Finland - Ykkonen,HIFK,1,2,1,1,3,2,4,3,0,1,5,4,5,5,9,8
+Finland - Veikkausliiga,Lahti,2,2,5,3,0,2,5,2,4,6,0,4,7,7,9,12
+Finland - Veikkausliiga,Mariehamn,2,3,3,4,1,2,2,5,1,0,0,3,6,9,3,8
+Finland - Veikkausliiga,Oulu,4,2,5,3,3,3,2,4,2,7,4,3,12,8,8,14
+Finland - Veikkausliiga,SJK,3,0,2,2,2,3,4,8,2,1,6,5,7,5,12,14
+Finland - Veikkausliiga,VPS,2,0,2,1,4,1,3,2,3,4,4,3,8,2,10,9
+Finland - Ykkonen,Ekenas IF,5,0,4,2,5,1,2,1,3,2,4,2,14,3,9,5
+Finland - Ykkonen,Gnistan,2,1,3,3,3,4,3,2,5,0,6,1,8,8,14,3
+Finland - Ykkonen,HIFK,2,3,1,1,3,2,4,3,0,1,6,5,6,6,10,9
 Finland - Ykkonen,JaPS,3,7,1,5,3,1,2,3,4,2,3,4,7,13,9,9
-Finland - Ykkonen,Jaro,2,2,2,1,2,1,4,3,2,5,6,2,6,4,12,10
-Finland - Ykkonen,JJK,2,0,2,2,3,1,3,4,0,2,1,5,7,3,4,11
-Finland - Ykkonen,KaPa,1,2,2,4,4,3,4,2,6,1,5,7,7,9,15,10
-Finland - Ykkonen,KPV Kokkola,2,1,0,2,1,2,1,1,4,4,2,8,3,5,7,13
-Finland - Ykkonen,Mikkelin,5,0,2,5,3,3,1,2,5,0,2,1,10,8,8,3
-Finland - Ykkonen,SalPa,3,0,0,2,2,5,4,1,4,2,9,5,5,7,17,8
-Finland - Ykkonen,SJK Akatemia,3,1,4,0,4,5,2,2,2,1,5,3,11,6,9,6
-Finland - Ykkonen,TPS,6,1,4,1,3,3,1,2,11,0,3,2,13,5,15,4
+Finland - Ykkonen,Jaro,4,2,3,2,2,1,4,3,2,5,6,2,9,5,12,10
+Finland - Ykkonen,JJK,2,0,2,2,3,1,4,4,0,2,1,5,7,3,5,11
+Finland - Ykkonen,KaPa,1,2,2,4,4,3,4,2,6,1,6,7,7,9,16,10
+Finland - Ykkonen,KPV Kokkola,2,1,0,2,1,2,1,1,5,4,3,8,3,5,9,13
+Finland - Ykkonen,Mikkelin,5,0,2,5,3,3,1,2,5,1,2,2,10,8,8,5
+Finland - Ykkonen,SalPa,3,0,0,2,2,5,5,1,5,2,9,5,5,7,19,8
+Finland - Ykkonen,SJK Akatemia,3,2,4,1,6,5,2,2,2,1,5,3,13,8,9,6
+Finland - Ykkonen,TPS,6,1,5,1,3,4,1,3,11,0,3,3,14,6,15,6
 Finland - Kakkonen,Atlantis B,1,2,0,1,1,1,2,2,1,2,1,2,2,4,4,6
 Finland - Kakkonen,Futura,1,1,1,3,0,6,3,1,1,2,0,4,2,10,4,7
 Finland - Kakkonen,JIPPO,2,0,3,3,1,0,2,2,3,0,6,1,6,3,11,3
@@ -420,173 +420,173 @@ Finland - Kakkonen,PKKU,2,2,1,0,2,1,4,2,3,2,7,3,5,3,14,7
 Finland - Kakkonen,PPJ,1,2,1,2,1,5,1,1,0,2,5,3,3,9,6,6
 Finland - Kakkonen,Reipas,4,2,0,1,1,1,2,2,1,3,3,3,5,4,6,8
 Finland - Kakkonen,TiPS,1,5,0,2,0,2,1,4,1,2,2,6,1,9,4,12
-France - Ligue 1,Brest,0,1,0,1,1,0,1,0,0,0,1,0,1,2,2,0
+France - Ligue 1,Brest,0,1,0,1,1,0,1,0,0,0,2,0,1,2,3,0
 France - Ligue 1,Clermont,1,0,0,1,0,1,1,1,0,2,0,1,1,2,1,4
-France - Ligue 1,Le Havre,0,0,0,1,0,0,2,1,1,0,1,0,0,1,4,1
-France - Ligue 1,Lens,1,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1
-France - Ligue 1,Lille,1,0,0,0,0,0,0,0,1,0,1,0,1,0,2,0
+France - Ligue 1,Le Havre,2,0,0,1,0,1,2,1,1,0,1,0,2,2,4,1
+France - Ligue 1,Lens,1,0,0,0,1,2,0,1,0,0,1,0,2,2,1,1
+France - Ligue 1,Lille,1,1,0,1,0,0,0,0,1,0,2,0,1,2,3,0
 France - Ligue 1,Lorient,3,0,0,1,0,0,0,1,2,2,2,0,3,1,4,3
 France - Ligue 1,Lyon,0,1,0,2,0,3,0,0,2,1,0,1,0,6,2,2
 France - Ligue 1,Marseille,1,1,1,0,0,0,0,0,2,0,0,0,2,1,2,0
-France - Ligue 1,Metz,1,1,0,1,0,0,0,1,3,0,0,1,1,2,3,2
-France - Ligue 1,Monaco,0,0,2,0,2,0,2,0,0,0,0,0,4,0,2,0
+France - Ligue 1,Metz,1,1,0,1,0,0,0,1,3,0,0,2,1,2,3,3
+France - Ligue 1,Monaco,0,0,2,0,2,0,2,0,0,0,0,1,4,0,2,1
 France - Ligue 1,Montpellier,0,2,0,0,1,1,2,1,0,0,0,1,1,3,2,2
-France - Ligue 1,Nantes,3,1,0,1,1,0,1,1,0,1,0,2,4,2,1,4
+France - Ligue 1,Nantes,3,2,0,1,2,0,3,1,0,2,2,3,5,3,5,6
 France - Ligue 1,Nice,0,0,1,0,1,0,0,0,1,0,0,1,2,0,1,1
-France - Ligue 1,Paris SG,0,0,1,1,1,0,1,1,0,1,2,1,2,1,3,3
+France - Ligue 1,Paris SG,1,0,1,1,2,0,2,1,0,1,3,1,4,1,5,3
 France - Ligue 1,Reims,0,0,2,0,0,0,0,2,0,0,1,0,2,0,1,2
 France - Ligue 1,Rennes,1,0,2,1,0,2,1,0,2,2,3,0,3,3,6,2
-France - Ligue 1,Strasbourg,0,0,0,0,0,2,1,0,4,0,1,1,0,2,6,1
+France - Ligue 1,Strasbourg,0,0,0,1,0,2,1,0,4,0,1,1,0,3,6,1
 France - Ligue 1,Toulouse,2,0,0,0,0,1,0,0,0,1,1,1,2,1,1,2
-France - Ligue 2,AC Ajaccio,0,1,0,1,1,0,1,1,1,0,0,0,1,2,2,1
+France - Ligue 2,AC Ajaccio,0,1,0,1,1,0,2,2,2,0,0,0,1,2,4,2
 France - Ligue 2,Amiens,0,0,0,0,2,2,1,0,0,0,4,0,2,2,5,0
-France - Ligue 2,Angers,0,0,0,1,2,0,0,0,1,1,1,0,2,1,2,1
+France - Ligue 2,Angers,0,0,1,1,2,0,0,0,1,1,2,0,3,1,3,1
 France - Ligue 2,Annecy,0,0,1,0,1,0,2,2,0,2,1,1,2,0,3,5
-France - Ligue 2,Auxerre,1,0,0,1,0,0,0,2,0,0,1,0,1,1,1,2
+France - Ligue 2,Auxerre,1,0,2,1,0,0,0,2,0,0,3,0,3,1,3,2
 France - Ligue 2,Bordeaux,0,0,1,0,0,2,2,2,0,0,2,0,1,2,4,2
-France - Ligue 2,Caen,0,0,0,1,4,0,0,0,1,0,1,1,4,1,2,1
-France - Ligue 2,Concarneau,0,0,0,1,0,0,0,1,1,0,0,1,0,1,1,2
-France - Ligue 2,Grenoble,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0
+France - Ligue 2,Caen,0,0,1,1,4,0,0,2,1,0,1,1,5,1,2,3
+France - Ligue 2,Concarneau,0,0,0,1,0,0,0,1,1,1,0,1,0,1,1,3
+France - Ligue 2,Grenoble,1,0,0,0,0,1,1,0,1,0,1,0,1,1,3,0
 France - Ligue 2,Guingamp,1,0,1,0,2,0,1,0,0,0,2,1,4,0,3,1
-France - Ligue 2,Laval,0,0,0,0,0,0,0,0,1,0,3,1,0,0,4,1
-France - Ligue 2,Paris FC,1,0,0,0,2,1,0,0,2,1,1,0,3,1,3,1
-France - Ligue 2,Pau FC,0,0,3,0,2,0,0,0,2,1,0,1,5,0,2,2
-France - Ligue 2,Quevilly Rouen,0,0,0,1,0,3,0,0,0,0,2,0,0,4,2,0
-France - Ligue 2,Rodez Aveyron,0,2,0,0,1,0,2,1,0,0,3,0,1,2,5,1
+France - Ligue 2,Laval,0,0,0,0,0,0,0,1,2,0,4,1,0,0,6,2
+France - Ligue 2,Paris FC,1,0,0,0,2,1,0,1,2,1,1,0,3,1,3,2
+France - Ligue 2,Pau FC,0,0,3,0,2,2,0,1,2,1,0,1,5,2,2,3
+France - Ligue 2,Quevilly Rouen,0,0,0,1,0,4,0,0,0,0,2,0,0,5,2,0
+France - Ligue 2,Rodez Aveyron,0,2,0,0,1,0,3,1,0,0,4,1,1,2,7,2
 France - Ligue 2,Saint-Etienne,0,0,1,0,1,0,0,1,0,0,0,1,2,0,0,2
-France - Ligue 2,SC Bastia,0,1,0,2,1,0,1,2,1,0,3,0,1,3,5,2
-France - Ligue 2,Troyes,1,1,1,1,0,0,1,0,0,0,2,1,2,2,3,1
-France - Ligue 2,USL Dunkerque,0,1,1,1,0,0,0,0,1,0,0,1,1,2,1,1
-France - Ligue 2,Valenciennes,0,0,1,1,0,1,0,0,1,2,0,2,1,2,1,4
-France - National,Avranches,0,0,0,0,0,0,2,0,0,1,4,0,0,0,6,1
+France - Ligue 2,SC Bastia,0,1,0,3,1,0,1,3,2,0,3,2,1,4,6,5
+France - Ligue 2,Troyes,1,1,1,2,0,0,1,0,1,0,2,2,2,3,4,2
+France - Ligue 2,USL Dunkerque,0,1,1,2,0,0,1,0,1,1,0,1,1,3,2,2
+France - Ligue 2,Valenciennes,0,0,1,1,0,2,0,0,1,2,0,2,1,3,1,4
+France - National,Avranches,0,0,0,0,0,0,2,0,0,2,5,0,0,0,7,2
 France - National,Chateauroux,0,0,1,0,1,0,0,1,2,0,0,1,2,0,2,2
-France - National,Cholet,1,0,0,0,1,2,1,1,1,1,0,0,2,2,2,2
-France - National,Dijon,1,0,0,0,3,0,2,1,0,1,1,0,4,0,3,2
+France - National,Cholet,1,0,0,1,1,2,1,2,1,1,0,0,2,3,2,3
+France - National,Dijon,1,1,0,0,3,0,2,1,0,1,1,0,4,1,3,2
 France - National,Epinal,0,1,0,1,0,1,0,0,1,1,0,1,0,3,1,2
-France - National,G. O. A. L.,0,0,1,0,1,0,0,0,1,0,0,1,2,0,1,1
-France - National,Le Mans,0,0,0,1,1,0,0,1,1,1,0,0,1,1,1,2
-France - National,Marignane G.,0,0,1,0,1,2,0,1,0,0,0,1,2,2,0,2
+France - National,G. O. A. L.,1,0,1,1,1,1,0,0,1,0,0,1,3,2,1,1
+France - National,Le Mans,1,0,0,2,1,0,1,1,1,1,0,0,2,2,2,2
+France - National,Marignane G.,1,1,1,0,2,2,0,2,0,0,1,1,4,3,1,3
 France - National,Martigues,0,0,0,1,0,0,3,1,0,0,0,2,0,1,3,3
-France - National,Nancy,2,0,0,1,2,1,1,0,0,1,3,2,4,2,4,3
-France - National,Nimes,1,0,1,0,0,1,2,0,0,1,0,2,2,1,2,3
-France - National,Niort,1,2,1,1,2,0,1,0,1,1,2,0,4,3,4,1
-France - National,Orleans,0,1,0,0,1,0,1,1,0,2,0,0,1,1,1,3
-France - National,Red Star,2,0,0,0,0,0,2,0,0,0,1,2,2,0,3,2
+France - National,Nancy,2,1,0,2,2,1,1,0,0,1,3,2,4,4,4,3
+France - National,Nimes,2,0,1,0,0,1,2,0,0,1,0,2,3,1,2,3
+France - National,Niort,1,2,1,1,3,0,2,0,1,1,3,0,5,3,6,1
+France - National,Orleans,1,1,1,1,1,0,1,2,0,2,0,0,3,2,1,4
+France - National,Red Star,3,0,0,0,0,0,3,0,0,0,2,2,3,0,5,2
 France - National,Rouen,0,0,1,0,1,1,1,0,0,1,2,1,2,1,3,2
-France - National,Sochaux,0,0,0,2,0,0,0,1,0,0,0,0,0,2,0,1
-France - National,Versailles,0,0,1,1,1,0,0,0,1,0,0,2,2,1,1,2
-France - National,Villefranche,0,1,0,2,1,0,2,0,0,0,2,0,1,3,4,0
-Georgia - Erovnuli Liga,Dila Gori,6,1,1,1,4,3,3,2,6,2,4,6,11,5,13,10
-Georgia - Erovnuli Liga,Dinamo Batumi,2,0,6,2,4,2,5,3,4,4,9,2,12,4,18,9
-Georgia - Erovnuli Liga,Dinamo Tbilisi,6,1,3,2,4,2,3,3,5,4,9,4,13,5,17,11
-Georgia - Erovnuli Liga,Gagra,1,3,1,2,3,8,2,6,2,2,3,4,5,13,7,12
-Georgia - Erovnuli Liga,Saburtalo,7,0,2,1,6,2,2,2,6,2,9,5,15,3,17,9
-Georgia - Erovnuli Liga,Samgurali,1,0,1,0,3,2,3,2,0,3,8,1,5,2,11,6
-Georgia - Erovnuli Liga,Samtredia,3,5,1,1,0,8,2,3,3,4,4,3,4,14,9,10
+France - National,Sochaux,0,0,0,2,0,1,0,1,0,0,0,0,0,3,0,1
+France - National,Versailles,0,1,1,1,1,0,0,0,1,0,0,2,2,2,1,2
+France - National,Villefranche,0,1,0,2,2,0,2,0,0,0,4,0,2,3,6,0
+Georgia - Erovnuli Liga,Dila Gori,6,3,1,1,5,3,4,3,6,2,5,6,12,7,15,11
+Georgia - Erovnuli Liga,Dinamo Batumi,3,0,6,2,4,3,5,4,5,4,9,2,13,5,19,10
+Georgia - Erovnuli Liga,Dinamo Tbilisi,6,1,4,2,4,2,3,3,5,4,9,4,14,5,17,11
+Georgia - Erovnuli Liga,Gagra,1,3,1,2,3,8,3,6,2,2,3,4,5,13,8,12
+Georgia - Erovnuli Liga,Saburtalo,7,0,2,1,6,3,2,2,6,2,9,5,15,4,17,9
+Georgia - Erovnuli Liga,Samgurali,1,1,1,1,3,2,3,2,0,4,8,1,5,4,11,7
+Georgia - Erovnuli Liga,Samtredia,4,5,1,2,2,8,2,3,3,4,4,3,7,15,9,10
 Georgia - Erovnuli Liga,Shukura,2,2,3,3,6,4,3,7,3,5,1,8,11,9,7,20
-Georgia - Erovnuli Liga,Telavi,2,1,1,3,1,3,2,2,1,3,3,5,4,7,6,10
-Georgia - Erovnuli Liga,Torpedo Kutaisi,1,4,1,1,3,2,2,4,5,2,5,2,5,7,12,8
-Germany - Bundesliga,Bayern Munich,1,0,0,1,2,0,0,0,1,0,1,2,3,1,2,2
+Georgia - Erovnuli Liga,Telavi,2,2,1,3,2,3,2,2,1,3,4,5,5,8,7,10
+Georgia - Erovnuli Liga,Torpedo Kutaisi,1,4,1,1,3,2,2,6,5,2,5,3,5,7,12,11
+Germany - Bundesliga,Bayern Munich,3,0,1,1,3,0,1,0,1,0,3,2,7,1,5,2
 Germany - Bundesliga,Bochum,1,0,0,0,0,0,0,2,1,0,0,0,1,0,1,2
 Germany - Bundesliga,Darmstadt,2,1,1,0,1,2,0,1,0,2,0,1,4,3,0,4
-Germany - Bundesliga,Dortmund,2,0,0,0,0,0,0,0,0,1,1,1,2,0,1,2
+Germany - Bundesliga,Dortmund,2,0,0,0,0,0,0,0,1,1,1,1,2,0,2,2
 Germany - Bundesliga,E. Frankfurt,0,0,0,0,1,1,0,0,0,0,1,0,1,1,1,0
-Germany - Bundesliga,FC Augsburg,0,1,1,1,3,2,0,0,1,1,1,1,4,4,2,2
+Germany - Bundesliga,FC Augsburg,1,2,1,1,4,2,0,0,1,1,1,1,6,5,2,2
 Germany - Bundesliga,FC Koln,0,1,0,1,0,0,1,1,1,2,0,0,0,2,2,3
 Germany - Bundesliga,Freiburg,0,1,0,0,2,0,0,1,0,0,1,2,2,1,1,3
 Germany - Bundesliga,FSV Mainz,0,0,1,0,0,0,0,1,1,0,0,3,1,0,1,4
 Germany - Bundesliga,Heidenheim,1,0,1,0,1,0,1,1,1,1,1,3,3,0,3,5
-Germany - Bundesliga,Hoffenheim,0,0,0,0,1,3,2,0,1,0,0,0,1,3,3,0
-Germany - Bundesliga,Leverkusen,0,0,2,1,1,1,1,0,3,1,1,0,3,2,5,1
-Germany - Bundesliga,Monchengladbach,0,0,1,1,0,1,0,2,0,0,0,1,1,2,0,3
+Germany - Bundesliga,Hoffenheim,0,0,1,1,1,4,2,0,1,0,0,1,2,5,3,1
+Germany - Bundesliga,Leverkusen,1,0,2,1,1,1,1,1,5,1,2,0,4,2,8,2
+Germany - Bundesliga,Monchengladbach,0,0,1,1,0,1,0,2,0,1,0,1,1,2,0,4
 Germany - Bundesliga,RB Leipzig,2,0,1,0,0,1,1,0,3,0,1,0,3,1,5,0
-Germany - Bundesliga,Stuttgart,1,0,3,0,1,0,1,0,3,0,1,0,5,0,5,0
-Germany - Bundesliga,Union Berlin,2,0,0,0,0,0,0,1,1,1,1,2,2,0,2,4
-Germany - Bundesliga,Werder Bremen,1,1,0,0,0,0,1,0,0,1,2,2,1,1,3,3
+Germany - Bundesliga,Stuttgart,1,0,4,1,2,0,1,0,3,0,2,0,7,1,6,0
+Germany - Bundesliga,Union Berlin,2,0,0,1,0,1,0,1,1,1,1,2,2,2,2,4
+Germany - Bundesliga,Werder Bremen,1,1,0,0,1,1,1,0,1,1,2,2,2,2,4,3
 Germany - Bundesliga,Wolfsburg,2,0,2,1,0,0,0,0,0,0,0,0,4,1,0,0
-Germany - 2. Bundesliga,Braunschweig,0,0,1,0,0,0,0,1,0,0,1,1,1,0,1,2
-Germany - 2. Bundesliga,Dusseldorf,1,2,0,0,0,0,4,1,0,0,0,0,1,2,4,1
+Germany - 2. Bundesliga,Braunschweig,0,0,2,0,0,2,0,1,1,0,1,1,2,2,2,2
+Germany - 2. Bundesliga,Dusseldorf,1,3,0,0,0,0,5,1,0,0,0,0,1,3,5,1
 Germany - 2. Bundesliga,Elversberg,1,2,0,0,0,1,2,0,0,1,0,4,1,3,2,5
 Germany - 2. Bundesliga,FC Nurnberg,0,2,0,1,1,0,0,1,2,0,2,0,1,3,4,1
-Germany - 2. Bundesliga,Greuther Furth,0,1,0,1,3,0,1,1,1,0,1,0,3,2,3,1
-Germany - 2. Bundesliga,Hamburger SV,0,0,1,1,3,1,3,0,0,1,3,0,4,2,6,1
+Germany - 2. Bundesliga,Greuther Furth,2,2,0,2,4,1,1,1,2,0,1,0,6,5,4,1
+Germany - 2. Bundesliga,Hamburger SV,0,0,1,1,3,1,3,0,0,1,4,0,4,2,7,1
 Germany - 2. Bundesliga,Hannover 96,0,0,1,1,2,1,2,0,2,1,2,0,3,2,6,1
 Germany - 2. Bundesliga,Hansa Rostock,0,0,1,2,2,2,2,0,1,0,0,2,3,4,3,2
 Germany - 2. Bundesliga,Hertha Berlin,0,0,1,0,3,0,1,0,2,0,1,1,4,0,4,1
-Germany - 2. Bundesliga,Holstein Kiel,0,2,0,1,2,0,1,0,3,2,0,1,2,3,4,3
-Germany - 2. Bundesliga,Kaiserslautern,0,0,4,0,0,1,0,2,2,2,1,0,4,1,3,4
+Germany - 2. Bundesliga,Holstein Kiel,0,2,0,2,2,1,3,0,3,2,0,2,2,5,6,4
+Germany - 2. Bundesliga,Kaiserslautern,1,0,5,1,0,1,0,2,2,2,2,0,6,2,4,4
 Germany - 2. Bundesliga,Karlsruher SC,1,1,1,0,1,0,0,0,1,2,1,0,3,1,2,2
-Germany - 2. Bundesliga,Magdeburg,1,1,1,1,2,1,2,1,1,0,1,1,4,3,4,2
-Germany - 2. Bundesliga,Osnabruck,1,1,0,0,0,2,0,0,1,1,2,3,1,3,3,4
-Germany - 2. Bundesliga,Paderborn,0,0,0,1,0,0,3,1,1,1,0,1,0,1,4,3
-Germany - 2. Bundesliga,Sankt Pauli,2,0,0,0,1,0,0,1,1,0,1,0,3,0,2,1
+Germany - 2. Bundesliga,Magdeburg,1,1,1,1,2,2,2,1,1,0,2,1,4,4,5,2
+Germany - 2. Bundesliga,Osnabruck,1,2,1,0,1,2,0,0,1,1,2,3,3,4,3,4
+Germany - 2. Bundesliga,Paderborn,0,0,0,1,1,0,4,1,1,1,1,2,1,1,6,4
+Germany - 2. Bundesliga,Sankt Pauli,2,0,1,1,1,0,1,1,1,0,2,0,4,1,4,1
 Germany - 2. Bundesliga,Schalke 04,1,1,0,2,1,0,0,1,3,1,2,0,2,3,5,2
-Germany - 2. Bundesliga,Wehen Wiesbaden,0,0,1,1,0,0,0,1,1,0,1,0,1,1,2,1
+Germany - 2. Bundesliga,Wehen Wiesbaden,0,0,1,2,0,0,0,1,1,0,1,1,1,2,2,2
 Germany - 3. Liga,1860 Munchen,2,0,0,2,0,0,2,0,0,0,0,2,2,2,2,2
-Germany - 3. Liga,Bielefeld,0,2,2,0,1,0,2,0,0,1,0,0,3,2,2,1
-Germany - 3. Liga,Dortmund B,1,2,0,0,1,0,1,0,0,0,0,1,2,2,1,1
-Germany - 3. Liga,Dynamo Dresden,1,0,2,0,1,1,0,0,2,0,1,1,4,1,3,1
+Germany - 3. Liga,Bielefeld,0,2,2,0,2,1,2,1,0,2,1,3,4,3,3,6
+Germany - 3. Liga,Dortmund B,2,2,0,0,1,0,1,0,0,0,0,1,3,2,1,1
+Germany - 3. Liga,Dynamo Dresden,2,0,2,0,1,1,0,0,2,0,2,2,5,1,4,2
 Germany - 3. Liga,Erzgebirge Aue,1,1,0,1,0,0,0,0,1,0,4,0,1,2,5,0
 Germany - 3. Liga,FC Ingolstadt,1,0,1,2,0,0,3,1,1,0,2,0,2,2,6,1
-Germany - 3. Liga,Freiburg B,0,0,0,1,0,0,1,1,0,0,0,1,0,1,1,2
-Germany - 3. Liga,Hallescher,2,0,0,1,2,0,1,1,1,1,1,0,4,1,3,2
+Germany - 3. Liga,Freiburg B,0,0,0,2,0,0,1,1,1,3,0,1,0,2,2,5
+Germany - 3. Liga,Hallescher,2,0,0,2,2,0,1,1,1,2,1,0,4,2,3,3
 Germany - 3. Liga,Mannheim,3,1,0,0,2,1,0,1,0,1,0,2,5,2,0,4
 Germany - 3. Liga,MSV Duisburg,2,0,1,0,0,3,0,2,0,0,0,2,3,3,0,4
-Germany - 3. Liga,Preuss. Munster,0,0,0,1,0,1,1,1,1,0,2,1,0,2,4,2
-Germany - 3. Liga,Regensburg,0,0,2,1,0,1,0,0,0,0,1,0,2,2,1,0
+Germany - 3. Liga,Preuss. Munster,0,0,0,1,0,1,1,1,1,0,3,2,0,2,5,3
+Germany - 3. Liga,Regensburg,0,0,2,2,0,1,0,0,0,0,2,1,2,3,2,1
 Germany - 3. Liga,RW Essen,0,0,1,1,0,0,0,0,0,0,1,0,1,1,1,0
-Germany - 3. Liga,Saarbrucken,1,0,1,0,1,3,2,2,0,0,2,0,3,3,4,2
+Germany - 3. Liga,Saarbrucken,1,0,1,0,1,3,2,2,0,1,3,0,3,3,5,3
 Germany - 3. Liga,Sandhausen,1,0,1,0,1,1,0,0,0,0,1,1,3,1,1,1
-Germany - 3. Liga,Ulm,0,1,0,0,2,0,0,0,2,0,1,0,2,1,3,0
-Germany - 3. Liga,Unterhaching,1,1,0,0,1,1,1,0,0,0,2,1,2,2,3,1
-Germany - 3. Liga,Verl,0,1,1,1,2,1,0,0,1,0,0,1,3,3,1,1
+Germany - 3. Liga,Ulm,0,1,1,0,2,0,0,0,2,0,2,1,3,1,4,1
+Germany - 3. Liga,Unterhaching,1,1,0,1,1,1,1,0,1,0,2,2,2,3,4,2
+Germany - 3. Liga,Verl,0,2,2,1,2,1,0,0,2,1,0,2,4,4,2,3
 Germany - 3. Liga,VfB Lubeck,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2
-Germany - 3. Liga,Viktoria Koln,0,0,0,1,1,0,2,0,1,0,0,1,1,1,3,1
-Greece - Super League,AEK Athens,0,1,1,0,0,1,0,0,0,0,1,0,1,2,1,0
-Greece - Super League,Aris,0,0,1,1,0,0,0,0,1,0,1,1,1,1,2,1
-Greece - Super League,Asteras T.,1,0,2,2,1,0,0,0,0,0,1,0,4,2,1,0
+Germany - 3. Liga,Viktoria Koln,0,0,0,1,1,0,3,0,1,0,1,1,1,1,5,1
+Greece - Super League,AEK Athens,0,1,1,0,1,1,0,0,0,0,2,1,2,2,2,1
+Greece - Super League,Aris,0,0,2,1,0,0,1,0,1,0,2,1,2,1,4,1
+Greece - Super League,Asteras T.,2,1,2,2,1,1,0,0,0,0,1,2,5,4,1,2
 Greece - Super League,Atromitos,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1
-Greece - Super League,Kifisia,0,2,0,1,1,0,1,0,2,0,2,2,1,3,5,2
+Greece - Super League,Kifisia,0,2,0,1,1,0,1,0,2,0,3,3,1,3,6,3
 Greece - Super League,Lamia,0,0,0,1,1,0,1,0,1,1,0,0,1,1,2,1
-Greece - Super League,OFI Crete,0,0,1,0,1,1,0,0,0,1,2,0,2,1,2,1
-Greece - Super League,Olympiakos,0,0,1,0,3,0,1,0,2,0,3,0,4,0,6,0
-Greece - Super League,Panaitolikos,0,1,0,0,0,1,0,0,0,1,0,2,0,2,0,3
-Greece - Super League,Panathinaikos,1,0,0,0,1,0,0,0,1,0,0,0,2,0,1,0
-Greece - Super League,Panserraikos,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1
-Greece - Super League,PAOK,0,0,1,0,1,0,2,0,0,1,1,0,2,0,3,1
-Greece - Super League,PAS Giannina,0,0,0,0,1,0,1,0,0,1,1,0,1,0,2,1
-Greece - Super League,Volos,1,0,0,0,0,2,1,1,1,1,1,1,1,2,3,3
+Greece - Super League,OFI Crete,0,0,1,0,2,1,0,0,0,1,2,1,3,1,2,2
+Greece - Super League,Olympiakos,0,0,4,0,3,0,1,1,5,0,5,0,7,0,11,1
+Greece - Super League,Panaitolikos,1,1,0,1,0,1,0,0,0,1,0,2,1,3,0,3
+Greece - Super League,Panathinaikos,2,0,0,0,1,1,0,0,1,1,0,0,3,1,1,1
+Greece - Super League,Panserraikos,1,1,1,0,1,0,0,0,2,1,1,1,3,1,3,2
+Greece - Super League,PAOK,0,0,1,0,3,0,3,0,0,1,1,0,4,0,4,1
+Greece - Super League,PAS Giannina,0,1,1,0,1,1,1,0,0,1,1,1,2,2,2,2
+Greece - Super League,Volos,1,1,0,1,0,2,2,1,1,1,1,1,1,4,4,3
 Hong Kong - Premier League,Eastern,0,0,1,0,1,1,1,0,0,0,0,0,2,1,1,0
 Hong Kong - Premier League,HK Rangers,0,0,2,0,2,0,1,0,2,0,2,0,4,0,5,0
-Hong Kong - Premier League,Kitchee,1,0,5,0,1,0,1,0,3,0,0,0,7,0,4,0
-Hong Kong - Premier League,LM Warriors,0,0,1,0,1,1,1,0,0,0,1,0,2,1,2,0
+Hong Kong - Premier League,Kitchee,2,0,5,0,1,0,1,0,4,0,0,0,8,0,5,0
+Hong Kong - Premier League,LM Warriors,0,0,1,0,3,1,2,0,1,0,2,0,4,1,5,0
 Hong Kong - Premier League,Resources C.,0,0,0,0,0,3,1,0,1,0,0,1,0,3,2,1
 Hong Kong - Premier League,Sham Shui Po,1,1,0,3,0,0,0,1,1,1,0,3,1,4,1,5
 Hong Kong - Premier League,Southern D.,0,0,2,0,0,0,1,0,1,0,0,0,2,0,2,0
 Hong Kong - Premier League,Wofoo Tai Po,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Hungary - NB I,Debrecen,2,2,0,1,1,0,1,1,2,1,5,0,3,3,8,2
-Hungary - NB I,Diosgyor VTK,1,1,0,1,2,0,0,0,0,0,0,0,3,2,0,0
-Hungary - NB I,Ferencvaros,1,1,2,1,3,1,0,0,0,0,1,0,6,3,1,0
-Hungary - NB I,Kecskemeti TE,0,0,0,0,5,1,1,1,1,0,1,0,5,1,3,1
+Hungary - NB I,Diosgyor VTK,1,1,0,1,4,0,0,0,0,1,1,0,5,2,1,1
+Hungary - NB I,Ferencvaros,1,1,2,1,4,1,0,0,1,0,1,0,7,3,2,0
+Hungary - NB I,Kecskemeti TE,0,0,0,0,5,1,1,1,1,1,1,1,5,1,3,3
 Hungary - NB I,Mezokovesd,1,1,0,0,0,1,1,0,0,2,1,3,1,2,2,5
-Hungary - NB I,MOL Fehervar,0,1,0,1,1,0,2,0,0,3,2,0,1,2,4,3
+Hungary - NB I,MOL Fehervar,0,1,0,1,2,0,2,1,1,4,3,1,2,2,6,6
 Hungary - NB I,MTK,1,0,0,0,0,0,2,1,0,1,1,0,1,0,3,2
-Hungary - NB I,Paks,0,0,2,0,0,0,1,0,1,0,1,0,2,0,3,0
-Hungary - NB I,Puskas Akad.,1,0,1,0,2,2,0,1,1,1,0,1,4,2,1,3
-Hungary - NB I,Ujpest,2,1,1,0,1,0,1,2,1,1,2,1,4,1,4,4
-Hungary - NB I,Zalaegerszegi,2,2,1,2,1,3,0,1,0,1,1,3,4,7,1,5
-Iceland - Urvalsdeild,Breidablik,2,4,5,0,2,5,5,4,4,5,9,4,9,9,18,13
-Iceland - Urvalsdeild,Fram,1,2,3,2,5,4,5,1,2,5,5,4,9,8,12,10
-Iceland - Urvalsdeild,Fylkir,4,5,3,5,3,3,5,3,1,5,3,6,10,13,9,14
-Iceland - Urvalsdeild,Hafnarfjordur,5,2,1,5,4,6,9,2,4,0,1,4,10,13,14,6
-Iceland - Urvalsdeild,HK Kopavogur,1,1,3,2,1,2,4,6,3,5,7,4,5,5,14,15
-Iceland - Urvalsdeild,IBV,3,1,0,1,4,1,1,4,3,1,2,6,7,3,6,11
-Iceland - Urvalsdeild,KA Akureyri,0,2,3,2,4,4,3,4,2,0,6,5,7,8,11,9
-Iceland - Urvalsdeild,Keflavik,3,3,0,0,0,5,3,1,3,5,3,6,3,8,9,12
-Iceland - Urvalsdeild,KR Reykjavik,2,1,0,1,3,2,1,4,1,0,6,3,5,4,8,7
-Iceland - Urvalsdeild,Stjarnan,4,3,7,1,2,3,6,0,5,2,8,2,13,7,19,4
-Iceland - Urvalsdeild,Valur,4,2,4,1,4,2,5,1,3,3,4,5,12,5,12,9
-Iceland - Urvalsdeild,Vikingur R.,6,0,8,0,6,2,2,1,9,6,5,0,20,2,16,7
+Hungary - NB I,Paks,1,0,2,0,0,0,1,0,2,0,1,0,3,0,4,0
+Hungary - NB I,Puskas Akad.,1,0,1,0,2,3,0,1,1,2,0,1,4,3,1,4
+Hungary - NB I,Ujpest,2,1,1,1,1,0,1,2,1,2,2,1,4,2,4,5
+Hungary - NB I,Zalaegerszegi,2,2,1,2,1,3,0,1,0,1,2,4,4,7,2,6
+Iceland - Urvalsdeild,Breidablik,2,4,5,0,4,5,5,4,4,5,10,5,11,9,19,14
+Iceland - Urvalsdeild,Fram,2,2,3,2,5,4,5,1,3,6,6,4,10,8,14,11
+Iceland - Urvalsdeild,Fylkir,4,6,4,5,3,4,5,4,1,5,4,7,11,15,10,16
+Iceland - Urvalsdeild,Hafnarfjordur,5,4,1,5,4,6,10,3,4,0,1,4,10,15,15,7
+Iceland - Urvalsdeild,HK Kopavogur,2,1,3,2,1,3,5,6,3,6,7,4,6,6,15,16
+Iceland - Urvalsdeild,IBV,3,1,0,1,4,1,1,5,3,1,4,7,7,3,8,13
+Iceland - Urvalsdeild,KA Akureyri,2,2,5,4,4,4,4,5,2,0,7,5,11,10,13,10
+Iceland - Urvalsdeild,Keflavik,4,4,1,0,0,5,3,1,3,5,3,6,5,9,9,12
+Iceland - Urvalsdeild,KR Reykjavik,2,1,0,2,3,2,2,4,1,1,7,3,5,5,10,8
+Iceland - Urvalsdeild,Stjarnan,5,3,7,1,3,3,6,0,5,2,8,2,15,7,19,4
+Iceland - Urvalsdeild,Valur,4,2,5,1,5,3,5,1,3,4,6,5,14,6,14,10
+Iceland - Urvalsdeild,Vikingur R.,7,0,8,0,7,3,2,2,9,7,7,0,22,3,18,9
 Iceland - 1. Deild,AEggir,1,6,2,3,3,5,0,6,3,4,1,5,6,14,4,15
 Iceland - 1. Deild,Afturelding,6,3,3,0,6,4,6,3,4,3,9,3,15,7,19,9
 Iceland - 1. Deild,Fjolnir,5,1,4,2,5,1,5,2,10,3,7,7,14,4,22,12
@@ -599,180 +599,181 @@ Iceland - 1. Deild,Selfoss,1,4,4,5,0,4,6,0,3,2,6,7,5,13,15,9
 Iceland - 1. Deild,Thor Akureyri,2,2,3,4,4,2,4,0,2,1,4,6,9,8,10,7
 Iceland - 1. Deild,Throttur R.,1,5,4,4,5,3,3,3,3,0,11,4,10,12,17,7
 Iceland - 1. Deild,Vestri,3,0,2,1,4,4,4,2,3,2,3,2,9,5,10,6
-Ireland - Premier Division,Bohemians,5,2,0,6,5,4,5,2,6,2,8,1,10,12,19,5
-Ireland - Premier Division,Cork City,3,2,5,2,2,3,0,4,5,3,5,4,10,7,10,11
-Ireland - Premier Division,Derry City,1,0,2,2,3,2,2,0,4,2,8,2,6,4,14,4
+Ireland - Premier Division,Bohemians,5,2,0,7,5,4,6,2,8,2,9,2,10,13,23,6
+Ireland - Premier Division,Cork City,3,2,5,2,2,3,0,4,5,3,5,5,10,7,10,12
+Ireland - Premier Division,Derry City,2,0,2,2,3,2,4,0,5,2,10,2,7,4,19,4
 Ireland - Premier Division,Drogheda Utd,1,2,2,4,4,2,2,3,4,2,5,4,7,8,11,9
-Ireland - Premier Division,Dundalk,4,2,4,3,4,4,4,2,5,2,7,8,12,9,16,12
-Ireland - Premier Division,Shamrock Rovers,2,0,8,3,4,5,8,4,4,2,7,2,14,8,19,8
-Ireland - Premier Division,Shelbourne,1,1,0,2,1,3,7,1,1,1,6,4,2,6,14,6
-Ireland - Premier Division,Sligo Rovers,2,2,4,2,2,4,2,3,4,3,4,4,8,8,10,10
-Ireland - Premier Division,St. Patricks,2,0,2,2,4,1,2,2,9,2,8,2,8,3,19,6
+Ireland - Premier Division,Dundalk,4,2,6,4,6,4,6,2,5,2,9,8,16,10,20,12
+Ireland - Premier Division,Shamrock Rovers,2,0,8,3,4,5,8,4,5,2,7,2,14,8,20,8
+Ireland - Premier Division,Shelbourne,1,1,1,2,2,4,7,1,1,1,6,4,4,7,14,6
+Ireland - Premier Division,Sligo Rovers,2,2,4,2,2,4,2,3,4,3,5,4,8,8,11,10
+Ireland - Premier Division,St. Patricks,2,1,2,2,5,1,4,2,9,3,9,3,9,4,22,8
 Ireland - Premier Division,UC Dublin,2,3,0,5,0,7,1,4,1,8,4,4,2,15,6,16
 Ireland - First Division,Athlone Town,2,1,5,5,6,4,4,3,3,3,6,6,13,10,13,12
-Ireland - First Division,Bray Wanderers,3,6,4,3,3,1,6,2,5,7,2,10,10,10,13,19
-Ireland - First Division,Cobh Ramblers,6,3,3,4,4,4,4,1,6,2,3,4,13,11,13,7
-Ireland - First Division,Finn Harps,2,3,3,6,3,3,2,4,2,10,2,0,8,12,6,14
-Ireland - First Division,Galway Utd,8,0,4,0,8,1,7,0,11,2,8,1,20,1,26,3
-Ireland - First Division,Kerry,3,2,1,1,2,10,2,7,1,10,2,7,6,13,5,24
-Ireland - First Division,Longford Town,3,0,1,3,5,2,1,3,3,5,2,6,9,5,6,14
-Ireland - First Division,Treaty Utd,4,5,2,7,3,2,2,0,3,4,6,10,9,14,11,14
+Ireland - First Division,Bray Wanderers,3,6,5,3,4,1,6,2,5,7,2,11,12,10,13,20
+Ireland - First Division,Cobh Ramblers,6,4,3,4,5,4,5,1,9,2,3,4,14,12,17,7
+Ireland - First Division,Finn Harps,2,3,3,6,3,3,4,5,2,10,2,0,8,12,8,15
+Ireland - First Division,Galway Utd,11,0,4,0,9,1,9,0,11,2,9,1,24,1,29,3
+Ireland - First Division,Kerry,3,2,1,2,2,10,2,7,1,11,2,9,6,14,5,27
+Ireland - First Division,Longford Town,3,0,1,4,5,2,1,3,3,6,2,7,9,6,6,16
+Ireland - First Division,Treaty Utd,4,6,3,7,3,2,3,0,4,4,7,10,10,15,14,14
 Ireland - First Division,Waterford,8,2,9,4,10,3,6,5,4,3,7,2,27,9,17,10
-Ireland - First Division,Wexford,2,3,2,3,1,6,2,4,4,5,4,4,5,12,10,13
-Israel - Ligat HaAl,Ashdod,0,1,1,0,0,0,0,0,0,1,0,0,1,1,0,1
+Ireland - First Division,Wexford,2,3,2,3,3,6,3,4,4,6,5,4,7,12,12,14
+Israel - Ligat HaAl,Ashdod,0,1,1,0,0,0,1,0,0,1,0,1,1,1,1,2
 Israel - Ligat HaAl,B. Jerusalem,0,0,1,0,0,0,1,1,1,0,0,1,1,0,2,2
 Israel - Ligat HaAl,Bnei Sakhnin,1,1,0,0,0,0,1,0,1,1,0,0,1,1,2,1
 Israel - Ligat HaAl,H. Beer Sheva,1,0,1,0,0,0,1,0,0,0,0,0,2,0,1,0
-Israel - Ligat HaAl,H. Jerusalem,0,0,0,0,1,2,0,0,0,0,0,0,1,2,0,0
-Israel - Ligat HaAl,H. Petah Tikva,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1
-Israel - Ligat HaAl,Hapoel Hadera,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,2
+Israel - Ligat HaAl,H. Jerusalem,0,0,0,0,1,2,0,0,0,0,1,1,1,2,1,1
+Israel - Ligat HaAl,H. Petah Tikva,1,0,0,0,0,0,1,0,0,0,0,1,1,0,1,1
+Israel - Ligat HaAl,Hapoel Hadera,1,1,0,0,0,2,0,1,0,1,0,0,1,3,0,2
 Israel - Ligat HaAl,Hapoel Haifa,0,1,0,0,0,0,1,1,2,0,1,0,0,1,4,1
-Israel - Ligat HaAl,Hapoel Tel Aviv,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
-Israel - Ligat HaAl,M. Bnei Raina,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+Israel - Ligat HaAl,Hapoel Tel Aviv,1,0,0,1,0,2,1,1,0,0,0,1,1,3,1,2
+Israel - Ligat HaAl,M. Bnei Raina,1,1,0,0,0,1,2,0,0,0,0,0,1,2,2,0
 Israel - Ligat HaAl,M. Petah Tikva,0,0,0,0,1,2,1,0,0,0,2,1,1,2,3,1
 Israel - Ligat HaAl,M. Tel Aviv,0,0,0,0,1,0,2,1,1,0,1,1,1,0,4,2
+Israel - Ligat HaAl,Maccabi Haifa,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0
 Israel - Ligat HaAl,Maccabi Netanya,1,0,1,0,1,0,0,0,1,0,1,2,3,0,2,2
-Israel - Leumit League,Bnei Yehuda,1,0,1,0,1,0,1,1,0,0,1,0,3,0,2,1
-Israel - Leumit League,H. Ironi Rishon,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1
-Israel - Leumit League,H. Kfar Saba,1,0,0,0,0,2,1,1,0,1,1,1,1,2,2,3
-Israel - Leumit League,H. Nof Hagalil,1,0,0,0,0,0,2,0,0,1,0,0,1,0,2,1
+Israel - Leumit League,Bnei Yehuda,2,0,1,0,2,0,1,1,0,0,2,0,5,0,3,1
+Israel - Leumit League,H. Ironi Rishon,0,1,0,0,0,0,0,0,0,1,1,1,0,1,1,2
+Israel - Leumit League,H. Kfar Saba,2,0,0,0,0,3,1,3,0,1,1,2,2,3,2,6
+Israel - Leumit League,H. Nof Hagalil,2,0,0,0,0,0,2,0,0,1,1,1,2,0,3,2
 Israel - Leumit League,H. Ramat Gan,0,0,1,0,1,1,1,1,1,0,1,0,2,1,3,1
-Israel - Leumit League,H. Umm al-Fahm,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0
+Israel - Leumit League,H. Umm al-Fahm,0,0,0,0,0,1,0,1,1,0,2,0,0,1,3,1
 Israel - Leumit League,Hapoel Afula,0,0,0,1,0,2,0,0,0,1,2,0,0,3,2,1
 Israel - Leumit League,Hapoel Akko,1,0,0,0,1,0,1,1,0,1,0,2,2,0,1,4
-Israel - Leumit League,Ihud B. Shfaram,0,1,0,1,1,0,0,0,0,1,2,0,1,2,2,1
-Israel - Leumit League,Ironi Tiberias,0,0,1,1,0,0,0,0,1,0,1,1,1,1,2,1
-Israel - Leumit League,Kafr Qasim,1,1,0,2,0,0,0,0,0,0,0,1,1,3,0,1
-Israel - Leumit League,Kiryat Shmona,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0
-Israel - Leumit League,M. Herziliya,0,0,0,0,1,1,0,1,0,0,1,0,1,1,1,1
+Israel - Leumit League,Ihud B. Shfaram,0,1,1,2,1,0,0,2,0,1,2,0,2,3,2,3
+Israel - Leumit League,Ironi Tiberias,0,0,2,1,0,1,0,0,1,0,2,1,2,2,3,1
+Israel - Leumit League,Kafr Qasim,1,1,1,2,0,1,0,0,0,0,0,1,2,4,0,1
+Israel - Leumit League,Kiryat Shmona,1,0,0,0,3,0,2,0,0,0,0,0,4,0,2,0
+Israel - Leumit League,M. Herziliya,0,1,0,0,1,1,0,1,0,1,2,1,1,2,2,3
 Israel - Leumit League,Maccabi Jaffa,0,3,0,0,3,0,0,0,4,1,5,1,3,3,9,2
-Israel - Leumit League,Nes Tziona,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1
-Israel - Leumit League,Ramat Hasharon,0,0,1,0,0,0,0,1,1,1,1,0,1,0,2,2
-Italy - Serie A,AC Milan,0,0,0,0,3,1,0,0,1,0,0,0,3,1,1,0
+Israel - Leumit League,Nes Tziona,0,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1
+Israel - Leumit League,Ramat Hasharon,0,1,1,0,1,0,0,2,3,1,3,0,2,1,6,3
+Italy - Serie A,AC Milan,1,0,0,0,3,1,0,0,1,0,0,0,4,1,1,0
 Italy - Serie A,AS Roma,2,1,1,0,1,1,1,2,0,0,5,0,4,2,6,2
-Italy - Serie A,Atalanta,0,0,0,0,2,0,0,0,1,0,0,0,2,0,1,0
+Italy - Serie A,Atalanta,0,0,0,0,3,0,0,0,1,0,1,0,3,0,2,0
 Italy - Serie A,Bologna,0,1,0,2,0,0,1,0,0,0,1,0,0,3,2,0
-Italy - Serie A,Cagliari,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0
-Italy - Serie A,Empoli,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,2
+Italy - Serie A,Cagliari,0,0,1,2,0,2,0,1,0,0,0,0,1,4,0,1
+Italy - Serie A,Empoli,0,0,0,1,1,0,0,1,0,1,0,1,1,1,0,3
 Italy - Serie A,Fiorentina,1,0,1,1,2,0,0,2,0,0,1,1,4,1,1,3
-Italy - Serie A,Frosinone,2,1,1,2,1,1,0,1,1,0,2,1,4,4,3,2
-Italy - Serie A,Genoa,0,2,0,0,1,1,2,1,0,0,0,2,1,3,2,3
-Italy - Serie A,Hellas Verona,1,0,0,0,1,0,0,1,0,0,0,0,2,0,0,1
-Italy - Serie A,Inter Milan,2,0,1,0,1,0,2,1,2,0,3,0,4,0,7,1
-Italy - Serie A,Juventus,1,0,1,1,0,0,0,0,1,1,1,0,2,1,2,1
-Italy - Serie A,Lazio,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
-Italy - Serie A,Lecce,1,0,0,1,0,0,0,0,0,0,3,0,1,1,3,0
+Italy - Serie A,Frosinone,2,1,1,3,1,1,0,1,2,0,2,1,4,5,4,2
+Italy - Serie A,Genoa,1,2,0,1,2,1,2,1,1,0,1,2,3,4,4,3
+Italy - Serie A,Hellas Verona,1,1,0,0,1,0,0,1,0,0,0,0,2,1,0,1
+Italy - Serie A,Inter Milan,2,0,1,0,2,0,2,2,2,1,3,0,5,0,7,3
+Italy - Serie A,Juventus,1,0,1,1,0,0,1,0,1,1,1,0,2,1,3,1
+Italy - Serie A,Lazio,1,0,0,1,0,1,1,0,1,0,0,0,1,2,2,0
+Italy - Serie A,Lecce,1,0,0,1,0,0,0,0,0,0,4,0,1,1,4,0
 Italy - Serie A,Monza,0,1,1,0,1,0,1,0,0,0,0,0,2,1,1,0
-Italy - Serie A,Napoli,0,0,1,1,1,0,0,1,1,0,0,0,2,1,1,1
-Italy - Serie A,Salernitana,0,1,0,0,0,1,0,2,1,0,0,0,0,2,1,2
-Italy - Serie A,Sassuolo,1,0,0,0,0,0,0,1,2,0,0,2,1,0,2,3
-Italy - Serie A,Torino,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-Italy - Serie A,Udinese,0,1,0,1,0,1,0,0,0,0,0,0,0,3,0,0
-Italy - Serie B,Ascoli,0,0,1,0,1,0,0,0,0,0,1,1,2,0,1,1
-Italy - Serie B,Bari,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1
+Italy - Serie A,Napoli,0,0,2,1,2,0,0,1,2,0,1,1,4,1,3,2
+Italy - Serie A,Salernitana,0,2,0,0,0,1,1,2,1,0,0,0,0,3,2,2
+Italy - Serie A,Sassuolo,2,0,0,1,1,0,0,1,2,0,2,3,3,1,4,4
+Italy - Serie A,Torino,0,0,0,0,0,0,0,0,0,1,2,0,0,0,2,1
+Italy - Serie A,Udinese,0,1,0,1,0,2,0,0,0,0,0,1,0,4,0,1
+Italy - Serie B,Ascoli,0,0,1,0,2,0,0,0,0,0,2,1,3,0,2,1
+Italy - Serie B,Bari,1,0,1,1,0,1,1,0,0,0,0,1,2,2,1,1
 Italy - Serie B,Brescia,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
-Italy - Serie B,Catanzaro,1,0,0,2,0,2,2,1,1,0,1,1,1,4,4,2
-Italy - Serie B,Cittadella,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
-Italy - Serie B,Como,1,0,0,0,0,0,1,1,0,1,2,1,1,0,3,3
-Italy - Serie B,Cosenza,2,0,1,0,0,1,1,0,1,2,1,1,3,1,3,3
-Italy - Serie B,Cremonese,0,0,1,0,0,1,0,1,0,0,0,0,1,1,0,1
-Italy - Serie B,FeralpiSalo,1,1,0,1,0,0,0,0,0,0,0,1,1,2,0,1
-Italy - Serie B,Lecco,0,1,0,0,0,1,0,1,1,1,2,2,0,2,3,4
+Italy - Serie B,Catanzaro,1,1,1,2,0,2,2,1,1,0,1,1,2,5,4,2
+Italy - Serie B,Cittadella,0,1,0,0,1,1,0,1,0,0,0,0,1,2,0,1
+Italy - Serie B,Como,1,0,0,0,0,0,2,1,0,1,2,1,1,0,4,3
+Italy - Serie B,Cosenza,2,0,1,0,0,1,1,0,2,3,1,2,3,1,4,5
+Italy - Serie B,Cremonese,1,0,1,1,0,1,1,1,0,0,0,1,2,2,1,2
+Italy - Serie B,FeralpiSalo,1,1,0,1,0,0,0,0,0,1,0,1,1,2,0,2
+Italy - Serie B,Lecco,0,1,0,0,0,1,1,3,1,1,2,2,0,2,4,6
 Italy - Serie B,Modena,1,0,0,0,0,0,1,0,0,0,1,0,1,0,2,0
-Italy - Serie B,Palermo,1,0,0,0,0,0,1,0,0,0,1,0,1,0,2,0
-Italy - Serie B,Parma,1,0,0,0,1,0,1,0,1,0,0,0,2,0,2,0
+Italy - Serie B,Palermo,1,0,0,0,0,0,1,0,0,0,1,1,1,0,2,1
+Italy - Serie B,Parma,2,0,0,1,1,0,1,1,1,0,2,0,3,1,4,1
 Italy - Serie B,Pisa,1,1,0,0,0,0,0,0,0,0,1,2,1,1,1,2
 Italy - Serie B,Reggiana,1,1,1,0,0,0,0,0,1,2,0,2,2,1,1,4
 Italy - Serie B,Sampdoria,0,1,0,0,1,0,1,2,0,1,0,2,1,1,1,5
-Italy - Serie B,Spezia,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Italy - Serie B,Spezia,0,0,0,1,0,0,0,1,0,0,1,1,0,1,1,2
 Italy - Serie B,Sudtirol,0,1,0,0,1,2,2,0,1,1,2,0,1,3,5,1
-Italy - Serie B,Ternana,0,1,0,0,0,0,0,0,0,1,1,1,0,1,1,2
-Italy - Serie B,Venezia,0,0,1,0,1,1,3,0,0,0,0,0,2,1,3,0
-Japan - J1 League,Albirex Niigata,0,4,4,5,2,4,3,2,3,1,4,4,6,13,10,7
+Italy - Serie B,Ternana,0,1,1,0,0,0,0,0,0,1,1,2,1,1,1,3
+Italy - Serie B,Venezia,0,1,1,0,2,1,3,0,0,1,0,1,3,2,3,2
+Japan - J1 League,Albirex Niigata,1,4,4,6,2,4,3,2,4,1,5,4,7,14,12,7
 Japan - J1 League,Avispa Fukuoka,1,1,1,3,0,2,2,4,3,2,8,1,2,6,13,7
-Japan - J1 League,C. Sapporo,7,3,2,3,2,5,4,5,1,1,6,4,11,11,11,10
+Japan - J1 League,C. Sapporo,7,3,2,4,2,6,5,5,1,1,6,4,11,13,12,10
 Japan - J1 League,Cerezo Osaka,3,4,4,2,3,0,3,1,4,2,4,4,10,6,11,7
-Japan - J1 League,FC Tokyo,4,4,5,1,5,3,1,4,5,1,3,4,14,8,9,9
-Japan - J1 League,Gamba Osaka,3,2,3,2,2,3,6,0,6,1,0,7,8,7,12,8
-Japan - J1 League,K. Frontale,1,3,2,2,2,5,5,0,4,1,3,2,5,10,12,3
-Japan - J1 League,Kashima Antlers,6,0,3,2,1,1,1,1,4,2,4,5,10,3,9,8
-Japan - J1 League,Kashiwa Reysol,2,2,2,2,3,4,3,3,1,4,3,4,7,8,7,11
-Japan - J1 League,Kyoto Sanga,2,1,3,3,1,4,0,2,2,3,7,3,6,8,9,8
-Japan - J1 League,Nagoya G.,2,2,2,1,7,2,3,2,5,1,1,2,11,5,9,5
+Japan - J1 League,FC Tokyo,4,4,5,2,5,4,3,4,5,1,4,4,14,10,12,9
+Japan - J1 League,Gamba Osaka,3,2,4,3,2,3,6,0,6,2,0,8,9,8,12,10
+Japan - J1 League,K. Frontale,1,3,3,3,2,5,5,1,4,1,4,3,6,11,13,5
+Japan - J1 League,Kashima Antlers,7,0,3,2,1,2,1,2,4,2,4,5,11,4,9,9
+Japan - J1 League,Kashiwa Reysol,3,2,2,2,3,4,3,5,1,5,3,4,8,8,7,14
+Japan - J1 League,Kyoto Sanga,2,1,3,3,1,4,1,2,2,3,7,3,6,8,10,8
+Japan - J1 League,Nagoya G.,2,2,2,1,7,2,4,2,5,2,1,2,11,5,10,6
 Japan - J1 League,S. Hiroshima,2,3,1,4,1,2,4,0,4,2,8,1,4,9,16,3
 Japan - J1 League,Sagan Tosu,3,5,1,2,1,6,2,2,3,2,4,3,5,13,9,7
-Japan - J1 League,Shonan Bellmare,1,4,3,3,6,0,3,4,0,8,2,7,10,7,5,19
-Japan - J1 League,Urawa RD,1,1,1,1,3,1,3,3,5,2,6,1,5,3,14,6
-Japan - J1 League,Vissel Kobe,1,1,5,4,3,3,7,2,4,0,5,2,9,8,16,4
+Japan - J1 League,Shonan Bellmare,1,5,3,3,6,1,3,4,0,8,2,7,10,9,5,19
+Japan - J1 League,Urawa RD,1,2,1,1,3,1,3,3,6,2,6,1,5,4,15,6
+Japan - J1 League,Vissel Kobe,1,1,5,4,3,3,8,2,4,0,5,2,9,8,17,4
 Japan - J1 League,Yokohama FC,2,3,2,1,3,6,3,5,2,5,3,3,7,10,8,13
-Japan - J1 League,Yokohama M.,6,1,3,1,2,4,5,1,6,3,8,2,11,6,19,6
-Japan - J2 League,Blaublitz Akita,2,2,0,0,1,2,4,1,1,3,3,6,3,4,8,10
-Japan - J2 League,Fagiano Okayama,3,2,2,2,3,5,4,3,4,2,7,3,8,9,15,8
-Japan - J2 League,Fujieda MYFC,2,3,0,6,3,4,4,0,2,7,6,6,5,13,12,13
-Japan - J2 League,Iwaki,2,2,2,3,0,5,4,3,5,6,2,4,4,10,11,13
-Japan - J2 League,JEF Utd Chiba,1,2,4,1,7,3,4,1,1,3,7,6,12,6,12,10
+Japan - J1 League,Yokohama M.,6,1,3,2,2,5,5,1,6,3,8,2,11,8,19,6
+Japan - J2 League,Blaublitz Akita,2,3,0,0,1,2,5,1,1,3,3,6,3,5,9,10
+Japan - J2 League,Fagiano Okayama,3,3,2,2,4,5,4,3,4,2,8,3,9,10,16,8
+Japan - J2 League,Fujieda MYFC,2,3,0,6,3,4,5,0,3,7,6,6,5,13,14,13
+Japan - J2 League,Iwaki,2,2,2,3,0,5,4,3,5,6,3,4,4,10,12,13
+Japan - J2 League,JEF Utd Chiba,1,2,4,1,8,3,5,1,1,3,8,7,13,6,14,11
 Japan - J2 League,Jubilo Iwata,4,5,4,4,4,5,7,2,7,3,10,5,12,14,24,10
-Japan - J2 League,Kusatsu,4,1,3,1,2,1,3,2,2,3,2,1,9,3,7,6
+Japan - J2 League,Kusatsu,4,1,3,1,2,2,4,2,2,3,2,1,9,4,8,6
 Japan - J2 League,M. Yamagata,5,3,2,2,6,2,5,5,5,2,9,4,13,7,19,11
 Japan - J2 League,Machida Zelvia,5,2,3,2,11,3,3,1,6,3,7,5,19,7,16,9
-Japan - J2 League,Mito Hollyhock,4,6,0,2,5,5,6,7,8,4,5,8,9,13,19,19
+Japan - J2 League,Mito Hollyhock,4,6,0,2,5,5,6,8,8,4,5,8,9,13,19,20
 Japan - J2 League,Oita Trinita,2,3,2,1,8,5,5,3,3,8,6,4,12,9,14,15
 Japan - J2 League,Omiya Ardija,2,2,1,8,3,4,3,6,1,1,8,8,6,14,12,15
-Japan - J2 League,R. Kumamoto,0,4,3,2,6,3,2,6,2,6,4,5,9,9,8,17
-Japan - J2 League,R. Yamaguchi,2,5,3,5,1,6,1,1,5,4,6,7,6,16,12,12
+Japan - J2 League,R. Kumamoto,0,4,4,2,7,3,3,6,2,6,4,5,11,9,9,17
+Japan - J2 League,R. Yamaguchi,2,5,3,5,1,6,1,1,6,4,6,7,6,16,13,12
 Japan - J2 League,Shimizu S-Pulse,6,2,6,3,9,1,4,3,4,2,7,2,21,6,15,7
 Japan - J2 League,Tochigi SC,5,1,3,0,3,2,3,2,5,5,7,7,11,3,15,14
-Japan - J2 League,Tokushima V.,2,0,3,2,3,1,1,6,3,1,6,10,8,3,10,17
-Japan - J2 League,Tokyo Verdy,1,1,2,3,2,2,1,2,4,4,5,2,5,6,10,8
-Japan - J2 League,Vegalta Sendai,3,6,3,4,6,3,0,6,1,2,6,4,12,13,7,12
-Japan - J2 League,Ventforet Kofu,2,4,2,3,5,3,3,4,6,2,8,3,9,10,17,9
-Japan - J2 League,V-V. Nagasaki,4,1,3,1,7,2,3,4,8,4,8,6,14,4,19,14
+Japan - J2 League,Tokushima V.,2,1,3,2,3,1,1,7,3,1,6,10,8,4,10,18
+Japan - J2 League,Tokyo Verdy,1,1,3,4,2,2,2,2,4,5,5,2,6,7,11,9
+Japan - J2 League,Vegalta Sendai,3,6,3,4,7,3,0,6,1,2,6,4,13,13,7,12
+Japan - J2 League,Ventforet Kofu,2,4,2,4,6,3,3,4,7,2,8,3,10,11,18,9
+Japan - J2 League,V-V. Nagasaki,4,1,3,1,7,4,3,4,8,5,8,9,14,6,19,18
 Japan - J2 League,Z. Kanazawa,3,5,6,2,3,8,4,0,2,3,4,4,12,15,10,7
-Japan - J3 League,AC Numazu,1,3,0,2,5,0,3,0,3,2,7,3,6,5,13,5
-Japan - J3 League,Ehime FC,0,2,5,4,2,4,5,3,7,3,6,4,7,10,18,10
+Japan - J3 League,AC Numazu,1,3,0,2,5,0,3,0,4,3,7,4,6,5,14,7
+Japan - J3 League,Ehime FC,0,3,5,4,2,4,5,4,7,3,6,4,7,11,18,11
 Japan - J3 League,FC Gifu,3,1,4,2,1,2,3,1,1,2,3,2,8,5,7,5
-Japan - J3 League,FC Imabari,5,3,2,1,4,1,2,2,1,1,6,2,11,5,9,5
+Japan - J3 League,FC Imabari,5,3,2,1,5,1,3,2,1,1,6,2,12,5,10,5
 Japan - J3 League,FC Ryukyu,1,6,1,5,6,3,2,4,0,3,7,2,8,14,9,9
-Japan - J3 League,Fukushima Utd,0,4,1,1,1,3,1,1,1,1,0,5,2,8,2,7
+Japan - J3 League,Fukushima Utd,0,4,1,2,1,3,1,1,2,1,0,5,2,9,3,7
 Japan - J3 League,G. Kitakyushu,3,3,0,1,2,2,3,4,2,3,3,4,5,6,8,11
 Japan - J3 League,Gainare Tottori,2,2,4,1,1,2,4,3,5,5,4,7,7,5,13,15
-Japan - J3 League,IG Morioka,2,4,2,1,0,2,1,5,2,3,5,7,4,7,8,15
+Japan - J3 League,IG Morioka,2,4,3,1,0,2,1,5,2,3,5,7,5,7,8,15
 Japan - J3 League,Kagoshima Utd,2,5,1,3,4,1,5,2,2,4,9,3,7,9,16,9
-Japan - J3 League,Kamatamare S.,3,0,1,1,1,2,2,4,4,1,1,2,5,3,7,7
+Japan - J3 League,Kamatamare S.,3,0,1,1,1,3,2,4,4,1,1,2,5,4,7,7
 Japan - J3 League,Kataller Toyama,1,1,4,0,9,2,1,8,2,2,6,2,14,3,9,12
 Japan - J3 League,Matsumoto Y.,2,1,3,2,5,1,3,3,4,3,5,8,10,4,12,14
-Japan - J3 League,Nagano Parceiro,4,3,1,4,3,2,1,3,5,7,2,7,8,9,8,17
-Japan - J3 League,Nara Club,1,3,2,0,1,5,2,2,3,1,3,1,4,8,8,4
+Japan - J3 League,Nagano Parceiro,5,3,2,4,3,2,2,3,5,7,2,8,10,9,9,18
+Japan - J3 League,Nara Club,1,3,2,0,1,5,2,2,3,1,3,2,4,8,8,5
 Japan - J3 League,Osaka,1,0,1,2,3,2,3,3,0,2,5,2,5,4,8,7
-Japan - J3 League,SC Sagamihara,1,2,0,1,2,5,3,2,3,1,4,4,3,8,10,7
+Japan - J3 League,SC Sagamihara,1,2,0,1,2,5,3,3,5,1,4,4,3,8,12,8
 Japan - J3 League,T. Miyazaki,2,3,1,1,1,3,1,3,3,0,2,4,4,7,6,7
 Japan - J3 League,V. Hachinohe,2,3,0,2,2,3,4,4,3,1,5,4,4,8,12,9
 Japan - J3 League,YSCC,4,2,1,4,2,5,2,4,3,3,12,6,7,11,17,13
 Kazakhstan - Premier League,Aksu,0,0,1,2,2,4,4,0,3,5,2,3,3,6,9,8
 Kazakhstan - Premier League,Aktobe,2,1,3,2,5,3,3,1,6,1,4,2,10,6,13,4
 Kazakhstan - Premier League,Atyrau,0,1,2,1,4,1,1,2,1,3,3,1,6,3,5,6
-Kazakhstan - Premier League,FC Astana,3,1,6,1,1,3,0,3,4,0,3,5,10,5,7,8
+Kazakhstan - Premier League,FC Astana,4,1,8,1,1,3,0,4,4,0,5,6,13,5,9,10
 Kazakhstan - Premier League,Kairat Almaty,3,2,3,1,6,5,1,3,4,2,4,3,12,8,9,8
-Kazakhstan - Premier League,Kaisar K.,1,3,1,2,3,3,1,2,2,2,1,2,5,8,4,6
+Kazakhstan - Premier League,Kaisar K.,1,3,1,3,3,3,3,2,2,2,2,2,5,9,7,6
 Kazakhstan - Premier League,Kaspiy Aktau,0,1,4,1,3,3,0,5,4,1,2,7,7,5,6,13
-Kazakhstan - Premier League,Kyzylzhar,3,1,2,1,1,0,0,0,2,1,1,1,6,2,3,2
-Kazakhstan - Premier League,Maqtaaral,5,2,0,4,3,4,1,1,0,1,5,2,8,10,6,4
+Kazakhstan - Premier League,Kyzylzhar,3,1,2,1,1,1,0,0,3,1,1,1,6,3,4,2
+Kazakhstan - Premier League,Maqtaaral,6,2,0,4,3,4,1,1,0,1,6,2,9,10,7,4
 Kazakhstan - Premier League,Okzhetpes,2,1,3,1,0,4,2,2,0,3,3,3,5,6,5,8
-Kazakhstan - Premier League,Ordabasy,1,0,4,2,4,0,4,1,3,2,6,0,9,2,13,3
+Kazakhstan - Premier League,Ordabasy,1,0,4,2,4,1,4,2,4,2,7,0,9,3,15,4
 Kazakhstan - Premier League,S. Karagandy,1,1,1,2,5,1,1,3,4,3,3,2,7,4,8,8
-Kazakhstan - Premier League,Tobol,2,1,1,1,1,0,2,1,3,5,5,2,4,2,10,8
+Kazakhstan - Premier League,Tobol,2,1,1,1,2,1,2,2,3,5,5,2,5,3,10,9
 Kazakhstan - Premier League,Zhetysu,2,3,0,1,3,7,0,1,0,2,4,5,5,11,4,8
 Lithuania - A Lyga,Banga,2,5,0,4,1,6,1,1,2,7,4,4,3,15,7,12
-Lithuania - A Lyga,Dainava,0,0,0,3,2,2,3,2,3,2,8,6,2,5,14,10
-Lithuania - A Lyga,Dziugas Telsiai,3,4,1,2,1,4,0,5,1,3,6,5,5,10,7,13
+Lithuania - A Lyga,Dainava,0,0,0,4,2,2,3,2,3,2,8,6,2,6,14,10
+Lithuania - A Lyga,Dziugas Telsiai,3,4,1,2,1,4,0,5,1,3,6,6,5,10,7,14
 Lithuania - A Lyga,FA Siauliai,2,1,3,1,5,3,3,2,3,1,5,2,10,5,11,5
-Lithuania - A Lyga,Hegelmann L.,1,0,5,1,9,3,3,2,3,5,7,2,15,4,13,9
-Lithuania - A Lyga,Kauno Zalgiris,1,1,2,5,4,2,4,2,2,2,7,2,7,8,13,6
-Lithuania - A Lyga,Panevezys,2,2,1,0,4,1,5,1,5,0,10,1,7,3,20,2
+Lithuania - A Lyga,Hegelmann L.,1,0,6,1,9,3,4,3,4,5,8,2,16,4,16,10
+Lithuania - A Lyga,Kauno Zalgiris,2,1,2,5,4,2,4,2,2,3,7,2,8,8,13,7
+Lithuania - A Lyga,Panevezys,2,2,2,0,5,2,5,1,5,0,10,1,9,4,20,2
 Lithuania - A Lyga,Riteriai,1,4,2,5,1,4,1,5,0,4,2,6,4,13,3,15
 Lithuania - A Lyga,Suduva,1,3,2,2,2,2,3,3,3,2,3,7,5,7,9,12
-Lithuania - A Lyga,Zalgiris,5,2,2,2,6,1,5,0,8,3,6,2,13,5,19,5
-Malaysia - Super League,Johor Darul,5,0,7,0,7,0,6,1,4,1,11,0,19,0,21,2
+Lithuania - A Lyga,Zalgiris,5,2,2,2,6,2,5,0,8,4,6,2,13,6,19,6
+Malaysia - Super League,Johor Darul,5,0,7,0,9,0,8,1,4,1,11,0,21,0,23,2
 Malaysia - Super League,Kedah,1,2,6,0,3,0,6,3,5,3,4,1,10,2,15,7
 Malaysia - Super League,Kelantan,4,5,2,3,3,9,1,9,0,8,2,6,9,17,3,23
 Malaysia - Super League,Kelantan United,0,3,3,7,1,6,3,3,4,3,3,7,4,16,10,13
@@ -785,7 +786,7 @@ Malaysia - Super League,Perak,4,3,1,4,1,4,1,5,2,7,0,5,6,11,3,17
 Malaysia - Super League,Pulau Pinang,2,5,3,3,5,3,3,1,1,1,5,3,10,11,9,5
 Malaysia - Super League,Sabah,9,1,6,2,7,1,6,5,6,4,6,6,22,4,18,15
 Malaysia - Super League,Selangor,0,1,7,1,4,1,3,1,1,3,8,3,11,3,12,7
-Malaysia - Super League,Terengganu,1,0,6,1,1,2,1,0,3,1,3,3,8,3,7,4
+Malaysia - Super League,Terengganu,1,0,6,2,1,3,1,1,3,1,3,4,8,5,7,6
 Malta - Premier League,Balzan,3,5,3,4,4,5,3,2,2,2,1,2,10,14,6,6
 Malta - Premier League,Birkirkara,5,1,9,0,3,3,3,1,5,1,4,2,17,4,12,4
 Malta - Premier League,Floriana,3,2,2,1,1,1,2,3,1,3,4,2,6,4,7,8
@@ -800,24 +801,24 @@ Malta - Premier League,Santa Lucia,2,1,0,4,1,3,0,4,0,8,6,3,3,8,6,15
 Malta - Premier League,Sirens,4,5,2,2,3,6,2,4,3,4,4,1,9,13,9,9
 Malta - Premier League,Valletta,0,2,1,3,2,0,1,0,2,1,1,1,3,5,4,2
 Malta - Premier League,Zebbug Rangers,4,3,0,4,1,4,1,6,2,4,4,6,5,11,7,16
-Mexico - Liga MX - Apertura,A. San Luis,1,0,0,1,3,1,5,0,1,0,0,0,4,2,6,0
-Mexico - Liga MX - Apertura,Atlas,1,0,0,0,2,0,0,0,1,0,0,0,3,0,1,0
+Mexico - Liga MX - Apertura,A. San Luis,1,0,1,1,4,1,5,1,3,1,0,2,6,2,8,4
+Mexico - Liga MX - Apertura,Atlas,1,2,0,0,3,0,1,0,1,1,0,0,4,2,2,1
 Mexico - Liga MX - Apertura,CF America,1,1,2,1,5,0,0,2,3,0,2,2,8,2,5,4
-Mexico - Liga MX - Apertura,Club Leon,0,2,2,1,2,0,1,0,2,0,1,1,4,3,4,1
-Mexico - Liga MX - Apertura,Cruz Azul,1,2,1,0,1,3,0,0,0,1,1,1,3,5,1,2
-Mexico - Liga MX - Apertura,Guadalajara,0,1,1,0,2,2,0,0,2,0,2,0,3,3,4,0
-Mexico - Liga MX - Apertura,Juarez,2,0,0,1,3,2,1,1,0,0,3,0,5,3,4,1
+Mexico - Liga MX - Apertura,Club Leon,0,2,2,1,2,0,1,0,3,0,1,1,4,3,5,1
+Mexico - Liga MX - Apertura,Cruz Azul,1,2,1,0,2,3,0,1,0,1,1,3,4,5,1,5
+Mexico - Liga MX - Apertura,Guadalajara,0,1,1,0,2,4,0,0,2,0,3,1,3,5,5,1
+Mexico - Liga MX - Apertura,Juarez,2,1,0,1,3,2,1,2,1,0,3,0,5,4,5,2
 Mexico - Liga MX - Apertura,Mazatlan,1,0,0,0,1,1,1,2,1,0,0,3,2,1,2,5
 Mexico - Liga MX - Apertura,Monterrey,1,1,0,0,3,1,0,1,0,0,1,0,4,2,1,1
 Mexico - Liga MX - Apertura,Necaxa,0,1,1,0,0,1,0,1,0,2,1,1,1,2,1,4
 Mexico - Liga MX - Apertura,Pachuca,0,0,0,1,2,0,0,2,2,0,1,2,2,1,3,4
-Mexico - Liga MX - Apertura,Puebla,2,0,1,2,2,1,1,0,0,1,1,1,5,3,2,2
+Mexico - Liga MX - Apertura,Puebla,2,1,1,2,2,1,1,0,0,2,1,1,5,4,2,3
 Mexico - Liga MX - Apertura,Pumas UNAM,0,1,1,0,0,1,1,0,1,0,3,2,1,2,5,2
-Mexico - Liga MX - Apertura,Queretaro,0,1,0,0,1,1,0,1,0,0,2,1,1,2,2,2
-Mexico - Liga MX - Apertura,Santos Laguna,1,0,0,0,1,1,1,0,1,0,0,3,2,1,2,3
-Mexico - Liga MX - Apertura,Tigres,2,1,1,0,1,0,2,2,1,0,3,0,4,1,6,2
-Mexico - Liga MX - Apertura,Tijuana,1,1,2,1,1,1,2,0,0,1,1,2,4,3,3,3
-Mexico - Liga MX - Apertura,Toluca,0,0,4,1,0,0,2,0,2,1,0,2,4,1,4,3
+Mexico - Liga MX - Apertura,Queretaro,1,1,0,0,1,2,1,2,0,0,2,2,2,3,3,4
+Mexico - Liga MX - Apertura,Santos Laguna,1,0,0,0,1,2,1,2,2,2,1,3,2,2,4,7
+Mexico - Liga MX - Apertura,Tigres,2,1,2,0,1,0,3,2,2,0,3,0,5,1,8,2
+Mexico - Liga MX - Apertura,Tijuana,1,1,2,2,2,1,5,0,1,1,1,2,5,4,7,3
+Mexico - Liga MX - Apertura,Toluca,0,0,4,2,0,0,3,0,2,1,0,2,4,2,5,3
 Mexico - Liga MX - Clausura,A. San Luis,0,1,0,0,4,1,3,2,1,1,2,0,4,2,6,3
 Mexico - Liga MX - Clausura,Atlas,1,1,1,2,4,4,1,3,4,2,2,1,6,7,7,6
 Mexico - Liga MX - Clausura,CF America,0,2,2,2,6,1,3,1,4,2,2,3,8,5,9,6
@@ -836,87 +837,87 @@ Mexico - Liga MX - Clausura,Santos Laguna,0,2,3,1,4,4,2,3,2,0,1,10,7,7,5,13
 Mexico - Liga MX - Clausura,Tigres,1,2,1,2,2,3,2,0,0,2,5,1,4,7,7,3
 Mexico - Liga MX - Clausura,Tijuana,1,0,2,3,2,2,2,2,0,0,3,1,5,5,5,3
 Mexico - Liga MX - Clausura,Toluca,2,0,3,2,6,1,3,0,2,1,2,3,11,3,7,4
-Netherlands - Eredivisie,Ajax Amsterdam,0,0,0,0,1,1,0,0,1,0,2,0,1,1,3,0
-Netherlands - Eredivisie,Almere City,0,1,0,0,0,0,0,1,1,1,1,3,0,1,2,5
-Netherlands - Eredivisie,AZ Alkmaar,2,0,2,0,0,0,1,0,0,1,2,0,4,0,3,1
+Netherlands - Eredivisie,Ajax Amsterdam,0,1,0,1,1,2,0,1,1,0,2,0,1,4,3,1
+Netherlands - Eredivisie,Almere City,0,1,0,1,0,1,0,1,1,2,1,4,0,3,2,7
+Netherlands - Eredivisie,AZ Alkmaar,3,0,2,0,0,0,1,1,0,1,2,0,5,0,3,2
 Netherlands - Eredivisie,Excelsior,0,0,1,1,1,0,1,0,1,2,0,1,2,1,2,3
-Netherlands - Eredivisie,FC Twente,2,0,1,0,0,2,0,0,0,0,3,0,3,2,3,0
+Netherlands - Eredivisie,FC Twente,2,0,1,0,1,2,0,0,0,0,3,0,4,2,3,0
 Netherlands - Eredivisie,FC Utrecht,0,1,1,1,0,0,0,1,0,2,0,2,1,2,0,5
-Netherlands - Eredivisie,FC Volendam,1,0,0,0,0,1,0,1,0,0,0,2,1,1,0,3
+Netherlands - Eredivisie,FC Volendam,1,0,0,0,0,1,0,3,1,0,1,2,1,1,2,5
 Netherlands - Eredivisie,Feyenoord,3,0,3,1,0,0,2,0,3,0,1,1,6,1,6,1
 Netherlands - Eredivisie,Fortuna Sittard,1,0,1,0,0,2,1,0,1,0,1,0,2,2,3,0
-Netherlands - Eredivisie,Go Ahead Eagles,1,0,1,0,3,1,0,0,1,1,1,1,5,1,2,2
-Netherlands - Eredivisie,Heerenveen,0,0,2,0,1,1,0,2,1,1,0,0,3,1,1,3
+Netherlands - Eredivisie,Go Ahead Eagles,1,0,1,0,4,1,0,0,1,1,3,1,6,1,4,2
+Netherlands - Eredivisie,Heerenveen,0,0,2,1,1,2,0,2,1,1,0,1,3,3,1,4
 Netherlands - Eredivisie,Heracles Almelo,0,1,0,2,0,1,2,0,3,0,1,1,0,4,6,1
-Netherlands - Eredivisie,NEC Nijmegen,0,1,1,0,2,0,1,1,0,1,2,1,3,1,3,3
-Netherlands - Eredivisie,PEC Zwolle,0,1,0,0,0,0,1,0,1,2,1,0,0,1,3,2
-Netherlands - Eredivisie,PSV Eindhoven,0,0,0,0,3,0,1,0,0,0,2,0,3,0,3,0
-Netherlands - Eredivisie,RKC Waalwijk,0,0,0,0,1,1,0,3,0,1,0,2,1,1,0,6
-Netherlands - Eredivisie,Sparta,0,0,0,0,1,0,1,1,0,0,1,2,1,0,2,3
+Netherlands - Eredivisie,NEC Nijmegen,0,1,1,0,4,0,2,1,0,1,2,1,5,1,4,3
+Netherlands - Eredivisie,PEC Zwolle,0,2,0,0,0,0,1,1,1,2,1,1,0,2,3,4
+Netherlands - Eredivisie,PSV Eindhoven,0,0,1,0,3,0,3,0,0,0,2,0,4,0,5,0
+Netherlands - Eredivisie,RKC Waalwijk,0,0,0,0,1,1,0,3,0,1,1,2,1,1,1,6
+Netherlands - Eredivisie,Sparta,1,0,0,0,1,0,1,1,0,0,1,2,2,0,2,3
 Netherlands - Eredivisie,Vitesse Arnhem,0,0,1,0,0,1,0,2,0,3,0,1,1,1,0,6
-Netherlands - Eerste Divisie,ADO Den Haag,0,2,1,1,1,1,2,0,0,0,0,0,2,4,2,0
-Netherlands - Eerste Divisie,Cambuur,2,1,3,0,0,4,1,0,2,0,2,0,5,5,5,0
+Netherlands - Eerste Divisie,ADO Den Haag,0,2,2,1,1,1,2,1,0,0,0,0,3,4,2,1
+Netherlands - Eerste Divisie,Cambuur,2,1,3,2,0,4,2,0,3,1,3,1,5,7,8,2
 Netherlands - Eerste Divisie,De Graafschap,0,0,0,0,1,0,1,0,0,0,0,2,1,0,1,2
 Netherlands - Eerste Divisie,FC Den Bosch,1,0,0,2,0,0,0,2,3,1,2,1,1,2,5,4
 Netherlands - Eerste Divisie,FC Dordrecht,0,1,0,1,1,1,1,1,4,1,1,2,1,3,6,4
-Netherlands - Eerste Divisie,FC Eindhoven,0,0,2,1,0,1,1,0,0,0,1,0,2,2,2,0
+Netherlands - Eerste Divisie,FC Eindhoven,0,0,2,2,0,1,1,0,0,0,2,0,2,3,3,0
 Netherlands - Eerste Divisie,FC Emmen,1,1,0,2,2,2,0,0,2,0,1,1,3,5,3,1
-Netherlands - Eerste Divisie,FC Groningen,1,0,1,1,3,0,1,0,1,0,1,1,5,1,3,1
-Netherlands - Eerste Divisie,Helmond Sport,0,0,1,0,0,0,2,0,0,1,1,1,1,0,3,2
-Netherlands - Eerste Divisie,Jong Ajax,1,1,1,0,0,0,0,2,0,1,2,1,2,1,2,4
-Netherlands - Eerste Divisie,Jong AZ,2,1,1,0,1,1,1,0,1,0,3,1,4,2,5,1
+Netherlands - Eerste Divisie,FC Groningen,1,0,1,1,3,0,1,1,1,1,1,2,5,1,3,4
+Netherlands - Eerste Divisie,Helmond Sport,0,0,1,0,0,0,2,0,0,2,2,2,1,0,4,4
+Netherlands - Eerste Divisie,Jong Ajax,1,1,1,0,1,0,0,2,0,1,2,2,3,1,2,5
+Netherlands - Eerste Divisie,Jong AZ,2,2,1,0,1,1,1,0,1,1,3,1,4,3,5,2
 Netherlands - Eerste Divisie,Jong PSV,0,0,1,1,1,0,0,1,2,0,0,2,2,1,2,3
-Netherlands - Eerste Divisie,Jong Utrecht,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0
-Netherlands - Eerste Divisie,MVV Maastricht,2,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1
-Netherlands - Eerste Divisie,NAC Breda,0,1,0,1,3,0,0,0,0,1,0,1,3,2,0,2
-Netherlands - Eerste Divisie,Roda JC,2,0,1,0,1,0,0,1,1,0,4,0,4,0,5,1
-Netherlands - Eerste Divisie,Telstar,1,0,0,1,0,1,1,1,0,2,1,1,1,2,2,4
-Netherlands - Eerste Divisie,TOP Oss,2,0,1,0,0,2,0,1,1,1,0,0,3,2,1,2
+Netherlands - Eerste Divisie,Jong Utrecht,1,0,0,1,2,0,0,1,0,0,2,0,3,1,2,1
+Netherlands - Eerste Divisie,MVV Maastricht,2,2,1,0,0,2,0,1,0,0,0,1,3,4,0,2
+Netherlands - Eerste Divisie,NAC Breda,1,2,0,1,3,0,0,1,0,1,0,2,4,3,0,4
+Netherlands - Eerste Divisie,Roda JC,2,0,1,0,2,0,0,1,1,0,7,1,5,0,8,2
+Netherlands - Eerste Divisie,Telstar,2,1,0,1,0,1,2,1,0,2,2,2,2,3,4,5
+Netherlands - Eerste Divisie,TOP Oss,2,0,1,0,0,2,0,1,1,2,0,0,3,2,1,3
 Netherlands - Eerste Divisie,VVV,3,0,1,0,2,1,1,3,1,0,2,1,6,1,4,4
 Netherlands - Eerste Divisie,Willem II,0,1,0,2,2,0,1,1,2,1,0,0,2,3,3,2
-Northern Ireland - NIFL Premiership,Ballymena Utd,0,1,0,2,1,0,0,2,0,1,1,2,1,3,1,5
+Northern Ireland - NIFL Premiership,Ballymena Utd,0,1,0,3,1,0,0,2,0,2,1,2,1,4,1,6
 Northern Ireland - NIFL Premiership,Carrick Rangers,1,1,2,1,0,2,0,0,0,0,1,0,3,4,1,0
-Northern Ireland - NIFL Premiership,Cliftonville,2,0,2,0,3,1,0,0,1,0,0,0,7,1,1,0
+Northern Ireland - NIFL Premiership,Cliftonville,2,0,2,0,4,1,2,0,2,0,1,0,8,1,5,0
 Northern Ireland - NIFL Premiership,Coleraine,0,2,1,0,1,0,2,0,1,2,1,1,2,2,4,3
-Northern Ireland - NIFL Premiership,Crusaders,1,0,3,1,1,1,4,1,2,0,1,1,5,2,7,2
+Northern Ireland - NIFL Premiership,Crusaders,1,0,3,1,2,1,5,1,2,0,1,1,6,2,8,2
 Northern Ireland - NIFL Premiership,Dungannon,1,1,0,1,1,1,1,1,1,2,4,2,2,3,6,5
 Northern Ireland - NIFL Premiership,Glenavon,1,0,0,0,0,1,0,1,1,1,2,2,1,1,3,4
-Northern Ireland - NIFL Premiership,Glentoran,0,0,1,1,0,0,0,1,1,1,2,1,1,1,3,3
-Northern Ireland - NIFL Premiership,Larne,2,0,1,0,2,1,2,0,1,0,5,3,5,1,8,3
-Northern Ireland - NIFL Premiership,Linfield,0,0,2,2,2,1,1,0,3,1,1,2,4,3,5,3
-Northern Ireland - NIFL Premiership,Loughgall,1,1,1,2,1,0,0,1,0,1,0,0,3,3,0,2
-Northern Ireland - NIFL Premiership,Newry City,0,4,1,4,1,2,0,2,0,1,0,1,2,10,0,4
-Norway - Eliteserien,Aalesund,0,2,1,1,2,2,2,5,2,3,2,4,3,5,6,12
-Norway - Eliteserien,Bodo / Glimt,3,3,3,2,1,2,5,1,3,1,8,1,7,7,16,3
-Norway - Eliteserien,Brann,2,1,4,2,5,1,5,1,3,2,5,2,11,4,13,5
-Norway - Eliteserien,HamKam,2,1,2,2,3,1,1,4,5,5,4,3,7,4,10,12
+Northern Ireland - NIFL Premiership,Glentoran,0,0,2,1,0,0,0,1,1,1,2,3,2,1,3,5
+Northern Ireland - NIFL Premiership,Larne,3,0,1,0,4,1,2,1,1,0,6,3,8,1,9,4
+Northern Ireland - NIFL Premiership,Linfield,1,0,3,2,2,1,1,0,3,1,1,2,6,3,5,3
+Northern Ireland - NIFL Premiership,Loughgall,1,1,1,2,1,1,0,1,0,2,1,0,3,4,1,3
+Northern Ireland - NIFL Premiership,Newry City,1,4,1,5,1,3,0,2,0,1,1,1,3,12,1,4
+Norway - Eliteserien,Aalesund,0,2,2,1,2,3,2,5,2,3,2,4,4,6,6,12
+Norway - Eliteserien,Bodo / Glimt,5,4,3,2,1,2,6,1,3,2,9,1,9,8,18,4
+Norway - Eliteserien,Brann,2,1,4,2,7,1,5,1,3,2,5,3,13,4,13,6
+Norway - Eliteserien,HamKam,2,1,2,3,3,1,2,4,5,5,4,3,7,5,11,12
 Norway - Eliteserien,Haugesund,3,1,1,2,3,1,2,3,1,6,4,4,7,4,7,13
-Norway - Eliteserien,Lillestrom,3,2,5,1,4,4,2,5,1,3,9,2,12,7,12,10
+Norway - Eliteserien,Lillestrom,3,2,5,1,5,4,3,5,2,3,9,2,13,7,14,10
 Norway - Eliteserien,Molde,3,0,4,2,4,3,4,0,5,1,6,2,11,5,15,3
-Norway - Eliteserien,Odd,0,1,1,1,5,2,2,3,1,1,4,2,6,4,7,6
+Norway - Eliteserien,Odd,0,1,1,1,5,2,2,4,2,1,4,2,6,4,8,7
 Norway - Eliteserien,Rosenborg,2,3,2,3,2,3,6,1,4,2,3,3,6,9,13,6
 Norway - Eliteserien,Sandefjord,4,3,1,0,4,2,4,1,2,0,5,5,9,5,11,6
 Norway - Eliteserien,Sarpsborg 08,5,4,4,1,4,4,3,1,3,2,5,3,13,9,11,6
 Norway - Eliteserien,Stabaek,3,1,1,2,1,0,0,0,1,1,3,4,5,3,4,5
-Norway - Eliteserien,Stromsgodset,3,2,2,3,3,2,1,2,1,2,4,1,8,7,6,5
+Norway - Eliteserien,Stromsgodset,4,2,2,3,3,3,1,2,1,2,4,1,9,8,6,5
 Norway - Eliteserien,Tromso,4,2,1,2,3,1,4,2,3,3,5,1,8,5,12,6
 Norway - Eliteserien,Valerenga,1,4,6,2,2,3,3,4,1,5,3,5,9,9,7,14
-Norway - Eliteserien,Viking,3,2,1,3,1,4,4,0,11,3,9,3,5,9,24,6
+Norway - Eliteserien,Viking,4,2,2,4,1,5,5,0,11,3,10,4,7,11,26,7
 Norway - 1st Division,Asane,3,1,5,2,1,3,3,3,3,4,3,3,9,6,9,10
-Norway - 1st Division,Bryne,3,2,2,2,5,1,2,2,2,1,6,2,10,5,10,5
+Norway - 1st Division,Bryne,3,2,2,2,5,1,3,2,2,1,6,3,10,5,11,6
 Norway - 1st Division,Fredrikstad,2,1,4,1,4,0,3,2,5,0,3,3,10,2,11,5
-Norway - 1st Division,Hodd,3,1,1,1,2,1,0,2,1,0,2,3,6,3,3,5
+Norway - 1st Division,Hodd,3,2,1,2,3,1,1,3,2,0,2,3,7,5,5,6
 Norway - 1st Division,Jerv,1,5,1,1,1,4,2,5,6,2,6,3,3,10,14,10
-Norway - 1st Division,KFUM Oslo,2,2,2,1,4,2,6,3,2,0,8,4,8,5,16,7
+Norway - 1st Division,KFUM Oslo,2,2,2,1,4,2,7,3,2,0,8,4,8,5,17,7
 Norway - 1st Division,Kongsvinger,0,2,5,2,2,2,5,3,4,2,6,2,7,6,15,7
 Norway - 1st Division,Kristiansund,2,1,2,1,5,3,4,2,4,2,7,2,9,5,15,6
-Norway - 1st Division,Mjondalen,1,4,3,4,3,2,2,1,4,3,4,2,7,10,10,6
+Norway - 1st Division,Mjondalen,1,4,3,4,3,2,2,1,4,3,3,2,7,10,9,6
 Norway - 1st Division,Moss,1,1,1,4,3,2,4,2,2,1,4,0,5,7,10,3
-Norway - 1st Division,Ranheim,3,1,1,7,4,5,6,3,0,3,3,6,8,13,9,12
-Norway - 1st Division,Raufoss,5,0,2,1,3,0,3,1,4,4,1,4,10,1,8,9
+Norway - 1st Division,Ranheim,3,1,1,7,4,5,6,3,0,5,4,6,8,13,10,14
+Norway - 1st Division,Raufoss,5,0,2,1,3,0,3,1,5,5,1,4,10,1,9,10
 Norway - 1st Division,Sandnes Ulf,2,0,1,2,5,4,2,4,4,3,5,4,8,6,11,11
-Norway - 1st Division,Skeid,2,1,2,6,2,3,2,3,2,2,1,10,6,10,5,15
-Norway - 1st Division,Sogndal,1,1,2,1,6,1,4,1,3,4,3,3,9,3,10,8
+Norway - 1st Division,Skeid,2,1,3,7,2,3,2,4,2,2,1,10,7,11,5,16
+Norway - 1st Division,Sogndal,1,1,2,1,6,1,5,1,3,4,3,4,9,3,11,9
 Norway - 1st Division,Start,0,2,5,2,2,1,5,2,5,0,10,5,7,5,20,7
 Paraguay - Primera Div. - Apertura,Cerro Porteno,2,1,3,2,5,0,4,3,3,2,4,5,10,3,11,10
 Paraguay - Primera Div. - Apertura,G. Caballero,1,0,5,4,2,4,1,2,2,2,2,3,8,8,5,7
@@ -949,59 +950,59 @@ Peru - Liga 1 - Apertura,Sport Boys,1,1,0,1,1,2,1,2,2,2,5,5,2,4,8,9
 Peru - Liga 1 - Apertura,Sport Huancayo,1,2,4,1,1,2,4,3,2,1,5,2,6,5,11,6
 Peru - Liga 1 - Apertura,Union Comercio,4,4,1,2,2,2,0,3,4,4,5,3,7,8,9,10
 Peru - Liga 1 - Apertura,Universitario,2,0,2,1,4,1,4,2,6,0,3,0,8,2,13,2
-Poland - Ekstraklasa,Cracovia Krakow,1,0,0,0,2,0,0,0,0,0,0,2,3,0,0,2
+Poland - Ekstraklasa,Cracovia Krakow,1,1,0,1,2,0,0,1,0,1,1,3,3,2,1,5
 Poland - Ekstraklasa,Gornik Zabrze,0,0,1,0,0,0,1,1,0,1,0,1,1,0,1,3
 Poland - Ekstraklasa,Jagiellonia,1,2,2,0,3,2,1,0,2,0,4,1,6,4,7,1
-Poland - Ekstraklasa,Korona Kielce,1,0,1,0,0,0,0,1,0,0,1,1,2,0,1,2
-Poland - Ekstraklasa,Lech Poznan,0,0,0,0,1,1,0,0,1,0,1,0,1,1,2,0
-Poland - Ekstraklasa,Legia Warsaw,1,0,3,0,1,1,1,0,3,0,1,0,5,1,5,0
-Poland - Ekstraklasa,LKS Lodz,0,1,1,0,0,0,0,0,0,1,2,1,1,1,2,2
-Poland - Ekstraklasa,Piast Gliwice,0,0,0,0,2,0,0,2,1,1,1,1,2,0,2,4
-Poland - Ekstraklasa,Pogon Szczecin,0,1,0,3,1,1,1,0,2,0,1,1,1,5,4,1
+Poland - Ekstraklasa,Korona Kielce,2,0,1,0,0,1,0,1,0,0,1,1,3,1,1,2
+Poland - Ekstraklasa,Lech Poznan,1,1,1,1,3,1,0,0,2,0,2,0,5,3,4,0
+Poland - Ekstraklasa,Legia Warsaw,2,1,3,0,1,1,1,0,3,0,2,0,6,2,6,0
+Poland - Ekstraklasa,LKS Lodz,0,1,2,0,0,1,0,0,0,1,3,2,2,2,3,3
+Poland - Ekstraklasa,Piast Gliwice,0,0,1,0,3,0,0,3,2,1,1,2,4,0,3,6
+Poland - Ekstraklasa,Pogon Szczecin,0,1,1,3,1,2,2,0,3,1,1,3,2,6,6,4
 Poland - Ekstraklasa,Puszcza Niepolo,0,0,3,0,0,1,0,1,2,0,0,3,3,1,2,4
-Poland - Ekstraklasa,Radomiak Radom,1,0,1,2,0,0,1,1,0,1,1,0,2,2,2,2
+Poland - Ekstraklasa,Radomiak Radom,1,0,1,2,0,0,2,2,0,1,1,0,2,2,3,3
 Poland - Ekstraklasa,Rakow C.,1,1,2,0,2,0,1,1,3,0,1,0,5,1,5,1
-Poland - Ekstraklasa,Ruch Chorzow,1,0,1,0,0,1,0,0,1,0,0,1,2,1,1,1
-Poland - Ekstraklasa,Slask Wroclaw,0,0,1,0,1,0,1,3,1,1,2,0,2,0,4,4
-Poland - Ekstraklasa,Stal Mielec,0,0,3,1,4,0,2,1,2,1,0,2,7,1,4,4
+Poland - Ekstraklasa,Ruch Chorzow,2,0,1,2,0,2,0,0,2,1,1,2,3,4,3,3
+Poland - Ekstraklasa,Slask Wroclaw,0,0,1,0,2,0,1,3,1,1,2,0,3,0,4,4
+Poland - Ekstraklasa,Stal Mielec,0,0,3,3,5,0,2,1,2,2,1,2,8,3,5,5
 Poland - Ekstraklasa,Warta Poznan,0,0,1,2,2,1,0,0,0,0,1,2,3,3,1,2
 Poland - Ekstraklasa,Widzew Lodz,0,2,0,0,3,0,1,0,1,0,1,2,3,2,3,2
-Poland - Ekstraklasa,Zaglebie Lubin,0,0,0,1,1,0,1,0,1,0,2,1,1,1,4,1
-Poland - 1. Liga,Arka Gdynia,1,1,1,1,0,2,1,0,1,1,4,1,2,4,6,2
-Poland - 1. Liga,Chrobry Glogow,1,1,0,1,0,3,1,2,1,4,1,2,1,5,3,8
+Poland - Ekstraklasa,Zaglebie Lubin,0,0,0,1,1,0,2,0,1,0,2,1,1,1,5,1
+Poland - 1. Liga,Arka Gdynia,1,1,1,1,1,2,1,0,2,1,4,1,3,4,7,2
+Poland - 1. Liga,Chrobry Glogow,1,1,0,1,1,3,1,2,1,4,1,2,2,5,3,8
 Poland - 1. Liga,Gornik Leczna,1,0,1,0,4,1,2,1,0,1,1,1,6,1,3,3
 Poland - 1. Liga,Katowice,1,0,2,1,2,1,1,1,2,0,2,0,5,2,5,1
-Poland - 1. Liga,Lechia Gdansk,0,0,1,0,1,0,0,0,0,0,2,1,2,0,2,1
-Poland - 1. Liga,Miedz Legnica,1,0,0,0,1,0,0,1,1,1,1,0,2,0,2,2
-Poland - 1. Liga,Motor Lublin,0,1,1,0,0,2,1,0,2,0,3,3,1,3,6,3
+Poland - 1. Liga,Lechia Gdansk,1,1,1,0,1,0,1,0,1,0,4,1,3,1,6,1
+Poland - 1. Liga,Miedz Legnica,1,0,0,1,1,0,0,2,2,1,1,0,2,1,3,3
+Poland - 1. Liga,Motor Lublin,0,1,1,2,0,2,1,0,3,1,3,4,1,5,7,5
 Poland - 1. Liga,Odra Opole,0,0,0,0,0,0,2,0,1,0,2,2,0,0,5,2
-Poland - 1. Liga,Podbeskidzie,1,0,1,0,1,1,0,0,2,0,0,3,3,1,2,3
-Poland - 1. Liga,Polonia Warszaw,3,1,0,1,0,2,0,3,2,1,2,4,3,4,4,8
-Poland - 1. Liga,Resovia Rzeszow,0,0,2,0,0,1,1,2,0,0,0,2,2,1,1,4
+Poland - 1. Liga,Podbeskidzie,1,0,1,0,2,1,0,1,2,0,0,3,4,1,2,4
+Poland - 1. Liga,Polonia Warszaw,3,1,0,1,0,2,1,3,2,1,3,4,3,4,6,8
+Poland - 1. Liga,Resovia Rzeszow,0,0,2,1,1,1,1,2,0,0,0,2,3,2,1,4
 Poland - 1. Liga,Stal Rzeszow,0,3,0,0,3,3,0,3,1,1,3,2,3,6,4,6
 Poland - 1. Liga,T. Nieciecza,0,1,1,1,1,2,2,2,0,0,0,2,2,4,2,4
 Poland - 1. Liga,Tychy,1,0,1,0,1,0,0,0,0,0,0,0,3,0,0,0
 Poland - 1. Liga,Wisla Krakow,1,2,0,0,3,0,0,0,1,0,2,3,4,2,3,3
-Poland - 1. Liga,Wisla Plock,0,0,1,0,1,2,3,0,1,0,1,0,2,2,5,0
-Poland - 1. Liga,Z. Sosnowiec,0,0,1,1,1,0,1,0,1,1,2,2,2,1,4,3
-Poland - 1. Liga,Znicz Pruszkow,0,0,0,0,1,2,1,1,1,0,0,0,1,2,2,1
+Poland - 1. Liga,Wisla Plock,0,0,1,0,2,2,4,0,2,0,2,1,3,2,8,1
+Poland - 1. Liga,Z. Sosnowiec,1,1,1,1,1,0,1,0,1,2,2,3,3,2,4,5
+Poland - 1. Liga,Znicz Pruszkow,0,0,0,0,1,3,1,2,2,0,0,0,1,3,3,2
 Portugal - Liga Portugal,Arouca,0,2,1,0,0,0,1,1,1,1,2,1,1,2,4,3
-Portugal - Liga Portugal,Benfica,1,0,0,0,2,0,1,0,0,0,2,0,3,0,3,0
+Portugal - Liga Portugal,Benfica,1,0,0,0,2,0,1,0,1,0,2,0,3,0,4,0
 Portugal - Liga Portugal,Boavista,3,0,1,1,0,1,2,0,0,2,2,0,4,2,4,2
 Portugal - Liga Portugal,Casa Pia,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,2
-Portugal - Liga Portugal,Chaves,0,1,0,1,1,0,1,1,1,0,0,3,1,2,2,4
-Portugal - Liga Portugal,Estoril,0,1,0,0,1,1,1,0,0,0,1,0,1,2,2,0
-Portugal - Liga Portugal,Estrela Amadora,0,0,0,2,0,0,1,0,0,1,1,0,0,2,2,1
-Portugal - Liga Portugal,Famalicao,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+Portugal - Liga Portugal,Chaves,0,1,0,1,1,1,1,1,1,1,2,3,1,3,4,5
+Portugal - Liga Portugal,Estoril,0,1,0,0,1,1,2,0,1,1,1,1,1,2,4,2
+Portugal - Liga Portugal,Estrela Amadora,0,1,0,2,0,0,1,1,1,2,2,1,0,3,4,4
+Portugal - Liga Portugal,Famalicao,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0
 Portugal - Liga Portugal,Farense,1,1,3,0,2,0,2,1,0,1,0,1,6,1,2,3
-Portugal - Liga Portugal,FC Porto,1,0,0,0,0,1,0,0,0,0,2,1,1,1,2,1
+Portugal - Liga Portugal,FC Porto,2,0,0,0,0,2,0,0,0,0,3,1,2,2,3,1
 Portugal - Liga Portugal,Gil Vicente,2,0,0,1,3,0,3,2,2,1,2,2,5,1,7,5
 Portugal - Liga Portugal,Guimaraes,0,0,1,0,0,0,1,1,2,0,1,2,1,0,4,3
-Portugal - Liga Portugal,Moreirense,0,0,0,1,2,0,1,0,0,2,0,2,2,1,1,4
-Portugal - Liga Portugal,Portimonense,0,3,0,1,1,0,0,0,0,0,1,1,1,4,1,1
+Portugal - Liga Portugal,Moreirense,0,0,1,1,2,0,1,0,0,2,0,2,3,1,1,4
+Portugal - Liga Portugal,Portimonense,0,4,0,2,1,0,1,0,0,1,1,1,1,6,2,2
 Portugal - Liga Portugal,Rio Ave,0,1,0,0,0,0,2,0,1,0,1,2,0,1,4,2
-Portugal - Liga Portugal,Sporting Braga,1,0,0,1,0,0,0,0,0,1,1,1,1,1,1,2
-Portugal - Liga Portugal,Sporting CP,2,0,0,0,0,0,2,0,1,1,2,1,2,0,5,2
+Portugal - Liga Portugal,Sporting Braga,1,0,1,2,1,0,2,0,0,1,1,1,3,2,3,2
+Portugal - Liga Portugal,Sporting CP,3,0,1,0,0,0,2,0,1,1,2,1,4,0,5,2
 Portugal - Liga Portugal,Vizela,1,1,0,0,0,2,1,0,1,1,1,0,1,3,3,1
 Portugal - Liga Portugal 2,Academico Viseu,0,0,0,0,1,0,0,0,1,0,1,1,1,0,2,1
 Portugal - Liga Portugal 2,AVS,0,0,1,0,1,0,0,0,1,0,0,0,2,0,1,0
@@ -1020,34 +1021,34 @@ Portugal - Liga Portugal 2,Santa Clara,1,0,1,0,0,0,0,0,1,0,1,0,2,0,2,0
 Portugal - Liga Portugal 2,Tondela,0,0,0,1,2,0,1,1,0,0,1,2,2,1,2,3
 Portugal - Liga Portugal 2,Torreense,2,0,1,0,1,0,0,0,1,1,1,0,4,0,2,1
 Portugal - Liga Portugal 2,Uniao de Leiria,1,0,1,1,0,1,0,1,2,0,0,0,2,2,2,1
-Portugal - Liga Portugal 2,Vilaverdense,0,0,0,0,0,2,1,1,1,0,0,1,0,2,2,2
-Scotland - Premiership,Aberdeen,0,1,1,1,0,0,0,0,0,1,0,2,1,2,0,3
+Portugal - Liga Portugal 2,Vilaverdense,0,2,0,0,0,3,1,1,2,0,0,2,0,5,3,3
+Scotland - Premiership,Aberdeen,0,1,2,1,1,0,2,0,0,1,0,2,3,2,2,3
 Scotland - Premiership,Celtic,0,0,2,0,1,0,1,1,3,0,0,1,3,0,4,2
-Scotland - Premiership,Dundee FC,0,0,0,0,0,1,0,0,2,0,0,0,0,1,2,0
+Scotland - Premiership,Dundee FC,0,0,1,1,0,1,0,0,2,0,1,1,1,2,3,1
 Scotland - Premiership,Hearts,1,0,0,1,0,0,0,0,1,0,0,0,1,1,1,0
-Scotland - Premiership,Hibernian,0,2,0,1,0,0,0,0,2,2,2,1,0,3,4,3
+Scotland - Premiership,Hibernian,0,2,0,1,1,0,0,0,3,2,2,1,1,3,5,3
 Scotland - Premiership,Kilmarnock,0,1,0,0,0,0,0,2,2,0,1,0,0,1,3,2
-Scotland - Premiership,Livingston,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1
+Scotland - Premiership,Livingston,0,1,0,0,0,0,0,1,0,0,1,2,0,1,1,3
 Scotland - Premiership,Motherwell,0,1,0,0,0,0,1,1,1,0,2,1,0,1,4,2
-Scotland - Premiership,Rangers,1,0,0,0,0,1,0,0,0,0,3,0,1,1,3,0
+Scotland - Premiership,Rangers,1,0,1,0,0,1,0,0,0,0,3,0,2,1,3,0
 Scotland - Premiership,Ross County,0,0,0,2,1,0,2,0,0,1,0,0,1,2,2,1
 Scotland - Premiership,St. Johnstone,0,0,0,1,0,1,0,1,0,1,2,2,0,2,2,4
-Scotland - Premiership,St. Mirren,1,0,0,0,1,1,1,0,0,1,1,1,2,1,2,2
-Scotland - Championship,Airdrieonians,1,0,0,0,1,1,0,0,2,1,0,0,2,1,2,1
+Scotland - Premiership,St. Mirren,2,0,0,0,1,1,1,0,0,1,1,1,3,1,2,2
+Scotland - Championship,Airdrieonians,1,0,0,0,1,1,0,0,3,1,0,0,2,1,3,1
 Scotland - Championship,Arbroath,0,1,2,1,1,3,0,0,0,1,3,0,3,5,3,1
 Scotland - Championship,Ayr Utd,1,1,0,0,0,0,0,2,0,2,0,2,1,1,0,6
 Scotland - Championship,Dundee Utd,1,0,1,0,0,0,0,1,0,1,2,0,2,0,2,2
-Scotland - Championship,Dunfermline,0,0,1,1,0,1,0,0,1,0,0,0,1,2,1,0
+Scotland - Championship,Dunfermline,1,0,2,1,0,1,0,0,1,0,1,1,3,2,2,1
 Scotland - Championship,Greenock Morton,1,0,0,1,0,1,0,1,2,3,1,2,1,2,3,6
-Scotland - Championship,Inverness,1,0,0,0,0,1,0,1,0,0,1,1,1,1,1,2
-Scotland - Championship,Partick Thistle,1,0,2,0,1,1,1,0,0,0,0,2,4,1,1,2
-Scotland - Championship,Queen`s Park,1,0,0,0,0,0,0,1,1,2,0,0,1,0,1,3
+Scotland - Championship,Inverness,1,0,0,0,0,1,0,1,0,0,1,2,1,1,1,3
+Scotland - Championship,Partick Thistle,1,1,2,0,1,2,1,0,0,0,0,3,4,3,1,3
+Scotland - Championship,Queen`s Park,1,2,1,0,0,2,1,2,1,2,0,0,2,4,2,4
 Scotland - Championship,Raith Rovers,3,0,0,1,0,0,0,0,0,3,4,0,3,1,4,3
 Serbia - Super Liga,Backa Topola,3,0,0,0,2,2,0,1,1,0,5,3,5,2,6,4
 Serbia - Super Liga,Cukaricki,1,0,1,1,0,0,1,1,2,0,1,1,2,1,4,2
-Serbia - Super Liga,IMT N. Beograd,1,0,0,0,1,0,2,1,1,1,2,3,2,0,5,5
+Serbia - Super Liga,IMT N. Beograd,1,0,1,0,1,0,2,1,1,1,2,3,3,0,5,5
 Serbia - Super Liga,Javor Ivanjica,1,0,1,1,0,2,2,1,0,0,0,0,2,3,2,1
-Serbia - Super Liga,Mladost Lucani,2,2,0,0,2,2,0,0,0,2,1,1,4,4,1,3
+Serbia - Super Liga,Mladost Lucani,3,2,0,0,3,2,0,0,0,2,1,1,6,4,1,3
 Serbia - Super Liga,Napredak,1,0,1,1,0,0,0,0,0,1,0,1,2,1,0,2
 Serbia - Super Liga,Novi Pazar,2,1,0,0,2,0,0,1,2,0,2,3,4,1,4,4
 Serbia - Super Liga,Partizan,0,2,1,1,0,0,1,1,2,0,4,0,1,3,7,1
@@ -1055,274 +1056,274 @@ Serbia - Super Liga,Rad. Surdulica,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0
 Serbia - Super Liga,Radnicki 1923,0,0,0,0,1,0,0,1,1,1,1,0,1,0,2,2
 Serbia - Super Liga,Radnicki Nis,1,0,1,0,1,0,1,1,0,1,1,2,3,0,2,4
 Serbia - Super Liga,Red Star,3,0,2,0,4,0,1,0,2,0,2,1,9,0,5,1
-Serbia - Super Liga,Sp. Subotica,1,1,1,1,1,1,1,0,2,0,2,1,3,3,5,1
-Serbia - Super Liga,Vojvodina,1,1,0,0,1,1,1,2,1,1,1,0,2,2,3,3
+Serbia - Super Liga,Sp. Subotica,1,1,1,1,1,1,1,0,2,0,3,1,3,3,6,1
+Serbia - Super Liga,Vojvodina,2,1,0,1,1,2,1,2,2,1,3,0,3,4,6,3
 Serbia - Super Liga,Vozdovac,1,1,1,0,1,1,1,0,2,1,1,1,3,2,4,2
-Serbia - Super Liga,Z. Pancevo,0,1,1,1,1,1,0,1,0,0,0,1,2,3,0,2
-Slovakia - Fortuna Liga,Banska Bystrica,1,1,2,0,0,2,0,1,0,0,1,2,3,3,1,3
+Serbia - Super Liga,Z. Pancevo,0,1,1,2,2,1,0,1,0,0,0,2,3,4,0,3
+Slovakia - Fortuna Liga,Banska Bystrica,1,2,2,0,0,2,1,1,0,0,1,2,3,4,2,3
 Slovakia - Fortuna Liga,DAC Streda,2,0,2,0,1,0,2,2,1,1,1,2,5,0,4,5
-Slovakia - Fortuna Liga,FC Kosice,0,1,1,1,0,0,0,0,0,1,0,0,1,2,0,1
+Slovakia - Fortuna Liga,FC Kosice,0,1,1,2,0,1,0,0,0,1,0,1,1,4,0,2
 Slovakia - Fortuna Liga,Podbrezova,1,0,0,0,1,1,3,0,1,0,0,1,2,1,4,1
-Slovakia - Fortuna Liga,Ruzomberok,1,1,0,0,1,0,1,0,1,1,0,0,2,1,2,1
-Slovakia - Fortuna Liga,S. Bratislava,0,1,1,0,1,0,1,0,0,0,2,3,2,1,3,3
-Slovakia - Fortuna Liga,Skalica,0,0,0,1,0,2,3,0,1,0,1,0,0,3,5,0
-Slovakia - Fortuna Liga,Spartak Trnava,0,0,0,0,1,1,2,1,0,1,0,1,1,1,2,3
+Slovakia - Fortuna Liga,Ruzomberok,1,1,0,0,1,0,1,1,2,2,0,0,2,1,3,3
+Slovakia - Fortuna Liga,S. Bratislava,0,1,1,0,2,0,2,0,0,0,2,3,3,1,4,3
+Slovakia - Fortuna Liga,Skalica,0,0,0,1,0,3,3,0,1,0,1,0,0,4,5,0
+Slovakia - Fortuna Liga,Spartak Trnava,1,0,0,0,2,1,3,2,1,2,1,1,3,1,5,5
 Slovakia - Fortuna Liga,Trencin,0,0,2,0,3,0,0,0,1,0,1,1,5,0,2,1
-Slovakia - Fortuna Liga,Z. Michalovce,0,3,0,2,1,3,1,0,1,0,0,1,1,8,2,1
-Slovakia - Fortuna Liga,Zilina,1,2,1,2,3,1,0,2,2,0,5,2,5,5,7,4
+Slovakia - Fortuna Liga,Z. Michalovce,0,3,1,3,1,4,1,0,1,1,0,3,2,10,2,4
+Slovakia - Fortuna Liga,Zilina,2,2,2,2,3,1,0,3,3,2,7,2,7,5,10,7
 Slovakia - Fortuna Liga,Zlate Moravce,0,1,0,1,0,0,1,0,0,2,1,1,0,2,2,3
 South Africa - Premier Division ,AmaZulu,1,0,0,1,0,0,0,1,1,0,2,0,1,1,3,1
 South Africa - Premier Division ,Cape Town City,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0
-South Africa - Premier Division ,Cape Town Spurs,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,2
-South Africa - Premier Division ,Chippa Utd,0,0,1,1,0,3,1,1,1,1,0,0,1,4,2,2
+South Africa - Premier Division ,Cape Town Spurs,0,0,1,0,0,1,0,2,0,1,0,1,1,1,0,4
+South Africa - Premier Division ,Chippa Utd,0,0,1,1,0,3,1,1,1,1,1,0,1,4,3,2
 South Africa - Premier Division ,Golden Arrows,1,1,1,0,1,0,1,1,0,0,0,1,3,1,1,2
-South Africa - Premier Division ,Kaizer Chiefs,1,0,0,0,0,0,1,0,0,0,1,0,1,0,2,0
-South Africa - Premier Division ,Mamelodi S.,0,0,3,0,1,0,1,0,0,0,1,1,4,0,2,1
-South Africa - Premier Division ,Moroka Swallows,2,0,0,1,1,0,0,2,0,0,0,0,3,1,0,2
-South Africa - Premier Division ,Orlando Pirates,2,0,1,0,1,1,0,0,1,0,1,1,4,1,2,1
+South Africa - Premier Division ,Kaizer Chiefs,1,0,0,0,0,1,2,0,0,0,2,0,1,1,4,0
+South Africa - Premier Division ,Mamelodi S.,0,1,3,0,3,0,1,0,0,0,2,1,6,1,3,1
+South Africa - Premier Division ,Moroka Swallows,2,0,0,1,1,1,0,2,2,0,0,0,3,2,2,2
+South Africa - Premier Division ,Orlando Pirates,2,1,1,0,1,1,0,0,1,0,1,1,4,2,2,1
 South Africa - Premier Division ,Polokwane,1,1,0,0,1,0,0,1,1,0,1,1,2,1,2,2
-South Africa - Premier Division ,Richards Bay,0,1,0,0,0,2,0,0,1,0,1,1,0,3,2,1
-South Africa - Premier Division ,Royal AM,0,0,0,0,1,0,0,1,1,2,0,0,1,0,1,3
+South Africa - Premier Division ,Richards Bay,0,1,1,0,0,3,0,0,1,0,1,2,1,4,2,2
+South Africa - Premier Division ,Royal AM,0,0,0,1,1,0,0,1,1,2,0,0,1,1,1,3
 South Africa - Premier Division ,Sekhukhune,0,1,1,1,0,0,0,1,1,0,0,1,1,2,1,2
-South Africa - Premier Division ,Stellenbosch,0,0,0,0,2,0,0,2,0,0,0,2,2,0,0,4
-South Africa - Premier Division ,SuperSport Utd,0,0,0,0,0,1,1,1,2,0,0,1,0,1,3,2
+South Africa - Premier Division ,Stellenbosch,0,1,0,0,2,0,0,2,0,1,0,2,2,1,0,5
+South Africa - Premier Division ,SuperSport Utd,1,0,0,0,0,1,1,1,2,0,0,1,1,1,3,2
 South Africa - Premier Division ,TS Galaxy,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0
 South Korea - K League 1,Daegu,3,1,1,2,1,5,3,2,3,0,6,3,5,8,12,5
-South Korea - K League 1,Daejeon Citizen,3,0,5,4,3,7,2,3,1,1,6,5,11,11,9,9
-South Korea - K League 1,Gangwon,0,1,3,4,4,1,3,7,0,2,3,5,7,6,6,14
-South Korea - K League 1,Gwangju,4,1,5,1,2,1,4,2,5,2,3,3,11,3,12,7
+South Korea - K League 1,Daejeon Citizen,4,0,5,4,4,7,2,4,1,1,7,5,13,11,10,10
+South Korea - K League 1,Gangwon,1,2,3,4,4,1,3,7,0,2,3,5,8,7,6,14
+South Korea - K League 1,Gwangju,4,1,5,1,2,1,4,2,5,3,3,3,11,3,12,8
 South Korea - K League 1,Incheon Utd,2,3,5,2,2,0,3,2,0,3,6,6,9,5,9,11
-South Korea - K League 1,Jeju Utd,1,2,2,4,3,2,4,0,1,1,5,6,6,8,10,7
+South Korea - K League 1,Jeju Utd,1,2,2,4,3,3,4,1,2,2,5,6,6,9,11,9
 South Korea - K League 1,Jeonbuk Motors,6,1,1,0,2,4,3,3,3,1,8,4,9,5,14,8
 South Korea - K League 1,Pohang Steelers,1,1,4,3,6,0,5,4,4,4,10,6,11,4,19,14
 South Korea - K League 1,Seoul,6,2,2,1,6,1,5,4,5,3,5,7,14,4,15,14
 South Korea - K League 1,Suwon Bluewings,2,3,0,2,2,4,0,2,4,5,4,8,4,9,8,15
-South Korea - K League 1,Suwon City,2,1,2,3,2,6,5,2,3,5,3,9,6,10,11,16
+South Korea - K League 1,Suwon City,2,1,2,4,2,6,5,3,5,5,4,11,6,11,14,19
 South Korea - K League 1,Ulsan,2,3,4,2,5,2,5,5,6,0,9,6,11,7,20,11
 South Korea - K League 2,Ansan Greeners,0,4,0,3,2,5,0,2,3,9,8,1,2,12,11,12
-South Korea - K League 2,Anyang,1,1,4,2,5,2,5,3,4,4,2,5,10,5,11,12
-South Korea - K League 2,Bucheon FC,2,1,1,1,4,3,2,0,0,4,9,3,7,5,11,7
-South Korea - K League 2,Busan IPark,1,1,2,1,5,1,1,1,2,2,7,1,8,3,10,4
-South Korea - K League 2,Cheonan City,1,4,3,5,3,3,2,6,1,2,2,7,7,12,5,15
-South Korea - K League 2,Cheongju,0,2,1,1,2,4,4,3,7,4,2,4,3,7,13,11
-South Korea - K League 2,Chungnam Asan,3,1,4,1,3,1,5,4,2,3,3,6,10,3,10,13
-South Korea - K League 2,Gimcheon Sangmu,1,3,1,2,8,0,5,1,4,2,11,4,10,5,20,7
-South Korea - K League 2,Gimpo,2,2,4,3,3,3,0,1,2,2,5,1,9,8,7,4
+South Korea - K League 2,Anyang,1,1,4,2,6,3,5,4,4,4,3,5,11,6,12,13
+South Korea - K League 2,Bucheon FC,2,1,1,1,4,3,2,0,0,4,10,3,7,5,12,7
+South Korea - K League 2,Busan IPark,1,1,2,1,5,1,2,1,2,2,8,1,8,3,12,4
+South Korea - K League 2,Cheonan City,1,4,4,5,3,3,2,6,1,2,2,7,8,12,5,15
+South Korea - K League 2,Cheongju,0,2,1,2,2,4,4,3,7,4,2,4,3,8,13,11
+South Korea - K League 2,Chungnam Asan,3,1,4,1,3,1,5,5,2,3,3,6,10,3,10,14
+South Korea - K League 2,Gimcheon Sangmu,1,3,2,2,9,0,5,1,5,3,12,4,12,5,22,8
+South Korea - K League 2,Gimpo,2,2,4,3,3,3,0,1,3,2,5,1,9,8,8,4
 South Korea - K League 2,Gyeongnam,2,2,3,4,5,3,2,3,2,5,6,6,10,9,10,14
-South Korea - K League 2,Jeonnam Dragons,4,3,3,4,4,2,5,0,3,4,3,5,11,9,11,9
-South Korea - K League 2,Seongnam,5,1,4,0,2,4,1,3,4,5,3,8,11,5,8,16
-South Korea - K League 2,Seoul E-Land,1,2,1,1,2,2,3,6,4,4,7,6,4,5,14,16
-Spain - La Liga,Alaves,2,1,0,0,1,1,2,0,0,0,0,1,3,2,2,1
-Spain - La Liga,Almeria,1,0,0,4,0,1,1,1,1,1,0,1,1,5,2,3
-Spain - La Liga,Athletic Bilbao,0,2,1,1,2,1,0,0,2,0,2,0,3,4,4,0
-Spain - La Liga,Atletico Madrid,0,0,0,0,1,0,0,0,1,1,1,0,1,0,2,1
+South Korea - K League 2,Jeonnam Dragons,5,3,3,5,4,3,5,0,3,5,3,5,12,11,11,10
+South Korea - K League 2,Seongnam,5,1,5,1,2,4,1,3,4,5,3,8,12,6,8,16
+South Korea - K League 2,Seoul E-Land,1,2,1,1,3,2,3,6,5,6,8,8,5,5,16,20
+Spain - La Liga,Alaves,2,1,0,1,1,1,2,0,0,0,0,2,3,3,2,2
+Spain - La Liga,Almeria,1,1,0,4,0,1,2,1,2,2,0,1,1,6,4,4
+Spain - La Liga,Athletic Bilbao,1,2,1,1,2,1,0,1,3,0,2,1,4,4,5,2
+Spain - La Liga,Atletico Madrid,1,0,1,0,1,1,1,0,1,1,1,0,3,1,3,1
 Spain - La Liga,Cadiz,1,1,2,0,0,0,2,0,0,0,0,1,3,1,2,1
-Spain - La Liga,Celta Vigo,0,0,0,1,0,0,0,0,0,1,0,2,0,1,0,3
-Spain - La Liga,FC Barcelona,0,0,1,0,1,0,0,0,2,0,3,0,2,0,5,0
+Spain - La Liga,Celta Vigo,0,0,0,1,1,0,0,0,0,2,0,2,1,1,0,4
+Spain - La Liga,FC Barcelona,0,0,1,1,1,0,0,0,2,0,7,1,2,1,9,1
 Spain - La Liga,Getafe,0,0,0,0,1,1,1,1,0,0,2,0,1,1,3,1
-Spain - La Liga,Girona,1,0,0,0,0,0,1,0,1,0,1,0,1,0,3,0
-Spain - La Liga,Granada,1,0,0,1,0,3,1,0,2,1,1,3,1,4,4,4
-Spain - La Liga,Las Palmas,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1
-Spain - La Liga,Mallorca,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
-Spain - La Liga,Osasuna,0,1,0,1,0,1,0,0,0,0,1,1,0,3,1,1
-Spain - La Liga,Rayo Vallecano,0,1,0,1,1,1,0,0,0,1,1,3,1,3,1,4
-Spain - La Liga,Real Betis,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
-Spain - La Liga,Real Madrid,0,2,0,0,0,0,3,0,0,0,1,0,0,2,4,0
-Spain - La Liga,Real Sociedad,2,0,1,0,1,1,1,0,1,1,1,3,4,1,3,4
-Spain - La Liga,Sevilla FC,0,0,0,1,1,0,0,2,2,0,0,1,1,1,2,3
-Spain - La Liga,Valencia,1,0,0,1,1,0,1,0,1,0,1,1,2,1,3,1
-Spain - La Liga,Villarreal,0,2,1,1,2,1,1,0,1,2,1,1,3,4,3,3
+Spain - La Liga,Girona,1,1,1,0,3,0,2,0,1,0,1,2,5,1,4,2
+Spain - La Liga,Granada,1,0,0,1,0,3,1,1,3,1,1,3,1,4,5,5
+Spain - La Liga,Las Palmas,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,1
+Spain - La Liga,Mallorca,1,0,0,0,1,1,0,0,0,2,0,0,2,1,0,2
+Spain - La Liga,Osasuna,0,1,0,2,0,1,0,0,0,0,1,2,0,4,1,2
+Spain - La Liga,Rayo Vallecano,0,2,1,1,1,1,0,0,0,1,1,3,2,4,1,4
+Spain - La Liga,Real Betis,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,0
+Spain - La Liga,Real Madrid,0,2,0,0,1,0,4,0,0,0,1,0,1,2,5,0
+Spain - La Liga,Real Sociedad,3,0,1,0,1,3,1,0,3,1,2,4,5,3,6,5
+Spain - La Liga,Sevilla FC,2,0,0,1,2,0,1,2,2,1,1,1,4,1,4,4
+Spain - La Liga,Valencia,1,0,0,1,1,1,1,0,1,0,1,1,2,2,3,1
+Spain - La Liga,Villarreal,0,2,1,1,2,1,2,1,1,3,1,1,3,4,4,5
 Spain - La Liga 2,Albacete,1,1,1,1,1,1,2,1,1,0,1,0,3,3,4,1
-Spain - La Liga 2,Alcorcon,0,0,0,0,0,1,0,1,0,1,1,2,0,1,1,4
+Spain - La Liga 2,Alcorcon,0,0,0,2,0,1,0,1,0,1,1,2,0,3,1,4
 Spain - La Liga 2,Amorebieta,2,0,0,1,1,0,1,0,1,0,1,0,3,1,3,0
-Spain - La Liga 2,Burgos,1,1,0,0,1,0,0,0,1,0,0,0,2,1,1,0
-Spain - La Liga 2,Cartagena,0,0,0,2,1,2,0,0,0,0,0,1,1,4,0,1
+Spain - La Liga 2,Burgos,1,1,0,0,3,0,0,0,2,0,1,0,4,1,3,0
+Spain - La Liga 2,Cartagena,0,0,0,3,1,2,1,0,0,1,0,1,1,5,1,2
 Spain - La Liga 2,Eibar,1,0,1,0,0,1,0,0,1,1,1,0,2,1,2,1
 Spain - La Liga 2,Elche,1,0,1,0,1,0,0,2,0,0,0,0,3,0,0,2
 Spain - La Liga 2,Eldense,0,0,1,0,1,0,1,0,1,1,0,2,2,0,2,3
 Spain - La Liga 2,Espanyol,1,2,0,0,0,2,3,1,1,0,3,0,1,4,7,1
 Spain - La Liga 2,FC Andorra,0,0,0,0,0,0,1,0,1,1,2,2,0,0,4,3
 Spain - La Liga 2,Huesca,0,2,0,0,0,1,2,1,0,0,1,1,0,3,3,2
-Spain - La Liga 2,Leganes,0,0,1,1,1,0,0,0,1,0,1,0,2,1,2,0
-Spain - La Liga 2,Levante,0,1,0,0,3,2,1,2,1,1,0,1,3,3,2,4
-Spain - La Liga 2,Mirandes,0,0,1,0,3,0,1,1,1,1,2,2,4,0,4,4
-Spain - La Liga 2,Racing,1,0,2,0,1,0,0,0,1,0,0,0,4,0,1,0
-Spain - La Liga 2,Racing Ferrol,0,0,0,0,0,1,2,1,1,0,1,0,0,1,4,1
-Spain - La Liga 2,Real Oviedo,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0
+Spain - La Liga 2,Leganes,0,0,2,1,1,0,1,0,1,0,1,1,3,1,3,1
+Spain - La Liga 2,Levante,0,1,1,0,3,2,1,2,1,1,1,1,4,3,3,4
+Spain - La Liga 2,Mirandes,0,0,1,0,4,1,1,2,1,1,2,3,5,1,4,6
+Spain - La Liga 2,Racing,1,0,4,0,1,0,0,0,1,0,0,1,6,0,1,1
+Spain - La Liga 2,Racing Ferrol,0,0,0,0,0,1,3,1,1,0,1,0,0,1,5,1
+Spain - La Liga 2,Real Oviedo,0,0,0,0,0,1,1,0,0,0,0,1,0,1,1,1
 Spain - La Liga 2,Real Zaragoza,0,0,0,0,3,1,2,0,1,0,0,0,3,1,3,0
 Spain - La Liga 2,Sporting Gijon,0,1,3,0,2,0,0,1,0,0,2,0,5,1,2,1
-Spain - La Liga 2,Tenerife,0,0,2,0,1,0,0,0,0,1,0,0,3,0,0,1
+Spain - La Liga 2,Tenerife,0,0,3,0,1,0,0,0,0,1,0,0,4,0,0,1
 Spain - La Liga 2,Valladolid,0,0,1,0,1,1,1,1,0,0,1,1,2,1,2,2
-Spain - La Liga 2,Villarreal B,2,0,1,0,0,1,1,0,0,2,0,0,3,1,1,2
-Sweden - Allsvenskan,AIK,1,2,1,3,5,1,3,2,1,2,3,2,7,6,7,6
-Sweden - Allsvenskan,Brommapojkarna,5,2,4,2,0,4,2,0,2,2,0,5,9,8,4,7
-Sweden - Allsvenskan,Degerfors,1,2,2,4,1,4,3,3,5,2,3,2,4,10,11,7
+Spain - La Liga 2,Villarreal B,2,0,1,0,1,1,3,1,0,2,0,0,4,1,3,3
+Sweden - Allsvenskan,AIK,1,2,1,3,5,1,4,2,1,2,4,2,7,6,9,6
+Sweden - Allsvenskan,Brommapojkarna,5,2,4,4,0,4,3,0,2,2,1,5,9,10,6,7
+Sweden - Allsvenskan,Degerfors,1,2,2,4,1,5,3,4,5,2,4,2,4,11,12,8
 Sweden - Allsvenskan,Djurgarden,4,2,3,3,4,2,6,1,2,3,3,0,11,7,11,4
 Sweden - Allsvenskan,Elfsborg,3,0,2,5,4,1,10,0,5,3,2,1,9,6,17,4
 Sweden - Allsvenskan,Hacken,6,3,3,2,8,2,9,4,4,1,9,3,17,7,22,8
-Sweden - Allsvenskan,Halmstad,0,1,4,5,3,3,1,2,1,0,1,4,7,9,3,6
+Sweden - Allsvenskan,Halmstad,0,1,4,5,3,3,1,2,1,0,1,5,7,9,3,7
 Sweden - Allsvenskan,Hammarby,2,0,2,3,5,1,5,2,2,3,6,5,9,4,13,10
 Sweden - Allsvenskan,IFK Goteborg,2,0,2,3,4,1,2,3,3,1,5,2,8,4,10,6
-Sweden - Allsvenskan,Kalmar,4,1,1,2,3,2,0,4,0,1,5,4,8,5,5,9
+Sweden - Allsvenskan,Kalmar,5,1,1,2,3,2,0,4,0,1,5,4,9,5,5,9
 Sweden - Allsvenskan,Malmo FF,5,3,3,1,4,2,6,2,6,1,6,1,12,6,18,4
-Sweden - Allsvenskan,Mjallby,2,1,1,2,4,0,1,3,1,4,1,2,7,3,3,9
+Sweden - Allsvenskan,Mjallby,2,1,1,2,4,0,1,3,1,4,1,3,7,3,3,10
 Sweden - Allsvenskan,Norrkoping,2,2,2,0,3,2,3,4,2,2,4,5,7,4,9,11
 Sweden - Allsvenskan,Sirius,3,1,5,2,9,5,2,3,2,3,2,5,17,8,6,11
-Sweden - Allsvenskan,Varberg BoIS,2,4,2,3,0,3,0,6,1,2,3,7,4,10,4,15
-Sweden - Allsvenskan,Varnamo,2,0,2,2,1,1,1,0,1,3,1,4,5,3,3,7
-Switzerland - Super League,BSC Young Boys,2,0,0,0,1,1,2,1,0,0,2,1,3,1,4,2
-Switzerland - Super League,FC Basel,0,2,0,0,1,1,1,1,3,0,3,2,1,3,7,3
-Switzerland - Super League,FC Zurich,0,0,1,0,0,0,2,0,1,0,2,1,1,0,5,1
-Switzerland - Super League,Grasshopper,1,0,2,2,1,0,0,0,0,1,0,2,4,2,0,3
-Switzerland - Super League,Lausanne Ouchy,0,1,0,1,0,1,0,1,2,2,1,2,0,3,3,5
+Sweden - Allsvenskan,Varberg BoIS,2,4,2,3,0,3,0,6,1,2,3,8,4,10,4,16
+Sweden - Allsvenskan,Varnamo,2,0,2,2,1,1,1,0,1,3,1,5,5,3,3,8
+Switzerland - Super League,BSC Young Boys,2,0,1,0,3,1,3,1,0,0,2,2,6,1,5,3
+Switzerland - Super League,FC Basel,0,2,0,0,1,1,2,1,3,0,3,3,1,3,8,4
+Switzerland - Super League,FC Zurich,0,0,1,0,1,0,2,0,2,0,2,2,2,0,6,2
+Switzerland - Super League,Grasshopper,1,0,3,2,1,0,0,0,0,2,0,2,5,2,0,4
+Switzerland - Super League,Lausanne Ouchy,0,1,0,1,0,1,0,2,2,2,2,2,0,3,4,6
 Switzerland - Super League,Lausanne Sport,0,1,1,0,1,1,0,2,0,0,2,4,2,2,2,6
-Switzerland - Super League,Lugano,0,1,1,0,2,0,1,0,2,0,1,0,3,1,4,0
-Switzerland - Super League,Luzern,0,1,2,0,1,0,1,0,1,0,1,3,3,1,3,3
-Switzerland - Super League,Servette,1,2,0,0,0,0,0,1,1,0,1,1,1,2,2,2
-Switzerland - Super League,St. Gallen,0,0,0,0,1,1,0,1,3,0,2,1,1,1,5,2
-Switzerland - Super League,Winterthur,0,1,1,0,1,0,0,0,1,0,1,1,2,1,2,1
-Switzerland - Super League,Yverdon,1,0,0,0,0,1,2,0,1,0,2,2,1,1,5,2
-Switzerland - Challenge League,Aarau,1,1,0,1,0,0,1,1,1,2,0,0,1,2,2,3
-Switzerland - Challenge League,Baden,0,0,0,2,1,0,0,3,1,0,1,4,1,2,2,7
-Switzerland - Challenge League,Bellinzona,0,3,0,0,0,0,0,0,0,3,1,2,0,3,1,5
-Switzerland - Challenge League,Neuchatel Xamax,0,0,3,0,1,0,2,0,0,0,2,1,4,0,4,1
-Switzerland - Challenge League,Schaffhausen,0,1,1,1,0,1,1,2,1,0,0,1,1,3,2,3
-Switzerland - Challenge League,Sion,1,0,1,0,0,0,1,1,0,0,0,0,2,0,1,1
-Switzerland - Challenge League,Stade Nyonnais,0,0,0,1,0,0,2,1,1,0,1,2,0,1,4,3
-Switzerland - Challenge League,Thun,0,0,2,0,2,1,0,0,3,1,3,0,4,1,6,1
+Switzerland - Super League,Lugano,0,1,1,0,3,0,1,1,3,0,1,0,4,1,5,1
+Switzerland - Super League,Luzern,1,1,3,0,1,0,1,0,1,0,1,3,5,1,3,3
+Switzerland - Super League,Servette,1,2,0,0,0,1,1,1,1,0,2,2,1,3,4,3
+Switzerland - Super League,St. Gallen,0,0,0,0,1,1,0,1,5,1,2,1,1,1,7,3
+Switzerland - Super League,Winterthur,0,1,1,0,3,1,0,0,1,0,1,1,4,2,2,1
+Switzerland - Super League,Yverdon,2,0,0,1,0,1,3,0,1,0,3,3,2,2,7,3
+Switzerland - Challenge League,Aarau,1,2,0,2,1,0,2,1,1,2,1,0,2,4,4,3
+Switzerland - Challenge League,Baden,0,0,1,2,1,0,0,3,1,0,2,4,2,2,3,7
+Switzerland - Challenge League,Bellinzona,0,3,0,1,0,0,0,1,0,3,1,4,0,4,1,8
+Switzerland - Challenge League,Neuchatel Xamax,0,2,4,0,1,1,2,1,0,0,2,2,5,3,4,3
+Switzerland - Challenge League,Schaffhausen,0,1,2,1,0,1,1,3,1,0,0,1,2,3,2,4
+Switzerland - Challenge League,Sion,1,0,2,0,1,0,1,1,0,1,0,2,4,0,1,4
+Switzerland - Challenge League,Stade Nyonnais,1,0,0,1,0,0,2,1,1,0,2,2,1,1,5,3
+Switzerland - Challenge League,Thun,0,0,2,0,3,1,1,0,3,1,3,0,5,1,7,1
 Switzerland - Challenge League,Vaduz,0,1,1,1,1,0,0,1,2,0,5,1,2,2,7,2
-Switzerland - Challenge League,Wil,0,1,0,0,1,0,1,0,0,1,1,0,1,1,2,1
-Thailand - Thai League 1,Bangkok Utd,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,0
+Switzerland - Challenge League,Wil,0,1,0,0,1,1,2,0,1,1,1,1,1,2,4,2
+Thailand - Thai League 1,Bangkok Utd,0,0,0,0,0,0,2,0,1,0,2,0,0,0,5,0
 Thailand - Thai League 1,Buriram Utd,2,0,2,0,1,0,1,0,0,0,1,0,5,0,2,0
 Thailand - Thai League 1,Chiangrai Utd,0,0,1,0,1,0,1,0,1,0,1,0,2,0,3,0
 Thailand - Thai League 1,Chonburi,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-Thailand - Thai League 1,Khon Kaen Utd,0,1,0,0,1,0,1,0,0,1,0,0,1,1,1,1
-Thailand - Thai League 1,Lamphun Warrior,1,0,0,0,0,1,0,0,0,2,0,1,1,1,0,3
-Thailand - Thai League 1,Muang Thong Utd,0,1,0,1,0,0,1,0,0,1,0,1,0,2,1,2
+Thailand - Thai League 1,Khon Kaen Utd,0,2,1,0,1,0,2,0,0,1,2,2,2,2,4,3
+Thailand - Thai League 1,Lamphun Warrior,1,0,1,0,1,2,0,0,0,2,0,1,3,2,0,3
+Thailand - Thai League 1,Muang Thong Utd,0,1,0,1,0,0,1,1,0,1,3,1,0,2,4,3
 Thailand - Thai League 1,Nakhon Pathom,0,0,0,2,1,0,0,0,2,0,1,1,1,2,3,1
-Thailand - Thai League 1,Pathum Utd,0,1,1,0,1,0,0,0,1,0,2,1,2,1,3,1
-Thailand - Thai League 1,Police Tero,0,1,0,0,0,1,2,0,1,1,2,1,0,2,5,2
+Thailand - Thai League 1,Pathum Utd,0,1,1,0,1,0,0,0,3,0,3,1,2,1,6,1
+Thailand - Thai League 1,Police Tero,0,1,0,1,0,1,2,1,1,1,3,1,0,3,6,3
 Thailand - Thai League 1,Port FC,0,1,1,0,1,0,1,0,0,0,3,1,2,1,4,1
 Thailand - Thai League 1,Prachuap,0,0,1,0,0,1,0,1,0,0,2,0,1,1,2,1
 Thailand - Thai League 1,Ratchaburi,1,0,1,0,0,0,0,0,1,1,3,1,2,0,4,2
 Thailand - Thai League 1,Sukhothai,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
-Thailand - Thai League 1,Trat,1,0,0,0,1,0,0,1,0,1,0,0,2,0,0,2
-Thailand - Thai League 1,Uthai Thani,0,1,0,1,0,0,0,1,0,1,1,2,0,2,1,4
-Turkey - Super Lig,Adana Demirspor,1,0,1,0,1,0,0,0,0,0,2,1,3,0,2,1
-Turkey - Super Lig,Alanyaspor,0,0,2,0,1,1,1,0,0,0,1,2,3,1,2,2
-Turkey - Super Lig,Ankaragucu,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,1
-Turkey - Super Lig,Antalyaspor,0,0,0,0,1,1,0,1,0,0,1,0,1,1,1,1
-Turkey - Super Lig,Basaksehir,0,1,0,1,0,0,0,1,0,0,0,0,0,2,0,1
-Turkey - Super Lig,Besiktas,1,0,1,0,1,0,0,0,0,0,0,1,3,0,0,1
+Thailand - Thai League 1,Trat,2,0,0,0,2,0,0,2,0,1,0,0,4,0,0,3
+Thailand - Thai League 1,Uthai Thani,0,1,0,1,0,0,0,1,1,1,1,2,0,2,2,4
+Turkey - Super Lig,Adana Demirspor,2,0,2,0,1,0,1,0,1,0,2,3,5,0,4,3
+Turkey - Super Lig,Alanyaspor,0,0,2,0,1,2,1,0,0,0,1,2,3,2,2,2
+Turkey - Super Lig,Ankaragucu,1,0,0,2,1,0,0,1,0,0,0,0,2,2,0,1
+Turkey - Super Lig,Antalyaspor,1,0,1,0,1,1,0,1,0,0,1,0,3,1,1,1
+Turkey - Super Lig,Basaksehir,0,1,0,1,0,1,0,2,1,0,0,0,0,3,1,2
+Turkey - Super Lig,Besiktas,1,0,1,0,1,0,1,1,1,0,0,1,3,0,2,2
 Turkey - Super Lig,F. Karagumruk,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,2
-Turkey - Super Lig,Fenerbahce,1,0,1,0,1,2,1,0,0,1,1,0,3,2,2,1
+Turkey - Super Lig,Fenerbahce,3,0,2,0,1,2,1,0,0,1,2,0,6,2,3,1
 Turkey - Super Lig,Galatasaray,1,0,2,0,1,0,0,2,1,0,1,0,4,0,2,2
-Turkey - Super Lig,Gaziantep,0,2,0,0,0,1,1,0,0,2,0,1,0,3,1,3
-Turkey - Super Lig,Hatayspor,0,0,0,0,0,1,1,0,2,0,0,2,0,1,3,2
-Turkey - Super Lig,Istanbulspor,0,0,0,0,0,0,0,1,0,0,1,2,0,0,1,3
-Turkey - Super Lig,Kasimpasa,0,1,1,1,0,2,0,0,1,2,3,2,1,4,4,4
+Turkey - Super Lig,Gaziantep,0,2,0,0,0,1,1,0,1,2,1,1,0,3,3,3
+Turkey - Super Lig,Hatayspor,0,0,0,0,0,2,1,0,3,1,2,2,0,2,6,3
+Turkey - Super Lig,Istanbulspor,0,0,0,0,0,1,0,1,0,0,1,2,0,1,1,3
+Turkey - Super Lig,Kasimpasa,0,1,2,1,0,2,1,0,1,2,3,3,2,4,5,5
 Turkey - Super Lig,Kayserispor,1,0,1,1,1,0,0,0,0,0,1,0,3,1,1,0
 Turkey - Super Lig,Konyaspor,0,1,0,0,1,0,0,0,1,0,2,2,1,1,3,2
-Turkey - Super Lig,Pendikspor,0,1,0,1,0,0,0,2,0,0,2,2,0,2,2,4
-Turkey - Super Lig,Rizespor,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
-Turkey - Super Lig,Samsunspor,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2
+Turkey - Super Lig,Pendikspor,0,1,0,1,1,0,0,2,0,0,2,3,1,2,2,5
+Turkey - Super Lig,Rizespor,0,1,0,0,2,0,0,0,0,0,0,0,2,1,0,0
+Turkey - Super Lig,Samsunspor,0,1,0,1,0,0,0,0,0,1,1,1,0,2,1,2
 Turkey - Super Lig,Sivasspor,1,1,1,0,1,1,0,0,0,1,0,2,3,2,0,3
 Turkey - Super Lig,Trabzonspor,1,0,1,1,1,1,1,0,1,1,1,0,3,2,3,1
-UAE - Pro League,Ajman,0,1,0,0,0,1,0,0,0,1,0,0,0,2,0,1
-UAE - Pro League,Al Ain,0,0,0,1,2,0,0,0,1,1,0,0,2,1,1,1
-UAE - Pro League,Al Bataeh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UAE - Pro League,Ajman,1,1,0,0,0,4,0,2,1,1,1,0,1,5,2,3
+UAE - Pro League,Al Ain,1,0,1,1,4,0,0,0,2,1,1,0,6,1,3,1
+UAE - Pro League,Al Bataeh,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2
 UAE - Pro League,Al Jazira,0,0,0,1,0,0,1,0,0,1,0,0,0,1,1,1
-UAE - Pro League,Al Khaleej,0,1,0,0,1,0,1,0,0,0,0,0,1,1,1,0
-UAE - Pro League,Al Nasr,0,0,0,1,0,0,0,0,0,1,1,1,0,1,1,2
-UAE - Pro League,Al Sharjah,0,1,0,0,0,1,0,0,1,0,0,1,0,2,1,1
-UAE - Pro League,Al Wahda,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,1
-UAE - Pro League,Al Wasl,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+UAE - Pro League,Al Khaleej,0,1,0,0,1,0,1,0,0,1,0,1,1,1,1,2
+UAE - Pro League,Al Nasr,0,0,0,1,0,1,0,0,0,1,1,1,0,2,1,2
+UAE - Pro League,Al Sharjah,0,1,0,0,1,2,1,1,1,1,0,1,1,3,2,3
+UAE - Pro League,Al Wahda,0,1,2,0,0,0,0,0,0,0,0,1,2,1,0,1
+UAE - Pro League,Al Wasl,1,0,0,1,0,0,0,0,2,0,1,1,1,1,3,1
 UAE - Pro League,Bani Yas,1,1,1,1,0,0,2,0,0,0,0,0,2,2,2,0
 UAE - Pro League,Emirates,1,1,0,0,0,2,0,0,1,0,2,1,1,3,3,1
-UAE - Pro League,Hatta,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,0
-UAE - Pro League,Ittihad Kalba,0,0,1,1,1,1,1,0,0,0,0,2,2,2,1,2
-UAE - Pro League,Shabab Al Ahli,0,0,1,0,1,0,0,0,0,0,0,1,2,0,0,1
+UAE - Pro League,Hatta,0,1,0,1,0,2,0,0,0,0,0,1,0,4,0,1
+UAE - Pro League,Ittihad Kalba,0,0,1,1,1,2,1,1,0,1,0,3,2,3,1,5
+UAE - Pro League,Shabab Al Ahli,1,0,1,0,2,1,0,0,1,0,0,1,4,1,1,1
 Ukraine - Premier League,Chornomorets,2,0,1,0,0,0,1,2,1,0,1,0,3,0,3,2
 Ukraine - Premier League,Dnipro-1,0,0,1,0,0,0,0,1,2,1,1,2,1,0,3,4
 Ukraine - Premier League,Dynamo Kyiv,1,1,2,0,0,0,0,0,0,0,3,0,3,1,3,0
 Ukraine - Premier League,FC Minaj,0,0,1,1,0,2,0,2,1,1,1,3,1,3,2,6
 Ukraine - Premier League,Kolos Kovalivka,0,1,1,1,0,1,0,0,1,1,2,1,1,3,3,2
 Ukraine - Premier League,Kryvbas KR,1,1,1,1,2,2,0,0,1,0,2,0,4,4,3,0
-Ukraine - Premier League,LNZ Cherkasy,0,0,0,0,1,2,0,1,0,2,2,1,1,2,2,4
+Ukraine - Premier League,LNZ Cherkasy,0,1,0,0,1,2,0,1,1,3,3,3,1,3,4,7
 Ukraine - Premier League,Metalist 1925,1,0,1,2,0,0,1,1,1,0,0,0,2,2,2,1
 Ukraine - Premier League,Obolon,0,0,0,1,1,2,1,0,0,0,0,1,1,3,1,1
-Ukraine - Premier League,Oleksandria,1,0,0,0,1,0,0,0,1,1,0,3,2,0,1,4
-Ukraine - Premier League,Polessya,0,0,0,0,0,0,0,0,0,0,2,1,0,0,2,1
-Ukraine - Premier League,Rukh Lviv,0,1,1,2,1,1,2,0,2,0,2,0,2,4,6,0
+Ukraine - Premier League,Oleksandria,1,1,0,2,1,1,0,0,2,1,0,4,2,4,2,5
+Ukraine - Premier League,Polessya,0,0,0,0,0,1,0,0,1,0,3,1,0,1,4,1
+Ukraine - Premier League,Rukh Lviv,0,1,1,3,1,1,2,0,2,0,3,0,2,5,7,0
 Ukraine - Premier League,Shakhtar,1,0,0,0,1,0,0,1,0,0,1,0,2,0,1,1
 Ukraine - Premier League,Veres,0,2,1,2,2,2,0,0,2,0,0,0,3,6,2,0
-Ukraine - Premier League,Vorskla Poltava,1,1,1,0,1,0,0,1,1,0,0,1,3,1,1,2
-Ukraine - Premier League,Zorya Luhansk,1,0,0,0,0,1,0,1,0,0,0,1,1,1,0,2
-USA - MLS,Atlanta Utd,6,3,4,4,4,1,6,6,3,1,14,4,14,8,23,11
-USA - MLS,Austin,1,1,5,3,4,2,2,1,3,2,5,6,10,6,10,9
-USA - MLS,CF Montreal,3,1,3,1,1,2,4,4,4,1,5,0,7,4,13,5
-USA - MLS,Charlotte,3,3,3,1,2,5,1,3,6,3,3,4,8,9,10,10
-USA - MLS,Chicago Fire,2,1,2,2,8,1,4,5,1,4,3,4,12,4,8,13
-USA - MLS,Cincinnati,3,1,4,1,4,4,7,2,7,0,2,1,11,6,16,3
-USA - MLS,Colorado Rapids,0,1,0,2,3,3,2,3,3,0,1,2,3,6,6,5
-USA - MLS,Columbus Crew,6,2,6,0,7,2,4,4,5,2,7,2,19,4,16,8
-USA - MLS,Dallas,3,2,1,1,2,2,5,3,3,2,6,3,6,5,14,8
-USA - MLS,DC United,3,2,2,0,5,3,2,4,4,4,9,4,10,5,15,12
-USA - MLS,Houston Dynamo,7,1,0,3,5,1,2,0,6,1,7,3,12,5,15,4
-USA - MLS,Inter Miami,1,1,1,5,5,1,5,2,1,2,5,6,7,7,11,10
-USA - MLS,LA Galaxy,1,4,3,3,3,2,3,1,5,4,6,3,7,9,14,8
+Ukraine - Premier League,Vorskla Poltava,1,1,2,0,1,2,0,2,1,0,0,2,4,3,1,4
+Ukraine - Premier League,Zorya Luhansk,1,0,0,1,0,1,0,1,0,0,0,1,1,2,0,2
+USA - MLS,Atlanta Utd,6,3,5,4,5,2,7,6,3,1,15,4,16,9,25,11
+USA - MLS,Austin,2,1,5,3,5,3,2,1,4,2,5,8,12,7,11,11
+USA - MLS,CF Montreal,3,1,3,1,1,2,5,4,4,1,5,1,7,4,14,6
+USA - MLS,Charlotte,3,3,3,1,2,5,2,3,7,4,3,5,8,9,12,12
+USA - MLS,Chicago Fire,2,1,3,3,8,1,5,6,1,4,3,4,13,5,9,14
+USA - MLS,Cincinnati,3,1,4,1,5,4,8,2,7,0,3,1,12,6,18,3
+USA - MLS,Colorado Rapids,0,2,0,2,3,4,3,4,4,0,2,3,3,8,9,7
+USA - MLS,Columbus Crew,7,2,8,0,7,2,4,4,5,2,7,2,22,4,16,8
+USA - MLS,Dallas,3,2,1,2,3,2,5,3,3,2,6,3,7,6,14,8
+USA - MLS,DC United,3,3,3,1,7,5,2,5,4,4,10,5,13,9,16,14
+USA - MLS,Houston Dynamo,8,1,0,3,6,1,2,0,7,1,8,4,14,5,17,5
+USA - MLS,Inter Miami,1,1,1,5,6,1,6,2,2,2,6,6,8,7,14,10
+USA - MLS,LA Galaxy,1,4,4,4,3,4,3,1,7,4,7,3,8,12,17,8
 USA - MLS,Los Angeles FC,5,2,4,5,6,0,2,3,5,3,9,2,15,7,16,8
-USA - MLS,Minnesota Utd,1,0,4,3,5,3,2,4,1,1,4,4,10,6,7,9
+USA - MLS,Minnesota Utd,1,0,4,3,5,3,3,4,1,3,4,4,10,6,8,11
 USA - MLS,Nashville SC,1,1,1,0,7,2,3,2,3,1,7,3,9,3,13,6
 USA - MLS,New England,2,2,4,2,11,1,8,1,4,0,3,6,17,5,15,7
-USA - MLS,New York City,1,0,4,1,4,3,3,6,2,2,3,4,9,4,8,12
-USA - MLS,New York RB,0,1,2,3,3,3,4,1,0,2,8,5,5,7,12,8
-USA - MLS,Orlando City,2,1,4,3,2,1,8,3,2,4,6,4,8,5,16,11
-USA - MLS,Philadelphia,2,3,6,1,6,0,5,2,5,1,5,3,14,4,15,6
-USA - MLS,Portland,4,2,5,1,3,3,3,4,3,2,5,4,12,6,11,10
-USA - MLS,Real Salt Lake,1,3,3,3,2,4,6,2,2,5,6,3,6,10,14,10
+USA - MLS,New York City,2,0,4,1,6,3,4,6,3,2,3,4,12,4,10,12
+USA - MLS,New York RB,1,1,2,3,3,4,4,1,0,2,8,5,6,8,12,8
+USA - MLS,Orlando City,2,1,4,3,2,1,8,4,3,4,6,4,8,5,17,12
+USA - MLS,Philadelphia,2,3,7,1,6,1,5,2,5,1,5,3,15,5,15,6
+USA - MLS,Portland,4,2,7,1,4,5,4,5,4,2,5,4,15,8,13,11
+USA - MLS,Real Salt Lake,1,3,3,4,3,4,7,3,3,7,6,3,7,11,16,13
 USA - MLS,Seattle,1,2,3,0,3,3,2,2,4,3,4,0,7,5,10,5
-USA - MLS,SJ Earthquakes,6,1,3,4,3,4,3,3,4,1,4,1,12,9,11,5
-USA - MLS,Sporting KC,3,1,4,2,8,2,4,4,3,4,3,3,15,5,10,11
+USA - MLS,SJ Earthquakes,6,1,3,4,3,4,3,4,5,1,4,1,12,9,12,6
+USA - MLS,Sporting KC,4,1,4,3,9,3,4,4,3,5,3,4,17,7,10,13
 USA - MLS,St. Louis City,5,1,5,1,9,0,5,1,5,4,8,7,19,2,18,12
 USA - MLS,Toronto,2,1,2,3,3,1,4,3,4,5,2,4,7,5,10,12
 USA - MLS,Vancouver,4,2,5,2,5,2,7,2,3,5,5,3,14,6,15,10
-USL Championship,Birmingham L.,2,0,4,1,3,5,4,5,3,5,6,4,9,6,13,14
-USL Championship,Charleston,5,5,2,2,3,2,5,2,2,4,1,3,10,9,8,9
-USL Championship,Colorado S.,2,5,1,2,2,2,4,3,7,4,8,1,5,9,19,8
-USL Championship,Detroit City,4,0,1,2,2,1,3,0,1,5,0,1,7,3,4,6
-USL Championship,El Paso,0,3,5,0,2,3,4,4,2,6,2,4,7,6,8,14
+USL Championship,Birmingham L.,2,0,4,1,3,6,5,6,3,5,6,5,9,7,14,16
+USL Championship,Charleston,6,5,2,2,4,2,5,2,2,4,1,4,12,9,8,10
+USL Championship,Colorado S.,2,5,2,2,2,2,4,3,7,4,9,1,6,9,20,8
+USL Championship,Detroit City,4,1,2,3,3,1,4,1,1,5,0,1,9,5,5,7
+USL Championship,El Paso,0,3,5,0,2,3,5,4,2,6,2,5,7,6,9,15
 USL Championship,FC Tulsa,5,1,0,4,5,4,1,7,2,4,8,4,10,9,11,15
-USL Championship,Hartford A.,0,4,2,5,4,5,1,4,3,4,3,7,6,14,7,15
-USL Championship,Indy Eleven,0,3,3,3,1,3,1,2,6,2,5,3,4,9,12,7
+USL Championship,Hartford A.,0,4,2,7,4,5,1,4,3,4,3,7,6,16,7,15
+USL Championship,Indy Eleven,0,3,3,4,1,3,1,2,6,2,5,3,4,10,12,7
 USL Championship,Las Vegas L.,0,6,3,3,4,6,4,3,4,1,3,12,7,15,11,16
-USL Championship,Loudoun Utd,3,6,5,0,4,5,4,2,2,5,2,6,12,11,8,13
+USL Championship,Loudoun Utd,3,6,6,0,4,5,4,2,2,6,2,7,13,11,8,15
 USL Championship,Louisville City,2,1,3,0,2,4,1,3,7,3,3,5,7,5,11,11
 USL Championship,Memphis,4,6,7,6,5,8,3,2,4,1,6,3,16,20,13,6
-USL Championship,Miami FC,6,0,3,1,2,6,3,1,2,2,4,7,11,7,9,10
-USL Championship,Monterey Bay,1,3,2,5,7,5,2,1,6,1,5,5,10,13,13,7
+USL Championship,Miami FC,6,1,3,1,3,6,3,2,3,3,6,7,12,8,12,12
+USL Championship,Monterey Bay,1,3,3,5,8,6,2,1,6,1,5,7,12,14,13,9
 USL Championship,New Mexico,2,2,2,2,7,5,5,5,3,3,5,5,11,9,13,13
-USL Championship,Oakland Roots,2,4,2,0,3,3,0,1,2,2,4,2,7,7,6,5
+USL Championship,Oakland Roots,2,5,2,0,4,3,0,1,2,3,5,2,8,8,7,6
 USL Championship,Orange County,2,2,3,1,4,3,1,2,3,2,4,3,9,6,8,7
-USL Championship,Phoenix Rising,4,1,3,0,7,4,5,1,7,3,9,5,14,5,21,9
-USL Championship,Pittsburgh,4,2,5,1,3,4,5,0,5,2,5,1,12,7,15,3
+USL Championship,Phoenix Rising,4,1,3,0,7,4,5,1,7,3,10,6,14,5,22,10
+USL Championship,Pittsburgh,4,2,6,1,4,4,5,0,5,2,5,2,14,7,15,4
 USL Championship,Rio Grande,3,3,2,3,4,2,3,0,5,5,3,8,9,8,11,13
 USL Championship,Sacramento R.,7,0,4,2,6,0,4,3,1,2,6,2,17,2,11,7
-USL Championship,San Antonio,7,5,5,0,3,1,3,3,3,3,5,5,15,6,11,11
-USL Championship,San Diego Loyal,3,2,1,3,6,2,1,3,5,3,7,3,10,7,13,9
-USL Championship,Tampa Bay,5,1,3,2,9,3,8,2,3,0,3,5,17,6,14,7
-USA - USL League One,Central Valley,2,2,1,2,3,6,6,3,0,5,2,6,6,10,8,14
-USA - USL League One,Charlotte,6,0,4,2,1,4,2,3,3,1,8,0,11,6,13,4
+USL Championship,San Antonio,8,5,5,0,3,1,5,3,4,3,5,5,16,6,14,11
+USL Championship,San Diego Loyal,3,2,2,4,6,2,1,3,5,3,7,3,11,8,13,9
+USL Championship,Tampa Bay,5,1,4,3,10,4,8,2,3,1,3,6,19,8,14,9
+USA - USL League One,Central Valley,2,2,1,3,3,6,6,3,0,6,2,7,6,11,8,16
+USA - USL League One,Charlotte,6,0,4,2,2,4,2,3,4,1,8,0,12,6,14,4
 USA - USL League One,Chattanooga RW,0,2,1,4,5,8,4,3,5,4,11,2,6,14,20,9
 USA - USL League One,Forward Madison,4,2,2,1,6,2,3,5,2,3,1,1,12,5,6,9
-USA - USL League One,Greenville,4,4,4,4,7,3,0,3,3,1,4,2,15,11,7,6
-USA - USL League One,Lexington,5,3,2,2,2,3,3,4,5,2,4,4,9,8,12,10
-USA - USL League One,N. Colorado,2,2,3,2,10,3,3,0,5,4,6,5,15,7,14,9
-USA - USL League One,North Carolina,1,3,0,4,5,5,9,0,5,3,4,3,6,12,18,6
+USA - USL League One,Greenville,4,4,4,5,7,4,0,3,3,1,4,2,15,13,7,6
+USA - USL League One,Lexington,5,4,2,3,3,4,3,6,5,2,6,4,10,11,14,12
+USA - USL League One,N. Colorado,2,2,3,2,10,4,3,1,5,4,6,5,15,8,14,10
+USA - USL League One,North Carolina,2,3,0,4,5,6,9,0,5,3,4,3,7,13,18,6
 USA - USL League One,One Knoxville,4,3,1,2,6,2,3,5,2,4,1,4,11,7,6,13
-USA - USL League One,Richmond K.,3,2,1,1,2,2,3,3,3,5,5,5,6,5,11,13
-USA - USL League One,Tormenta,4,7,3,5,6,5,4,3,2,1,3,6,13,17,9,10
-USA - USL League One,Union Omaha,2,3,6,1,6,2,9,4,4,1,5,9,14,6,18,14
+USA - USL League One,Richmond K.,3,2,1,1,3,3,3,4,3,5,5,5,7,6,11,14
+USA - USL League One,Tormenta,4,7,3,5,7,5,4,3,2,1,3,6,14,17,9,10
+USA - USL League One,Union Omaha,2,3,6,1,6,2,9,5,4,1,7,9,14,6,20,15
 Vietnam - V League,Binh Dinh,0,3,1,2,3,2,0,1,5,0,4,1,4,7,9,2
 Vietnam - V League,Binh Duong,1,3,0,2,5,4,0,1,1,0,4,2,6,9,5,3
 Vietnam - V League,Cong An Nhan,1,3,2,1,4,0,3,0,7,3,4,4,7,4,14,7
