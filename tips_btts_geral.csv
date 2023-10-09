@@ -261,71 +261,116 @@ Date,Hora,Liga,Home,Away,Placar HT,Winrate,Profit
 06.10.2023,15:15,Challenge League,Sion,Wil,3x0,0,-1
 06.10.2023,15:45,First Division,Athlone Town,Bray Wanderers,0x1,0,-1
 06.10.2023,19:00,Primera División,Unión La Calera,Huachipato,2x4,1,"0,7"
-07.10.2023,02:00,J2 League,Shimizu S-Pulse,Jubilo Iwata,,,
-07.10.2023,05:00,J2 League,V-Varen Nagasaki,Fujieda MYFC,,,
-07.10.2023,05:00,Liga 1,Persebaya Surabaya,Persib,,,
-07.10.2023,05:15,4. Liga Division B,Kladno,Chomutov,,,
-07.10.2023,07:00,1 Lyga,Minija,Panevėžys II,,,
-07.10.2023,07:00,3 Liga Group 1,Jagiellonia II,Wikielec,,,
-07.10.2023,07:00,3 Liga Group 2,Pogoń Szczecin II,Gedania Gdańsk,,,
-07.10.2023,08:00,Division 2 Vastra Gotaland,Landvetter IS,Hittarp,,,
-07.10.2023,08:00,Division 2 Norra Gotaland,Torslanda,Stenungsund,,,
-07.10.2023,08:00,3 Liga Group 3,Goczałkowice Zdrój,Karkonosze Jelenia Góra,,,
-07.10.2023,08:30,Championship,Sunderland,Middlesbrough,,,
-07.10.2023,09:00,Division 2 Norra Svealand,Karlberg,Gute,,,
-07.10.2023,09:00,Division 2 Sodra Gotaland,Berga,IFK Malmö,,,
-07.10.2023,09:00,1 Lyga,Neptūną Klaipėda,FK Babrungas,,,
-07.10.2023,09:00,1 Lyga,FA Šiauliai II,Garliava,,,
-07.10.2023,09:00,2nd Division,Aarhus Fremad,AB,,,
-07.10.2023,09:00,Regionalliga West,Düren Merzenich,Rot-Weiß Oberhausen,,,
-07.10.2023,09:00,Regionalliga West,Rot Weiss Ahlen,Fortuna Düsseldorf II,,,
-07.10.2023,09:00,Regionalliga West,Borussia M'gladbach II,Velbert,,,
-07.10.2023,09:00,3. Liga,MSV Duisburg,Unterhaching,,,
-07.10.2023,09:00,3. Liga,Arminia Bielefeld,Borussia Dortmund II,,,
-07.10.2023,09:00,3. Liga,Rot-Weiss Essen,Verl,,,
-07.10.2023,09:00,3. Liga,1860 München,Dynamo Dresden,,,
-07.10.2023,09:00,Oberliga Rheinland Pfalz Saar,Wormatia Worms,Pirmasens,,,
-07.10.2023,09:00,3 Liga Group 3,Warta Gorzów,Falubaz Zielona Góra,,,
-07.10.2023,09:00,3 Liga Group 4,Wisłoka Dębica,Wieczysta Kraków,,,
-07.10.2023,10:00,First Division,Raufoss,Mjøndalen,,,
-07.10.2023,10:00,First Division,Sogndal,Moss,,,
-07.10.2023,10:00,1st Division,Kolding IF,HB Køge,,,
-07.10.2023,10:00,3. Liga MSFL,Start Brno,Frýdek-Místek,,,
-07.10.2023,10:00,3. Liga MSFL,Slovan Rosice,Uničov,,,
-07.10.2023,10:00,2nd Division,Thisted,FA 2000,,,
-07.10.2023,10:00,Oberliga Bayern Nord,ASV Neumarkt,Kornburg,,,
-07.10.2023,10:00,Oberliga Rheinland Pfalz Saar,Alemannia Waldalgesheim,Pfeddersheim,,,
-07.10.2023,10:00,Oberliga Rheinland Pfalz Saar,Mechtersheim,Morlautern,,,
-07.10.2023,10:00,Oberliga Rheinland Pfalz Saar,Kaiserslautern II,SV Auersmacher,,,
-07.10.2023,10:00,3 Liga West,Dubnica,Fomat Martin,,,
-07.10.2023,10:00,3 Liga Group 1,Legionovia Legionowo,Lechia T. Mazowiecki,,,
-07.10.2023,10:00,3 Liga Group 3,Gwarek Tarnowskie Góry,Pawłowice Śląskie,,,
-07.10.2023,10:00,3 Liga Group 3,Polkowice,Śląsk Wrocław II,,,
-07.10.2023,10:00,3 Liga Group 4,Unia Tarnów,NKP Podhale,,,
-07.10.2023,10:30,Welsh Premier League,Newtown,Caernarfon Town,,,
-07.10.2023,11:00,Division 2 Vastra Gotaland,Varbergs GIF,Onsala,,,
-07.10.2023,11:00,Division 2 Norra Gotaland,Vänersborgs FK,Gauthiod,,,
-07.10.2023,11:00,Pro League,Cercle Brugge,OH Leuven,,,
-07.10.2023,11:00,EFL League Two,Barrow,Notts County,,,
-07.10.2023,11:00,EFL League Two,Bradford City,Swindon Town,,,
-07.10.2023,11:00,EFL League Two,Crawley Town,Wrexham,,,
-07.10.2023,11:00,EFL League Two,Salford City,Crewe Alexandra,,,
-07.10.2023,11:00,NIFL Championship,Ballyclare Comrades,Newington Youth,,,
-07.10.2023,11:00,NIFL Championship,Portadown,Dundela,,,
-07.10.2023,11:00,National League,Gateshead,Altrincham,,,
-07.10.2023,11:00,National League,Oxford City,Fylde,,,
-07.10.2023,11:00,National League,Solihull Moors,Aldershot Town,,,
-07.10.2023,11:00,Oberliga Bayern Nord,Coburg,Eichstätt,,,
-07.10.2023,11:00,Regionalliga Ost,Wiener Viktoria,Favoritner AC,,,
-07.10.2023,11:30,3. Liga,Erzgebirge Aue,Saarbrucken,,,
-07.10.2023,12:30,Allsvenskan,IFK Göteborg,Sirius,,,
-07.10.2023,12:30,Primera División,Curicó Unido,Cobresal,,,
-07.10.2023,13:00,Eliteserien,Odd,Viking,,,
-07.10.2023,13:00,First Division,Hødd,Kristiansund,,,
-07.10.2023,13:00,Super League,Yverdon Sport,Grasshopper,,,
-07.10.2023,13:00,Super League,Zürich,Winterthur,,,
-07.10.2023,13:30,National League,Dorking Wanderers,Barnet,,,
-07.10.2023,14:00,3 Liga Group 4,Podlasie Biała Podlaska,Czarni Połaniec,,,
-07.10.2023,15:15,PrvaLiga,Maribor,Mura,,,
-07.10.2023,15:45,Pro League,RSC Anderlecht,KV Mechelen,,,
-07.10.2023,18:00,Liga de Ascenso,Santa Ana,Uruguay,,,
+07.10.2023,02:00,J2 League,Shimizu S-Pulse,Jubilo Iwata,1x0,0,-1
+07.10.2023,05:00,J2 League,V-Varen Nagasaki,Fujieda MYFC,5x1,1,"0,7"
+07.10.2023,05:00,Liga 1,Persebaya Surabaya,Persib,2x3,1,"0,7"
+07.10.2023,05:15,4. Liga Division B,Kladno,Chomutov,1x1,1,"0,7"
+07.10.2023,07:00,1 Lyga,Minija,Panevėžys II,4x1,1,"0,7"
+07.10.2023,07:00,3 Liga Group 1,Jagiellonia II,Wikielec,1x2,1,"0,7"
+07.10.2023,07:00,3 Liga Group 2,Pogoń Szczecin II,Gedania Gdańsk,5x2,1,"0,7"
+07.10.2023,08:00,Division 2 Vastra Gotaland,Landvetter IS,Hittarp,1x1,1,"0,7"
+07.10.2023,08:00,Division 2 Norra Gotaland,Torslanda,Stenungsund,3x0,0,-1
+07.10.2023,08:00,3 Liga Group 3,Goczałkowice Zdrój,Karkonosze Jelenia Góra,5x1,1,"0,7"
+07.10.2023,08:30,Championship,Sunderland,Middlesbrough,0x4,0,-1
+07.10.2023,09:00,Division 2 Norra Svealand,Karlberg,Gute,2x0,0,-1
+07.10.2023,09:00,Division 2 Sodra Gotaland,Berga,IFK Malmö,1x1,1,"0,7"
+07.10.2023,09:00,1 Lyga,Neptūną Klaipėda,FK Babrungas,5x0,1,"0,7"
+07.10.2023,09:00,1 Lyga,FA Šiauliai II,Garliava,3x3,1,"0,7"
+07.10.2023,09:00,2nd Division,Aarhus Fremad,AB,1x1,1,"0,7"
+07.10.2023,09:00,Regionalliga West,Düren Merzenich,Rot-Weiß Oberhausen,1x2,1,"0,7"
+07.10.2023,09:00,Regionalliga West,Rot Weiss Ahlen,Fortuna Düsseldorf II,0x4,0,-1
+07.10.2023,09:00,Regionalliga West,Borussia M'gladbach II,Velbert,4x2,1,"0,7"
+07.10.2023,09:00,3. Liga,MSV Duisburg,Unterhaching,0x1,0,-1
+07.10.2023,09:00,3. Liga,Arminia Bielefeld,Borussia Dortmund II,2x2,1,"0,7"
+07.10.2023,09:00,3. Liga,Rot-Weiss Essen,Verl,0x5,1,"0,7"
+07.10.2023,09:00,3. Liga,1860 München,Dynamo Dresden,0x0,0,-1
+07.10.2023,09:00,Oberliga Rheinland Pfalz Saar,Wormatia Worms,Pirmasens,2x2,1,"0,7"
+07.10.2023,09:00,3 Liga Group 3,Warta Gorzów,Falubaz Zielona Góra,1x3,1,"0,7"
+07.10.2023,09:00,3 Liga Group 4,Wisłoka Dębica,Wieczysta Kraków,1x1,1,"0,7"
+07.10.2023,10:00,First Division,Raufoss,Mjøndalen,0x0,0,-1
+07.10.2023,10:00,First Division,Sogndal,Moss,2x1,1,"0,7"
+07.10.2023,10:00,1st Division,Kolding IF,HB Køge,3x1,1,"0,7"
+07.10.2023,10:00,3. Liga MSFL,Start Brno,Frýdek-Místek,1x2,1,"0,7"
+07.10.2023,10:00,3. Liga MSFL,Slovan Rosice,Uničov,0x2,0,-1
+07.10.2023,10:00,2nd Division,Thisted,FA 2000,1x0,0,-1
+07.10.2023,10:00,Oberliga Bayern Nord,ASV Neumarkt,Kornburg,0x2,0,-1
+07.10.2023,10:00,Oberliga Rheinland Pfalz Saar,Alemannia Waldalgesheim,Pfeddersheim,2x1,1,"0,7"
+07.10.2023,10:00,Oberliga Rheinland Pfalz Saar,Mechtersheim,Morlautern,2x2,1,"0,7"
+07.10.2023,10:00,Oberliga Rheinland Pfalz Saar,Kaiserslautern II,SV Auersmacher,2x2,1,"0,7"
+07.10.2023,10:00,3 Liga West,Dubnica,Fomat Martin,0x3,0,-1
+07.10.2023,10:00,3 Liga Group 1,Legionovia Legionowo,Lechia T. Mazowiecki,1x2,1,"0,7"
+07.10.2023,10:00,3 Liga Group 3,Gwarek Tarnowskie Góry,Pawłowice Śląskie,3x1,1,"0,7"
+07.10.2023,10:00,3 Liga Group 3,Polkowice,Śląsk Wrocław II,3x3,1,"0,7"
+07.10.2023,10:00,3 Liga Group 4,Unia Tarnów,NKP Podhale,2x1,1,"0,7"
+07.10.2023,10:30,Welsh Premier League,Newtown,Caernarfon Town,4x0,0,-1
+07.10.2023,11:00,Division 2 Vastra Gotaland,Varbergs GIF,Onsala,2x1,1,"0,7"
+07.10.2023,11:00,Division 2 Norra Gotaland,Vänersborgs FK,Gauthiod,0x0,0,-1
+07.10.2023,11:00,Pro League,Cercle Brugge,OH Leuven,3x2,1,"0,7"
+07.10.2023,11:00,EFL League Two,Barrow,Notts County,1x1,1,"0,7"
+07.10.2023,11:00,EFL League Two,Bradford City,Swindon Town,1x0,0,-1
+07.10.2023,11:00,EFL League Two,Crawley Town,Wrexham,0x1,0,-1
+07.10.2023,11:00,EFL League Two,Salford City,Crewe Alexandra,4x2,1,"0,7"
+07.10.2023,11:00,NIFL Championship,Ballyclare Comrades,Newington Youth,3x0,0,-1
+07.10.2023,11:00,NIFL Championship,Portadown,Dundela,1x3,1,"0,7"
+07.10.2023,11:00,National League,Gateshead,Altrincham,0x2,0,-1
+07.10.2023,11:00,National League,Oxford City,Fylde,3x0,0,-1
+07.10.2023,11:00,National League,Solihull Moors,Aldershot Town,0x1,0,-1
+07.10.2023,11:00,Oberliga Bayern Nord,Coburg,Eichstätt,0x8,0,-1
+07.10.2023,11:00,Regionalliga Ost,Wiener Viktoria,Favoritner AC,3x1,1,"0,7"
+07.10.2023,11:30,3. Liga,Erzgebirge Aue,Saarbrucken,2x0,0,-1
+07.10.2023,12:30,Allsvenskan,IFK Göteborg,Sirius,0x1,0,-1
+07.10.2023,12:30,Primera División,Curicó Unido,Cobresal,1x2,1,"0,7"
+07.10.2023,13:00,Eliteserien,Odd,Viking,1x1,1,"0,7"
+07.10.2023,13:00,First Division,Hødd,Kristiansund,0x1,0,-1
+07.10.2023,13:00,Super League,Yverdon Sport,Grasshopper,0x3,0,-1
+07.10.2023,13:00,Super League,Zürich,Winterthur,3x2,1,"0,7"
+07.10.2023,13:30,National League,Dorking Wanderers,Barnet,2x3,1,"0,7"
+07.10.2023,14:00,3 Liga Group 4,Podlasie Biała Podlaska,Czarni Połaniec,3x0,0,-1
+07.10.2023,15:15,PrvaLiga,Maribor,Mura,3x1,1,"0,7"
+07.10.2023,15:45,Pro League,RSC Anderlecht,KV Mechelen,3x1,1,"0,7"
+07.10.2023,18:00,Liga de Ascenso,Santa Ana,Uruguay,1x0,0,-1
+08.10.2023,05:15,3. Liga CFL,Pardubice II,Slovan Velvary,1x3,1,"0,7"
+08.10.2023,07:00,1 Lyga,Kauno Žalgiris II,Be1 NFA,0x1,0,-1
+08.10.2023,08:00,Superettan,Trelleborg,GAIS,0x6,0,-1
+08.10.2023,08:00,3. Division Group 1,Ullern II,Gneist,4x0,0,-1
+08.10.2023,08:00,Division 2 Norra Svealand,Hudiksvall,Franke,4x4,1,"0,7"
+08.10.2023,08:00,Division 2 Norra Svealand,Skiljebo,Sandvikens AIK,1x2,1,"0,7"
+08.10.2023,08:00,Division 2 Vastra Gotaland,Vastra Frolunda,Lindome,3x2,1,"0,7"
+08.10.2023,08:00,Division 2 Vastra Gotaland,Tölö,Laholm,1x1,1,"0,7"
+08.10.2023,08:00,Regionalliga Nordost,BFC Dynamo,Luckenwalde,4x0,0,-1
+08.10.2023,08:30,Pro League,Standard Liège,Club Brugge,2x1,1,"0,7"
+08.10.2023,09:00,Superliga,Nordsjælland,OB,0x1,0,-1
+08.10.2023,09:15,Challenge League,Aarau,Bellinzona,1x2,1,"0,7"
+08.10.2023,09:15,Super League,Lugano,Servette,0x1,0,-1
+08.10.2023,09:30,Bundesliga,Wolfsberger AC,Sturm Graz,1x2,1,"0,7"
+08.10.2023,10:00,Allsvenskan,Brommapojkarna,Elfsborg,0x3,0,-1
+08.10.2023,10:00,Superettan,GIF Sundsvall,Brage,1x2,1,"0,7"
+08.10.2023,10:00,First Division,KFUM,Bryne,1x0,0,-1
+08.10.2023,10:00,First Division,Ranheim,Jerv,4x2,1,"0,7"
+08.10.2023,10:00,First Division,Start,Kongsvinger,2x1,1,"0,7"
+08.10.2023,10:00,First Division,Åsane,Fredrikstad,0x4,0,-1
+08.10.2023,10:00,Oberliga Niedersachsen,Germania Egestorf,Lupo-Martini,1x1,1,"0,7"
+08.10.2023,10:00,3 Liga West,Sereď,Podkonice,4x1,1,"0,7"
+08.10.2023,10:00,3 Liga Group 1,Bełchatów,Warta Sieradz,3x2,1,"0,7"
+08.10.2023,11:00,Faroe Islands Premier League,AB,KÍ,1x1,1,"0,7"
+08.10.2023,11:00,Faroe Islands Premier League,B68,Víkingur,0x3,0,-1
+08.10.2023,11:00,Faroe Islands Premier League,ÍF,EB - Streymur,4x1,1,"0,7"
+08.10.2023,11:00,Division 2 Norra Gotaland,IK Zenith,Nordvärmland,2x0,0,-1
+08.10.2023,11:00,3. Liga CFL,Sokol Hostouň,Motorlet Praha,5x2,1,"0,7"
+08.10.2023,11:30,Super League,Lausanne Sport,Luzern,3x1,1,"0,7"
+08.10.2023,11:30,Super League,Young Boys,Basel,3x0,0,-1
+08.10.2023,11:30,3. Liga,Hallescher FC,Preußen Münster,1x4,1,"0,7"
+08.10.2023,12:00,Eliteserien,Molde,FK Bodo - Glimt,1x3,1,"0,7"
+08.10.2023,12:00,Eliteserien,Sandefjord,HamKam,0x1,0,-1
+08.10.2023,12:00,Eliteserien,Sarpsborg 08,Rosenborg,5x2,1,"0,7"
+08.10.2023,12:00,Montenegrin Second League,Bokelj,Lovćen,3x1,1,"0,7"
+08.10.2023,12:30,Allsvenskan,Hammarby,Häcken,2x2,1,"0,7"
+08.10.2023,12:30,Super Liga,DAC,Podbrezová,3x2,1,"0,7"
+08.10.2023,13:00,2. SNL,Triglav,Fužinar,2x0,0,-1
+08.10.2023,13:00,Russian Premier League,Spartak Moskva,CSKA Moskva,1x2,1,"0,7"
+08.10.2023,13:00,Super Liga,Slovan Bratislava,Trenčín,2x0,0,-1
+08.10.2023,13:30,Pro League,KAA Gent,KRC Genk,1x1,1,"0,7"
+08.10.2023,14:15,Eliteserien,Vålerenga,Brann,1x2,1,"0,7"
+08.10.2023,18:00,Primera Division,H&H Export,Managua,1x1,1,"0,7"
+08.10.2023,20:30,LFPB,Oriente Petrolero,The Strongest,1x1,1,"0,7"
+08.10.2023,22:05,Liga MX,Santos Laguna,León,0x2,0,-1
