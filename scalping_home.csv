@@ -27,26 +27,9 @@ Argentina - Liga Profesional,T. de Cordoba,5,0
 Argentina - Liga Profesional,Tigre,2,3
 Argentina - Liga Profesional,Union Santa Fe,0,0
 Argentina - Liga Profesional,Velez Sarsfield,0,1
-Argentina - Primera B,A. Quilmes,1,2
-Argentina - Primera B,Acassuso,0,1
-Argentina - Primera B,Argentino Merlo,1,0
-Argentina - Primera B,Canuelas,3,0
-Argentina - Primera B,Colegiales,0,0
-Argentina - Primera B,Comunicaciones,1,1
-Argentina - Primera B,D. Armenio,1,1
-Argentina - Primera B,Deportivo Merlo,3,3
-Argentina - Primera B,Dock Sud,2,3
-Argentina - Primera B,Fenix,0,2
-Argentina - Primera B,Ituzaingo,0,0
-Argentina - Primera B,Los Andes,2,0
-Argentina - Primera B,Sacachispas,1,0
-Argentina - Primera B,San Miguel,2,0
-Argentina - Primera B,T. Remedios,1,0
-Argentina - Primera B,UAI Urquiza,3,1
-Argentina - Primera B,V. San Carlos,1,3
 Armenia - Premier League,Alashkert,2,0
-Armenia - Premier League,Ararat Yerevan,0,1
-Armenia - Premier League,Ararat-Armenia,2,0
+Armenia - Premier League,Ararat Yerevan,0,2
+Armenia - Premier League,Ararat-Armenia,3,0
 Armenia - Premier League,BKMA,0,2
 Armenia - Premier League,Noah,2,0
 Armenia - Premier League,Pyunik,3,2
@@ -66,8 +49,8 @@ Australia - A-League,Sydney FC,3,4
 Australia - A-League,Wellington,2,2
 Australia - A-League,Western Sydney,3,0
 Australia - A-League,Western United,2,2
-Austria - Bundesliga,A. Klagenfurt,0,0
-Austria - Bundesliga,A. Lustenau,0,1
+Austria - Bundesliga,A. Klagenfurt,0,1
+Austria - Bundesliga,A. Lustenau,0,3
 Austria - Bundesliga,Altach,2,1
 Austria - Bundesliga,Austria Wien,1,2
 Austria - Bundesliga,BW Linz,1,2
@@ -81,70 +64,70 @@ Austria - Bundesliga,Wolfsberger AC,1,1
 Austria - 2. Liga,Admira Wacker,1,1
 Austria - 2. Liga,Amstetten,0,0
 Austria - 2. Liga,Bregenz,2,1
-Austria - 2. Liga,Dornbirn,0,3
-Austria - 2. Liga,First Vienna,0,0
-Austria - 2. Liga,Floridsdorfer,1,1
+Austria - 2. Liga,Dornbirn,1,4
+Austria - 2. Liga,First Vienna,1,0
+Austria - 2. Liga,Floridsdorfer,1,3
 Austria - 2. Liga,Grazer AK,1,0
 Austria - 2. Liga,Kapfenberger,0,1
-Austria - 2. Liga,Lafnitz,2,0
+Austria - 2. Liga,Lafnitz,3,1
 Austria - 2. Liga,Leoben,0,3
 Austria - 2. Liga,Liefering,0,0
 Austria - 2. Liga,Ried,1,0
 Austria - 2. Liga,St. Polten,0,2
-Austria - 2. Liga,Stripfing,2,1
+Austria - 2. Liga,Stripfing,3,2
 Austria - 2. Liga,Sturm Graz B,0,2
 Austria - 2. Liga,SV Horn,1,1
-Belgium - First Division A,Anderlecht,1,0
-Belgium - First Division A,Antwerp,1,0
-Belgium - First Division A,Cercle Brugge,0,0
+Belgium - First Division A,Anderlecht,2,0
+Belgium - First Division A,Antwerp,2,1
+Belgium - First Division A,Cercle Brugge,1,1
 Belgium - First Division A,Charleroi,1,0
 Belgium - First Division A,Club Brugge,1,1
-Belgium - First Division A,Eupen,0,1
+Belgium - First Division A,Eupen,0,2
 Belgium - First Division A,Gent,1,3
 Belgium - First Division A,Kortrijk,0,0
-Belgium - First Division A,KRC Genk,0,1
+Belgium - First Division A,KRC Genk,1,1
 Belgium - First Division A,KV Mechelen,0,1
 Belgium - First Division A,OH Leuven,1,0
 Belgium - First Division A,Royale Union SG,1,0
 Belgium - First Division A,RWDM,0,2
 Belgium - First Division A,Sint-Truiden,0,0
-Belgium - First Division A,Standard Liege,0,0
+Belgium - First Division A,Standard Liege,1,0
 Belgium - First Division A,Westerlo,0,0
-Belgium - First Division B,Anderlecht B,2,0
+Belgium - First Division B,Anderlecht B,3,0
 Belgium - First Division B,Beerschot,0,0
-Belgium - First Division B,Beveren,1,0
+Belgium - First Division B,Beveren,1,1
 Belgium - First Division B,Club Brugge B,0,0
 Belgium - First Division B,Deinze,1,1
-Belgium - First Division B,Dender,1,2
+Belgium - First Division B,Dender,1,3
 Belgium - First Division B,Francs Borains,0,0
 Belgium - First Division B,KRC Genk B,0,1
 Belgium - First Division B,Lierse K.,0,0
 Belgium - First Division B,Lommel SK,1,0
-Belgium - First Division B,Oostende,0,1
+Belgium - First Division B,Oostende,0,2
 Belgium - First Division B,Patro Eisden,0,0
 Belgium - First Division B,RFC Liege,0,1
 Belgium - First Division B,Seraing,0,0
 Belgium - First Division B,Standard L. B,0,0
-Belgium - First Division B,Zulte-Waregem,0,1
+Belgium - First Division B,Zulte-Waregem,0,2
 Brazil - Serie A,America MG,2,1
 Brazil - Serie A,Athletico PR,1,3
 Brazil - Serie A,Atletico MG,4,2
 Brazil - Serie A,Bahia,1,1
 Brazil - Serie A,Botafogo,5,3
-Brazil - Serie A,Bragantino,1,2
+Brazil - Serie A,Bragantino,1,3
 Brazil - Serie A,Corinthians,0,1
-Brazil - Serie A,Coritiba,4,2
+Brazil - Serie A,Coritiba,5,2
 Brazil - Serie A,Cruzeiro,1,0
 Brazil - Serie A,Cuiaba,1,3
 Brazil - Serie A,Flamengo,3,1
 Brazil - Serie A,Fluminense,3,1
 Brazil - Serie A,Fortaleza,0,0
-Brazil - Serie A,Goias,0,2
+Brazil - Serie A,Goias,0,3
 Brazil - Serie A,Gremio,4,2
-Brazil - Serie A,Internacional,1,2
+Brazil - Serie A,Internacional,2,2
 Brazil - Serie A,Palmeiras,2,0
-Brazil - Serie A,Santos,3,2
-Brazil - Serie A,Sao Paulo,0,3
+Brazil - Serie A,Santos,4,2
+Brazil - Serie A,Sao Paulo,0,4
 Brazil - Serie A,Vasco da Gama,2,1
 Brazil - Serie C,Altos,2,0
 Brazil - Serie C,Amazonas,1,2
@@ -166,26 +149,26 @@ Brazil - Serie C,Remo,1,0
 Brazil - Serie C,Sao Bernardo,2,0
 Brazil - Serie C,Volta Redonda,1,0
 Brazil - Serie C,Ypiranga,0,0
-Bulgaria - Parva Liga,Arda,1,0
+Bulgaria - Parva Liga,Arda,2,0
 Bulgaria - Parva Liga,Beroe,2,0
 Bulgaria - Parva Liga,Botev Plovdiv,0,0
 Bulgaria - Parva Liga,Botev Vratsa,0,2
 Bulgaria - Parva Liga,Cherno More,0,0
 Bulgaria - Parva Liga,CSKA 1948 Sofia,1,0
 Bulgaria - Parva Liga,CSKA Sofia,1,0
-Bulgaria - Parva Liga,Etar,0,1
+Bulgaria - Parva Liga,Etar,1,2
 Bulgaria - Parva Liga,Hebar,1,1
 Bulgaria - Parva Liga,L. Krumovgrad,2,1
 Bulgaria - Parva Liga,Levski Sofia,0,0
 Bulgaria - Parva Liga,Lok. Plovdiv,2,1
 Bulgaria - Parva Liga,Lokomotiv Sofia,2,0
-Bulgaria - Parva Liga,Ludogorets,2,0
-Bulgaria - Parva Liga,Pirin Blag.,0,0
+Bulgaria - Parva Liga,Ludogorets,3,0
+Bulgaria - Parva Liga,Pirin Blag.,0,1
 Bulgaria - Parva Liga,Slavia Sofia,0,2
 Canada - Premier League,A. Ottawa,3,2
 Canada - Premier League,Cavalry,3,1
 Canada - Premier League,Forge,3,2
-Canada - Premier League,HFX Wanderers,4,3
+Canada - Premier League,HFX Wanderers,5,3
 Canada - Premier League,Pacific,1,2
 Canada - Premier League,Valour,3,7
 Canada - Premier League,Vancouver FC,6,5
@@ -194,84 +177,72 @@ Costa Rica - Primera Div. - Apertura,AD Grecia,2,3
 Costa Rica - Primera Div. - Apertura,Alajuelense,3,1
 Costa Rica - Primera Div. - Apertura,Cartagines,1,0
 Costa Rica - Primera Div. - Apertura,Guanacasteca,1,1
-Costa Rica - Primera Div. - Apertura,Herediano,1,0
+Costa Rica - Primera Div. - Apertura,Herediano,2,0
 Costa Rica - Primera Div. - Apertura,M. Liberia,1,2
-Costa Rica - Primera Div. - Apertura,Puntarenas,0,2
-Costa Rica - Primera Div. - Apertura,San Carlos,1,0
-Costa Rica - Primera Div. - Apertura,Santos DG,1,0
+Costa Rica - Primera Div. - Apertura,Puntarenas,0,3
+Costa Rica - Primera Div. - Apertura,San Carlos,1,1
+Costa Rica - Primera Div. - Apertura,Santos DG,1,1
 Costa Rica - Primera Div. - Apertura,Saprissa,1,0
 Costa Rica - Primera Div. - Apertura,Sporting SJ,1,0
-Costa Rica - Primera Div. - Apertura,Zeledon,0,1
-Costa Rica - Primera Div. - Clausura,AD Grecia,3,5
-Costa Rica - Primera Div. - Clausura,Alajuelense,4,0
-Costa Rica - Primera Div. - Clausura,Cartagines,2,5
-Costa Rica - Primera Div. - Clausura,Guadalupe,2,4
-Costa Rica - Primera Div. - Clausura,Guanacasteca,2,0
-Costa Rica - Primera Div. - Clausura,Herediano,0,3
-Costa Rica - Primera Div. - Clausura,Puntarenas,4,0
-Costa Rica - Primera Div. - Clausura,San Carlos,2,1
-Costa Rica - Primera Div. - Clausura,Santos DG,0,0
-Costa Rica - Primera Div. - Clausura,Saprissa,1,4
-Costa Rica - Primera Div. - Clausura,Sporting SJ,4,1
-Costa Rica - Primera Div. - Clausura,Zeledon,0,3
+Costa Rica - Primera Div. - Apertura,Zeledon,0,2
 Croatia - 1. NL,Bijelo Brdo,1,0
 Croatia - 1. NL,C. Zmijavci,0,0
 Croatia - 1. NL,Cibalia,1,1
-Croatia - 1. NL,Dubrava Zagreb,0,1
+Croatia - 1. NL,Dubrava Zagreb,0,2
 Croatia - 1. NL,Dugopolje,0,1
-Croatia - 1. NL,Jarun,1,0
+Croatia - 1. NL,Jarun,1,1
 Croatia - 1. NL,Orijent,0,1
-Croatia - 1. NL,Sesvete,0,0
+Croatia - 1. NL,Sesvete,1,0
 Croatia - 1. NL,Sibenik,1,0
 Croatia - 1. NL,Solin,1,3
-Croatia - 1. NL,Vukovar,1,0
+Croatia - 1. NL,Vukovar,1,1
 Croatia - 1. NL,Z. Jurjevac,1,0
 CzechRepublic - 1. Liga,Banik Ostrava,1,0
 CzechRepublic - 1. Liga,Bohemians,1,1
 CzechRepublic - 1. Liga,C. Budejovice,0,5
-CzechRepublic - 1. Liga,Hradec Kralove,1,0
-CzechRepublic - 1. Liga,Jablonec,0,2
-CzechRepublic - 1. Liga,Karvina,1,1
+CzechRepublic - 1. Liga,Hradec Kralove,1,1
+CzechRepublic - 1. Liga,Jablonec,1,2
+CzechRepublic - 1. Liga,Karvina,2,2
 CzechRepublic - 1. Liga,Mlada Boleslav,3,1
 CzechRepublic - 1. Liga,Pardubice,0,1
-CzechRepublic - 1. Liga,Sigma Olomouc,1,0
+CzechRepublic - 1. Liga,Sigma Olomouc,1,1
 CzechRepublic - 1. Liga,Slavia Prague,2,1
 CzechRepublic - 1. Liga,Slovacko,2,1
-CzechRepublic - 1. Liga,Slovan Liberec,1,2
-CzechRepublic - 1. Liga,Sparta Prague,3,0
+CzechRepublic - 1. Liga,Slovan Liberec,3,2
+CzechRepublic - 1. Liga,Sparta Prague,4,0
 CzechRepublic - 1. Liga,Teplice,0,0
 CzechRepublic - 1. Liga,Viktoria Plzen,1,1
 CzechRepublic - 1. Liga,Zlin,0,2
-CzechRepublic - FNL,Chrudim,1,2
+CzechRepublic - FNL,Chrudim,2,2
 CzechRepublic - FNL,Dukla Praha,3,1
-CzechRepublic - FNL,Han. Kromeriz,0,1
+CzechRepublic - FNL,Han. Kromeriz,0,2
 CzechRepublic - FNL,Jihlava,1,0
 CzechRepublic - FNL,Lisen,2,0
-CzechRepublic - FNL,Opava,2,1
+CzechRepublic - FNL,Opava,2,2
 CzechRepublic - FNL,Pribram,1,0
 CzechRepublic - FNL,Prostejov,0,4
 CzechRepublic - FNL,Sigma Olomouc B,1,0
 CzechRepublic - FNL,Sparta Prague B,0,2
-CzechRepublic - FNL,Taborsko,2,0
-CzechRepublic - FNL,Varnsdorf,1,2
-CzechRepublic - FNL,Vikto Zizkov,2,1
-CzechRepublic - FNL,Vlasim,3,1
+CzechRepublic - FNL,Taborsko,3,0
+CzechRepublic - FNL,Varnsdorf,2,3
+CzechRepublic - FNL,Vikto Zizkov,3,1
+CzechRepublic - FNL,Vlasim,4,1
 CzechRepublic - FNL,Vyskov,3,1
 CzechRepublic - FNL,Zbrojovka Brno,1,0
 Denmark - Superligaen,AGF Aarhus,1,0
 Denmark - Superligaen,Brondby IF,1,0
 Denmark - Superligaen,FC Kobenhavn,3,0
-Denmark - Superligaen,FC Midtjylland,0,0
-Denmark - Superligaen,Hvidovre,0,2
+Denmark - Superligaen,FC Midtjylland,0,1
+Denmark - Superligaen,Hvidovre,0,3
 Denmark - Superligaen,Lyngby,0,0
 Denmark - Superligaen,Nordsjaelland,1,1
 Denmark - Superligaen,Odense BK,1,3
 Denmark - Superligaen,Randers FC,1,1
-Denmark - Superligaen,Silkeborg,1,0
+Denmark - Superligaen,Silkeborg,2,0
 Denmark - Superligaen,Vejle BK,0,0
 Denmark - Superligaen,Viborg,0,0
 Denmark - 1st Division,Aalborg BK,2,0
-Denmark - 1st Division,AC Horsens,1,0
+Denmark - 1st Division,AC Horsens,1,1
 Denmark - 1st Division,B 93,0,0
 Denmark - 1st Division,Fredericia,1,0
 Denmark - 1st Division,HB Koge,1,1
@@ -280,58 +251,58 @@ Denmark - 1st Division,Hillerod,1,0
 Denmark - 1st Division,Hobro,1,0
 Denmark - 1st Division,Kolding IF,2,0
 Denmark - 1st Division,Naestved,1,3
-Denmark - 1st Division,SonderjyskE,0,0
-Denmark - 1st Division,Vendsyssel,1,1
+Denmark - 1st Division,SonderjyskE,2,0
+Denmark - 1st Division,Vendsyssel,2,1
 England - Premier League,Arsenal,0,1
-England - Premier League,Aston Villa,0,0
+England - Premier League,Aston Villa,1,0
 England - Premier League,Bournemouth,0,0
 England - Premier League,Brentford,1,2
 England - Premier League,Brighton,0,0
-England - Premier League,Burnley,1,2
+England - Premier League,Burnley,2,2
 England - Premier League,Chelsea,0,0
 England - Premier League,Crystal Palace,0,0
-England - Premier League,Everton,0,0
+England - Premier League,Everton,1,0
 England - Premier League,Fulham,0,0
 England - Premier League,Liverpool,1,1
 England - Premier League,Luton Town,0,0
 England - Premier League,Manchester City,2,0
 England - Premier League,Manchester Utd,0,2
-England - Premier League,Newcastle Utd,1,1
+England - Premier League,Newcastle Utd,2,1
 England - Premier League,Nottm Forest,1,0
 England - Premier League,Sheffield Utd,0,1
 England - Premier League,Tottenham,0,0
-England - Premier League,West Ham Utd,1,0
-England - Premier League,Wolverhampton,1,1
-England - Championship,Birmingham City,1,1
-England - Championship,Blackburn,0,0
-England - Championship,Bristol City,2,0
+England - Premier League,West Ham Utd,2,0
+England - Premier League,Wolverhampton,2,1
+England - Championship,Birmingham City,2,2
+England - Championship,Blackburn,1,1
+England - Championship,Bristol City,4,0
 England - Championship,Cardiff City,1,0
 England - Championship,Coventry City,1,0
 England - Championship,Huddersfield,0,1
 England - Championship,Hull City,0,0
-England - Championship,Ipswich Town,2,3
-England - Championship,Leeds Utd,0,0
+England - Championship,Ipswich Town,3,3
+England - Championship,Leeds Utd,1,0
 England - Championship,Leicester City,0,1
 England - Championship,Middlesbrough,0,0
-England - Championship,Millwall,0,1
+England - Championship,Millwall,1,1
 England - Championship,Norwich City,0,0
 England - Championship,Plymouth,2,0
-England - Championship,Preston,1,0
+England - Championship,Preston,1,1
 England - Championship,QP Rangers,1,1
 England - Championship,Rotherham,0,1
 England - Championship,Sheffield Wed,0,3
-England - Championship,Southampton,0,2
+England - Championship,Southampton,2,2
 England - Championship,Stoke City,1,0
 England - Championship,Sunderland,2,0
-England - Championship,Swansea City,1,0
-England - Championship,Watford,2,1
-England - Championship,West Brom,0,0
+England - Championship,Swansea City,2,0
+England - Championship,Watford,2,3
+England - Championship,West Brom,1,0
 England - League One,Barnsley,0,3
 England - League One,Blackpool,1,0
-England - League One,Bolton,3,1
+England - League One,Bolton,4,1
 England - League One,Bristol Rovers,1,1
-England - League One,Burton Albion,0,1
-England - League One,Cambridge Utd,1,0
+England - League One,Burton Albion,1,1
+England - League One,Cambridge Utd,1,1
 England - League One,Carlisle Utd,0,0
 England - League One,Charlton,1,0
 England - League One,Cheltenham,0,2
@@ -339,36 +310,36 @@ England - League One,Derby County,0,0
 England - League One,Exeter City,0,0
 England - League One,Fleetwood,0,0
 England - League One,Leyton Orient,0,0
-England - League One,Lincoln City,1,0
-England - League One,Northampton,0,2
-England - League One,Oxford Utd,2,0
+England - League One,Lincoln City,2,0
+England - League One,Northampton,1,2
+England - League One,Oxford Utd,3,0
 England - League One,Peterborough,0,0
 England - League One,Port Vale,0,1
 England - League One,Portsmouth,1,1
 England - League One,Reading,0,0
 England - League One,Shrewsbury,1,0
-England - League One,Stevenage,1,0
+England - League One,Stevenage,3,0
 England - League One,Wigan Athletic,0,0
 England - League One,Wycombe,2,2
-England - National League,AFC Fylde,0,1
-England - National League,Aldershot Town,1,0
+England - National League,AFC Fylde,0,2
+England - National League,Aldershot Town,1,1
 England - National League,Altrincham,2,2
-England - National League,Barnet,2,0
+England - National League,Barnet,2,1
 England - National League,Boreham Wood,0,0
 England - National League,Bromley,0,1
 England - National League,Chesterfield,2,2
 England - National League,Dagenham & R.,0,0
-England - National League,Dorking,1,1
-England - National League,Eastleigh,0,2
+England - National League,Dorking,2,1
+England - National League,Eastleigh,0,3
 England - National League,Ebbsfleet Utd,0,0
 England - National League,Gateshead FC,3,0
 England - National League,Halifax Town,0,0
-England - National League,Hartlepool,2,1
-England - National League,Kidderminster,0,1
+England - National League,Hartlepool,3,1
+England - National League,Kidderminster,0,2
 England - National League,Maidenhead Utd,1,0
-England - National League,Oldham,2,0
-England - National League,Oxford City,0,0
-England - National League,Rochdale,2,2
+England - National League,Oldham,3,0
+England - National League,Oxford City,0,1
+England - National League,Rochdale,3,2
 England - National League,Solihull Moors,0,2
 England - National League,Southend Utd,2,1
 England - National League,Wealdstone,1,0
@@ -376,38 +347,38 @@ England - National League,Woking,0,2
 England - National League,York City,2,1
 FaroeIslands - Premier League,07 Vestur,0,4
 FaroeIslands - Premier League,AB Argir,3,4
-FaroeIslands - Premier League,B36 Torshavn,5,3
+FaroeIslands - Premier League,B36 Torshavn,6,3
 FaroeIslands - Premier League,B68 Toftir,4,2
-FaroeIslands - Premier League,HB Torshavn,5,1
+FaroeIslands - Premier League,HB Torshavn,6,1
 FaroeIslands - Premier League,IF Fuglafjordur,1,8
-FaroeIslands - Premier League,Klaksvik,3,2
+FaroeIslands - Premier League,Klaksvik,4,2
 FaroeIslands - Premier League,Streymur,3,3
-FaroeIslands - Premier League,TB Tvoroyri,1,3
+FaroeIslands - Premier League,TB Tvoroyri,1,5
 FaroeIslands - Premier League,Vikingur,4,1
-Finland - Veikkausliiga,Haka,6,4
+Finland - Veikkausliiga,Haka,7,4
 Finland - Veikkausliiga,HJK Helsinki,1,2
 Finland - Veikkausliiga,Honka,0,1
 Finland - Veikkausliiga,Ilves,1,3
 Finland - Veikkausliiga,Inter Turku,3,0
 Finland - Veikkausliiga,KTP,2,1
-Finland - Veikkausliiga,KuPS,3,1
+Finland - Veikkausliiga,KuPS,4,1
 Finland - Veikkausliiga,Lahti,2,2
 Finland - Veikkausliiga,Mariehamn,2,3
 Finland - Veikkausliiga,Oulu,4,2
 Finland - Veikkausliiga,SJK,3,0
-Finland - Veikkausliiga,VPS,2,0
-Finland - Ykkonen,Ekenas IF,5,0
-Finland - Ykkonen,Gnistan,2,1
+Finland - Veikkausliiga,VPS,4,0
+Finland - Ykkonen,Ekenas IF,6,1
+Finland - Ykkonen,Gnistan,3,1
 Finland - Ykkonen,HIFK,2,3
-Finland - Ykkonen,JaPS,3,7
-Finland - Ykkonen,Jaro,4,2
+Finland - Ykkonen,JaPS,4,8
+Finland - Ykkonen,Jaro,5,3
 Finland - Ykkonen,JJK,2,0
-Finland - Ykkonen,KaPa,1,2
+Finland - Ykkonen,KaPa,2,2
 Finland - Ykkonen,KPV Kokkola,2,1
 Finland - Ykkonen,Mikkelin,5,0
 Finland - Ykkonen,SalPa,3,0
 Finland - Ykkonen,SJK Akatemia,3,2
-Finland - Ykkonen,TPS,6,1
+Finland - Ykkonen,TPS,6,2
 Finland - Kakkonen,Atlantis B,1,2
 Finland - Kakkonen,Futura,1,1
 Finland - Kakkonen,JIPPO,2,0
@@ -428,72 +399,72 @@ France - Ligue 1,Lille,1,1
 France - Ligue 1,Lorient,3,0
 France - Ligue 1,Lyon,0,1
 France - Ligue 1,Marseille,1,1
-France - Ligue 1,Metz,1,1
-France - Ligue 1,Monaco,0,0
+France - Ligue 1,Metz,1,2
+France - Ligue 1,Monaco,1,1
 France - Ligue 1,Montpellier,0,2
 France - Ligue 1,Nantes,3,2
 France - Ligue 1,Nice,0,0
 France - Ligue 1,Paris SG,1,0
 France - Ligue 1,Reims,0,0
-France - Ligue 1,Rennes,1,0
+France - Ligue 1,Rennes,2,0
 France - Ligue 1,Strasbourg,0,0
 France - Ligue 1,Toulouse,2,0
 France - Ligue 2,AC Ajaccio,0,1
-France - Ligue 2,Amiens,0,0
+France - Ligue 2,Amiens,1,0
 France - Ligue 2,Angers,0,0
 France - Ligue 2,Annecy,0,0
 France - Ligue 2,Auxerre,1,0
-France - Ligue 2,Bordeaux,0,0
+France - Ligue 2,Bordeaux,0,1
 France - Ligue 2,Caen,0,0
-France - Ligue 2,Concarneau,0,0
-France - Ligue 2,Grenoble,1,0
-France - Ligue 2,Guingamp,1,0
+France - Ligue 2,Concarneau,1,0
+France - Ligue 2,Grenoble,2,0
+France - Ligue 2,Guingamp,2,0
 France - Ligue 2,Laval,0,0
 France - Ligue 2,Paris FC,1,0
 France - Ligue 2,Pau FC,0,0
-France - Ligue 2,Quevilly Rouen,0,0
-France - Ligue 2,Rodez Aveyron,0,2
+France - Ligue 2,Quevilly Rouen,0,1
+France - Ligue 2,Rodez Aveyron,2,2
 France - Ligue 2,Saint-Etienne,0,0
 France - Ligue 2,SC Bastia,0,1
 France - Ligue 2,Troyes,1,1
 France - Ligue 2,USL Dunkerque,0,1
-France - Ligue 2,Valenciennes,0,0
+France - Ligue 2,Valenciennes,0,1
 France - National,Avranches,0,0
 France - National,Chateauroux,0,0
 France - National,Cholet,1,0
 France - National,Dijon,1,1
-France - National,Epinal,0,1
+France - National,Epinal,1,1
 France - National,G. O. A. L.,1,0
 France - National,Le Mans,1,0
-France - National,Marignane G.,1,1
-France - National,Martigues,0,0
-France - National,Nancy,2,1
-France - National,Nimes,2,0
+France - National,Marignane G.,2,1
+France - National,Martigues,1,0
+France - National,Nancy,2,2
+France - National,Nimes,3,0
 France - National,Niort,1,2
 France - National,Orleans,1,1
 France - National,Red Star,3,0
 France - National,Rouen,0,0
 France - National,Sochaux,0,0
-France - National,Versailles,0,1
-France - National,Villefranche,0,1
+France - National,Versailles,1,3
+France - National,Villefranche,1,1
 Georgia - Erovnuli Liga,Dila Gori,6,3
 Georgia - Erovnuli Liga,Dinamo Batumi,3,0
-Georgia - Erovnuli Liga,Dinamo Tbilisi,6,1
+Georgia - Erovnuli Liga,Dinamo Tbilisi,7,1
 Georgia - Erovnuli Liga,Gagra,1,3
 Georgia - Erovnuli Liga,Saburtalo,7,0
 Georgia - Erovnuli Liga,Samgurali,1,1
-Georgia - Erovnuli Liga,Samtredia,4,5
-Georgia - Erovnuli Liga,Shukura,2,2
+Georgia - Erovnuli Liga,Samtredia,5,5
+Georgia - Erovnuli Liga,Shukura,2,3
 Georgia - Erovnuli Liga,Telavi,2,2
 Georgia - Erovnuli Liga,Torpedo Kutaisi,1,4
-Germany - Bundesliga,Bayern Munich,3,0
+Germany - Bundesliga,Bayern Munich,4,0
 Germany - Bundesliga,Bochum,1,0
-Germany - Bundesliga,Darmstadt,2,1
-Germany - Bundesliga,Dortmund,2,0
+Germany - Bundesliga,Darmstadt,3,1
+Germany - Bundesliga,Dortmund,3,1
 Germany - Bundesliga,E. Frankfurt,0,0
 Germany - Bundesliga,FC Augsburg,1,2
 Germany - Bundesliga,FC Koln,0,1
-Germany - Bundesliga,Freiburg,0,1
+Germany - Bundesliga,Freiburg,1,1
 Germany - Bundesliga,FSV Mainz,0,0
 Germany - Bundesliga,Heidenheim,1,0
 Germany - Bundesliga,Hoffenheim,0,0
@@ -502,80 +473,80 @@ Germany - Bundesliga,Monchengladbach,0,0
 Germany - Bundesliga,RB Leipzig,2,0
 Germany - Bundesliga,Stuttgart,1,0
 Germany - Bundesliga,Union Berlin,2,0
-Germany - Bundesliga,Werder Bremen,1,1
+Germany - Bundesliga,Werder Bremen,1,2
 Germany - Bundesliga,Wolfsburg,2,0
-Germany - 2. Bundesliga,Braunschweig,0,0
+Germany - 2. Bundesliga,Braunschweig,0,1
 Germany - 2. Bundesliga,Dusseldorf,1,3
-Germany - 2. Bundesliga,Elversberg,1,2
+Germany - 2. Bundesliga,Elversberg,2,3
 Germany - 2. Bundesliga,FC Nurnberg,0,2
 Germany - 2. Bundesliga,Greuther Furth,2,2
 Germany - 2. Bundesliga,Hamburger SV,0,0
-Germany - 2. Bundesliga,Hannover 96,0,0
+Germany - 2. Bundesliga,Hannover 96,1,0
 Germany - 2. Bundesliga,Hansa Rostock,0,0
 Germany - 2. Bundesliga,Hertha Berlin,0,0
 Germany - 2. Bundesliga,Holstein Kiel,0,2
 Germany - 2. Bundesliga,Kaiserslautern,1,0
 Germany - 2. Bundesliga,Karlsruher SC,1,1
-Germany - 2. Bundesliga,Magdeburg,1,1
+Germany - 2. Bundesliga,Magdeburg,1,2
 Germany - 2. Bundesliga,Osnabruck,1,2
 Germany - 2. Bundesliga,Paderborn,0,0
-Germany - 2. Bundesliga,Sankt Pauli,2,0
+Germany - 2. Bundesliga,Sankt Pauli,3,0
 Germany - 2. Bundesliga,Schalke 04,1,1
 Germany - 2. Bundesliga,Wehen Wiesbaden,0,0
 Germany - 3. Liga,1860 Munchen,2,0
 Germany - 3. Liga,Bielefeld,0,2
-Germany - 3. Liga,Dortmund B,2,2
-Germany - 3. Liga,Dynamo Dresden,2,0
+Germany - 3. Liga,Dortmund B,3,2
+Germany - 3. Liga,Dynamo Dresden,2,1
 Germany - 3. Liga,Erzgebirge Aue,1,1
-Germany - 3. Liga,FC Ingolstadt,1,0
+Germany - 3. Liga,FC Ingolstadt,2,0
 Germany - 3. Liga,Freiburg B,0,0
-Germany - 3. Liga,Hallescher,2,0
+Germany - 3. Liga,Hallescher,2,1
 Germany - 3. Liga,Mannheim,3,1
 Germany - 3. Liga,MSV Duisburg,2,0
-Germany - 3. Liga,Preuss. Munster,0,0
+Germany - 3. Liga,Preuss. Munster,1,0
 Germany - 3. Liga,Regensburg,0,0
 Germany - 3. Liga,RW Essen,0,0
-Germany - 3. Liga,Saarbrucken,1,0
-Germany - 3. Liga,Sandhausen,1,0
-Germany - 3. Liga,Ulm,0,1
+Germany - 3. Liga,Saarbrucken,1,1
+Germany - 3. Liga,Sandhausen,2,0
+Germany - 3. Liga,Ulm,1,1
 Germany - 3. Liga,Unterhaching,1,1
-Germany - 3. Liga,Verl,0,2
+Germany - 3. Liga,Verl,1,2
 Germany - 3. Liga,VfB Lubeck,0,0
-Germany - 3. Liga,Viktoria Koln,0,0
+Germany - 3. Liga,Viktoria Koln,1,0
 Greece - Super League,AEK Athens,0,1
 Greece - Super League,Aris,0,0
 Greece - Super League,Asteras T.,2,1
 Greece - Super League,Atromitos,0,0
 Greece - Super League,Kifisia,0,2
-Greece - Super League,Lamia,0,0
-Greece - Super League,OFI Crete,0,0
+Greece - Super League,Lamia,1,0
+Greece - Super League,OFI Crete,1,0
 Greece - Super League,Olympiakos,0,0
 Greece - Super League,Panaitolikos,1,1
-Greece - Super League,Panathinaikos,2,0
+Greece - Super League,Panathinaikos,3,0
 Greece - Super League,Panserraikos,1,1
 Greece - Super League,PAOK,0,0
 Greece - Super League,PAS Giannina,0,1
 Greece - Super League,Volos,1,1
-Hong Kong - Premier League,Eastern,0,0
+Hong Kong - Premier League,Eastern,0,1
 Hong Kong - Premier League,HK Rangers,0,0
 Hong Kong - Premier League,Kitchee,2,0
-Hong Kong - Premier League,LM Warriors,0,0
+Hong Kong - Premier League,LM Warriors,2,0
 Hong Kong - Premier League,Resources C.,0,0
 Hong Kong - Premier League,Sham Shui Po,1,1
-Hong Kong - Premier League,Southern D.,0,0
-Hong Kong - Premier League,Wofoo Tai Po,0,0
+Hong Kong - Premier League,Southern D.,1,1
+Hong Kong - Premier League,Wofoo Tai Po,1,0
 Hungary - NB I,Debrecen,2,2
-Hungary - NB I,Diosgyor VTK,1,1
-Hungary - NB I,Ferencvaros,1,1
+Hungary - NB I,Diosgyor VTK,2,1
+Hungary - NB I,Ferencvaros,2,1
 Hungary - NB I,Kecskemeti TE,0,0
 Hungary - NB I,Mezokovesd,1,1
-Hungary - NB I,MOL Fehervar,0,1
-Hungary - NB I,MTK,1,0
+Hungary - NB I,MOL Fehervar,0,2
+Hungary - NB I,MTK,2,0
 Hungary - NB I,Paks,1,0
 Hungary - NB I,Puskas Akad.,1,0
 Hungary - NB I,Ujpest,2,1
 Hungary - NB I,Zalaegerszegi,2,2
-Iceland - Urvalsdeild,Breidablik,2,4
+Iceland - Urvalsdeild,Breidablik,2,5
 Iceland - Urvalsdeild,Fram,2,2
 Iceland - Urvalsdeild,Fylkir,4,6
 Iceland - Urvalsdeild,Hafnarfjordur,5,4
@@ -583,10 +554,10 @@ Iceland - Urvalsdeild,HK Kopavogur,2,1
 Iceland - Urvalsdeild,IBV,3,1
 Iceland - Urvalsdeild,KA Akureyri,2,2
 Iceland - Urvalsdeild,Keflavik,4,4
-Iceland - Urvalsdeild,KR Reykjavik,2,1
-Iceland - Urvalsdeild,Stjarnan,5,3
-Iceland - Urvalsdeild,Valur,4,2
-Iceland - Urvalsdeild,Vikingur R.,7,0
+Iceland - Urvalsdeild,KR Reykjavik,2,2
+Iceland - Urvalsdeild,Stjarnan,7,3
+Iceland - Urvalsdeild,Valur,5,2
+Iceland - Urvalsdeild,Vikingur R.,7,1
 Iceland - 1. Deild,AEggir,1,6
 Iceland - 1. Deild,Afturelding,6,3
 Iceland - 1. Deild,Fjolnir,5,1
@@ -605,7 +576,7 @@ Ireland - Premier Division,Derry City,2,0
 Ireland - Premier Division,Drogheda Utd,1,2
 Ireland - Premier Division,Dundalk,4,2
 Ireland - Premier Division,Shamrock Rovers,2,0
-Ireland - Premier Division,Shelbourne,1,1
+Ireland - Premier Division,Shelbourne,2,1
 Ireland - Premier Division,Sligo Rovers,2,2
 Ireland - Premier Division,St. Patricks,2,1
 Ireland - Premier Division,UC Dublin,2,3
@@ -614,7 +585,7 @@ Ireland - First Division,Bray Wanderers,3,6
 Ireland - First Division,Cobh Ramblers,6,4
 Ireland - First Division,Finn Harps,2,3
 Ireland - First Division,Galway Utd,11,0
-Ireland - First Division,Kerry,3,2
+Ireland - First Division,Kerry,4,3
 Ireland - First Division,Longford Town,3,0
 Ireland - First Division,Treaty Utd,4,6
 Ireland - First Division,Waterford,8,2
@@ -622,17 +593,17 @@ Ireland - First Division,Wexford,2,3
 Israel - Ligat HaAl,Ashdod,0,1
 Israel - Ligat HaAl,B. Jerusalem,0,0
 Israel - Ligat HaAl,Bnei Sakhnin,1,1
-Israel - Ligat HaAl,H. Beer Sheva,1,0
+Israel - Ligat HaAl,H. Beer Sheva,2,0
 Israel - Ligat HaAl,H. Jerusalem,0,0
 Israel - Ligat HaAl,H. Petah Tikva,1,0
 Israel - Ligat HaAl,Hapoel Hadera,1,1
 Israel - Ligat HaAl,Hapoel Haifa,0,1
 Israel - Ligat HaAl,Hapoel Tel Aviv,1,0
 Israel - Ligat HaAl,M. Bnei Raina,1,1
-Israel - Ligat HaAl,M. Petah Tikva,0,0
+Israel - Ligat HaAl,M. Petah Tikva,0,1
 Israel - Ligat HaAl,M. Tel Aviv,0,0
 Israel - Ligat HaAl,Maccabi Haifa,0,0
-Israel - Ligat HaAl,Maccabi Netanya,1,0
+Israel - Ligat HaAl,Maccabi Netanya,2,0
 Israel - Leumit League,Bnei Yehuda,2,0
 Israel - Leumit League,H. Ironi Rishon,0,1
 Israel - Leumit League,H. Kfar Saba,2,0
@@ -644,50 +615,50 @@ Israel - Leumit League,Hapoel Akko,1,0
 Israel - Leumit League,Ihud B. Shfaram,0,1
 Israel - Leumit League,Ironi Tiberias,0,0
 Israel - Leumit League,Kafr Qasim,1,1
-Israel - Leumit League,Kiryat Shmona,1,0
+Israel - Leumit League,Kiryat Shmona,2,0
 Israel - Leumit League,M. Herziliya,0,1
 Israel - Leumit League,Maccabi Jaffa,0,3
 Israel - Leumit League,Nes Tziona,0,1
-Israel - Leumit League,Ramat Hasharon,0,1
+Israel - Leumit League,Ramat Hasharon,0,0
 Italy - Serie A,AC Milan,1,0
 Italy - Serie A,AS Roma,2,1
 Italy - Serie A,Atalanta,0,0
 Italy - Serie A,Bologna,0,1
 Italy - Serie A,Cagliari,0,0
 Italy - Serie A,Empoli,0,0
-Italy - Serie A,Fiorentina,1,0
+Italy - Serie A,Fiorentina,2,0
 Italy - Serie A,Frosinone,2,1
 Italy - Serie A,Genoa,1,2
 Italy - Serie A,Hellas Verona,1,1
-Italy - Serie A,Inter Milan,2,0
+Italy - Serie A,Inter Milan,4,0
 Italy - Serie A,Juventus,1,0
-Italy - Serie A,Lazio,1,0
+Italy - Serie A,Lazio,3,0
 Italy - Serie A,Lecce,1,0
-Italy - Serie A,Monza,0,1
-Italy - Serie A,Napoli,0,0
+Italy - Serie A,Monza,1,1
+Italy - Serie A,Napoli,0,1
 Italy - Serie A,Salernitana,0,2
 Italy - Serie A,Sassuolo,2,0
 Italy - Serie A,Torino,0,0
-Italy - Serie A,Udinese,0,1
+Italy - Serie A,Udinese,0,2
 Italy - Serie B,Ascoli,0,0
 Italy - Serie B,Bari,1,0
-Italy - Serie B,Brescia,0,0
+Italy - Serie B,Brescia,0,2
 Italy - Serie B,Catanzaro,1,1
-Italy - Serie B,Cittadella,0,1
+Italy - Serie B,Cittadella,1,2
 Italy - Serie B,Como,1,0
-Italy - Serie B,Cosenza,2,0
+Italy - Serie B,Cosenza,3,0
 Italy - Serie B,Cremonese,1,0
 Italy - Serie B,FeralpiSalo,1,1
 Italy - Serie B,Lecco,0,1
 Italy - Serie B,Modena,1,0
 Italy - Serie B,Palermo,1,0
 Italy - Serie B,Parma,2,0
-Italy - Serie B,Pisa,1,1
-Italy - Serie B,Reggiana,1,1
+Italy - Serie B,Pisa,1,2
+Italy - Serie B,Reggiana,2,1
 Italy - Serie B,Sampdoria,0,1
 Italy - Serie B,Spezia,0,0
 Italy - Serie B,Sudtirol,0,1
-Italy - Serie B,Ternana,0,1
+Italy - Serie B,Ternana,2,1
 Italy - Serie B,Venezia,0,1
 Japan - J1 League,Albirex Niigata,1,4
 Japan - J1 League,Avispa Fukuoka,1,1
@@ -701,14 +672,14 @@ Japan - J1 League,Kashiwa Reysol,3,2
 Japan - J1 League,Kyoto Sanga,2,1
 Japan - J1 League,Nagoya G.,2,2
 Japan - J1 League,S. Hiroshima,2,3
-Japan - J1 League,Sagan Tosu,3,5
+Japan - J1 League,Sagan Tosu,4,5
 Japan - J1 League,Shonan Bellmare,1,5
 Japan - J1 League,Urawa RD,1,2
 Japan - J1 League,Vissel Kobe,1,1
 Japan - J1 League,Yokohama FC,2,3
 Japan - J1 League,Yokohama M.,6,1
 Japan - J2 League,Blaublitz Akita,2,3
-Japan - J2 League,Fagiano Okayama,3,3
+Japan - J2 League,Fagiano Okayama,3,4
 Japan - J2 League,Fujieda MYFC,2,3
 Japan - J2 League,Iwaki,2,2
 Japan - J2 League,JEF Utd Chiba,1,2
@@ -718,7 +689,7 @@ Japan - J2 League,M. Yamagata,5,3
 Japan - J2 League,Machida Zelvia,5,2
 Japan - J2 League,Mito Hollyhock,4,6
 Japan - J2 League,Oita Trinita,2,3
-Japan - J2 League,Omiya Ardija,2,2
+Japan - J2 League,Omiya Ardija,3,2
 Japan - J2 League,R. Kumamoto,0,4
 Japan - J2 League,R. Yamaguchi,2,5
 Japan - J2 League,Shimizu S-Pulse,6,2
@@ -729,17 +700,17 @@ Japan - J2 League,Vegalta Sendai,3,6
 Japan - J2 League,Ventforet Kofu,2,4
 Japan - J2 League,V-V. Nagasaki,4,1
 Japan - J2 League,Z. Kanazawa,3,5
-Japan - J3 League,AC Numazu,1,3
-Japan - J3 League,Ehime FC,0,3
-Japan - J3 League,FC Gifu,3,1
+Japan - J3 League,AC Numazu,1,4
+Japan - J3 League,Ehime FC,0,4
+Japan - J3 League,FC Gifu,4,1
 Japan - J3 League,FC Imabari,5,3
 Japan - J3 League,FC Ryukyu,1,6
 Japan - J3 League,Fukushima Utd,0,4
 Japan - J3 League,G. Kitakyushu,3,3
-Japan - J3 League,Gainare Tottori,2,2
+Japan - J3 League,Gainare Tottori,3,2
 Japan - J3 League,IG Morioka,2,4
-Japan - J3 League,Kagoshima Utd,2,5
-Japan - J3 League,Kamatamare S.,3,0
+Japan - J3 League,Kagoshima Utd,3,5
+Japan - J3 League,Kamatamare S.,4,0
 Japan - J3 League,Kataller Toyama,1,1
 Japan - J3 League,Matsumoto Y.,2,1
 Japan - J3 League,Nagano Parceiro,5,3
@@ -747,11 +718,11 @@ Japan - J3 League,Nara Club,1,3
 Japan - J3 League,Osaka,1,0
 Japan - J3 League,SC Sagamihara,1,2
 Japan - J3 League,T. Miyazaki,2,3
-Japan - J3 League,V. Hachinohe,2,3
+Japan - J3 League,V. Hachinohe,3,3
 Japan - J3 League,YSCC,4,2
 Kazakhstan - Premier League,Aksu,0,0
 Kazakhstan - Premier League,Aktobe,2,1
-Kazakhstan - Premier League,Atyrau,0,1
+Kazakhstan - Premier League,Atyrau,1,1
 Kazakhstan - Premier League,FC Astana,4,1
 Kazakhstan - Premier League,Kairat Almaty,3,2
 Kazakhstan - Premier League,Kaisar K.,1,3
@@ -768,8 +739,8 @@ Lithuania - A Lyga,Dainava,0,0
 Lithuania - A Lyga,Dziugas Telsiai,3,4
 Lithuania - A Lyga,FA Siauliai,2,1
 Lithuania - A Lyga,Hegelmann L.,1,0
-Lithuania - A Lyga,Kauno Zalgiris,2,1
-Lithuania - A Lyga,Panevezys,2,2
+Lithuania - A Lyga,Kauno Zalgiris,2,2
+Lithuania - A Lyga,Panevezys,3,2
 Lithuania - A Lyga,Riteriai,1,4
 Lithuania - A Lyga,Suduva,1,3
 Lithuania - A Lyga,Zalgiris,5,2
@@ -780,7 +751,7 @@ Malaysia - Super League,Kelantan United,0,3
 Malaysia - Super League,Kuala Lumpur,3,1
 Malaysia - Super League,Kuching,1,5
 Malaysia - Super League,Negeri Sembilan,0,1
-Malaysia - Super League,Pahang,1,4
+Malaysia - Super League,Pahang,2,4
 Malaysia - Super League,PDRM,1,0
 Malaysia - Super League,Perak,4,3
 Malaysia - Super League,Pulau Pinang,2,5
@@ -806,19 +777,19 @@ Mexico - Liga MX - Apertura,Atlas,1,2
 Mexico - Liga MX - Apertura,CF America,1,1
 Mexico - Liga MX - Apertura,Club Leon,0,2
 Mexico - Liga MX - Apertura,Cruz Azul,1,2
-Mexico - Liga MX - Apertura,Guadalajara,0,1
+Mexico - Liga MX - Apertura,Guadalajara,1,1
 Mexico - Liga MX - Apertura,Juarez,2,1
 Mexico - Liga MX - Apertura,Mazatlan,1,0
-Mexico - Liga MX - Apertura,Monterrey,1,1
-Mexico - Liga MX - Apertura,Necaxa,0,1
-Mexico - Liga MX - Apertura,Pachuca,0,0
-Mexico - Liga MX - Apertura,Puebla,2,1
+Mexico - Liga MX - Apertura,Monterrey,2,1
+Mexico - Liga MX - Apertura,Necaxa,0,2
+Mexico - Liga MX - Apertura,Pachuca,1,1
+Mexico - Liga MX - Apertura,Puebla,3,1
 Mexico - Liga MX - Apertura,Pumas UNAM,0,1
 Mexico - Liga MX - Apertura,Queretaro,1,1
 Mexico - Liga MX - Apertura,Santos Laguna,1,0
 Mexico - Liga MX - Apertura,Tigres,2,1
 Mexico - Liga MX - Apertura,Tijuana,1,1
-Mexico - Liga MX - Apertura,Toluca,0,0
+Mexico - Liga MX - Apertura,Toluca,1,0
 Mexico - Liga MX - Clausura,A. San Luis,0,1
 Mexico - Liga MX - Clausura,Atlas,1,1
 Mexico - Liga MX - Clausura,CF America,0,2
@@ -845,13 +816,13 @@ Netherlands - Eredivisie,FC Twente,2,0
 Netherlands - Eredivisie,FC Utrecht,0,1
 Netherlands - Eredivisie,FC Volendam,1,0
 Netherlands - Eredivisie,Feyenoord,3,0
-Netherlands - Eredivisie,Fortuna Sittard,1,0
-Netherlands - Eredivisie,Go Ahead Eagles,1,0
-Netherlands - Eredivisie,Heerenveen,0,0
+Netherlands - Eredivisie,Fortuna Sittard,1,1
+Netherlands - Eredivisie,Go Ahead Eagles,2,0
+Netherlands - Eredivisie,Heerenveen,1,0
 Netherlands - Eredivisie,Heracles Almelo,0,1
-Netherlands - Eredivisie,NEC Nijmegen,0,1
+Netherlands - Eredivisie,NEC Nijmegen,0,2
 Netherlands - Eredivisie,PEC Zwolle,0,2
-Netherlands - Eredivisie,PSV Eindhoven,0,0
+Netherlands - Eredivisie,PSV Eindhoven,1,0
 Netherlands - Eredivisie,RKC Waalwijk,0,0
 Netherlands - Eredivisie,Sparta,1,0
 Netherlands - Eredivisie,Vitesse Arnhem,0,0
@@ -859,26 +830,26 @@ Netherlands - Eerste Divisie,ADO Den Haag,0,2
 Netherlands - Eerste Divisie,Cambuur,2,1
 Netherlands - Eerste Divisie,De Graafschap,0,0
 Netherlands - Eerste Divisie,FC Den Bosch,1,0
-Netherlands - Eerste Divisie,FC Dordrecht,0,1
+Netherlands - Eerste Divisie,FC Dordrecht,1,1
 Netherlands - Eerste Divisie,FC Eindhoven,0,0
-Netherlands - Eerste Divisie,FC Emmen,1,1
+Netherlands - Eerste Divisie,FC Emmen,2,1
 Netherlands - Eerste Divisie,FC Groningen,1,0
-Netherlands - Eerste Divisie,Helmond Sport,0,0
+Netherlands - Eerste Divisie,Helmond Sport,2,0
 Netherlands - Eerste Divisie,Jong Ajax,1,1
 Netherlands - Eerste Divisie,Jong AZ,2,2
 Netherlands - Eerste Divisie,Jong PSV,0,0
 Netherlands - Eerste Divisie,Jong Utrecht,1,0
 Netherlands - Eerste Divisie,MVV Maastricht,2,2
-Netherlands - Eerste Divisie,NAC Breda,1,2
+Netherlands - Eerste Divisie,NAC Breda,2,2
 Netherlands - Eerste Divisie,Roda JC,2,0
 Netherlands - Eerste Divisie,Telstar,2,1
 Netherlands - Eerste Divisie,TOP Oss,2,0
-Netherlands - Eerste Divisie,VVV,3,0
+Netherlands - Eerste Divisie,VVV,3,1
 Netherlands - Eerste Divisie,Willem II,0,1
 Northern Ireland - NIFL Premiership,Ballymena Utd,0,1
-Northern Ireland - NIFL Premiership,Carrick Rangers,1,1
-Northern Ireland - NIFL Premiership,Cliftonville,2,0
-Northern Ireland - NIFL Premiership,Coleraine,0,2
+Northern Ireland - NIFL Premiership,Carrick Rangers,1,2
+Northern Ireland - NIFL Premiership,Cliftonville,3,0
+Northern Ireland - NIFL Premiership,Coleraine,0,4
 Northern Ireland - NIFL Premiership,Crusaders,1,0
 Northern Ireland - NIFL Premiership,Dungannon,1,1
 Northern Ireland - NIFL Premiership,Glenavon,1,0
@@ -888,36 +859,36 @@ Northern Ireland - NIFL Premiership,Linfield,1,0
 Northern Ireland - NIFL Premiership,Loughgall,1,1
 Northern Ireland - NIFL Premiership,Newry City,1,4
 Norway - Eliteserien,Aalesund,0,2
-Norway - Eliteserien,Bodo / Glimt,5,4
+Norway - Eliteserien,Bodo / Glimt,6,4
 Norway - Eliteserien,Brann,2,1
 Norway - Eliteserien,HamKam,2,1
 Norway - Eliteserien,Haugesund,3,1
 Norway - Eliteserien,Lillestrom,3,2
-Norway - Eliteserien,Molde,3,0
-Norway - Eliteserien,Odd,0,1
+Norway - Eliteserien,Molde,4,0
+Norway - Eliteserien,Odd,0,2
 Norway - Eliteserien,Rosenborg,2,3
 Norway - Eliteserien,Sandefjord,4,3
 Norway - Eliteserien,Sarpsborg 08,5,4
 Norway - Eliteserien,Stabaek,3,1
 Norway - Eliteserien,Stromsgodset,4,2
 Norway - Eliteserien,Tromso,4,2
-Norway - Eliteserien,Valerenga,1,4
+Norway - Eliteserien,Valerenga,2,4
 Norway - Eliteserien,Viking,4,2
-Norway - 1st Division,Asane,3,1
+Norway - 1st Division,Asane,3,2
 Norway - 1st Division,Bryne,3,2
 Norway - 1st Division,Fredrikstad,2,1
 Norway - 1st Division,Hodd,3,2
 Norway - 1st Division,Jerv,1,5
 Norway - 1st Division,KFUM Oslo,2,2
-Norway - 1st Division,Kongsvinger,0,2
+Norway - 1st Division,Kongsvinger,1,2
 Norway - 1st Division,Kristiansund,2,1
 Norway - 1st Division,Mjondalen,1,4
-Norway - 1st Division,Moss,1,1
-Norway - 1st Division,Ranheim,3,1
+Norway - 1st Division,Moss,2,1
+Norway - 1st Division,Ranheim,4,2
 Norway - 1st Division,Raufoss,5,0
 Norway - 1st Division,Sandnes Ulf,2,0
 Norway - 1st Division,Skeid,2,1
-Norway - 1st Division,Sogndal,1,1
+Norway - 1st Division,Sogndal,1,2
 Norway - 1st Division,Start,0,2
 Paraguay - Primera Div. - Apertura,Cerro Porteno,2,1
 Paraguay - Primera Div. - Apertura,G. Caballero,1,0
@@ -950,18 +921,18 @@ Peru - Liga 1 - Apertura,Sport Boys,1,1
 Peru - Liga 1 - Apertura,Sport Huancayo,1,2
 Peru - Liga 1 - Apertura,Union Comercio,4,4
 Peru - Liga 1 - Apertura,Universitario,2,0
-Poland - Ekstraklasa,Cracovia Krakow,1,1
+Poland - Ekstraklasa,Cracovia Krakow,1,3
 Poland - Ekstraklasa,Gornik Zabrze,0,0
-Poland - Ekstraklasa,Jagiellonia,1,2
+Poland - Ekstraklasa,Jagiellonia,2,2
 Poland - Ekstraklasa,Korona Kielce,2,0
-Poland - Ekstraklasa,Lech Poznan,1,1
+Poland - Ekstraklasa,Lech Poznan,2,2
 Poland - Ekstraklasa,Legia Warsaw,2,1
-Poland - Ekstraklasa,LKS Lodz,0,1
+Poland - Ekstraklasa,LKS Lodz,0,2
 Poland - Ekstraklasa,Piast Gliwice,0,0
 Poland - Ekstraklasa,Pogon Szczecin,0,1
 Poland - Ekstraklasa,Puszcza Niepolo,0,0
 Poland - Ekstraklasa,Radomiak Radom,1,0
-Poland - Ekstraklasa,Rakow C.,1,1
+Poland - Ekstraklasa,Rakow C.,2,1
 Poland - Ekstraklasa,Ruch Chorzow,2,0
 Poland - Ekstraklasa,Slask Wroclaw,0,0
 Poland - Ekstraklasa,Stal Mielec,0,0
@@ -973,12 +944,12 @@ Poland - 1. Liga,Chrobry Glogow,1,1
 Poland - 1. Liga,Gornik Leczna,1,0
 Poland - 1. Liga,Katowice,1,0
 Poland - 1. Liga,Lechia Gdansk,1,1
-Poland - 1. Liga,Miedz Legnica,1,0
-Poland - 1. Liga,Motor Lublin,0,1
+Poland - 1. Liga,Miedz Legnica,1,1
+Poland - 1. Liga,Motor Lublin,0,2
 Poland - 1. Liga,Odra Opole,0,0
 Poland - 1. Liga,Podbeskidzie,1,0
 Poland - 1. Liga,Polonia Warszaw,3,1
-Poland - 1. Liga,Resovia Rzeszow,0,0
+Poland - 1. Liga,Resovia Rzeszow,1,0
 Poland - 1. Liga,Stal Rzeszow,0,3
 Poland - 1. Liga,T. Nieciecza,0,1
 Poland - 1. Liga,Tychy,1,0
@@ -988,36 +959,36 @@ Poland - 1. Liga,Z. Sosnowiec,1,1
 Poland - 1. Liga,Znicz Pruszkow,0,0
 Portugal - Liga Portugal,Arouca,0,2
 Portugal - Liga Portugal,Benfica,1,0
-Portugal - Liga Portugal,Boavista,3,0
+Portugal - Liga Portugal,Boavista,3,1
 Portugal - Liga Portugal,Casa Pia,1,1
 Portugal - Liga Portugal,Chaves,0,1
 Portugal - Liga Portugal,Estoril,0,1
 Portugal - Liga Portugal,Estrela Amadora,0,1
-Portugal - Liga Portugal,Famalicao,0,0
+Portugal - Liga Portugal,Famalicao,0,1
 Portugal - Liga Portugal,Farense,1,1
-Portugal - Liga Portugal,FC Porto,2,0
+Portugal - Liga Portugal,FC Porto,3,0
 Portugal - Liga Portugal,Gil Vicente,2,0
-Portugal - Liga Portugal,Guimaraes,0,0
+Portugal - Liga Portugal,Guimaraes,0,1
 Portugal - Liga Portugal,Moreirense,0,0
 Portugal - Liga Portugal,Portimonense,0,4
-Portugal - Liga Portugal,Rio Ave,0,1
-Portugal - Liga Portugal,Sporting Braga,1,0
+Portugal - Liga Portugal,Rio Ave,0,2
+Portugal - Liga Portugal,Sporting Braga,1,1
 Portugal - Liga Portugal,Sporting CP,3,0
 Portugal - Liga Portugal,Vizela,1,1
 Portugal - Liga Portugal 2,Academico Viseu,0,0
-Portugal - Liga Portugal 2,AVS,0,0
+Portugal - Liga Portugal 2,AVS,1,0
 Portugal - Liga Portugal 2,Benfica B,0,1
 Portugal - Liga Portugal 2,FC Porto B,0,0
 Portugal - Liga Portugal 2,Feirense,0,0
 Portugal - Liga Portugal 2,Leixoes,0,0
 Portugal - Liga Portugal 2,Mafra,0,0
 Portugal - Liga Portugal 2,Maritimo,1,0
-Portugal - Liga Portugal 2,Nacional,3,0
+Portugal - Liga Portugal 2,Nacional,5,0
 Portugal - Liga Portugal 2,Oliveirense,1,0
 Portugal - Liga Portugal 2,Os Belenense,0,1
 Portugal - Liga Portugal 2,Pacos Ferreira,1,0
-Portugal - Liga Portugal 2,Penafiel,0,0
-Portugal - Liga Portugal 2,Santa Clara,1,0
+Portugal - Liga Portugal 2,Penafiel,1,0
+Portugal - Liga Portugal 2,Santa Clara,2,0
 Portugal - Liga Portugal 2,Tondela,0,0
 Portugal - Liga Portugal 2,Torreense,2,0
 Portugal - Liga Portugal 2,Uniao de Leiria,1,0
@@ -1035,9 +1006,9 @@ Scotland - Premiership,Ross County,0,0
 Scotland - Premiership,St. Johnstone,0,0
 Scotland - Premiership,St. Mirren,2,0
 Scotland - Championship,Airdrieonians,1,0
-Scotland - Championship,Arbroath,0,1
+Scotland - Championship,Arbroath,0,2
 Scotland - Championship,Ayr Utd,1,1
-Scotland - Championship,Dundee Utd,1,0
+Scotland - Championship,Dundee Utd,1,1
 Scotland - Championship,Dunfermline,1,0
 Scotland - Championship,Greenock Morton,1,0
 Scotland - Championship,Inverness,1,0
@@ -1055,26 +1026,26 @@ Serbia - Super Liga,Partizan,0,2
 Serbia - Super Liga,Rad. Surdulica,1,0
 Serbia - Super Liga,Radnicki 1923,0,0
 Serbia - Super Liga,Radnicki Nis,1,0
-Serbia - Super Liga,Red Star,3,0
-Serbia - Super Liga,Sp. Subotica,1,1
+Serbia - Super Liga,Red Star,4,0
+Serbia - Super Liga,Sp. Subotica,1,2
 Serbia - Super Liga,Vojvodina,2,1
 Serbia - Super Liga,Vozdovac,1,1
-Serbia - Super Liga,Z. Pancevo,0,1
+Serbia - Super Liga,Z. Pancevo,0,2
 Slovakia - Fortuna Liga,Banska Bystrica,1,2
 Slovakia - Fortuna Liga,DAC Streda,2,0
 Slovakia - Fortuna Liga,FC Kosice,0,1
-Slovakia - Fortuna Liga,Podbrezova,1,0
-Slovakia - Fortuna Liga,Ruzomberok,1,1
+Slovakia - Fortuna Liga,Podbrezova,1,1
+Slovakia - Fortuna Liga,Ruzomberok,2,1
 Slovakia - Fortuna Liga,S. Bratislava,0,1
 Slovakia - Fortuna Liga,Skalica,0,0
 Slovakia - Fortuna Liga,Spartak Trnava,1,0
 Slovakia - Fortuna Liga,Trencin,0,0
 Slovakia - Fortuna Liga,Z. Michalovce,0,3
 Slovakia - Fortuna Liga,Zilina,2,2
-Slovakia - Fortuna Liga,Zlate Moravce,0,1
+Slovakia - Fortuna Liga,Zlate Moravce,0,2
 South Africa - Premier Division ,AmaZulu,1,0
-South Africa - Premier Division ,Cape Town City,0,1
-South Africa - Premier Division ,Cape Town Spurs,0,0
+South Africa - Premier Division ,Cape Town City,0,2
+South Africa - Premier Division ,Cape Town Spurs,1,0
 South Africa - Premier Division ,Chippa Utd,0,0
 South Africa - Premier Division ,Golden Arrows,1,1
 South Africa - Premier Division ,Kaizer Chiefs,1,0
@@ -1085,16 +1056,16 @@ South Africa - Premier Division ,Polokwane,1,1
 South Africa - Premier Division ,Richards Bay,0,1
 South Africa - Premier Division ,Royal AM,0,0
 South Africa - Premier Division ,Sekhukhune,0,1
-South Africa - Premier Division ,Stellenbosch,0,1
+South Africa - Premier Division ,Stellenbosch,1,1
 South Africa - Premier Division ,SuperSport Utd,1,0
-South Africa - Premier Division ,TS Galaxy,0,0
+South Africa - Premier Division ,TS Galaxy,1,0
 South Korea - K League 1,Daegu,3,1
 South Korea - K League 1,Daejeon Citizen,4,0
 South Korea - K League 1,Gangwon,1,2
 South Korea - K League 1,Gwangju,4,1
 South Korea - K League 1,Incheon Utd,2,3
 South Korea - K League 1,Jeju Utd,1,2
-South Korea - K League 1,Jeonbuk Motors,6,1
+South Korea - K League 1,Jeonbuk Motors,6,3
 South Korea - K League 1,Pohang Steelers,1,1
 South Korea - K League 1,Seoul,6,2
 South Korea - K League 1,Suwon Bluewings,2,3
@@ -1115,32 +1086,32 @@ South Korea - K League 2,Seongnam,5,1
 South Korea - K League 2,Seoul E-Land,1,2
 Spain - La Liga,Alaves,2,1
 Spain - La Liga,Almeria,1,1
-Spain - La Liga,Athletic Bilbao,1,2
-Spain - La Liga,Atletico Madrid,1,0
+Spain - La Liga,Athletic Bilbao,2,2
+Spain - La Liga,Atletico Madrid,1,1
 Spain - La Liga,Cadiz,1,1
-Spain - La Liga,Celta Vigo,0,0
+Spain - La Liga,Celta Vigo,0,1
 Spain - La Liga,FC Barcelona,0,0
 Spain - La Liga,Getafe,0,0
 Spain - La Liga,Girona,1,1
-Spain - La Liga,Granada,1,0
+Spain - La Liga,Granada,2,0
 Spain - La Liga,Las Palmas,0,0
-Spain - La Liga,Mallorca,1,0
+Spain - La Liga,Mallorca,2,0
 Spain - La Liga,Osasuna,0,1
-Spain - La Liga,Rayo Vallecano,0,2
+Spain - La Liga,Rayo Vallecano,1,2
 Spain - La Liga,Real Betis,0,0
-Spain - La Liga,Real Madrid,0,2
+Spain - La Liga,Real Madrid,1,2
 Spain - La Liga,Real Sociedad,3,0
 Spain - La Liga,Sevilla FC,2,0
 Spain - La Liga,Valencia,1,0
 Spain - La Liga,Villarreal,0,2
 Spain - La Liga 2,Albacete,1,1
 Spain - La Liga 2,Alcorcon,0,0
-Spain - La Liga 2,Amorebieta,2,0
-Spain - La Liga 2,Burgos,1,1
+Spain - La Liga 2,Amorebieta,3,1
+Spain - La Liga 2,Burgos,2,1
 Spain - La Liga 2,Cartagena,0,0
 Spain - La Liga 2,Eibar,1,0
 Spain - La Liga 2,Elche,1,0
-Spain - La Liga 2,Eldense,0,0
+Spain - La Liga 2,Eldense,0,2
 Spain - La Liga 2,Espanyol,1,2
 Spain - La Liga 2,FC Andorra,0,0
 Spain - La Liga 2,Huesca,0,2
@@ -1153,8 +1124,8 @@ Spain - La Liga 2,Real Oviedo,0,0
 Spain - La Liga 2,Real Zaragoza,0,0
 Spain - La Liga 2,Sporting Gijon,0,1
 Spain - La Liga 2,Tenerife,0,0
-Spain - La Liga 2,Valladolid,0,0
-Spain - La Liga 2,Villarreal B,2,0
+Spain - La Liga 2,Valladolid,1,0
+Spain - La Liga 2,Villarreal B,3,0
 Sweden - Allsvenskan,AIK,1,2
 Sweden - Allsvenskan,Brommapojkarna,5,2
 Sweden - Allsvenskan,Degerfors,1,2
@@ -1165,45 +1136,45 @@ Sweden - Allsvenskan,Halmstad,0,1
 Sweden - Allsvenskan,Hammarby,2,0
 Sweden - Allsvenskan,IFK Goteborg,2,0
 Sweden - Allsvenskan,Kalmar,5,1
-Sweden - Allsvenskan,Malmo FF,5,3
-Sweden - Allsvenskan,Mjallby,2,1
+Sweden - Allsvenskan,Malmo FF,7,3
+Sweden - Allsvenskan,Mjallby,3,1
 Sweden - Allsvenskan,Norrkoping,2,2
 Sweden - Allsvenskan,Sirius,3,1
 Sweden - Allsvenskan,Varberg BoIS,2,4
 Sweden - Allsvenskan,Varnamo,2,0
-Switzerland - Super League,BSC Young Boys,2,0
+Switzerland - Super League,BSC Young Boys,3,0
 Switzerland - Super League,FC Basel,0,2
-Switzerland - Super League,FC Zurich,0,0
+Switzerland - Super League,FC Zurich,1,0
 Switzerland - Super League,Grasshopper,1,0
 Switzerland - Super League,Lausanne Ouchy,0,1
 Switzerland - Super League,Lausanne Sport,0,1
 Switzerland - Super League,Lugano,0,1
-Switzerland - Super League,Luzern,1,1
+Switzerland - Super League,Luzern,1,2
 Switzerland - Super League,Servette,1,2
-Switzerland - Super League,St. Gallen,0,0
+Switzerland - Super League,St. Gallen,1,0
 Switzerland - Super League,Winterthur,0,1
 Switzerland - Super League,Yverdon,2,0
-Switzerland - Challenge League,Aarau,1,2
+Switzerland - Challenge League,Aarau,2,2
 Switzerland - Challenge League,Baden,0,0
 Switzerland - Challenge League,Bellinzona,0,3
 Switzerland - Challenge League,Neuchatel Xamax,0,2
-Switzerland - Challenge League,Schaffhausen,0,1
+Switzerland - Challenge League,Schaffhausen,1,1
 Switzerland - Challenge League,Sion,1,0
 Switzerland - Challenge League,Stade Nyonnais,1,0
-Switzerland - Challenge League,Thun,0,0
+Switzerland - Challenge League,Thun,1,0
 Switzerland - Challenge League,Vaduz,0,1
 Switzerland - Challenge League,Wil,0,1
 Thailand - Thai League 1,Bangkok Utd,0,0
-Thailand - Thai League 1,Buriram Utd,2,0
-Thailand - Thai League 1,Chiangrai Utd,0,0
+Thailand - Thai League 1,Buriram Utd,3,0
+Thailand - Thai League 1,Chiangrai Utd,1,0
 Thailand - Thai League 1,Chonburi,0,0
 Thailand - Thai League 1,Khon Kaen Utd,0,2
 Thailand - Thai League 1,Lamphun Warrior,1,0
 Thailand - Thai League 1,Muang Thong Utd,0,1
-Thailand - Thai League 1,Nakhon Pathom,0,0
+Thailand - Thai League 1,Nakhon Pathom,1,0
 Thailand - Thai League 1,Pathum Utd,0,1
 Thailand - Thai League 1,Police Tero,0,1
-Thailand - Thai League 1,Port FC,0,1
+Thailand - Thai League 1,Port FC,1,2
 Thailand - Thai League 1,Prachuap,0,0
 Thailand - Thai League 1,Ratchaburi,1,0
 Thailand - Thai League 1,Sukhothai,0,0
@@ -1213,39 +1184,39 @@ Turkey - Super Lig,Adana Demirspor,2,0
 Turkey - Super Lig,Alanyaspor,0,0
 Turkey - Super Lig,Ankaragucu,1,0
 Turkey - Super Lig,Antalyaspor,1,0
-Turkey - Super Lig,Basaksehir,0,1
-Turkey - Super Lig,Besiktas,1,0
-Turkey - Super Lig,F. Karagumruk,0,0
-Turkey - Super Lig,Fenerbahce,3,0
+Turkey - Super Lig,Basaksehir,1,1
+Turkey - Super Lig,Besiktas,2,0
+Turkey - Super Lig,F. Karagumruk,0,2
+Turkey - Super Lig,Fenerbahce,4,0
 Turkey - Super Lig,Galatasaray,1,0
 Turkey - Super Lig,Gaziantep,0,2
 Turkey - Super Lig,Hatayspor,0,0
 Turkey - Super Lig,Istanbulspor,0,0
-Turkey - Super Lig,Kasimpasa,0,1
+Turkey - Super Lig,Kasimpasa,0,2
 Turkey - Super Lig,Kayserispor,1,0
 Turkey - Super Lig,Konyaspor,0,1
-Turkey - Super Lig,Pendikspor,0,1
+Turkey - Super Lig,Pendikspor,0,2
 Turkey - Super Lig,Rizespor,0,1
 Turkey - Super Lig,Samsunspor,0,1
 Turkey - Super Lig,Sivasspor,1,1
-Turkey - Super Lig,Trabzonspor,1,0
+Turkey - Super Lig,Trabzonspor,2,0
 UAE - Pro League,Ajman,1,1
 UAE - Pro League,Al Ain,1,0
 UAE - Pro League,Al Bataeh,0,0
 UAE - Pro League,Al Jazira,0,0
-UAE - Pro League,Al Khaleej,0,1
+UAE - Pro League,Al Khaleej,0,4
 UAE - Pro League,Al Nasr,0,0
 UAE - Pro League,Al Sharjah,0,1
 UAE - Pro League,Al Wahda,0,1
 UAE - Pro League,Al Wasl,1,0
 UAE - Pro League,Bani Yas,1,1
-UAE - Pro League,Emirates,1,1
+UAE - Pro League,Emirates,1,2
 UAE - Pro League,Hatta,0,1
 UAE - Pro League,Ittihad Kalba,0,0
 UAE - Pro League,Shabab Al Ahli,1,0
 Ukraine - Premier League,Chornomorets,2,0
-Ukraine - Premier League,Dnipro-1,0,0
-Ukraine - Premier League,Dynamo Kyiv,1,1
+Ukraine - Premier League,Dnipro-1,1,0
+Ukraine - Premier League,Dynamo Kyiv,2,1
 Ukraine - Premier League,FC Minaj,0,0
 Ukraine - Premier League,Kolos Kovalivka,0,1
 Ukraine - Premier League,Kryvbas KR,1,1
@@ -1253,26 +1224,26 @@ Ukraine - Premier League,LNZ Cherkasy,0,1
 Ukraine - Premier League,Metalist 1925,1,0
 Ukraine - Premier League,Obolon,0,0
 Ukraine - Premier League,Oleksandria,1,1
-Ukraine - Premier League,Polessya,0,0
+Ukraine - Premier League,Polessya,1,1
 Ukraine - Premier League,Rukh Lviv,0,1
 Ukraine - Premier League,Shakhtar,1,0
 Ukraine - Premier League,Veres,0,2
 Ukraine - Premier League,Vorskla Poltava,1,1
 Ukraine - Premier League,Zorya Luhansk,1,0
 USA - MLS,Atlanta Utd,6,3
-USA - MLS,Austin,2,1
-USA - MLS,CF Montreal,3,1
-USA - MLS,Charlotte,3,3
+USA - MLS,Austin,3,2
+USA - MLS,CF Montreal,3,2
+USA - MLS,Charlotte,4,3
 USA - MLS,Chicago Fire,2,1
-USA - MLS,Cincinnati,3,1
+USA - MLS,Cincinnati,3,2
 USA - MLS,Colorado Rapids,0,2
 USA - MLS,Columbus Crew,7,2
-USA - MLS,Dallas,3,2
+USA - MLS,Dallas,3,3
 USA - MLS,DC United,3,3
-USA - MLS,Houston Dynamo,8,1
+USA - MLS,Houston Dynamo,10,1
 USA - MLS,Inter Miami,1,1
-USA - MLS,LA Galaxy,1,4
-USA - MLS,Los Angeles FC,5,2
+USA - MLS,LA Galaxy,2,5
+USA - MLS,Los Angeles FC,6,3
 USA - MLS,Minnesota Utd,1,0
 USA - MLS,Nashville SC,1,1
 USA - MLS,New England,2,2
@@ -1281,48 +1252,48 @@ USA - MLS,New York RB,1,1
 USA - MLS,Orlando City,2,1
 USA - MLS,Philadelphia,2,3
 USA - MLS,Portland,4,2
-USA - MLS,Real Salt Lake,1,3
-USA - MLS,Seattle,1,2
+USA - MLS,Real Salt Lake,1,4
+USA - MLS,Seattle,2,2
 USA - MLS,SJ Earthquakes,6,1
 USA - MLS,Sporting KC,4,1
 USA - MLS,St. Louis City,5,1
 USA - MLS,Toronto,2,1
-USA - MLS,Vancouver,4,2
+USA - MLS,Vancouver,5,3
 USL Championship,Birmingham L.,2,0
-USL Championship,Charleston,6,5
+USL Championship,Charleston,7,5
 USL Championship,Colorado S.,2,5
 USL Championship,Detroit City,4,1
 USL Championship,El Paso,0,3
 USL Championship,FC Tulsa,5,1
-USL Championship,Hartford A.,0,4
+USL Championship,Hartford A.,1,5
 USL Championship,Indy Eleven,0,3
 USL Championship,Las Vegas L.,0,6
-USL Championship,Loudoun Utd,3,6
+USL Championship,Loudoun Utd,3,7
 USL Championship,Louisville City,2,1
 USL Championship,Memphis,4,6
 USL Championship,Miami FC,6,1
 USL Championship,Monterey Bay,1,3
 USL Championship,New Mexico,2,2
-USL Championship,Oakland Roots,2,5
-USL Championship,Orange County,2,2
+USL Championship,Oakland Roots,4,5
+USL Championship,Orange County,2,3
 USL Championship,Phoenix Rising,4,1
-USL Championship,Pittsburgh,4,2
-USL Championship,Rio Grande,3,3
+USL Championship,Pittsburgh,5,2
+USL Championship,Rio Grande,4,3
 USL Championship,Sacramento R.,7,0
 USL Championship,San Antonio,8,5
-USL Championship,San Diego Loyal,3,2
-USL Championship,Tampa Bay,5,1
+USL Championship,San Diego Loyal,3,3
+USL Championship,Tampa Bay,5,2
 USA - USL League One,Central Valley,2,2
 USA - USL League One,Charlotte,6,0
-USA - USL League One,Chattanooga RW,0,2
+USA - USL League One,Chattanooga RW,1,2
 USA - USL League One,Forward Madison,4,2
 USA - USL League One,Greenville,4,4
 USA - USL League One,Lexington,5,4
 USA - USL League One,N. Colorado,2,2
 USA - USL League One,North Carolina,2,3
-USA - USL League One,One Knoxville,4,3
+USA - USL League One,One Knoxville,5,3
 USA - USL League One,Richmond K.,3,2
-USA - USL League One,Tormenta,4,7
+USA - USL League One,Tormenta,4,8
 USA - USL League One,Union Omaha,2,3
 Vietnam - V League,Binh Dinh,0,3
 Vietnam - V League,Binh Duong,1,3
