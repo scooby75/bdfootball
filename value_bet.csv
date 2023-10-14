@@ -1,38 +1,51 @@
-Match,Stats,Implied Odds,Real Odds
-Ahrobiznes Volochysk vs Epitsentr Dunayivtsi,Under 2.5,1.25,1.65
-Gorica vs Tabor Sežana,Under 1.5,2.86,4.25
-Garbarnia Kraków vs Chełmianka Chełm,Over 2.5,1.37,1.6
-Gil Vicente U19 vs Famalicão U19,Over 2.5,1.33,1.7
-Garliava vs Kauno Žalgiris II,Under 2.5,1.59,2.07
-Garliava vs Kauno Žalgiris II,Under 3.5,1.14,1.53
-Baťov vs Vsetín,Under 2.5,2,2.63
-Baťov vs Vsetín,Under 3.5,1.43,1.7
-Baťov vs Vsetín,Under 4.5,1.11,1.28
-Lafnitz II vs Kalsdorf,Over 2.5,1.25,1.5
-Vorwärts Steyr vs St. Anna,Under 1.5,2.44,4.7
-Vorwärts Steyr vs St. Anna,Under 2.5,1.82,2.5
-Vorwärts Steyr vs St. Anna,Under 3.5,1.37,1.6
-Siegendordf vs Marz,Under 2.5,2.22,3.25
-Union Gamlit vs Lebring,Over 3.5,1.43,1.78
-Krems vs Traiskirchen,Over 3.5,1.82,2.26
-Wallern / Marienkirchen vs Weiz,Over 3.5,1.67,2.2
-Næstved II vs Gørslev,Over 3.5,1.79,2.25
-Slagelse B&I vs Glostrup,Under 2.5,1.79,2.2
-Spartak Myjava vs Slovan Bratislava II,Under 1.5,2.38,4.1
-Spartak Myjava vs Slovan Bratislava II,Under 3.5,1.33,1.59
-Wiedenbrück vs Rödinghausen,Under 1.5,2.22,3.85
-Wiedenbrück vs Rödinghausen,Under 2.5,1.43,2.1
-Fortuna Köln vs Rot Weiss Ahlen,Under 2.5,2,3.0
-Fortuna Köln vs Rot Weiss Ahlen,Under 3.5,1.33,1.73
-Schwarz-Weiß Rehden vs Bersenbrück,Over 2.5,1.33,1.6
-Victoria Hamburg vs ETSV Hamburg,Over 2.5,1,1.3
-Bergisch Gladbach vs Bonner SC,Under 1.5,2.78,4.1
-Straelen vs TVD Velbert,Under 2.5,1.79,2.63
-Dundela vs H&W Welders,Under 3.5,1.33,1.62
-Dundela vs H&W Welders,Under 4.5,1.11,1.21
-Carrick Rangers vs Linfield,Under 2.5,1.67,2.33
-Carrick Rangers vs Linfield,Under 3.5,1.25,1.6
-Crusaders vs Ballymena United,Under 1.5,3.33,5.3
-Crusaders vs Ballymena United,Under 2.5,1.67,2.47
-Crusaders vs Ballymena United,Under 3.5,1.11,1.62
-Crusaders vs Ballymena United,Under 4.5,1.11,1.27
+Partida,Data,Mercado,Probabilidade,Odd Esperada,Odd Ofertada
+Dantong Hantong vs Heilongjiang Lava Spring,Saturday October 14,Over 1.5,87%,1.15,1.31
+Zlín U19 vs Viktoria Plzeň U19,Saturday October 14,Under 2.5,55%,1.82,2.90
+České Budějovice U19 vs Karviná U19,Saturday October 14,Over 4.5,50%,2,2.51
+Štětí vs Louny,Saturday October 14,Under 1.5,35%,2.86,4.55
+Štětí vs Louny,Saturday October 14,Under 2.5,65%,1.54,2.33
+Nový Jičín vs Bzenec,Saturday October 14,Under 1.5,30%,3.33,5.10
+Opava II vs Krnov,Saturday October 14,Under 2.5,60%,1.67,2.43
+Slovácko II vs Slovan Rosice,Saturday October 14,Under 2.5,67%,1.49,2.05
+Motorlet Praha vs Admira Praha,Saturday October 14,Over 2.5,75%,1.33,1.62
+Komárov vs Doubravka,Saturday October 14,Under 2.5,55%,1.82,2.30
+Přepeře vs Pardubice II,Saturday October 14,Over 1.5,100%,1,1.15
+Přepeře vs Pardubice II,Saturday October 14,BTTS %,90%,1.11,1.46
+SKA Khabarovsk vs Arsenal Tula,Saturday October 14,Under 0.5,23%,4.35,8.30
+SKA Khabarovsk vs Arsenal Tula,Saturday October 14,Under 2.5,69%,1.45,1.70
+Spartak Trnava U19 vs Slovan Bratislava U19,Saturday October 14,Over 3.5,59%,1.69,2.25
+Tabasalu W vs Lootos W,Saturday October 14,Under 2.5,45%,2.22,4.00
+Tabasalu W vs Lootos W,Saturday October 14,Under 3.5,60%,1.67,2.12
+Nyva Ternopil vs Nyva Buzova,Saturday October 14,Under 1.5,50%,2,2.79
+Nyva Ternopil vs Nyva Buzova,Saturday October 14,Under 2.5,90%,1.11,1.50
+Gedania Gdańsk vs Starogard Gdański,Saturday October 14,Over 2.5,73%,1.37,1.61
+Gedania Gdańsk vs Starogard Gdański,Saturday October 14,Over 4.5,45%,2.22,3.50
+Gute vs Uppsala,Saturday October 14,Under 2.5,38%,2.63,5.45
+Gute vs Uppsala,Saturday October 14,Under 3.5,57%,1.75,2.88
+Gute vs Uppsala,Saturday October 14,Under 4.5,71%,1.41,1.87
+Stockholm Internazionale vs Sollentuna,Saturday October 14,Under 3.5,72%,1.39,1.62
+Viby vs Nørresundby,Saturday October 14,Over 2.5,89%,1.12,1.40
+Viby vs Nørresundby,Saturday October 14,Over 3.5,78%,1.28,1.82
+Slovan Liberec U19 vs Zbrojovka Brno U19,Saturday October 14,Over 3.5,78%,1.28,1.75
+Slovan Liberec U19 vs Zbrojovka Brno U19,Saturday October 14,BTTS %,90%,1.11,1.31
+HIK vs Middelfart,Saturday October 14,Over 3.5,50%,2,2.60
+HIK vs Middelfart,Saturday October 14,Over 4.5,38%,2.63,4.50
+Slavoj Trebišov vs Tatran Prešov,Saturday October 14,Under 4.5,100%,1,1.12
+Hansa Rostock II vs Luckenwalde,Saturday October 14,Over 1.5,100%,1,1.14
+Hansa Rostock II vs Luckenwalde,Saturday October 14,Over 2.5,75%,1.33,1.60
+Hansa Rostock II vs Luckenwalde,Saturday October 14,Over 3.5,55%,1.82,2.25
+Hansa Rostock II vs Luckenwalde,Saturday October 14,Over 4.5,45%,2.22,3.92
+Gonsenheim vs Mechtersheim,Saturday October 14,8.5+ Corners,68%,1.47,1.93
+Düneberg vs Türkiye,Saturday October 14,9.5+ Corners,72%,1.39,2.00
+BW Lohne vs Eintracht Norderstedt,Saturday October 14,Over 4.5,38%,2.63,4.00
+BTS Neustadt vs Aumund-Vegesack,Saturday October 14,Over 2.5,100%,1,1.15
+BTS Neustadt vs Aumund-Vegesack,Saturday October 14,Over 3.5,84%,1.19,1.52
+BTS Neustadt vs Aumund-Vegesack,Saturday October 14,Over 4.5,56%,1.79,2.20
+Blumenthaler SV vs FC Union 60 Bremen,Saturday October 14,9.5+ Corners,82%,1.22,2.00
+KAMAZ vs Shinnik,Saturday October 14,10.5+ Corners,63%,1.59,2.20
+Sokol Saratov vs Neftekhimik,Saturday October 14,Under 1.5,67%,1.49,2.38
+Sokol Saratov vs Neftekhimik,Saturday October 14,Under 2.5,83%,1.2,1.68
+Holbæk B&I vs Næsby,Saturday October 14,Under 2.5,63%,1.59,2.10
+Holbæk B&I vs Næsby,Saturday October 14,Under 3.5,88%,1.14,1.44
+Asker vs Skjervøy,Saturday October 14,Under 3.5,50%,2,2.70
+Nordstrand vs Fløya,Saturday October 14,Under 2.5,46%,2.17,3.40
