@@ -40,6 +40,7 @@ Bordj Menaïel,3,1,2,0,3,1,2,5,algeria2
 El Eulma,3,1,2,0,2,0,2,5,algeria2
 Teleghma,2,1,1,0,3,2,1,4,algeria2
 WA Boufarik,3,1,1,1,3,2,1,4,algeria2
+MO Constantine,3,1,1,1,3,3,0,4,algeria2
 Hussein Dey,3,1,1,1,2,2,0,4,algeria2
 Temouchent,3,1,1,1,1,1,0,4,algeria2
 Chelghoum,3,1,1,1,3,4,-1,4,algeria2
@@ -49,11 +50,10 @@ Tiaret,3,1,1,1,2,5,-3,4,algeria2
 Khemis Melina,3,1,0,2,7,5,2,3,algeria2
 WA Mostaganem,3,1,0,2,5,6,-1,3,algeria2
 Oued Sly,3,1,0,2,2,6,-4,3,algeria2
-Khroub,2,0,2,0,0,0,0,2,algeria2
 Mechria,3,0,2,1,2,3,-1,2,algeria2
+Khroub,3,0,2,1,1,2,-1,2,algeria2
 El Ghozlane,3,0,2,1,2,4,-2,2,algeria2
 Annaba,3,0,2,1,1,6,-5,2,algeria2
-MO Constantine,2,0,1,1,1,2,-1,1,algeria2
 Mlila,2,0,1,1,0,1,-1,1,algeria2
 Ghir Abadla,3,0,1,2,1,4,-3,1,algeria2
 UE Santa Coloma,4,4,0,0,7,1,6,12,andorra
@@ -95,34 +95,34 @@ Belgrano,4,0,2,2,0,5,-5,2,argentina
 Colon Santa Fe,4,0,1,3,1,6,-5,1,argentina
 Central Cordoba,4,0,0,4,1,8,-7,0,argentina
 Atletico Mitre,4,4,0,0,8,1,7,12,argentina3
-E. Rio Cuarto,4,4,0,0,7,2,5,12,argentina3
 CA Guemes,4,3,1,0,6,2,4,10,argentina3
 Chaco For Ever,4,3,1,0,6,2,4,10,argentina3
 I. Rivadavia,4,3,1,0,5,2,3,10,argentina3
+E. Rio Cuarto,4,3,0,1,6,3,3,9,argentina3
 Gimnasia Jujuy,4,3,0,1,6,3,3,9,argentina3
 Racing Cordoba,4,3,0,1,6,4,2,9,argentina3
 Agropecuario,4,2,2,0,6,2,4,8,argentina3
+G. Mendoza,4,2,1,1,11,6,5,7,argentina3
 Quilmes,4,2,1,1,9,5,4,7,argentina3
 SM San Juan,4,2,1,1,7,4,3,7,argentina3
 D. Riestra,4,2,1,1,5,2,3,7,argentina3
-Flandria,4,2,1,1,3,4,-1,7,argentina3
+Almirante Brown,4,2,1,1,4,2,2,7,argentina3
+Nueva Chicago,4,2,1,1,4,3,1,7,argentina3
 Ferro Carril,4,1,3,0,5,3,2,6,argentina3
-SM Tucuman,4,1,3,0,4,2,2,6,argentina3
 Chacarita J.,4,1,3,0,6,5,1,6,argentina3
-Guillermo Brown,4,2,0,2,5,4,1,6,argentina3
+San Telmo,4,2,0,2,6,6,0,6,argentina3
+D. de Belgrano,4,2,0,2,4,4,0,6,argentina3
 Tristan Suarez,4,2,0,2,6,7,-1,6,argentina3
-G. Mendoza,4,1,2,1,7,7,0,5,argentina3
-Temperley,4,1,2,1,5,5,0,5,argentina3
+Guillermo Brown,4,2,0,2,4,7,-3,6,argentina3
 Deportivo Maipu,4,1,2,1,4,4,0,5,argentina3
-Deportivo Moron,4,0,4,0,1,1,0,4,argentina3
+Flandria,4,1,2,1,3,5,-2,5,argentina3
+Almagro,4,1,1,2,6,7,-1,4,argentina3
+Alvarado,4,1,1,2,6,7,-1,4,argentina3
 All Boys,4,1,1,2,3,4,-1,4,argentina3
-Nueva Chicago,4,1,1,2,2,3,-1,4,argentina3
-Defensores U.,4,1,1,2,4,6,-2,4,argentina3
-Alvarado,4,1,1,2,3,5,-2,4,argentina3
-Almirante Brown,4,1,1,2,2,4,-2,4,argentina3
-Almagro,4,1,1,2,6,9,-3,4,argentina3
-San Telmo,4,1,0,3,4,6,-2,3,argentina3
-D. de Belgrano,4,1,0,3,2,4,-2,3,argentina3
+Defensores U.,4,1,1,2,6,8,-2,4,argentina3
+Patronato,4,1,1,2,4,6,-2,4,argentina3
+Temperley,4,1,1,2,4,6,-2,4,argentina3
+Deportivo Moron,4,0,3,1,2,3,-1,3,argentina3
 Pyunik,4,4,0,0,10,1,9,12,armenia
 Urartu,4,3,1,0,8,4,4,10,armenia
 Noah,4,3,0,1,9,3,6,9,armenia
@@ -396,17 +396,17 @@ Deportivo Cali,4,2,1,1,5,3,2,7,colombia2
 La Equidad,4,2,1,1,4,2,2,7,colombia2
 D. Pereira,4,2,1,1,6,6,0,7,colombia2
 Union Magdalena,4,2,0,2,8,9,-1,6,colombia2
-Boyaca Chico,4,2,0,2,4,5,-1,6,colombia2
 Deportivo Pasto,4,2,0,2,4,5,-1,6,colombia2
 A. Petrolera,4,2,0,2,3,5,-2,6,colombia2
 Junior,4,1,1,2,3,4,-1,4,colombia2
+A. Bucaramanga,4,1,1,2,2,4,-2,4,colombia2
 Santa Fe,4,1,1,2,2,7,-5,4,colombia2
 A. Nacional,4,1,0,3,6,8,-2,3,colombia2
+Boyaca Chico,4,1,0,3,2,5,-3,3,colombia2
 Once Caldas,4,0,2,2,4,6,-2,2,colombia2
+Atletico Huila,4,0,2,2,4,7,-3,2,colombia2
 Jaguares de C.,4,0,2,2,0,3,-3,2,colombia2
-Atletico Huila,4,0,1,3,2,6,-4,1,colombia2
-A. Bucaramanga,4,0,1,3,1,6,-5,1,colombia2
-Envigado,4,0,0,4,3,10,-7,0,colombia2
+Envigado,4,0,1,3,6,11,-5,1,colombia2
 Cartagines,4,4,0,0,14,2,12,12,costarica
 Herediano,4,3,1,0,11,4,7,10,costarica
 Saprissa,4,3,0,1,8,3,5,9,costarica
@@ -1542,14 +1542,14 @@ Jerv,4,0,1,3,5,10,-5,1,norway2
 Al-Nahda,4,3,1,0,9,5,4,10,oman
 Oman Club,4,3,1,0,4,1,3,10,oman
 Al Seeb,4,2,2,0,7,2,5,8,oman
+Al-Shabab Club,4,2,1,1,7,6,1,7,oman
 Ibri,4,2,0,2,5,3,2,6,oman
-Al-Shabab Club,4,2,0,2,5,5,0,6,oman
 Al Wehda,4,2,0,2,2,6,-4,6,oman
 Sohar,4,1,2,1,5,3,2,5,oman
-Al Nasr,4,1,2,1,3,3,0,5,oman
-Sur,4,1,1,2,5,5,0,4,oman
-Al-Rustaq,4,1,1,2,4,6,-2,4,oman
-Dhofar,4,1,1,2,4,6,-2,4,oman
+Al Nasr,4,1,2,1,5,4,1,5,oman
+Sur,4,1,1,2,6,6,0,4,oman
+Al-Rustaq,4,1,1,2,4,5,-1,4,oman
+Dhofar,4,0,1,3,4,9,-5,1,oman
 Bahla,4,0,0,4,1,9,-8,0,oman
 Tauro,4,4,0,0,8,3,5,12,panama2
 Independiente,4,3,0,1,8,4,4,9,panama2
@@ -1689,16 +1689,16 @@ Kalisz,4,2,2,0,5,0,5,8,poland3
 SKRA Czestochow,4,2,1,1,7,3,4,7,poland3
 Stalowa Wola,4,2,1,1,4,3,1,7,poland3
 Sandecja Nowy,4,2,0,2,4,4,0,6,poland3
+LKS Lodz B,4,1,2,1,7,5,2,5,poland3
 Jastrzebie,4,1,2,1,4,5,-1,5,poland3
-LKS Lodz B,4,1,1,2,7,6,1,4,poland3
 Olimpia Elblag,4,0,4,0,2,2,0,4,poland3
 Stomil Olsztyn,4,1,1,2,6,7,-1,4,poland3
 Polonia Bytom,4,1,1,2,4,5,-1,4,poland3
 Wisla Pulawy,4,1,1,2,8,10,-2,4,poland3
 Radunia Stezyca,4,1,1,2,6,8,-2,4,poland3
 Hutnik Krakow,4,1,0,3,2,7,-5,3,poland3
+O. Grudziadz,4,0,1,3,6,10,-4,1,poland3
 Lech Poznan B,4,0,1,3,3,12,-9,1,poland3
-O. Grudziadz,4,0,0,4,5,11,-6,0,poland3
 Zaglebie L. B,4,0,0,4,3,10,-7,0,poland3
 Sporting CP,4,4,0,0,10,3,7,12,portugal
 Benfica,4,4,0,0,7,2,5,12,portugal
@@ -1898,16 +1898,16 @@ Semendrija 1924,4,3,0,1,6,4,2,9,serbia2
 Dubocica,4,2,2,0,4,2,2,8,serbia2
 Jedinstvo Ub,4,2,1,1,5,4,1,7,serbia2
 S. Mitrovica,4,2,1,1,4,3,1,7,serbia2
-Novi Sad,4,2,0,2,5,6,-1,6,serbia2
+OFK Vrac,4,2,0,2,2,2,0,6,serbia2
 Indija,4,2,0,2,3,4,-1,6,serbia2
 Sloboda Uzice,4,1,2,1,3,2,1,5,serbia2
 Macva Sabac,4,1,2,1,2,2,0,5,serbia2
-OFK Vrac,4,1,1,2,2,3,-1,4,serbia2
 Radnicki B.,4,1,1,2,4,6,-2,4,serbia2
 Tekstilac Odzac,4,1,0,3,4,3,1,3,serbia2
+Novi Sad,4,1,0,3,4,7,-3,3,serbia2
 Mladost Novi S.,4,0,2,2,5,8,-3,2,serbia2
 Metalac GM,4,0,2,2,0,3,-3,2,serbia2
-Graficar,4,0,0,4,2,13,-11,0,serbia2
+Graficar,4,0,1,3,2,8,-6,1,serbia2
 A. Niigata (S),4,4,0,0,19,4,15,12,singapore
 Lion City,4,4,0,0,21,7,14,12,singapore
 DPMM FC,4,1,2,1,5,4,1,5,singapore
@@ -2036,11 +2036,10 @@ Eibar,4,3,1,0,9,3,6,10,spain2
 Real Oviedo,4,3,1,0,7,1,6,10,spain2
 Espanyol,4,3,0,1,8,3,5,9,spain2
 Valladolid,4,3,0,1,7,4,3,9,spain2
-Levante,4,2,2,0,5,1,4,8,spain2
+Levante,4,2,2,0,4,1,3,8,spain2
 Leganes,4,2,1,1,8,2,6,7,spain2
 Sporting Gijon,4,2,1,1,7,5,2,7,spain2
 Tenerife,4,2,1,1,5,5,0,7,spain2
-Racing Ferrol,4,2,1,1,3,4,-1,7,spain2
 Racing,4,2,0,2,7,8,-1,6,spain2
 Albacete,4,2,0,2,5,7,-2,6,spain2
 Burgos,4,2,0,2,5,7,-2,6,spain2
@@ -2050,6 +2049,7 @@ Alcorcon,4,1,1,2,5,6,-1,4,spain2
 Mirandes,4,1,1,2,5,7,-2,4,spain2
 Eldense,4,1,1,2,3,5,-2,4,spain2
 Real Zaragoza,4,1,1,2,3,5,-2,4,spain2
+Racing Ferrol,4,1,1,2,2,5,-3,4,spain2
 FC Andorra,4,1,0,3,4,6,-2,3,spain2
 Cartagena,4,0,2,2,3,6,-3,2,spain2
 Huesca,4,0,1,3,1,4,-3,1,spain2
