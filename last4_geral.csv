@@ -412,13 +412,13 @@ Herediano,4,3,1,0,11,4,7,10,costarica
 Saprissa,4,3,0,1,8,3,5,9,costarica
 Guanacasteca,4,2,0,2,5,8,-3,6,costarica
 AD Grecia,4,1,2,1,3,5,-2,5,costarica
+Santos DG,4,1,2,1,3,6,-3,5,costarica
 Alajuelense,4,1,1,2,10,8,2,4,costarica
 San Carlos,4,1,1,2,4,5,-1,4,costarica
 Sporting SJ,4,1,1,2,6,8,-2,4,costarica
 Puntarenas,4,1,1,2,4,7,-3,4,costarica
-Santos DG,4,1,1,2,2,7,-5,4,costarica
+M. Liberia,4,0,3,1,8,9,-1,3,costarica
 Zeledon,4,1,0,3,4,12,-8,3,costarica
-M. Liberia,4,0,2,2,8,10,-2,2,costarica
 Sparta Prague,4,3,1,0,11,3,8,10,czechrepublic
 Viktoria Plzen,4,3,0,1,17,7,10,9,czechrepublic
 Mlada Boleslav,4,3,0,1,9,7,2,9,czechrepublic
@@ -993,12 +993,12 @@ Malavan,4,3,1,0,8,1,7,10,iran
 Persepolis,4,3,1,0,5,1,4,10,iran
 Esteghlal,4,3,0,1,3,1,2,9,iran
 Zob Ahan,4,2,2,0,5,3,2,8,iran
-Aluminium Arak,4,2,0,2,4,7,-3,6,iran
+Aluminium Arak,4,2,0,2,3,6,-3,6,iran
 Gol Gohar,4,1,2,1,2,2,0,5,iran
-N. Mazandaran,4,1,1,2,4,4,0,4,iran
 Paykan,4,1,1,2,3,6,-3,4,iran
 Sanat Naft,4,1,1,2,5,9,-4,4,iran
 Shams A. Qazvin,4,1,0,3,5,6,-1,3,iran
+N. Mazandaran,4,1,0,3,3,4,-1,3,iran
 Mes Rafsanjan,4,1,0,3,2,5,-3,3,iran
 Foolad,4,1,0,3,2,8,-6,3,iran
 Havadar,4,0,1,3,1,4,-3,1,iran
@@ -2380,14 +2380,14 @@ Phu Tho,4,0,3,1,4,6,-2,3,vietnam2
 Binh Thuan,4,1,0,3,5,19,-14,3,vietnam2
 Phu Dong,4,0,0,4,3,12,-9,0,vietnam2
 The New Saints,4,4,0,0,16,3,13,12,wales
-Newtown,4,4,0,0,10,2,8,12,wales
 Connah`s Quay,4,3,1,0,10,5,5,10,wales
-Caernarfon Town,4,2,0,2,5,7,-2,6,wales
-Penybont,4,2,0,2,6,9,-3,6,wales
-Cardiff MU,4,1,2,1,6,9,-3,5,wales
-Haverfordwest,4,1,1,2,5,6,-1,4,wales
-Aberystwyth,4,1,1,2,3,6,-3,4,wales
-Barry Town,4,1,0,3,4,7,-3,3,wales
+Newtown,4,3,0,1,7,2,5,9,wales
+Cardiff MU,4,2,2,0,7,5,2,8,wales
+Haverfordwest,4,2,1,1,7,5,2,7,wales
+Caernarfon Town,4,2,0,2,7,7,0,6,wales
+Aberystwyth,4,1,1,2,2,7,-5,4,wales
 Bala Town,4,1,0,3,3,6,-3,3,wales
-Pontypridd Town,4,1,0,3,2,6,-4,3,wales
+Barry Town,4,1,0,3,3,6,-3,3,wales
+Penybont,4,1,0,3,6,11,-5,3,wales
+Pontypridd Town,4,1,0,3,2,7,-5,3,wales
 Colwyn Bay,4,0,1,3,6,10,-4,1,wales
