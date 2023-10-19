@@ -351,21 +351,21 @@ Dalian P.,4,0,1,3,0,6,-6,1,china
 Nantong Zhiyun,4,0,0,4,3,10,-7,0,china
 Cangzhou,4,0,0,4,1,10,-9,0,china
 Shenzhen,4,0,0,4,2,13,-11,0,china
-Sichuan Jiuniu,4,4,0,0,12,2,10,12,china2
-Wuxi Wugou,4,3,1,0,10,5,5,10,china2
-Jinan Xingzhou,4,2,2,0,5,2,3,8,china2
-Nanjing,4,2,2,0,4,2,2,8,china2
-Guangzhou FC,4,2,0,2,6,6,0,6,china2
-Qingdao Y. I.,4,1,2,1,5,4,1,5,china2
-Dantong Hantong,4,1,2,1,5,5,0,5,china2
-Shenyang Urban,4,1,2,1,3,4,-1,5,china2
-Hebei Kungfu,4,0,4,0,3,3,0,4,china2
-Suzhou Dongwu,4,1,1,2,4,7,-3,4,china2
-Dongguan United,4,1,1,2,3,6,-3,4,china2
-Yanbian Longdin,4,0,3,1,5,7,-2,3,china2
-Guangxi Baoyun,4,0,3,1,3,6,-3,3,china2
+Sichuan Jiuniu,4,4,0,0,13,1,12,12,china2
+Jinan Xingzhou,4,2,2,0,4,1,3,8,china2
+Qingdao Y. I.,4,2,1,1,5,2,3,7,china2
+Dantong Hantong,4,2,1,1,4,3,1,7,china2
+Wuxi Wugou,4,2,1,1,6,8,-2,7,china2
+Hebei Kungfu,4,1,3,0,4,3,1,6,china2
+Guangzhou FC,4,2,0,2,5,5,0,6,china2
+Shenyang Urban,4,1,2,1,4,4,0,5,china2
+Nanjing,4,1,2,1,2,2,0,5,china2
+Guangxi Baoyun,4,1,2,1,5,6,-1,5,china2
+Shanghai Jiadin,4,1,2,1,4,5,-1,5,china2
+Suzhou Dongwu,4,1,1,2,3,5,-2,4,china2
+Dongguan United,4,1,0,3,2,7,-5,3,china2
 Heilongjiang L.,4,0,2,2,3,5,-2,2,china2
-Shanghai Jiadin,4,0,2,2,3,7,-4,2,china2
+Yanbian Longdin,4,0,2,2,4,8,-4,2,china2
 Jiangxi L.,4,0,1,3,6,9,-3,1,china2
 Once Caldas,4,2,2,0,7,3,4,8,colombia
 Millonarios,4,2,2,0,5,2,3,8,colombia
@@ -409,15 +409,15 @@ Jaguares de C.,4,0,2,2,0,3,-3,2,colombia2
 Envigado,4,0,1,3,6,11,-5,1,colombia2
 Cartagines,4,4,0,0,14,2,12,12,costarica
 Herediano,4,3,1,0,11,4,7,10,costarica
-Saprissa,4,3,0,1,8,3,5,9,costarica
+Saprissa,4,3,0,1,10,4,6,9,costarica
+Sporting SJ,4,2,1,1,7,6,1,7,costarica
 Guanacasteca,4,2,0,2,5,8,-3,6,costarica
-AD Grecia,4,1,2,1,3,5,-2,5,costarica
 Santos DG,4,1,2,1,3,6,-3,5,costarica
 Alajuelense,4,1,1,2,10,8,2,4,costarica
 San Carlos,4,1,1,2,4,5,-1,4,costarica
-Sporting SJ,4,1,1,2,6,8,-2,4,costarica
-Puntarenas,4,1,1,2,4,7,-3,4,costarica
+AD Grecia,4,1,1,2,3,6,-3,4,costarica
 M. Liberia,4,0,3,1,8,9,-1,3,costarica
+Puntarenas,4,1,0,3,4,10,-6,3,costarica
 Zeledon,4,1,0,3,4,12,-8,3,costarica
 Sparta Prague,4,3,1,0,11,3,8,10,czechrepublic
 Viktoria Plzen,4,3,0,1,17,7,10,9,czechrepublic
@@ -876,10 +876,10 @@ Marathon,4,2,1,1,6,5,1,7,honduras
 Victoria,4,2,1,1,7,8,-1,7,honduras
 Real Espana,4,2,0,2,9,7,2,6,honduras
 Vida,4,1,3,0,3,2,1,6,honduras
+Génesis,4,2,0,2,3,3,0,6,honduras
 Olancho,4,1,1,2,2,3,-1,4,honduras
 Real Sociedad,4,1,1,2,2,4,-2,4,honduras
-Génesis,4,1,0,3,3,7,-4,3,honduras
-UPNFM,4,0,0,4,3,10,-7,0,honduras
+UPNFM,4,0,0,4,2,9,-7,0,honduras
 LM Warriors,4,4,0,0,16,5,11,12,hongkong
 Kitchee,4,3,0,1,14,4,10,9,hongkong
 Southern D.,4,3,0,1,14,5,9,9,hongkong
@@ -1237,16 +1237,16 @@ Be1 NFA,4,3,1,0,7,1,6,10,lithuania2
 Minija,4,3,0,1,9,6,3,9,lithuania2
 Neptuna K.,4,2,2,0,10,3,7,8,lithuania2
 Nevezis,4,2,2,0,8,4,4,8,lithuania2
-TransINVEST,4,2,1,1,17,4,13,7,lithuania2
 Garliava,4,1,3,0,6,4,2,6,lithuania2
 Riteriai B,4,1,3,0,5,4,1,6,lithuania2
 Ekranas,4,2,0,2,8,8,0,6,lithuania2
+TransINVEST,4,1,2,1,9,6,3,5,lithuania2
 BFA Vilnius,4,1,2,1,7,5,2,5,lithuania2
 Kauno Z. B,4,1,2,1,5,3,2,5,lithuania2
 Panevezys B,4,1,1,2,6,11,-5,4,lithuania2
 Babrungas,4,1,0,3,3,10,-7,3,lithuania2
 FA Siauliai B,4,0,2,2,6,10,-4,2,lithuania2
-Zalgiris B,4,0,1,3,5,12,-7,1,lithuania2
+Zalgiris B,4,0,2,2,6,10,-4,2,lithuania2
 Marijampole C.,4,0,1,3,0,9,-9,1,lithuania2
 Jonava,4,0,0,4,5,13,-8,0,lithuania2
 Hesperang,4,3,1,0,10,2,8,10,luxembourg
@@ -1289,20 +1289,6 @@ Kelantan,4,1,2,1,6,6,0,5,malaysia2
 Selangor B,4,1,0,3,2,7,-5,3,malaysia2
 Perak,4,0,1,3,3,7,-4,1,malaysia2
 PDRM,4,0,0,4,1,7,-6,0,malaysia2
-Hamrun Spartans,4,3,1,0,11,1,10,10,malta
-Birkirkara,4,3,0,1,12,5,7,9,malta
-Mosta,4,3,0,1,11,5,6,9,malta
-Sirens,4,2,2,0,5,3,2,8,malta
-Valletta,4,2,1,1,8,4,4,7,malta
-Floriana,4,2,1,1,10,7,3,7,malta
-Hibernians,4,2,1,1,10,9,1,7,malta
-Gzira Utd,4,2,0,2,8,5,3,6,malta
-Balzan,4,2,0,2,5,9,-4,6,malta
-Santa Lucia,4,1,1,2,3,5,-2,4,malta
-Pieta Hotspurs,4,1,1,2,5,8,-3,4,malta
-Gudja Utd,4,0,1,3,2,6,-4,1,malta
-Marsaxlokk,4,0,1,3,5,11,-6,1,malta
-Zebbug Rangers,4,0,0,4,1,18,-17,0,malta
 CF America,4,3,1,0,8,2,6,10,mexico
 Pumas UNAM,4,3,0,1,10,2,8,9,mexico
 Tigres,4,2,2,0,9,5,4,8,mexico
@@ -1682,13 +1668,12 @@ Znicz Pruszkow,4,1,0,3,5,10,-5,3,poland2
 Podbeskidzie,4,0,2,2,3,6,-3,2,poland2
 Katowice,4,0,1,3,1,7,-6,1,poland2
 Motor Lublin,4,0,0,4,2,11,-9,0,poland2
-Chojniczanka,4,4,0,0,10,2,8,12,poland3
-K. Kolobrzeg,4,3,1,0,12,9,3,10,poland3
+Chojniczanka,4,3,1,0,10,3,7,10,poland3
+K. Kolobrzeg,4,3,1,0,10,7,3,10,poland3
 Pogon Siedlce,4,3,1,0,10,7,3,10,poland3
 Kalisz,4,2,2,0,5,0,5,8,poland3
 SKRA Czestochow,4,2,1,1,7,3,4,7,poland3
-Stalowa Wola,4,2,1,1,4,3,1,7,poland3
-Sandecja Nowy,4,2,0,2,4,4,0,6,poland3
+Stalowa Wola,4,2,1,1,4,2,2,7,poland3
 LKS Lodz B,4,1,2,1,7,5,2,5,poland3
 Jastrzebie,4,1,2,1,4,5,-1,5,poland3
 Olimpia Elblag,4,0,4,0,2,2,0,4,poland3
@@ -1696,6 +1681,7 @@ Stomil Olsztyn,4,1,1,2,6,7,-1,4,poland3
 Polonia Bytom,4,1,1,2,4,5,-1,4,poland3
 Wisla Pulawy,4,1,1,2,8,10,-2,4,poland3
 Radunia Stezyca,4,1,1,2,6,8,-2,4,poland3
+Sandecja Nowy,4,1,1,2,3,5,-2,4,poland3
 Hutnik Krakow,4,1,0,3,2,7,-5,3,poland3
 O. Grudziadz,4,0,1,3,6,10,-4,1,poland3
 Lech Poznan B,4,0,1,3,3,12,-9,1,poland3
@@ -2380,13 +2366,13 @@ Phu Tho,4,0,3,1,4,6,-2,3,vietnam2
 Binh Thuan,4,1,0,3,5,19,-14,3,vietnam2
 Phu Dong,4,0,0,4,3,12,-9,0,vietnam2
 The New Saints,4,4,0,0,16,3,13,12,wales
-Connah`s Quay,4,3,1,0,10,5,5,10,wales
 Newtown,4,3,0,1,7,2,5,9,wales
+Connah`s Quay,4,2,2,0,8,5,3,8,wales
 Cardiff MU,4,2,2,0,7,5,2,8,wales
 Haverfordwest,4,2,1,1,7,5,2,7,wales
 Caernarfon Town,4,2,0,2,7,7,0,6,wales
+Bala Town,4,1,1,2,3,4,-1,4,wales
 Aberystwyth,4,1,1,2,2,7,-5,4,wales
-Bala Town,4,1,0,3,3,6,-3,3,wales
 Barry Town,4,1,0,3,3,6,-3,3,wales
 Penybont,4,1,0,3,6,11,-5,3,wales
 Pontypridd Town,4,1,0,3,2,7,-5,3,wales
