@@ -552,36 +552,35 @@ Date,Hora,Liga,Home,Away,Placar HT,Winrate,Profit
 21.10.2023,15:30,2. Bundesliga,Fortuna Düsseldorf,Kaiserslautern,4x3,1,"0,7"
 21.10.2023,20:00,Primera División FPD,Cartaginés,Deportivo Saprissa,0x4,0,-1
 21.10.2023,22:00,Liga MX,América,Santos Laguna,4x3,1,"0,7"
-22.10.2023,00:10,Liga MX,Tigres UANL,Cruz Azul,,,
-22.10.2023,04:40,K League 1,Daejeon Citizen,Suwon,,,
-22.10.2023,06:00,Oberliga Bayern Nord,ASV Neumarkt,Eichstätt,,,
-22.10.2023,08:00,Superettan,Landskrona,Västerås SK,,,
-22.10.2023,08:00,3. Division Group 5,Strindheim,Nardo,,,
-22.10.2023,08:00,Thai League T1,BEC Tero Sasana,Muang Thong United,,,
-22.10.2023,08:00,Regionalliga Nordost,Viktoria Berlin,Lokomotive Leipzig,,,
-22.10.2023,08:30,Pro League,KRC Genk,KV Mechelen,,,
-22.10.2023,08:30,2. Bundesliga,Karlsruher SC,Schalke 04,,,
-22.10.2023,08:30,2. Bundesliga,Hansa Rostock,Holstein Kiel,,,
-22.10.2023,08:30,2. Bundesliga,Nürnberg,Hertha BSC,,,
-22.10.2023,08:30,3. Liga,Sandhausen,Verl,,,
-22.10.2023,09:00,Division 2 Norra Svealand,Uppsala,Sandvikens AIK,,,
-22.10.2023,09:00,Division 2 Sodra Gotaland,IFK Malmö,Nosaby,,,
-22.10.2023,09:15,Challenge League,Vaduz,Aarau,,,
-22.10.2023,09:15,Super League,Winterthur,St. Gallen,,,
-22.10.2023,10:00,First Division,KFUM,Raufoss,,,
-22.10.2023,10:00,Damallsvenskan,Växjö,Kristianstad,,,
-22.10.2023,10:00,Montenegrin Second League,Mladost Lješkopolje,Grbalj,,,
-22.10.2023,10:30,3. Liga CFL,Sokol Hostouň,Písek,,,
-22.10.2023,10:30,3. Liga CFL,Povltava FA,Karlovy Vary,,,
-22.10.2023,11:00,Faroe Islands Premier League,ÍF,TB,,,
-22.10.2023,11:00,Faroe Islands Premier League,HB,07 Vestur,,,
-22.10.2023,11:00,Faroe Islands Premier League,B68,AB,,,
-22.10.2023,11:00,1st Division,HB Køge,Næstved,,,
-22.10.2023,11:30,Super League,Grasshopper,Lugano,,,
-22.10.2023,11:30,3. Liga,Rot-Weiss Essen,Saarbrucken,,,
-22.10.2023,12:00,Eliteserien,Aalesund,Sarpsborg 08,,,
-22.10.2023,12:00,Bundesliga,Rapid Wien,Austria Klagenfurt,,,
-22.10.2023,12:30,Allsvenskan,Häcken,Norrköping,,,
-22.10.2023,12:45,NB I,Diósgyőr,Ferencváros,,,
-22.10.2023,15:00,Liga MX,Pumas UNAM,Monterrey,,,
-23.10.2023,22:00,Primera Division,UNAN Managua,Walter Ferretti,,,
+22.10.2023,00:10,Liga MX,Tigres UANL,Cruz Azul,2x1,1,"0,7"
+22.10.2023,04:40,K League 1,Daejeon Citizen,Suwon,1x1,1,"0,7"
+22.10.2023,06:00,Oberliga Bayern Nord,ASV Neumarkt,Eichstätt,1x2,1,"0,7"
+22.10.2023,08:00,Superettan,Landskrona,Västerås SK,0x1,0,-1
+22.10.2023,08:00,3. Division Group 5,Strindheim,Nardo,1x2,1,"0,7"
+22.10.2023,08:00,Thai League T1,BEC Tero Sasana,Muang Thong United,2x1,1,"0,7"
+22.10.2023,08:00,Regionalliga Nordost,Viktoria Berlin,Lokomotive Leipzig,5x0,0,-1
+22.10.2023,08:30,Pro League,KRC Genk,KV Mechelen,4x0,0,-1
+22.10.2023,08:30,2. Bundesliga,Karlsruher SC,Schalke 04,3x0,0,-1
+22.10.2023,08:30,2. Bundesliga,Hansa Rostock,Holstein Kiel,1x3,1,"0,7"
+22.10.2023,08:30,2. Bundesliga,Nürnberg,Hertha BSC,3x1,1,"0,7"
+22.10.2023,08:30,3. Liga,Sandhausen,Verl,2x2,1,"0,7"
+22.10.2023,09:00,Division 2 Norra Svealand,Uppsala,Sandvikens AIK,1x2,1,"0,7"
+22.10.2023,09:00,Division 2 Sodra Gotaland,IFK Malmö,Nosaby,2x3,1,"0,7"
+22.10.2023,09:15,Challenge League,Vaduz,Aarau,2x2,1,"0,7"
+22.10.2023,09:15,Super League,Winterthur,St. Gallen,2x1,1,"0,7"
+22.10.2023,10:00,First Division,KFUM,Raufoss,0x0,0,-1
+22.10.2023,10:00,Montenegrin Second League,Mladost Lješkopolje,Grbalj,3x0,0,-1
+22.10.2023,10:30,3. Liga CFL,Sokol Hostouň,Písek,2x0,0,-1
+22.10.2023,10:30,3. Liga CFL,Povltava FA,Karlovy Vary,2x1,1,"0,7"
+22.10.2023,11:00,Faroe Islands Premier League,ÍF,TB,1x0,0,-1
+22.10.2023,11:00,Faroe Islands Premier League,HB,07 Vestur,2x0,0,-1
+22.10.2023,11:00,Faroe Islands Premier League,B68,AB,2x2,1,"0,7"
+22.10.2023,11:00,1st Division,HB Køge,Næstved,3x2,1,"0,7"
+22.10.2023,11:30,Super League,Grasshopper,Lugano,2x1,1,"0,7"
+22.10.2023,11:30,3. Liga,Rot-Weiss Essen,Saarbrucken,2x1,1,"0,7"
+22.10.2023,12:00,Eliteserien,Aalesund,Sarpsborg 08,3x2,1,"0,7"
+22.10.2023,12:00,Bundesliga,Rapid Wien,Austria Klagenfurt,2x3,1,"0,7"
+22.10.2023,12:30,Allsvenskan,Häcken,Norrköping,4x1,1,"0,7"
+22.10.2023,12:45,NB I,Diósgyőr,Ferencváros,1x2,1,"0,7"
+22.10.2023,15:00,Liga MX,Pumas UNAM,Monterrey,0x1,0,-1
+22.10.2023,22:00,Primera Division,UNAN Managua,Walter Ferretti,1x0,0,-1
