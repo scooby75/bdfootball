@@ -133,18 +133,18 @@ Ararat Yerevan,4,2,0,2,5,8,-3,6,armenia
 Van,4,1,0,3,3,7,-4,3,armenia
 West Armenia,4,0,1,3,0,8,-8,1,armenia
 BKMA,4,0,0,4,2,9,-7,0,armenia
+Brisbane Roar,2,1,1,0,4,1,3,4,australia
+Wellington,2,1,1,0,2,1,1,4,australia
 Adelaide Utd,1,1,0,0,3,0,3,3,australia
 Melbourne V.,1,1,0,0,2,0,2,3,australia
 Western United,1,1,0,0,2,1,1,3,australia
 Newcastle Jets,1,0,1,0,2,2,0,1,australia
-Perth Glory,1,0,1,0,2,2,0,1,australia
-Brisbane Roar,1,0,1,0,1,1,0,1,australia
 Macarthur FC,1,0,1,0,1,1,0,1,australia
-Wellington,1,0,1,0,0,0,0,1,australia
 Western Sydney,1,0,1,0,0,0,0,1,australia
+Perth Glory,2,0,1,1,3,4,-1,1,australia
 Melbourne City,1,0,0,1,1,2,-1,0,australia
-Sydney FC,1,0,0,1,0,2,-2,0,australia
 Central Coast,1,0,0,1,0,3,-3,0,australia
+Sydney FC,2,0,0,2,0,5,-5,0,australia
 Sturm Graz,4,3,1,0,6,3,3,10,austria
 A. Klagenfurt,4,2,2,0,6,4,2,8,austria
 Austria Wien,4,2,1,1,7,2,5,7,austria
@@ -158,21 +158,21 @@ Salzburg,4,1,1,2,6,4,2,4,austria
 A. Lustenau,4,0,1,3,0,10,-10,1,austria
 Tirol,4,0,0,4,2,9,-7,0,austria
 Ried,4,3,1,0,12,3,9,10,austria2
-Grazer AK,4,3,1,0,7,1,6,10,austria2
-Kapfenberger,4,3,1,0,9,5,4,10,austria2
+Grazer AK,4,3,1,0,6,2,4,10,austria2
 Stripfing,4,3,0,1,12,5,7,9,austria2
+Kapfenberger,4,2,2,0,7,4,3,8,austria2
+Leoben,4,2,2,0,8,6,2,8,austria2
 Bregenz,4,2,1,1,5,3,2,7,austria2
-Sturm Graz B,4,2,1,1,7,9,-2,7,austria2
-Floridsdorfer,4,1,2,1,7,4,3,5,austria2
+Sturm Graz B,4,2,1,1,9,10,-1,7,austria2
+Floridsdorfer,4,1,2,1,5,5,0,5,austria2
 First Vienna,4,1,2,1,6,8,-2,5,austria2
-Leoben,4,1,2,1,5,8,-3,5,austria2
-Admira Wacker,4,0,4,0,4,4,0,4,austria2
-Lafnitz,4,1,1,2,5,8,-3,4,austria2
+Lafnitz,4,1,1,2,8,9,-1,4,austria2
+Admira Wacker,4,0,3,1,4,5,-1,3,austria2
 Liefering,4,0,3,1,4,7,-3,3,austria2
-SV Horn,4,1,0,3,5,10,-5,3,austria2
-Amstetten,4,0,1,3,5,8,-3,1,austria2
-Dornbirn,4,0,1,3,5,9,-4,1,austria2
+Amstetten,4,0,2,2,5,7,-2,2,austria2
 St. Polten,4,0,1,3,5,11,-6,1,austria2
+Dornbirn,4,0,0,4,6,11,-5,0,austria2
+SV Horn,4,0,0,4,2,12,-10,0,austria2
 Qarabag,4,3,1,0,11,3,8,10,azerbaijan
 Araz,4,2,1,1,6,3,3,7,azerbaijan
 Neftci,4,2,1,1,6,5,1,7,azerbaijan
@@ -198,16 +198,16 @@ Dinamo Minsk,4,4,0,0,11,2,9,12,belarus
 Neman Grodno,4,3,1,0,12,5,7,10,belarus
 Isloch,4,2,1,1,8,4,4,7,belarus
 S. Soligorsk,4,2,1,1,11,9,2,7,belarus
-Energetik-BGU,4,2,1,1,5,5,0,7,belarus
 T. Zhodino,4,1,3,0,3,2,1,6,belarus
 Slutsk,4,1,3,0,2,1,1,6,belarus
 Gomel,4,2,0,2,7,7,0,6,belarus
+Energetik-BGU,4,2,0,2,6,8,-2,6,belarus
 Dinamo Brest,4,1,1,2,8,9,-1,4,belarus
 Naftan,4,1,1,2,6,8,-2,4,belarus
 Slavia Mozyr,4,1,1,2,4,6,-2,4,belarus
 FC Minsk,4,1,1,2,3,5,-2,4,belarus
 BATE Borisov,4,1,0,3,4,5,-1,3,belarus
-Smorgon,4,0,1,3,3,10,-7,1,belarus
+Smorgon,4,1,0,3,5,10,-5,3,belarus
 Belshina,4,0,0,4,3,12,-9,0,belarus
 Dnepr Mogilev,4,4,0,0,11,0,11,12,belarus2
 Vitebsk,4,3,1,0,11,1,10,10,belarus2
@@ -236,10 +236,10 @@ Westerlo,4,1,3,0,5,4,1,6,belgium
 Cercle Brugge,4,2,0,2,6,6,0,6,belgium
 Kortrijk,4,2,0,2,3,3,0,6,belgium
 Antwerp,4,1,2,1,6,4,2,5,belgium
+Sint-Truiden,4,1,1,2,3,10,-7,4,belgium
 Gent,4,0,3,1,2,4,-2,3,belgium
-RWDM,4,0,2,2,5,7,-2,2,belgium
+RWDM,4,0,2,2,4,6,-2,2,belgium
 Club Brugge,4,0,2,2,3,5,-2,2,belgium
-Sint-Truiden,4,0,2,2,4,12,-8,2,belgium
 KV Mechelen,4,0,1,3,2,9,-7,1,belgium
 Eupen,4,0,0,4,4,13,-9,0,belgium
 Real Tomayapo,4,4,0,0,8,3,5,12,bolivia
@@ -279,18 +279,18 @@ Sao Paulo,4,1,1,2,3,7,-4,4,brazil
 Gremio,4,1,0,3,6,10,-4,3,brazil
 Coritiba,4,1,0,3,3,8,-5,3,brazil
 America MG,4,0,1,3,6,9,-3,1,brazil
-CSKA Sofia,4,3,1,0,7,2,5,10,bulgaria
 Botev Plovdiv,4,3,0,1,15,5,10,9,bulgaria
 Ludogorets,4,2,2,0,6,1,5,8,bulgaria
 Hebar,4,2,2,0,7,3,4,8,bulgaria
+CSKA Sofia,4,2,2,0,5,2,3,8,bulgaria
 CSKA 1948 Sofia,4,2,2,0,4,2,2,8,bulgaria
-Arda,4,2,1,1,6,2,4,7,bulgaria
-Levski Sofia,4,2,1,1,4,2,2,7,bulgaria
+Slavia Sofia,4,2,1,1,4,2,2,7,bulgaria
+Beroe,4,2,0,2,5,7,-2,6,bulgaria
+Arda,4,1,2,1,3,1,2,5,bulgaria
 Cherno More,4,1,2,1,4,4,0,5,bulgaria
-L. Krumovgrad,4,1,2,1,2,3,-1,5,bulgaria
+L. Krumovgrad,4,1,2,1,1,2,-1,5,bulgaria
 Lokomotiv Sofia,4,1,2,1,1,6,-5,5,bulgaria
-Slavia Sofia,4,1,1,2,2,4,-2,4,bulgaria
-Beroe,4,1,1,2,3,6,-3,4,bulgaria
+Levski Sofia,4,1,1,2,3,4,-1,4,bulgaria
 Etar,4,1,1,2,4,9,-5,4,bulgaria
 Lok. Plovdiv,4,0,2,2,4,7,-3,2,bulgaria
 Pirin Blag.,4,0,1,3,3,9,-6,1,bulgaria
@@ -369,7 +369,7 @@ Heilongjiang L.,4,0,1,3,3,6,-3,1,china2
 Suzhou Dongwu,4,0,1,3,1,5,-4,1,china2
 I. Medelin,4,3,1,0,5,1,4,10,colombia2
 Junior,4,3,0,1,6,3,3,9,colombia2
-Deportes Tolima,4,3,0,1,3,2,1,9,colombia2
+Deportes Tolima,4,3,0,1,4,3,1,9,colombia2
 R. Aguilas,4,2,2,0,7,2,5,8,colombia2
 America de Cali,4,2,2,0,6,3,3,8,colombia2
 Millonarios,4,2,2,0,6,4,2,8,colombia2
@@ -379,21 +379,21 @@ A. Nacional,4,2,0,2,7,5,2,6,colombia2
 A. Bucaramanga,4,2,0,2,5,5,0,6,colombia2
 Envigado,4,1,1,2,9,9,0,4,colombia2
 Deportivo Pasto,4,1,1,2,3,3,0,4,colombia2
-Union Magdalena,4,1,1,2,5,7,-2,4,colombia2
 Boyaca Chico,4,1,1,2,4,6,-2,4,colombia2
 D. Pereira,4,1,1,2,1,3,-2,4,colombia2
 Jaguares de C.,4,1,1,2,1,3,-2,4,colombia2
 A. Petrolera,4,1,0,3,1,6,-5,3,colombia2
 Once Caldas,4,0,2,2,2,4,-2,2,colombia2
-Atletico Huila,4,0,2,2,4,7,-3,2,colombia2
-Santa Fe,4,0,1,3,3,10,-7,1,colombia2
+Atletico Huila,4,0,2,2,5,8,-3,2,colombia2
+Union Magdalena,4,0,1,3,4,8,-4,1,colombia2
+Santa Fe,4,0,1,3,4,11,-7,1,colombia2
 Herediano,4,3,1,0,10,4,6,10,costarica
 Saprissa,4,3,0,1,12,3,9,9,costarica
-Cartagines,4,3,0,1,12,8,4,9,costarica
-Santos DG,4,2,2,0,5,2,3,8,costarica
-Sporting SJ,4,2,2,0,7,5,2,8,costarica
+Santos DG,4,2,2,0,4,1,3,8,costarica
 Alajuelense,4,2,1,1,7,5,2,7,costarica
-M. Liberia,4,1,2,1,9,9,0,5,costarica
+M. Liberia,4,2,1,1,8,7,1,7,costarica
+Sporting SJ,4,2,1,1,6,5,1,7,costarica
+Cartagines,4,2,0,2,8,8,0,6,costarica
 Guanacasteca,4,1,1,2,3,7,-4,4,costarica
 Zeledon,4,1,0,3,4,10,-6,3,costarica
 San Carlos,4,0,1,3,5,8,-3,1,costarica
@@ -423,22 +423,22 @@ Randers FC,4,1,3,0,6,5,1,6,denmark
 AGF Aarhus,4,1,2,1,5,4,1,5,denmark
 Vejle BK,4,1,2,1,5,4,1,5,denmark
 Nordsjaelland,4,1,2,1,2,1,1,5,denmark
-Lyngby,4,1,1,2,3,9,-6,4,denmark
 Odense BK,4,1,0,3,4,6,-2,3,denmark
 Viborg,4,1,0,3,2,6,-4,3,denmark
+Lyngby,4,1,0,3,3,10,-7,3,denmark
 Hvidovre,4,0,1,3,2,8,-6,1,denmark
-SonderjyskE,4,4,0,0,14,4,10,12,denmark2
+SonderjyskE,4,4,0,0,14,1,13,12,denmark2
 Aalborg BK,4,4,0,0,11,3,8,12,denmark2
+Hillerod,4,2,2,0,7,2,5,8,denmark2
 Fredericia,4,2,1,1,8,5,3,7,denmark2
-Hillerod,4,1,3,0,6,3,3,6,denmark2
 Hobro,4,2,0,2,5,5,0,6,denmark2
+HB Koge,4,2,0,2,6,7,-1,6,denmark2
 Kolding IF,4,2,0,2,7,9,-2,6,denmark2
-HB Koge,4,2,0,2,5,7,-2,6,denmark2
 Vendsyssel,4,2,0,2,5,7,-2,6,denmark2
-AC Horsens,4,1,1,2,5,7,-2,4,denmark2
 Naestved,4,1,1,2,6,9,-3,4,denmark2
+AC Horsens,4,0,1,3,3,9,-6,1,denmark2
 Helsingor,4,0,0,4,3,7,-4,0,denmark2
-B 93,4,0,0,4,2,11,-9,0,denmark2
+B 93,4,0,0,4,1,13,-12,0,denmark2
 El Nacional,4,4,0,0,15,8,7,12,ecuador
 U. Catolica,4,3,1,0,8,5,3,10,ecuador
 Tecnico U.,4,3,0,1,7,1,6,9,ecuador
@@ -465,17 +465,17 @@ Manta,4,1,1,2,5,5,0,4,ecuador3
 I. Juniors,4,1,1,2,6,8,-2,4,ecuador3
 Macara,4,0,0,4,3,11,-8,0,ecuador3
 Guayaquil,4,0,0,4,2,11,-9,0,ecuador3
-Pyramids FC,4,3,1,0,5,2,3,10,egypt
+Pyramids FC,4,4,0,0,6,2,4,12,egypt
 Future FC,4,3,0,1,6,2,4,9,egypt
-Al Masry,4,3,0,1,5,5,0,9,egypt
-Zamalek,4,2,2,0,10,5,5,8,egypt
+Al Masry,4,3,0,1,7,4,3,9,egypt
 ZED FC,4,2,2,0,8,6,2,8,egypt
+Zamalek,4,2,1,1,9,5,4,7,egypt
+ENPPI,4,2,1,1,5,3,2,7,egypt
 Smouha,4,2,1,1,6,7,-1,7,egypt
 Al Ahly,2,2,0,0,7,1,6,6,egypt
 Baladiyyat,4,1,2,1,7,7,0,5,egypt
 Al Ittihad,4,1,2,1,6,7,-1,5,egypt
 Ceramica C.,3,1,1,1,6,3,3,4,egypt
-ENPPI,4,1,1,2,3,3,0,4,egypt
 El Geish,4,1,1,2,2,3,-1,4,egypt
 Pharco,4,1,1,2,3,5,-2,4,egypt
 Ismaily,4,1,0,3,4,6,-2,3,egypt
@@ -483,9 +483,9 @@ El Daklyeh,4,1,0,3,3,9,-6,3,egypt
 El Gouna,3,0,2,1,3,4,-1,2,egypt
 Al Mokawloon,4,0,2,2,5,8,-3,2,egypt
 National Bank,4,0,0,4,2,8,-6,0,egypt
+Tottenham,4,4,0,0,7,2,5,12,england
 Newcastle Utd,4,3,1,0,16,2,14,10,england
 Aston Villa,4,3,1,0,12,3,9,10,england
-Tottenham,4,3,1,0,7,3,4,10,england
 Manchester Utd,4,3,0,1,5,3,2,9,england
 Arsenal,4,2,2,0,9,4,5,8,england
 Wolverhampton,4,2,2,0,6,4,2,8,england
@@ -493,12 +493,12 @@ Chelsea,4,2,1,1,8,4,4,7,england
 Liverpool,4,2,1,1,8,5,3,7,england
 Everton,4,2,0,2,7,5,2,6,england
 Manchester City,4,2,0,2,5,4,1,6,england
-Crystal Palace,4,1,2,1,1,4,-3,5,england
 Brentford,4,1,1,2,6,6,0,4,england
 Luton Town,4,1,1,2,5,6,-1,4,england
 Fulham,4,1,1,2,3,5,-2,4,england
 West Ham Utd,4,1,1,2,6,9,-3,4,england
 Brighton,4,1,1,2,7,11,-4,4,england
+Crystal Palace,4,1,1,2,2,6,-4,4,england
 Nottm Forest,4,0,3,1,3,5,-2,3,england
 Burnley,4,1,0,3,3,10,-7,3,england
 Bournemouth,4,0,0,4,2,12,-10,0,england
@@ -602,13 +602,13 @@ Ebbsfleet Utd,4,0,1,3,3,11,-8,1,england5
 Flora,4,4,0,0,9,3,6,12,estonia
 Levadia,4,4,0,0,8,2,6,12,estonia
 Paide,4,3,0,1,8,3,5,9,estonia
-Tallinna Kalev,4,2,1,1,5,4,1,7,estonia
+Tallinna Kalev,4,2,1,1,10,5,5,7,estonia
 Narva Trans,4,2,0,2,6,7,-1,6,estonia
 Nomme Kalju,4,1,1,2,4,4,0,4,estonia
-Vaprus,4,1,1,2,4,5,-1,4,estonia
-Harju Jalgpalli,4,1,0,3,3,8,-5,3,estonia
+Harju Jalgpalli,4,1,1,2,3,7,-4,4,estonia
+Vaprus,4,0,2,2,1,3,-2,2,estonia
 Kuressaare,4,0,1,3,1,7,-6,1,estonia
-Tammeka,4,0,0,4,3,8,-5,0,estonia
+Tammeka,4,0,0,4,4,13,-9,0,estonia
 Viimsi,4,3,1,0,11,1,10,10,estonia2
 Nomme Utd,4,3,1,0,10,1,9,10,estonia2
 Flora B,4,3,0,1,11,7,4,9,estonia2
@@ -629,13 +629,13 @@ B68 Toftir,4,0,3,1,7,10,-3,3,faroeislands
 07 Vestur,4,1,0,3,4,9,-5,3,faroeislands
 AB Argir,4,0,2,2,5,8,-3,2,faroeislands
 TB Tvoroyri,4,0,0,4,2,11,-9,0,faroeislands
-Skala,4,4,0,0,19,1,18,12,faroeislands2
 Klaksvik B,4,4,0,0,19,3,16,12,faroeislands2
+Skala,4,4,0,0,16,1,15,12,faroeislands2
 Hoyvik,4,4,0,0,11,1,10,12,faroeislands2
 B71 Sandur,4,3,1,0,12,3,9,10,faroeislands2
-NSI Runavik,4,2,0,2,9,8,1,6,faroeislands2
 Vikingur B,4,1,1,2,7,7,0,4,faroeislands2
 B36 Torshavn B,4,1,0,3,10,11,-1,3,faroeislands2
+NSI Runavik,4,1,0,3,4,10,-6,3,faroeislands2
 HB B,4,0,1,3,2,12,-10,1,faroeislands2
 B68 Toftir B,4,0,0,4,3,19,-16,0,faroeislands2
 Streymur B,4,0,0,4,1,24,-23,0,faroeislands2
@@ -730,15 +730,15 @@ Saburtalo,4,1,1,2,2,7,-5,4,georgia
 Dila Gori,4,0,1,3,3,7,-4,1,georgia
 Shukura,4,0,0,4,1,14,-13,0,georgia
 Kolkheti Poti,4,4,0,0,12,1,11,12,georgia2
-Gareji Sagarejo,4,3,1,0,7,3,4,10,georgia2
-Spaeri,4,3,0,1,12,6,6,9,georgia2
-L. Tbilisi,4,2,1,1,7,6,1,7,georgia2
-WIT Georgia,4,1,2,1,4,4,0,5,georgia2
+Gareji Sagarejo,4,3,1,0,10,3,7,10,georgia2
+L. Tbilisi,4,2,2,0,7,4,3,8,georgia2
+Spaeri,4,2,1,1,11,7,4,7,georgia2
+WIT Georgia,4,1,2,1,3,3,0,5,georgia2
 Kolkheti Khobi,4,1,2,1,2,3,-1,5,georgia2
-D. Tbilisi B,4,1,0,3,7,9,-2,3,georgia2
-Merani Martvili,4,0,2,2,7,13,-6,2,georgia2
+Merani Tbilisi,4,0,2,2,3,11,-8,2,georgia2
+Merani Martvili,4,0,2,2,6,15,-9,2,georgia2
+D. Tbilisi B,4,0,1,3,3,7,-4,1,georgia2
 Bolnisi,4,0,1,3,2,6,-4,1,georgia2
-Merani Tbilisi,4,0,1,3,2,12,-10,1,georgia2
 Leverkusen,4,4,0,0,12,2,10,12,germany
 Stuttgart,4,4,0,0,11,2,9,12,germany
 Dortmund,4,4,0,0,9,3,6,12,germany
@@ -754,27 +754,27 @@ Wolfsburg,4,1,0,3,4,6,-2,3,germany
 Werder Bremen,4,1,0,3,6,9,-3,3,germany
 FC Koln,4,1,0,3,4,8,-4,3,germany
 Heidenheim,4,1,0,3,4,11,-7,3,germany
-FSV Mainz,4,0,1,3,4,10,-6,1,germany
-Bochum,4,0,1,3,2,12,-10,1,germany
+Bochum,4,0,2,2,4,7,-3,2,germany
+FSV Mainz,4,0,2,2,5,10,-5,2,germany
 Union Berlin,4,0,0,4,2,10,-8,0,germany
 Sankt Pauli,4,3,1,0,12,5,7,10,germany2
 Elversberg,4,2,2,0,7,2,5,8,germany2
 Paderborn,4,2,2,0,9,5,4,8,germany2
 Kaiserslautern,4,2,1,1,11,8,3,7,germany2
+Dusseldorf,4,2,1,1,9,6,3,7,germany2
 Holstein Kiel,4,2,1,1,8,5,3,7,germany2
+Greuther Furth,4,2,1,1,6,3,3,7,germany2
 Hamburger SV,4,2,1,1,5,3,2,7,germany2
 Hannover 96,4,2,1,1,6,5,1,7,germany2
-Greuther Furth,4,2,1,1,6,6,0,7,germany2
 FC Nurnberg,4,2,1,1,7,8,-1,7,germany2
 Hertha Berlin,4,2,0,2,7,8,-1,6,germany2
-Dusseldorf,4,1,2,1,6,6,0,5,germany2
-Osnabruck,4,1,2,1,5,6,-1,5,germany2
 Karlsruher SC,4,1,1,2,7,7,0,4,germany2
 Wehen Wiesbaden,4,1,1,2,3,5,-2,4,germany2
 Hansa Rostock,4,1,0,3,3,7,-4,3,germany2
 Magdeburg,4,0,2,2,3,5,-2,2,germany2
-Braunschweig,4,0,1,3,3,9,-6,1,germany2
+Osnabruck,4,0,2,2,3,9,-6,2,germany2
 Schalke 04,4,0,0,4,3,11,-8,0,germany2
+Braunschweig,4,0,0,4,2,11,-9,0,germany2
 Regensburg,4,4,0,0,10,4,6,12,germany3
 Dynamo Dresden,4,3,1,0,6,3,3,10,germany3
 Ulm,4,3,0,1,7,5,2,9,germany3
@@ -788,13 +788,13 @@ Sandhausen,4,1,2,1,5,4,1,5,germany3
 Viktoria Koln,4,1,2,1,6,6,0,5,germany3
 Saarbrucken,4,1,1,2,8,7,1,4,germany3
 FC Ingolstadt,4,1,1,2,7,7,0,4,germany3
-Unterhaching,4,1,1,2,4,4,0,4,germany3
 VfB Lubeck,4,1,1,2,5,6,-1,4,germany3
+Unterhaching,4,1,1,2,3,4,-1,4,germany3
 MSV Duisburg,4,1,1,2,1,2,-1,4,germany3
 Erzgebirge Aue,4,1,1,2,5,8,-3,4,germany3
 Freiburg B,4,1,0,3,2,7,-5,3,germany3
 Hallescher,4,0,1,3,5,10,-5,1,germany3
-Mannheim,4,0,1,3,3,9,-6,1,germany3
+Mannheim,4,0,1,3,3,10,-7,1,germany3
 Manchester 62,4,4,0,0,12,3,9,12,gibraltar
 Europa FC,4,4,0,0,8,2,6,12,gibraltar
 Lincoln RI,4,3,0,1,13,2,11,9,gibraltar
@@ -822,13 +822,13 @@ Atromitos,4,0,1,3,1,9,-8,1,greece
 PAS Giannina,4,0,0,4,4,11,-7,0,greece
 Comunicaciones,4,4,0,0,12,4,8,12,guatemala
 Achuapa,4,3,1,0,9,5,4,10,guatemala
-Coban Imperial,4,2,1,1,6,4,2,7,guatemala
 Xinabajul,4,2,1,1,6,5,1,7,guatemala
 Xelaju,4,2,1,1,4,3,1,7,guatemala
 Municipal,4,1,3,0,9,7,2,6,guatemala
 Zacapa Tellioz,4,2,0,2,8,9,-1,6,guatemala
+Coban Imperial,4,1,2,1,6,5,1,5,guatemala
+Antigua GFC,4,1,2,1,6,6,0,5,guatemala
 Malacateco,4,1,1,2,6,6,0,4,guatemala
-Antigua GFC,4,1,1,2,5,7,-2,4,guatemala
 Mixco,4,1,1,2,3,7,-4,4,guatemala
 Guastatoya,4,1,0,3,3,5,-2,3,guatemala
 Coatepecano IB,4,0,1,3,0,8,-8,1,guatemala
@@ -935,66 +935,66 @@ Persib,4,3,1,0,11,4,7,10,indonesia
 Bali Utd,4,3,1,0,8,3,5,10,indonesia
 Borneo,4,3,1,0,5,2,3,10,indonesia
 PSIS Semarang,4,3,0,1,7,5,2,9,indonesia
-Persik Kediri,4,2,2,0,9,6,3,8,indonesia
+Persik Kediri,4,2,2,0,10,4,6,8,indonesia
 Dewa United,4,2,1,1,8,4,4,7,indonesia
 R. Nusantara,4,2,1,1,6,5,1,7,indonesia
 Persita,4,2,1,1,5,8,-3,7,indonesia
 Persis Solo,4,1,2,1,7,7,0,5,indonesia
-Persebaya S.,4,1,1,2,7,8,-1,4,indonesia
+Barito Putera,4,0,4,0,4,4,0,4,indonesia
 Madura Utd,4,1,1,2,5,7,-2,4,indonesia
 Persija,4,0,3,1,5,6,-1,3,indonesia
 PSM,4,1,0,3,4,5,-1,3,indonesia
-Barito Putera,4,0,3,1,3,4,-1,3,indonesia
 Arema,4,1,0,3,3,8,-5,3,indonesia
 PSS Sleman,4,0,2,2,5,8,-3,2,indonesia
-TIRA Persikabo,4,0,1,3,6,10,-4,1,indonesia
+TIRA Persikabo,4,0,2,2,5,8,-3,2,indonesia
 Bhayangkara S.,4,0,1,3,3,7,-4,1,indonesia
+Persebaya S.,4,0,1,3,4,11,-7,1,indonesia
 Sepahan,4,4,0,0,10,2,8,12,iran
+Esteghlal,4,4,0,0,6,2,4,12,iran
 Persepolis,4,3,1,0,7,2,5,10,iran
-Tractor Sazi,4,3,0,1,8,3,5,9,iran
-Esteghlal,4,3,0,1,5,3,2,9,iran
+Zob Ahan,4,3,0,1,6,4,2,9,iran
 Malavan,4,2,2,0,5,2,3,8,iran
-Zob Ahan,4,2,1,1,5,4,1,7,iran
-Shams A. Qazvin,4,2,0,2,7,6,1,6,iran
+Tractor Sazi,4,2,0,2,7,4,3,6,iran
 Mes Rafsanjan,4,2,0,2,4,3,1,6,iran
-Aluminium Arak,4,2,0,2,3,6,-3,6,iran
-Foolad,4,2,0,2,2,6,-4,6,iran
+Shams A. Qazvin,4,2,0,2,5,6,-1,6,iran
+Foolad,4,2,0,2,2,3,-1,6,iran
 Gol Gohar,4,1,2,1,2,2,0,5,iran
 N. Mazandaran,4,1,0,3,3,4,-1,3,iran
 Paykan,4,1,0,3,3,8,-5,3,iran
+Aluminium Arak,4,1,0,3,1,7,-6,3,iran
 Sanat Naft,4,0,2,2,4,9,-5,2,iran
 Havadar,4,0,1,3,2,5,-3,1,iran
 E. Khuzestan,4,0,0,4,1,5,-4,0,iran
+Al Kahrabaa,1,1,0,0,3,1,2,3,iraq
+Duhok,1,1,0,0,2,0,2,3,iraq
 Newroz SC,1,1,0,0,2,0,2,3,iraq
 Al Hudod,1,1,0,0,2,1,1,3,iraq
+Al Quwa Al J.,1,1,0,0,2,1,1,3,iraq
 Al-Qasim,1,1,0,0,1,0,1,3,iraq
+Karbala,1,0,1,0,2,2,0,1,iraq
+Naft Al-Wasat,1,0,1,0,2,2,0,1,iraq
+Al Naft,1,0,1,0,1,1,0,1,iraq
+Erbil,1,0,1,0,1,1,0,1,iraq
 Al Najaf,1,0,1,0,0,0,0,1,iraq
 Naft Maysan,1,0,1,0,0,0,0,1,iraq
-Al Kahrabaa,0,0,0,0,0,0,0,0,iraq
 Al Karkh,0,0,0,0,0,0,0,0,iraq
-Al Minaa Basra,0,0,0,0,0,0,0,0,iraq
-Al Naft,0,0,0,0,0,0,0,0,iraq
-Al Quwa Al J.,0,0,0,0,0,0,0,0,iraq
-Al Shorta,0,0,0,0,0,0,0,0,iraq
 Al Talaba,0,0,0,0,0,0,0,0,iraq
-Duhok,0,0,0,0,0,0,0,0,iraq
-Erbil,0,0,0,0,0,0,0,0,iraq
-Karbala,0,0,0,0,0,0,0,0,iraq
-Naft Al-Wasat,0,0,0,0,0,0,0,0,iraq
-Zakho,0,0,0,0,0,0,0,0,iraq
 Naft Al-Janoob,1,0,0,1,1,2,-1,0,iraq
+Zakho,1,0,0,1,1,2,-1,0,iraq
 Baghdad,1,0,0,1,0,1,-1,0,iraq
+Al Minaa Basra,1,0,0,1,1,3,-2,0,iraq
+Al Shorta,1,0,0,1,0,2,-2,0,iraq
 Al Zawraa,1,0,0,1,0,2,-2,0,iraq
-Dundalk,4,3,0,1,10,2,8,9,ireland
-St. Patricks,4,3,0,1,5,2,3,9,ireland
-Shamrock Rovers,4,2,2,0,7,1,6,8,ireland
-Bohemians,4,2,1,1,6,5,1,7,ireland
-Derry City,4,1,2,1,6,1,5,5,ireland
-Shelbourne,4,1,2,1,2,2,0,5,ireland
+Shamrock Rovers,4,3,1,0,8,0,8,10,ireland
+Dundalk,4,3,0,1,7,2,5,9,ireland
+St. Patricks,4,3,0,1,4,2,2,9,ireland
+Derry City,4,2,2,0,7,0,7,8,ireland
+Shelbourne,4,2,1,1,4,3,1,7,ireland
+Bohemians,4,2,0,2,5,6,-1,6,ireland
 Drogheda Utd,4,1,1,2,3,9,-6,4,ireland
 Sligo Rovers,4,1,0,3,2,6,-4,3,ireland
-Cork City,4,1,0,3,3,8,-5,3,ireland
-UC Dublin,4,0,1,3,1,10,-9,1,ireland
+Cork City,4,1,0,3,2,7,-5,3,ireland
+UC Dublin,4,0,0,4,3,13,-10,0,ireland
 Galway Utd,4,4,0,0,15,2,13,12,ireland2
 Bray Wanderers,4,2,2,0,6,4,2,8,ireland2
 Finn Harps,4,2,1,1,7,5,2,7,ireland2
@@ -1046,8 +1046,8 @@ Fiorentina,4,2,1,1,7,4,3,7,italy
 Monza,4,2,1,1,4,1,3,7,italy
 Atalanta,4,2,1,1,5,3,2,7,italy
 Empoli,4,2,1,1,3,3,0,7,italy
-Genoa,4,1,1,2,6,6,0,4,italy
 Frosinone,4,1,1,2,4,6,-2,4,italy
+Genoa,4,1,1,2,3,5,-2,4,italy
 Sassuolo,4,1,1,2,3,5,-2,4,italy
 Udinese,4,0,3,1,4,7,-3,3,italy
 Lecce,4,0,2,2,2,7,-5,2,italy
@@ -1063,11 +1063,11 @@ Cosenza,4,2,0,2,6,5,1,6,italy2
 Cremonese,4,2,0,2,6,5,1,6,italy2
 Spezia,4,1,3,0,4,3,1,6,italy2
 Venezia,4,2,0,2,7,7,0,6,italy2
-Cittadella,4,1,2,1,6,6,0,5,italy2
 Brescia,4,1,2,1,3,3,0,5,italy2
 Reggiana,4,1,2,1,2,4,-2,5,italy2
 Ternana,4,1,1,2,5,5,0,4,italy2
 Sampdoria,4,1,1,2,4,4,0,4,italy2
+Cittadella,4,1,1,2,6,7,-1,4,italy2
 Pisa,4,1,1,2,4,5,-1,4,italy2
 Sudtirol,4,1,1,2,2,3,-1,4,italy2
 Como,4,1,1,2,4,6,-2,4,italy2
@@ -1089,43 +1089,43 @@ Montego Bay,4,1,0,3,5,9,-4,3,jamaica
 Faulkland,4,0,2,2,6,9,-3,2,jamaica
 Vere Utd,4,0,2,2,2,9,-7,2,jamaica
 Chapelton,4,0,1,3,5,22,-17,1,jamaica
+Vissel Kobe,4,3,1,0,7,2,5,10,japan
+Albirex Niigata,4,3,1,0,8,4,4,10,japan
+Yokohama M.,4,3,0,1,10,4,6,9,japan
 K. Frontale,4,3,0,1,9,5,4,9,japan
-Vissel Kobe,4,3,0,1,6,3,3,9,japan
-Shonan Bellmare,4,3,0,1,4,2,2,9,japan
 Urawa RD,4,2,2,0,6,2,4,8,japan
-Albirex Niigata,4,2,2,0,8,5,3,8,japan
 S. Hiroshima,4,2,1,1,5,2,3,7,japan
-Yokohama M.,4,2,1,1,7,5,2,7,japan
-Avispa Fukuoka,4,2,1,1,6,5,1,7,japan
+Shonan Bellmare,4,2,1,1,4,3,1,7,japan
 FC Tokyo,4,2,0,2,6,4,2,6,japan
 Kashiwa Reysol,4,2,0,2,5,7,-2,6,japan
 Sagan Tosu,4,1,2,1,7,7,0,5,japan
-Kyoto Sanga,4,1,1,2,3,4,-1,4,japan
+Nagoya G.,4,1,2,1,4,5,-1,5,japan
 Yokohama FC,4,1,1,2,4,6,-2,4,japan
-Kashima Antlers,4,1,1,2,3,5,-2,4,japan
-Nagoya G.,4,1,1,2,3,5,-2,4,japan
-Cerezo Osaka,4,0,1,3,0,4,-4,1,japan
-C. Sapporo,4,0,1,3,3,8,-5,1,japan
-Gamba Osaka,4,0,1,3,2,8,-6,1,japan
+Cerezo Osaka,4,1,1,2,1,3,-2,4,japan
+C. Sapporo,4,1,1,2,5,8,-3,4,japan
+Avispa Fukuoka,4,1,1,2,5,9,-4,4,japan
+Kyoto Sanga,4,1,0,3,3,5,-2,3,japan
+Kashima Antlers,4,0,2,2,2,5,-3,2,japan
+Gamba Osaka,4,0,0,4,1,8,-7,0,japan
 Omiya Ardija,4,4,0,0,7,3,4,12,japan2
-Tokyo Verdy,4,2,2,0,6,4,2,8,japan2
+Tokyo Verdy,4,2,2,0,5,3,2,8,japan2
+Vegalta Sendai,4,2,2,0,5,3,2,8,japan2
 JEF Utd Chiba,4,2,1,1,11,5,6,7,japan2
-Shimizu S-Pulse,4,2,1,1,8,3,5,7,japan2
 Machida Zelvia,4,2,1,1,10,7,3,7,japan2
+Jubilo Iwata,4,2,1,1,5,2,3,7,japan2
 M. Yamagata,4,2,1,1,4,2,2,7,japan2
-R. Yamaguchi,4,2,1,1,7,6,1,7,japan2
-Vegalta Sendai,4,2,1,1,5,5,0,7,japan2
 Iwaki,4,2,1,1,7,11,-4,7,japan2
-Jubilo Iwata,4,2,0,2,5,3,2,6,japan2
-Fujieda MYFC,4,2,0,2,10,9,1,6,japan2
+Shimizu S-Pulse,4,2,0,2,9,6,3,6,japan2
 Ventforet Kofu,4,1,3,0,6,5,1,6,japan2
 Blaublitz Akita,4,2,0,2,5,4,1,6,japan2
-R. Kumamoto,4,2,0,2,4,4,0,6,japan2
+Fujieda MYFC,4,2,0,2,9,9,0,6,japan2
+R. Kumamoto,4,2,0,2,4,5,-1,6,japan2
+Tokushima V.,4,2,0,2,3,5,-2,6,japan2
+R. Yamaguchi,4,1,2,1,7,7,0,5,japan2
 Kusatsu,4,1,2,1,3,6,-3,5,japan2
 Fagiano Okayama,4,1,2,1,4,8,-4,5,japan2
+V-V. Nagasaki,4,1,1,2,7,5,2,4,japan2
 Oita Trinita,4,1,1,2,2,3,-1,4,japan2
-V-V. Nagasaki,4,1,1,2,6,9,-3,4,japan2
-Tokushima V.,4,1,0,3,1,5,-4,3,japan2
 Mito Hollyhock,4,0,1,3,3,6,-3,1,japan2
 Z. Kanazawa,4,0,1,3,3,7,-4,1,japan2
 Tochigi SC,4,0,1,3,2,8,-6,1,japan2
@@ -1133,14 +1133,14 @@ Al Hussein,4,4,0,0,9,0,9,12,jordan
 Al Wihdat,4,3,1,0,7,4,3,10,jordan
 Al Faysali,4,3,0,1,9,5,4,9,jordan
 Moghayer Al S.,4,2,1,1,6,4,2,7,jordan
+Al Salt,4,2,1,1,5,3,2,7,jordan
 Al Ramtha,4,2,0,2,8,3,5,6,jordan
 Shabab Al Ordon,4,2,0,2,4,4,0,6,jordan
-Al Salt,4,2,0,2,3,4,-1,6,jordan
 Al Ahli,4,1,1,2,5,6,-1,4,jordan
 Aqaba,4,1,1,2,4,9,-5,4,jordan
 Al Jalil,4,0,3,1,3,4,-1,3,jordan
 Sahab,4,0,2,2,5,11,-6,2,jordan
-Maan,4,0,1,3,2,9,-7,1,jordan
+Maan,4,0,1,3,3,10,-7,1,jordan
 FC Astana,4,3,0,1,9,6,3,9,kazakhstan
 Ordabasy,4,3,0,1,7,4,3,9,kazakhstan
 Kairat Almaty,4,2,2,0,7,3,4,8,kazakhstan
@@ -1169,10 +1169,10 @@ Al Kuwait,4,3,1,0,12,4,8,10,kuwait
 Al Qadsia,4,3,1,0,7,2,5,10,kuwait
 Al Arabi SC,4,2,2,0,8,3,5,8,kuwait
 Al Nasar,4,2,0,2,8,4,4,6,kuwait
-Al Salmiyah,4,2,0,2,6,7,-1,6,kuwait
+Al Salmiyah,4,2,0,2,5,6,-1,6,kuwait
 Kazma,4,2,0,2,7,9,-2,6,kuwait
 Khaitan,4,1,1,2,4,7,-3,4,kuwait
-Al Shabab,4,1,1,2,4,10,-6,4,kuwait
+Al Shabab,4,1,0,3,4,11,-7,3,kuwait
 Al Jahra,4,0,1,3,3,6,-3,1,kuwait
 Al Fahaheel,4,0,1,3,1,8,-7,1,kuwait
 Riga FC,4,4,0,0,10,1,9,12,latvia
@@ -1198,17 +1198,17 @@ FA Siauliai,4,0,2,2,3,7,-4,2,lithuania
 Ekranas,4,3,0,1,9,6,3,9,lithuania2
 Neptuna K.,4,2,2,0,11,3,8,8,lithuania2
 BFA Vilnius,4,2,2,0,10,5,5,8,lithuania2
-Be1 NFA,4,2,2,0,6,2,4,8,lithuania2
+Be1 NFA,4,2,2,0,7,3,4,8,lithuania2
 Garliava,4,2,2,0,6,3,3,8,lithuania2
 TransINVEST,4,2,1,1,12,6,6,7,lithuania2
 Nevezis,4,2,1,1,7,5,2,7,lithuania2
+Kauno Z. B,4,2,1,1,4,2,2,7,lithuania2
+Riteriai B,4,2,1,1,7,7,0,7,lithuania2
 Minija,4,2,0,2,8,7,1,6,lithuania2
-Kauno Z. B,4,1,2,1,5,4,1,5,lithuania2
 FA Siauliai B,4,1,2,1,8,8,0,5,lithuania2
-Riteriai B,4,1,2,1,5,6,-1,5,lithuania2
-Panevezys B,4,1,1,2,5,6,-1,4,lithuania2
-Jonava,4,1,0,3,7,9,-2,3,lithuania2
-Babrungas,4,1,0,3,4,12,-8,3,lithuania2
+Panevezys B,4,1,0,3,4,6,-2,3,lithuania2
+Jonava,4,1,0,3,5,9,-4,3,lithuania2
+Babrungas,4,1,0,3,5,13,-8,3,lithuania2
 Zalgiris B,4,0,2,2,5,9,-4,2,lithuania2
 Marijampole C.,4,0,0,4,0,12,-12,0,lithuania2
 Hesperang,4,3,1,0,10,1,9,10,luxembourg
@@ -1233,9 +1233,9 @@ Kedah,4,3,1,0,8,4,4,10,malaysia
 Terengganu,4,3,0,1,14,5,9,9,malaysia
 Pahang,4,3,0,1,9,5,4,9,malaysia
 Sabah,4,3,0,1,9,9,0,9,malaysia
+PDRM,4,2,1,1,6,5,1,7,malaysia
 Kelantan United,4,2,0,2,5,10,-5,6,malaysia
 Perak,4,2,0,2,4,10,-6,6,malaysia
-PDRM,4,1,2,1,6,7,-1,5,malaysia
 Kuala Lumpur,4,1,0,3,6,6,0,3,malaysia
 Kelantan,4,1,0,3,5,24,-19,3,malaysia
 Kuching,4,0,1,3,4,8,-4,1,malaysia
@@ -1272,17 +1272,17 @@ Tigres,4,2,2,0,8,6,2,8,mexico
 Guadalajara,4,2,1,1,8,5,3,7,mexico
 Puebla,4,2,1,1,6,6,0,7,mexico
 Pumas UNAM,4,2,0,2,8,3,5,6,mexico
-Mazatlan,4,2,0,2,9,7,2,6,mexico
+Mazatlan,4,2,0,2,9,6,3,6,mexico
 Cruz Azul,4,2,0,2,7,8,-1,6,mexico
 Toluca,4,1,2,1,6,5,1,5,mexico
 Pachuca,4,1,2,1,3,6,-3,5,mexico
-Queretaro,4,1,1,2,3,8,-5,4,mexico
 A. San Luis,4,1,0,3,8,7,1,3,mexico
 Tijuana,4,1,0,3,4,7,-3,3,mexico
 Santos Laguna,4,1,0,3,7,12,-5,3,mexico
 Juarez,4,1,0,3,5,11,-6,3,mexico
+Necaxa,4,1,0,3,3,9,-6,3,mexico
+Queretaro,4,1,0,3,2,10,-8,3,mexico
 Atlas,4,0,1,3,5,11,-6,1,mexico
-Necaxa,4,0,1,3,3,10,-7,1,mexico
 Guadalajara,4,4,0,0,9,2,7,12,mexico2
 CF America,4,3,1,0,7,3,4,10,mexico2
 Pachuca,4,3,0,1,8,6,2,9,mexico2
@@ -1322,15 +1322,15 @@ Rudar,4,1,1,2,3,6,-3,4,montenegro
 Jedinstvo,4,0,1,3,4,8,-4,1,montenegro
 Mladost DG,4,0,1,3,4,10,-6,1,montenegro
 Wydad,4,3,1,0,7,1,6,10,morocco
+FUS Rabat,4,3,0,1,7,3,4,9,morocco
 Moghreb Tetouan,4,3,0,1,5,2,3,9,morocco
 Maghreb de Fes,4,2,2,0,8,3,5,8,morocco
 Berkane,4,2,2,0,6,2,4,8,morocco
 Raja Casablanca,4,2,2,0,4,2,2,8,morocco
 FAR Rabat,4,2,1,1,7,3,4,7,morocco
-FUS Rabat,4,2,1,1,6,3,3,7,morocco
-C. Mohammedia,4,2,1,1,4,2,2,7,morocco
 Olympic Safi,4,1,2,1,3,3,0,5,morocco
 Ittihad Tanger,4,1,2,1,5,7,-2,5,morocco
+C. Mohammedia,4,1,1,2,3,3,0,4,morocco
 Union Touarga,4,1,1,2,5,7,-2,4,morocco
 R. Zemamra,4,1,1,2,6,9,-3,4,morocco
 Mouloudia Oujda,4,0,2,2,2,7,-5,2,morocco
@@ -1356,15 +1356,15 @@ AS Salé,4,0,1,3,3,8,-5,1,morocco2
 Shan Utd,4,4,0,0,17,3,14,12,myanmar
 Yangon Utd,4,3,1,0,8,3,5,10,myanmar
 Hantharwady,4,3,0,1,9,5,4,9,myanmar
-Sagaing Utd,4,1,3,0,5,3,2,6,myanmar
 Myawady,4,2,0,2,5,8,-3,6,myanmar
+Ispe FC,4,1,2,1,7,6,1,5,myanmar
 Yadanarbon,4,1,2,1,4,3,1,5,myanmar
 Dagon,4,1,2,1,3,4,-1,5,myanmar
-Ispe FC,4,1,1,2,9,9,0,4,myanmar
+Sagaing Utd,4,0,4,0,2,2,0,4,myanmar
 Rakhine Utd,4,1,1,2,7,9,-2,4,myanmar
 Ayeyawady,4,1,1,2,5,9,-4,4,myanmar
-Chinland,4,0,1,3,4,13,-9,1,myanmar
-Kachin Utd,4,0,0,4,4,11,-7,0,myanmar
+Chinland,4,1,1,2,5,11,-6,4,myanmar
+Kachin Utd,4,0,0,4,3,9,-6,0,myanmar
 Feyenoord,4,4,0,0,13,1,12,12,netherlands
 PSV Eindhoven,4,4,0,0,13,2,11,12,netherlands
 AZ Alkmaar,4,3,1,0,10,2,8,10,netherlands
@@ -1373,45 +1373,45 @@ RKC Waalwijk,4,3,0,1,5,2,3,9,netherlands
 Excelsior,4,2,1,1,7,5,2,7,netherlands
 Almere City,4,2,1,1,4,5,-1,7,netherlands
 NEC Nijmegen,4,1,2,1,6,5,1,5,netherlands
+Vitesse Arnhem,4,1,2,1,4,6,-2,5,netherlands
 Heracles Almelo,4,1,2,1,5,8,-3,5,netherlands
+PEC Zwolle,4,1,1,2,6,7,-1,4,netherlands
 Go Ahead Eagles,4,1,1,2,5,6,-1,4,netherlands
 FC Volendam,4,1,1,2,5,7,-2,4,netherlands
-Vitesse Arnhem,4,1,1,2,3,6,-3,4,netherlands
 Sparta,4,1,1,2,2,6,-4,4,netherlands
-PEC Zwolle,4,1,0,3,5,9,-4,3,netherlands
 FC Utrecht,4,1,0,3,4,9,-5,3,netherlands
 Heerenveen,4,0,1,3,1,8,-7,1,netherlands
 Ajax Amsterdam,4,0,0,4,5,13,-8,0,netherlands
 Fortuna Sittard,4,0,0,4,1,13,-12,0,netherlands
-Willem II,4,4,0,0,10,4,6,12,netherlands2
-Helmond Sport,4,3,1,0,11,2,9,10,netherlands2
-ADO Den Haag,4,3,1,0,8,3,5,10,netherlands2
+Willem II,4,4,0,0,11,3,8,12,netherlands2
+FC Dordrecht,4,3,1,0,15,4,11,10,netherlands2
 NAC Breda,4,3,1,0,10,6,4,10,netherlands2
-FC Eindhoven,4,3,0,1,7,5,2,9,netherlands2
-FC Dordrecht,4,2,2,0,11,4,7,8,netherlands2
-FC Emmen,4,2,1,1,5,3,2,7,netherlands2
-Jong AZ,4,2,0,2,7,5,2,6,netherlands2
-Telstar,4,2,0,2,6,8,-2,6,netherlands2
-Roda JC,4,1,2,1,4,3,1,5,netherlands2
-Jong PSV,4,1,1,2,9,10,-1,4,netherlands2
+Helmond Sport,4,2,2,0,8,3,5,8,netherlands2
+ADO Den Haag,4,2,2,0,7,5,2,8,netherlands2
+FC Emmen,4,2,1,1,6,4,2,7,netherlands2
+Roda JC,4,2,1,1,6,4,2,7,netherlands2
+Jong AZ,4,2,0,2,8,5,3,6,netherlands2
+FC Eindhoven,4,2,0,2,7,7,0,6,netherlands2
+Telstar,4,2,0,2,4,6,-2,6,netherlands2
+De Graafschap,4,2,0,2,6,9,-3,6,netherlands2
+VVV,4,1,2,1,5,7,-2,5,netherlands2
 MVV Maastricht,4,1,1,2,5,6,-1,4,netherlands2
-Jong Ajax,4,1,1,2,5,7,-2,4,netherlands2
-De Graafschap,4,1,1,2,4,8,-4,4,netherlands2
+Jong Ajax,4,1,1,2,4,6,-2,4,netherlands2
 Jong Utrecht,4,1,1,2,4,9,-5,4,netherlands2
-VVV,4,1,1,2,3,9,-6,4,netherlands2
-FC Den Bosch,4,1,0,3,5,6,-1,3,netherlands2
-TOP Oss,4,1,0,3,4,7,-3,3,netherlands2
+TOP Oss,4,1,0,3,3,6,-3,3,netherlands2
+Jong PSV,4,1,0,3,9,13,-4,3,netherlands2
 Cambuur,4,0,1,3,8,13,-5,1,netherlands2
 FC Groningen,4,0,1,3,3,8,-5,1,netherlands2
+FC Den Bosch,4,0,0,4,3,11,-8,0,netherlands2
 UNAN Managua,4,3,0,1,9,3,6,9,nicaragua
 Real Esteli,4,3,0,1,8,3,5,9,nicaragua
 Diriangen,4,3,0,1,5,3,2,9,nicaragua
-Jalapa,4,2,1,1,8,5,3,7,nicaragua
+Jalapa,4,2,1,1,9,6,3,7,nicaragua
+Export Sebaco,4,2,1,1,4,7,-3,7,nicaragua
 O. Masachapa,4,2,0,2,7,8,-1,6,nicaragua
-Export Sebaco,4,1,2,1,4,8,-4,5,nicaragua
-Managua FC,4,1,1,2,8,6,2,4,nicaragua
+Managua FC,4,1,2,1,8,5,3,5,nicaragua
 D. Ocotal,4,1,0,3,5,8,-3,3,nicaragua
-Walter Ferreti,4,1,0,3,5,10,-5,3,nicaragua
+Walter Ferreti,4,1,0,3,4,9,-5,3,nicaragua
 Matagalpa,4,1,0,3,3,8,-5,3,nicaragua
 Remo Stars,4,3,1,0,8,2,6,10,nigeria
 Akwa Utd,4,3,0,1,6,2,4,9,nigeria
@@ -1504,12 +1504,12 @@ Jerv,4,0,1,3,5,11,-6,1,norway2
 Al-Nahda,4,3,1,0,9,5,4,10,oman
 Oman Club,4,3,1,0,4,1,3,10,oman
 Al Seeb,4,2,2,0,7,2,5,8,oman
-Al-Shabab Club,4,2,1,1,7,6,1,7,oman
+Sohar,4,2,1,1,6,3,3,7,oman
 Ibri,4,2,0,2,5,3,2,6,oman
 Al Wehda,4,2,0,2,2,6,-4,6,oman
-Sohar,4,1,2,1,5,3,2,5,oman
 Al Nasr,4,1,2,1,5,4,1,5,oman
 Sur,4,1,1,2,6,6,0,4,oman
+Al-Shabab Club,4,1,1,2,5,6,-1,4,oman
 Al-Rustaq,4,1,1,2,4,5,-1,4,oman
 Dhofar,4,0,1,3,4,9,-5,1,oman
 Bahla,4,0,0,4,1,9,-8,0,oman
@@ -1553,14 +1553,14 @@ Nacional,4,3,1,0,8,0,8,10,paraguay2
 Cerro Porteno,4,3,1,0,13,6,7,10,paraguay2
 S. Luqueno,4,3,1,0,4,0,4,10,paraguay2
 Libertad,4,2,2,0,8,1,7,8,paraguay2
-G. Caballero,4,1,2,1,4,2,2,5,paraguay2
 Olimpia,4,1,2,1,3,3,0,5,paraguay2
 S. Trinidense,4,1,1,2,8,11,-3,4,paraguay2
 Guairena,4,1,1,2,4,7,-3,4,paraguay2
 Guarani,4,1,1,2,2,5,-3,4,paraguay2
+Tacuary,4,1,0,3,5,7,-2,3,paraguay2
 S. Ameliano,4,1,0,3,4,9,-5,3,paraguay2
+G. Caballero,4,0,2,2,1,5,-4,2,paraguay2
 Resistencia,4,0,2,2,2,8,-6,2,paraguay2
-Tacuary,4,0,0,4,2,10,-8,0,paraguay2
 S. Cristal,4,3,1,0,9,5,4,10,peru
 FBC Melgar,4,3,1,0,8,5,3,10,peru
 Sport Boys,4,3,0,1,6,4,2,9,peru
@@ -1622,49 +1622,49 @@ Maharlika,4,1,0,3,5,8,-3,3,philippines
 Azkals,4,0,0,4,0,12,-12,0,philippines
 Jagiellonia,4,3,1,0,12,5,7,10,poland
 Slask Wroclaw,4,3,1,0,7,1,6,10,poland
+Korona Kielce,4,2,2,0,10,7,3,8,poland
 Pogon Szczecin,4,2,1,1,11,4,7,7,poland
+Gornik Zabrze,4,2,1,1,8,4,4,7,poland
 Widzew Lodz,4,2,1,1,6,4,2,7,poland
 Lech Poznan,4,2,1,1,10,10,0,7,poland
 Zaglebie Lubin,4,2,1,1,4,4,0,7,poland
-Korona Kielce,4,1,3,0,6,5,1,6,poland
 Rakow C.,4,2,0,2,7,7,0,6,poland
 Radomiak Radom,4,1,2,1,5,5,0,5,poland
 Piast Gliwice,4,1,2,1,4,4,0,5,poland
 Warta Poznan,4,1,1,2,2,3,-1,4,poland
-Gornik Zabrze,4,1,1,2,4,6,-2,4,poland
 Cracovia Krakow,4,1,1,2,6,10,-4,4,poland
-Puszcza Niepolo,4,0,3,1,5,8,-3,3,poland
 Legia Warsaw,4,1,0,3,5,11,-6,3,poland
+Puszcza Niepolo,4,0,2,2,7,12,-5,2,poland
 Ruch Chorzow,4,0,1,3,5,11,-6,1,poland
-LKS Lodz,4,0,1,3,3,10,-7,1,poland
 Stal Mielec,4,0,0,4,3,7,-4,0,poland
-Wisla Krakow,4,3,1,0,14,4,10,10,poland2
+LKS Lodz,4,0,0,4,1,13,-12,0,poland
+Polonia Warszaw,4,3,1,0,7,1,6,10,poland2
 Odra Opole,4,3,1,0,5,2,3,10,poland2
 Stal Rzeszow,4,3,1,0,5,2,3,10,poland2
 Arka Gdynia,4,3,0,1,7,1,6,9,poland2
+Wisla Krakow,4,2,1,1,11,5,6,7,poland2
 Miedz Legnica,4,2,1,1,9,4,5,7,poland2
-Polonia Warszaw,4,2,1,1,5,2,3,7,poland2
 Lechia Gdansk,4,1,3,0,6,2,4,6,poland2
 Tychy,4,2,0,2,6,7,-1,6,poland2
 T. Nieciecza,4,1,2,1,4,3,1,5,poland2
-Chrobry Glogow,4,1,2,1,2,2,0,5,poland2
 Gornik Leczna,4,0,4,0,4,4,0,4,poland2
 Resovia Rzeszow,4,1,1,2,5,7,-2,4,poland2
-Wisla Plock,4,1,1,2,4,8,-4,4,poland2
+Wisla Plock,4,1,1,2,2,8,-6,4,poland2
+Podbeskidzie,4,1,0,3,2,7,-5,3,poland2
 Motor Lublin,4,1,0,3,3,9,-6,3,poland2
+Chrobry Glogow,4,0,2,2,2,4,-2,2,poland2
+Katowice,4,0,2,2,1,4,-3,2,poland2
 Z. Sosnowiec,4,0,2,2,2,6,-4,2,poland2
-Katowice,4,0,2,2,2,7,-5,2,poland2
-Podbeskidzie,4,0,1,3,1,7,-6,1,poland2
 Znicz Pruszkow,4,0,0,4,4,12,-8,0,poland2
 Pogon Siedlce,4,4,0,0,9,5,4,12,poland3
 Chojniczanka,4,3,1,0,6,2,4,10,poland3
+Stalowa Wola,4,3,0,1,7,3,4,9,poland3
 K. Kolobrzeg,4,3,0,1,8,6,2,9,poland3
 Kalisz,4,2,2,0,4,1,3,8,poland3
-SKRA Czestochow,4,2,1,1,8,4,4,7,poland3
 Radunia Stezyca,4,2,1,1,6,3,3,7,poland3
-Stalowa Wola,4,2,1,1,5,2,3,7,poland3
 Stomil Olsztyn,4,2,1,1,7,6,1,7,poland3
 Sandecja Nowy,4,2,1,1,6,6,0,7,poland3
+SKRA Czestochow,4,2,0,2,9,6,3,6,poland3
 Hutnik Krakow,4,2,0,2,3,4,-1,6,poland3
 LKS Lodz B,4,1,1,2,7,7,0,4,poland3
 Polonia Bytom,4,1,1,2,6,7,-1,4,poland3
@@ -1676,10 +1676,10 @@ Zaglebie L. B,4,0,1,3,3,8,-5,1,poland3
 Lech Poznan B,4,0,1,3,4,10,-6,1,poland3
 Sporting CP,4,4,0,0,10,3,7,12,portugal
 Benfica,4,4,0,0,7,2,5,12,portugal
+Moreirense,4,3,1,0,7,1,6,10,portugal
 Sporting Braga,4,3,0,1,11,7,4,9,portugal
 FC Porto,4,3,0,1,4,2,2,9,portugal
 Guimaraes,4,2,1,1,7,5,2,7,portugal
-Moreirense,4,2,1,1,6,4,2,7,portugal
 Chaves,4,2,1,1,9,8,1,7,portugal
 Gil Vicente,4,2,0,2,10,9,1,6,portugal
 Portimonense,4,2,0,2,6,7,-1,6,portugal
@@ -1710,20 +1710,19 @@ Rapid Bucharest,4,2,2,0,9,6,3,8,romania
 Farul Constanta,4,2,2,0,6,4,2,8,romania
 Otelul,4,2,1,1,3,1,2,7,romania
 Hermannstadt,4,1,3,0,6,2,4,6,romania
+Sepsi OSK,4,2,0,2,7,4,3,6,romania
 Petrolul,4,1,3,0,3,1,2,6,romania
 U. Cluj,4,1,3,0,5,4,1,6,romania
 Univ. Craiova,4,1,2,1,7,5,2,5,romania
 P. Iasi,4,1,2,1,4,4,0,5,romania
 UTA Arad,4,0,4,0,4,4,0,4,romania
-Voluntari,4,0,3,1,1,2,-1,3,romania
-Sepsi OSK,4,1,0,3,5,7,-2,3,romania
+Voluntari,4,0,3,1,0,2,-2,3,romania
 U Craiova 1948,4,0,2,2,2,6,-4,2,romania
-Din. Bucharest,4,0,1,3,1,8,-7,1,romania
+Din. Bucharest,4,0,2,2,1,6,-5,2,romania
 Botosani,4,0,1,3,5,13,-8,1,romania
 FC Krasnodar,4,3,1,0,9,4,5,10,russia
 Lokomotiv M.,4,2,2,0,5,3,2,8,russia
 Fakel Voronezh,4,2,1,1,4,2,2,7,russia
-Baltika,4,2,1,1,4,3,1,7,russia
 Rubin Kazan,4,2,1,1,2,2,0,7,russia
 Spartak Moscow,4,2,1,1,5,6,-1,7,russia
 Krylya Sovetov,4,2,0,2,7,6,1,6,russia
@@ -1731,6 +1730,7 @@ Zenit,4,2,0,2,7,6,1,6,russia
 CSKA Moscow,4,1,3,0,6,5,1,6,russia
 Nizhny Novgorod,4,2,0,2,5,4,1,6,russia
 Rostov,4,1,2,1,10,8,2,5,russia
+Baltika,4,1,1,2,3,4,-1,4,russia
 Dinamo Moscow,4,0,3,1,1,2,-1,3,russia
 Orenburg,4,1,0,3,5,7,-2,3,russia
 PFC Sochi,4,1,0,3,5,7,-2,3,russia
@@ -1738,40 +1738,40 @@ Ural,4,0,2,2,5,10,-5,2,russia
 Akhmat Grozny,4,0,1,3,1,6,-5,1,russia
 Tyumen,4,3,1,0,4,1,3,10,russia2
 Akron,4,3,0,1,5,3,2,9,russia2
-Arsenal Tula,4,2,2,0,7,2,5,8,russia2
+Arsenal Tula,4,2,2,0,8,3,5,8,russia2
 Khimki,4,2,2,0,7,4,3,8,russia2
 Neftekhimik,4,2,2,0,6,3,3,8,russia2
 V. Astrakhan,4,2,1,1,4,3,1,7,russia2
 Makhachkala,4,2,1,1,2,1,1,7,russia2
 Urozhay,4,2,0,2,4,6,-2,6,russia2
-A. Vladikavkaz,4,1,2,1,3,3,0,5,russia2
+A. Vladikavkaz,4,1,2,1,4,4,0,5,russia2
 Kamaz,4,1,1,2,7,5,2,4,russia2
 Yenisey,4,1,1,2,6,6,0,4,russia2
 Torpedo Moscow,4,1,1,2,5,5,0,4,russia2
 Chernomorets,4,1,1,2,2,3,-1,4,russia2
 Rodina Moskva,4,1,1,2,1,2,-1,4,russia2
-SKA Khabarovsk,4,1,1,2,3,5,-2,4,russia2
-Leningradets,4,1,0,3,4,6,-2,3,russia2
+SKA Khabarovsk,4,1,1,2,3,6,-3,4,russia2
 Sokol Saratov,4,0,2,2,5,10,-5,2,russia2
 Shinnik,4,0,1,3,3,10,-7,1,russia2
-Al Hilal,4,3,1,0,7,1,6,10,saudiarabia
+Leningradets,4,0,0,4,2,6,-4,0,russia2
+Al Fateh,4,4,0,0,13,4,9,12,saudiarabia
+Al Hilal,4,4,0,0,9,1,8,12,saudiarabia
 Al Nassr,4,3,1,0,10,7,3,10,saudiarabia
-Al Fateh,4,3,0,1,12,5,7,9,saudiarabia
 Damak,4,3,0,1,9,3,6,9,saudiarabia
 Al Taawon,4,2,2,0,8,3,5,8,saudiarabia
 Al Feiha,4,2,2,0,6,3,3,8,saudiarabia
 Al Shabab,4,2,1,1,8,5,3,7,saudiarabia
-Al Ahli Jeddah,4,2,1,1,7,5,2,7,saudiarabia
-Al Riyadh,4,2,1,1,5,5,0,7,saudiarabia
+Al Riyadh,4,2,1,1,6,5,1,7,saudiarabia
+Al Ahli Jeddah,4,2,1,1,5,4,1,7,saudiarabia
 Al Ittifaq,4,1,1,2,5,6,-1,4,saudiarabia
 Al Wahda,4,1,1,2,7,9,-2,4,saudiarabia
 Al Hazm,4,1,1,2,8,12,-4,4,saudiarabia
 Al Ittihad,4,0,3,1,3,4,-1,3,saudiarabia
+Al Tai,4,1,0,3,4,9,-5,3,saudiarabia
 Al Akhdoud,4,1,0,3,3,8,-5,3,saudiarabia
 Al Khaleej,4,0,2,2,1,4,-3,2,saudiarabia
 Al Raed,4,0,1,3,5,8,-3,1,saudiarabia
 Abha,4,0,1,3,3,11,-8,1,saudiarabia
-Al Tai,4,0,0,4,4,11,-7,0,saudiarabia
 Al Orubah,4,4,0,0,8,2,6,12,saudiarabia2
 Al Quadisiya,4,3,1,0,5,1,4,10,saudiarabia2
 Al Adalh,4,3,0,1,10,7,3,9,saudiarabia2
@@ -1836,27 +1836,27 @@ Partizan,4,4,0,0,11,0,11,12,serbia
 Vojvodina,4,3,0,1,8,5,3,9,serbia
 Red Star,4,3,0,1,9,7,2,9,serbia
 Cukaricki,4,2,1,1,6,3,3,7,serbia
-Javor Ivanjica,4,2,0,2,6,6,0,6,serbia
 Novi Pazar,4,2,0,2,4,4,0,6,serbia
 Radnicki 1923,4,2,0,2,8,9,-1,6,serbia
+Javor Ivanjica,4,2,0,2,5,6,-1,6,serbia
 Sp. Subotica,4,2,0,2,3,6,-3,6,serbia
 Backa Topola,4,1,2,1,8,7,1,5,serbia
 Radnicki Nis,4,1,2,1,3,3,0,5,serbia
 Vozdovac,4,1,2,1,3,3,0,5,serbia
 Mladost Lucani,4,1,1,2,4,5,-1,4,serbia
 IMT N. Beograd,4,1,1,2,4,6,-2,4,serbia
+Napredak,4,1,1,2,4,6,-2,4,serbia
 Z. Pancevo,4,1,0,3,5,7,-2,3,serbia
 Rad. Surdulica,4,0,2,2,1,5,-4,2,serbia
-Napredak,4,0,1,3,3,8,-5,1,serbia
 OFK Beograd,4,3,1,0,6,2,4,10,serbia2
-Dubocica,4,3,1,0,4,1,3,10,serbia2
+Dubocica,4,3,1,0,3,0,3,10,serbia2
 S. Mitrovica,4,3,0,1,6,3,3,9,serbia2
 Kolubara,4,2,1,1,5,4,1,7,serbia2
 Radnicki B.,4,2,1,1,5,4,1,7,serbia2
 Indija,4,2,1,1,4,3,1,7,serbia2
+OFK Vrac,4,2,1,1,4,3,1,7,serbia2
 Novi Sad,4,2,0,2,4,3,1,6,serbia2
 Semendrija 1924,4,2,0,2,4,4,0,6,serbia2
-OFK Vrac,4,2,0,2,3,3,0,6,serbia2
 Jedinstvo Ub,4,1,2,1,2,2,0,5,serbia2
 Sloboda Uzice,4,1,1,2,3,3,0,4,serbia2
 Macva Sabac,4,1,1,2,2,3,-1,4,serbia2
@@ -1874,12 +1874,12 @@ Khalsa,4,1,0,3,10,15,-5,3,singapore
 Geylang,4,1,0,3,7,15,-8,3,singapore
 Young Lions,4,0,0,4,4,14,-10,0,singapore
 S. Bratislava,4,4,0,0,9,2,7,12,slovakia
-Podbrezova,4,3,0,1,17,7,10,9,slovakia
 Spartak Trnava,4,3,0,1,7,3,4,9,slovakia
+Podbrezova,4,2,1,1,14,8,6,7,slovakia
 Zilina,4,2,1,1,11,7,4,7,slovakia
 Trencin,4,2,1,1,4,2,2,7,slovakia
 DAC Streda,4,2,0,2,5,8,-3,6,slovakia
-Banska Bystrica,4,1,1,2,6,6,0,4,slovakia
+Banska Bystrica,4,1,1,2,7,7,0,4,slovakia
 Skalica,4,1,1,2,4,6,-2,4,slovakia
 Ruzomberok,4,1,1,2,3,7,-4,4,slovakia
 Z. Michalovce,4,0,3,1,4,8,-4,3,slovakia
@@ -1901,7 +1901,7 @@ Puchov,4,1,0,3,4,8,-4,3,slovakia2
 Spartak Myjava,4,1,0,3,3,8,-5,3,slovakia2
 L. Mikulas,4,0,1,3,3,8,-5,1,slovakia2
 Spisska Nova V.,4,0,0,4,3,8,-5,0,slovakia2
-NK Celje,4,3,0,1,9,4,5,9,slovenia
+NK Celje,4,4,0,0,11,2,9,12,slovenia
 NK Olimpija,4,2,2,0,6,2,4,8,slovenia
 Koper,4,1,3,0,8,5,3,6,slovenia
 Maribor,4,2,0,2,7,5,2,6,slovenia
@@ -1909,12 +1909,12 @@ Bravo,4,2,0,2,6,7,-1,6,slovenia
 Aluminij,4,2,0,2,5,7,-2,6,slovenia
 Radomlje,4,1,2,1,5,5,0,5,slovenia
 Mura,4,1,1,2,5,7,-2,4,slovenia
-Domzale,4,1,0,3,5,7,-2,3,slovenia
+Domzale,4,1,0,3,6,8,-2,3,slovenia
 Rogaska,4,1,0,3,2,9,-7,3,slovenia
 Mamelodi S.,4,4,0,0,7,1,6,12,southafrica
 Golden Arrows,4,3,1,0,6,1,5,10,southafrica
 SuperSport Utd,4,3,0,1,6,3,3,9,southafrica
-Polokwane,4,2,2,0,2,0,2,8,southafrica
+Polokwane,4,2,2,0,3,1,2,8,southafrica
 Cape Town City,4,2,1,1,6,4,2,7,southafrica
 Moroka Swallows,4,2,1,1,4,2,2,7,southafrica
 Chippa Utd,4,2,1,1,5,4,1,7,southafrica
@@ -1943,35 +1943,35 @@ Pretoria C.,4,1,1,2,3,7,-4,4,southafrica2
 TTM,4,1,0,3,3,5,-2,3,southafrica2
 Platinum City,4,1,0,3,2,9,-7,3,southafrica2
 Black Leopards,4,0,1,3,1,6,-5,1,southafrica2
-Jeonbuk Motors,4,3,0,1,6,4,2,9,southkorea
 Gwangju,4,3,0,1,4,2,2,9,southkorea
 Daejeon Citizen,4,2,2,0,6,3,3,8,southkorea
+Jeonbuk Motors,4,2,1,1,6,5,1,7,southkorea
 Seoul,4,2,1,1,6,5,1,7,southkorea
 Incheon Utd,4,1,3,0,4,2,2,6,southkorea
 Daegu,4,1,2,1,6,5,1,5,southkorea
 Ulsan,4,1,2,1,3,3,0,5,southkorea
 Suwon City,4,0,3,1,6,7,-1,3,southkorea
-Pohang Steelers,4,0,3,1,1,2,-1,3,southkorea
+Pohang Steelers,4,0,3,1,2,3,-1,3,southkorea
 Jeju Utd,4,1,0,3,4,6,-2,3,southkorea
 Suwon Bluewings,4,1,0,3,2,7,-5,3,southkorea
 Gangwon,4,0,2,2,3,5,-2,2,southkorea
 Gimcheon Sangmu,4,4,0,0,17,6,11,12,southkorea2
 Gimpo,4,3,1,0,7,2,5,10,southkorea2
 Busan IPark,4,3,1,0,5,1,4,10,southkorea2
+Gyeongnam,4,2,1,1,8,5,3,7,southkorea2
 Cheonan City,4,2,1,1,7,5,2,7,southkorea2
 Jeonnam Dragons,4,2,0,2,6,7,-1,6,southkorea2
 Chungnam Asan,4,2,0,2,5,6,-1,6,southkorea2
 Cheongju,4,1,2,1,4,4,0,5,southkorea2
 Bucheon FC,4,1,2,1,3,4,-1,5,southkorea2
-Gyeongnam,4,1,1,2,4,4,0,4,southkorea2
 Seongnam,4,1,1,2,4,5,-1,4,southkorea2
-Ansan Greeners,4,1,1,2,10,14,-4,4,southkorea2
 Seoul E-Land,4,1,0,3,5,8,-3,3,southkorea2
 Anyang,4,0,2,2,3,9,-6,2,southkorea2
+Ansan Greeners,4,0,1,3,8,15,-7,1,southkorea2
 Atletico Madrid,4,4,0,0,10,3,7,12,spain
 Real Madrid,4,3,1,0,10,1,9,10,spain
 Real Sociedad,4,3,0,1,6,2,4,9,spain
-Girona,4,3,0,1,8,6,2,9,spain
+Girona,4,3,0,1,7,5,2,9,spain
 FC Barcelona,4,2,2,0,6,4,2,8,spain
 Real Betis,4,1,3,0,6,3,3,6,spain
 Rayo Vallecano,4,1,3,0,5,4,1,6,spain
@@ -1985,12 +1985,11 @@ Mallorca,4,0,3,1,5,6,-1,3,spain
 Granada,4,0,3,1,6,8,-2,3,spain
 Alaves,4,0,3,1,3,5,-2,3,spain
 Villarreal,4,0,2,2,3,5,-2,2,spain
-Celta Vigo,4,0,2,2,4,8,-4,2,spain
 Cadiz,4,0,1,3,2,6,-4,1,spain
+Celta Vigo,4,0,1,3,3,8,-5,1,spain
 Almeria,4,0,1,3,6,16,-10,1,spain
-Eibar,4,3,1,0,9,5,4,10,spain2
+Eibar,4,3,1,0,11,5,6,10,spain2
 Racing,4,3,0,1,9,6,3,9,spain2
-Valladolid,4,3,0,1,6,4,2,9,spain2
 Real Oviedo,4,2,2,0,4,0,4,8,spain2
 Tenerife,4,2,2,0,5,2,3,8,spain2
 Levante,4,2,2,0,4,1,3,8,spain2
@@ -1999,6 +1998,7 @@ Sporting Gijon,4,2,1,1,9,6,3,7,spain2
 Elche,4,2,1,1,4,4,0,7,spain2
 Espanyol,4,2,0,2,5,4,1,6,spain2
 Burgos,4,2,0,2,5,7,-2,6,spain2
+Valladolid,4,2,0,2,6,9,-3,6,spain2
 Eldense,4,1,2,1,3,3,0,5,spain2
 Racing Ferrol,4,1,2,1,3,3,0,5,spain2
 Mirandes,4,1,1,2,7,7,0,4,spain2
@@ -2067,20 +2067,20 @@ Hottin,4,0,2,2,3,5,-2,2,syria
 Al-Jazira,0,0,0,0,0,0,0,0,syria
 Majd,4,0,0,4,1,9,-8,0,syria
 Simba,4,4,0,0,10,2,8,12,tanzania
-KMC,4,3,1,0,5,2,3,10,tanzania
-Young Africans,4,3,0,1,8,4,4,9,tanzania
+Young Africans,4,3,0,1,9,4,5,9,tanzania
 JKT Tanzania,4,2,2,0,4,2,2,8,tanzania
-Azam,4,2,1,1,5,4,1,7,tanzania
-S. Big Star,4,2,0,2,6,6,0,6,tanzania
+KMC,4,2,2,0,4,2,2,8,tanzania
+S. Big Star,4,2,0,2,5,6,-1,6,tanzania
+Namungo,4,1,2,1,6,5,1,5,tanzania
 Kagera Sugar,4,1,2,1,4,3,1,5,tanzania
 Coastal Union,4,1,2,1,2,1,1,5,tanzania
 Dodoma Jiji,4,1,2,1,4,4,0,5,tanzania
 Kitayosce,4,1,2,1,2,2,0,5,tanzania
+T. Prisons,4,1,2,1,6,7,-1,5,tanzania
 Mashujaa,4,1,1,2,2,3,-1,4,tanzania
+Azam,4,1,1,2,4,6,-2,4,tanzania
 Ihefu,4,1,1,2,2,4,-2,4,tanzania
-T. Prisons,4,1,1,2,6,9,-3,4,tanzania
 Mtibwa Sugar,4,1,0,3,5,7,-2,3,tanzania
-Namungo,4,0,2,2,3,5,-2,2,tanzania
 Geita Gold,4,0,1,3,4,10,-6,1,tanzania
 Bangkok Utd,4,4,0,0,9,1,8,12,thailand
 Port FC,4,3,0,1,15,6,9,9,thailand
@@ -2089,15 +2089,15 @@ Muang Thong Utd,4,3,0,1,8,4,4,9,thailand
 Uthai Thani,4,3,0,1,6,6,0,9,thailand
 Buriram Utd,4,2,2,0,8,3,5,8,thailand
 Ratchaburi,4,2,1,1,7,4,3,7,thailand
-Police Tero,4,2,1,1,6,5,1,7,thailand
+Police Tero,4,2,1,1,6,6,0,7,thailand
 Trat,4,2,0,2,7,10,-3,6,thailand
 Chiangrai Utd,4,1,1,2,4,5,-1,4,thailand
 Chonburi,4,1,1,2,5,7,-2,4,thailand
 Lamphun Warrior,4,1,1,2,5,8,-3,4,thailand
 Nakhon Pathom,4,1,0,3,9,11,-2,3,thailand
-Khon Kaen Utd,4,1,0,3,7,14,-7,3,thailand
+Sukhothai,4,1,0,3,5,8,-3,3,thailand
+Khon Kaen Utd,4,1,0,3,6,12,-6,3,thailand
 Prachuap,4,0,1,3,6,10,-4,1,thailand
-Sukhothai,4,0,0,4,3,10,-7,0,thailand
 Ayutthaya Utd,4,3,1,0,10,3,7,10,thailand2
 Nakhon Si Thamm,4,3,1,0,8,3,5,10,thailand2
 N. Bua Pitchaya,4,3,0,1,6,5,1,9,thailand2
@@ -2119,9 +2119,9 @@ Krabi,4,0,1,3,4,14,-10,1,thailand2
 Fenerbahce,4,4,0,0,15,2,13,12,turkey
 Galatasaray,4,4,0,0,7,2,5,12,turkey
 Adana Demirspor,4,3,0,1,9,4,5,9,turkey
+Kasimpasa,4,3,0,1,7,5,2,9,turkey
 Gaziantep,4,3,0,1,5,3,2,9,turkey
-Kasimpasa,4,3,0,1,6,5,1,9,turkey
-Hatayspor,4,2,1,1,8,7,1,7,turkey
+Kayserispor,4,2,1,1,5,5,0,7,turkey
 Besiktas,4,2,0,2,7,6,1,6,turkey
 Trabzonspor,4,2,0,2,5,5,0,6,turkey
 Antalyaspor,4,2,0,2,4,4,0,6,turkey
@@ -2129,10 +2129,10 @@ Sivasspor,4,1,2,1,4,4,0,5,turkey
 Basaksehir,4,1,2,1,2,4,-2,5,turkey
 Ankaragucu,4,1,1,2,6,5,1,4,turkey
 F. Karagumruk,4,1,1,2,6,6,0,4,turkey
+Hatayspor,4,1,1,2,6,7,-1,4,turkey
 Pendikspor,4,1,1,2,6,7,-1,4,turkey
-Kayserispor,4,1,1,2,4,6,-2,4,turkey
 Rizespor,4,1,1,2,3,9,-6,4,turkey
-Istanbulspor,4,1,0,3,3,6,-3,3,turkey
+Istanbulspor,4,1,0,3,4,8,-4,3,turkey
 Alanyaspor,4,1,0,3,2,7,-5,3,turkey
 Samsunspor,4,0,1,3,1,5,-4,1,turkey
 Konyaspor,4,0,1,3,3,8,-5,1,turkey
@@ -2151,23 +2151,23 @@ Tuzlaspor,4,1,1,2,5,5,0,4,turkey2
 Corum,4,1,1,2,4,5,-1,4,turkey2
 Erzurum BB,4,1,1,2,2,3,-1,4,turkey2
 Manisa BB,4,0,2,2,4,6,-2,2,turkey2
+Giresunspor,4,0,2,2,2,5,-3,2,turkey2
+Sanliurfaspor,4,0,2,2,2,6,-4,2,turkey2
 Altay,4,0,2,2,1,7,-6,2,turkey2
-Giresunspor,4,0,1,3,3,8,-5,1,turkey2
-Sanliurfaspor,4,0,1,3,2,8,-6,1,turkey2
-Shabab Al Ahli,4,3,1,0,8,3,5,10,uae
 Al Ain,4,3,0,1,11,3,8,9,uae
-Al Wasl,4,2,2,0,10,7,3,8,uae
+Al Wasl,4,2,2,0,12,6,6,8,uae
+Shabab Al Ahli,4,2,2,0,9,5,4,8,uae
 Al Jazira,4,2,1,1,9,4,5,7,uae
+Al Nasr,4,2,1,1,7,4,3,7,uae
 Bani Yas,4,2,1,1,8,6,2,7,uae
-Ittihad Kalba,4,2,1,1,7,8,-1,7,uae
-Al Nasr,4,2,0,2,6,5,1,6,uae
 Al Sharjah,4,2,0,2,7,7,0,6,uae
 Al Wahda,4,2,0,2,5,6,-1,6,uae
+Ittihad Kalba,4,2,0,2,8,10,-2,6,uae
 Emirates,4,1,2,1,7,7,0,5,uae
-Al Bataeh,4,1,1,2,4,6,-2,4,uae
-Ajman,4,0,2,2,8,16,-8,2,uae
+Al Bataeh,4,1,1,2,5,7,-2,4,uae
+Ajman,4,0,2,2,5,13,-8,2,uae
 Al Khaleej,4,0,1,3,5,10,-5,1,uae
-Hatta,4,0,0,4,1,8,-7,0,uae
+Hatta,4,0,0,4,1,11,-10,0,uae
 Emirates,4,4,0,0,15,5,10,12,uae2
 Gulf Heroes,4,4,0,0,7,0,7,12,uae2
 Al Jazira Al H.,4,3,1,0,14,8,6,10,uae2
@@ -2298,16 +2298,16 @@ One Knoxville,4,0,2,2,4,6,-2,2,usa3
 Lexington,4,0,2,2,6,9,-3,2,usa3
 Richmond K.,4,0,1,3,7,10,-3,1,usa3
 Forward Madison,4,0,1,3,2,7,-5,1,usa3
-Nasaf Qarshi,4,3,0,1,7,3,4,9,uzbekistan
+Navbahor,4,3,0,1,11,3,8,9,uzbekistan
+Nasaf Qarshi,4,3,0,1,7,2,5,9,uzbekistan
 Andijan,4,3,0,1,5,4,1,9,uzbekistan
-Metallurg,4,2,2,0,7,3,4,8,uzbekistan
-Navbahor,4,2,1,1,9,2,7,7,uzbekistan
 AMGK,4,2,1,1,9,9,0,7,uzbekistan
 Pakhtakor,4,1,2,1,6,4,2,5,uzbekistan
 Qizilqum,4,1,2,1,7,6,1,5,uzbekistan
 Neftchi,4,1,2,1,4,3,1,5,uzbekistan
 Bunyodkor,4,1,2,1,4,4,0,5,uzbekistan
 FK Olympic,4,1,2,1,4,4,0,5,uzbekistan
+Metallurg,4,1,2,1,3,3,0,5,uzbekistan
 Termez Surkhon,4,1,1,2,4,5,-1,4,uzbekistan
 Buxoro,4,1,1,2,2,7,-5,4,uzbekistan
 Turan,4,1,1,2,2,9,-7,4,uzbekistan
@@ -2352,14 +2352,14 @@ Phu Tho,4,0,3,1,4,6,-2,3,vietnam2
 Binh Thuan,4,1,0,3,5,19,-14,3,vietnam2
 Phu Dong,4,0,0,4,3,12,-9,0,vietnam2
 The New Saints,4,4,0,0,17,4,13,12,wales
-Caernarfon Town,4,3,0,1,11,5,6,9,wales
 Newtown,4,3,0,1,7,2,5,9,wales
-Connah`s Quay,4,2,2,0,9,4,5,8,wales
+Connah`s Quay,4,2,2,0,11,3,8,8,wales
 Bala Town,4,2,1,1,5,3,2,7,wales
 Cardiff MU,4,2,1,1,7,9,-2,7,wales
 Haverfordwest,4,2,0,2,6,6,0,6,wales
-Aberystwyth,4,1,1,2,2,7,-5,4,wales
-Penybont,4,1,0,3,6,11,-5,3,wales
+Caernarfon Town,4,2,0,2,9,11,-2,6,wales
+Aberystwyth,4,1,1,2,3,7,-4,4,wales
 Barry Town,4,1,0,3,5,11,-6,3,wales
 Pontypridd Town,4,1,0,3,2,9,-7,3,wales
 Colwyn Bay,4,0,1,3,6,10,-4,1,wales
+Penybont,4,0,0,4,5,13,-8,0,wales
