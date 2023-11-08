@@ -124,14 +124,14 @@ Ferro Carril,8,1,2,5,7,13,-6,5,argentina3
 All Boys,8,0,4,4,4,9,-5,4,argentina3
 Atlanta,8,1,1,6,4,10,-6,4,argentina3
 Pyunik,8,7,1,0,23,5,18,22,armenia
-Ararat-Armenia,7,4,2,1,15,7,8,14,armenia
+Ararat-Armenia,8,4,2,2,15,8,7,14,armenia
 Urartu,8,4,1,3,15,14,1,13,armenia
 Noah,8,4,0,4,14,11,3,12,armenia
 Alashkert,7,3,0,4,16,15,1,9,armenia
 BKMA,8,3,0,5,7,14,-7,9,armenia
 Shirak,8,2,2,4,10,13,-3,8,armenia
 Ararat Yerevan,7,2,1,4,7,11,-4,7,armenia
-West Armenia,7,2,1,4,6,11,-5,7,armenia
+West Armenia,8,2,1,5,7,15,-8,7,armenia
 Van,8,0,1,7,2,19,-17,1,armenia
 Melbourne V.,1,1,0,0,2,0,2,3,australia
 Macarthur FC,1,1,0,0,2,1,1,3,australia
@@ -242,13 +242,13 @@ KV Mechelen,7,1,2,4,6,14,-8,5,belgium
 OH Leuven,6,1,1,4,8,18,-10,4,belgium
 Charleroi,6,0,1,5,4,13,-9,1,belgium
 Kortrijk,6,0,1,5,3,15,-12,1,belgium
-I. Petrolero,8,5,0,3,8,6,2,15,bolivia
 U. de Vinto,8,3,4,1,7,3,4,13,bolivia
 Real Tomayapo,8,4,1,3,8,8,0,13,bolivia
+I. Petrolero,8,4,0,4,9,9,0,12,bolivia
 Aurora,8,2,4,2,10,11,-1,10,bolivia
 Always Ready,8,3,1,4,7,15,-8,10,bolivia
 Royal Pari,8,2,3,3,11,12,-1,9,bolivia
-The Strongest,8,2,2,4,10,14,-4,8,bolivia
+The Strongest,8,2,2,4,11,17,-6,8,bolivia
 Oriente P.,8,2,1,5,13,15,-2,7,bolivia
 Wilstermann,8,1,3,4,7,9,-2,6,bolivia
 Nacional Potosi,8,1,3,4,11,15,-4,6,bolivia
@@ -300,8 +300,8 @@ Lok. Plovdiv,8,4,4,0,14,9,5,16,bulgaria
 Ludogorets,7,4,1,2,12,5,7,13,bulgaria
 Cherno More,8,3,4,1,14,8,6,13,bulgaria
 CSKA 1948 Sofia,7,3,2,2,6,5,1,11,bulgaria
-Arda,7,3,1,3,7,4,3,10,bulgaria
-Levski Sofia,7,2,3,2,10,8,2,9,bulgaria
+Arda,8,3,1,4,7,5,2,10,bulgaria
+Levski Sofia,8,2,3,3,10,9,1,9,bulgaria
 Botev Plovdiv,8,2,3,3,10,10,0,9,bulgaria
 Lokomotiv Sofia,8,3,0,5,5,18,-13,9,bulgaria
 Hebar,8,2,1,5,9,14,-5,7,bulgaria
@@ -326,7 +326,7 @@ Nublense,8,4,1,3,12,9,3,13,chile
 Huachipato,8,4,1,3,11,11,0,13,chile
 O`Higgins,8,4,0,4,11,10,1,12,chile
 Cobresal,8,3,3,2,10,12,-2,12,chile
-Colo-Colo,8,1,6,1,6,6,0,9,chile
+Colo-Colo,8,2,5,1,8,7,1,11,chile
 Audax Italiano,8,3,0,5,11,13,-2,9,chile
 Curico Unido,8,2,3,3,7,12,-5,9,chile
 U. Catolica,8,2,2,4,12,15,-3,8,chile
@@ -390,17 +390,17 @@ I. Medelin,8,2,6,0,12,9,3,12,colombia2
 Junior,8,3,2,3,10,6,4,11,colombia2
 Millonarios,8,2,2,4,6,10,-4,8,colombia2
 Union Magdalena,8,2,2,4,8,16,-8,8,colombia2
+Once Caldas,8,2,1,5,7,10,-3,7,colombia2
 Santa Fe,8,1,4,3,10,14,-4,7,colombia2
+D. Pereira,8,2,1,5,8,12,-4,7,colombia2
 A. Nacional,8,2,1,5,7,12,-5,7,colombia2
-D. Pereira,8,2,1,5,7,12,-5,7,colombia2
 A. Petrolera,8,2,1,5,3,10,-7,7,colombia2
 La Equidad,8,1,3,4,6,13,-7,6,colombia2
 A. Bucaramanga,8,1,2,5,4,11,-7,5,colombia2
+Deportivo Cali,8,1,2,5,8,16,-8,5,colombia2
 Boyaca Chico,8,0,5,3,4,12,-8,5,colombia2
-Once Caldas,8,1,1,6,7,12,-5,4,colombia2
-Atletico Huila,8,1,1,6,4,10,-6,4,colombia2
-Deportivo Pasto,8,1,1,6,3,13,-10,4,colombia2
-Deportivo Cali,8,1,1,6,7,19,-12,4,colombia2
+Atletico Huila,8,1,1,6,4,11,-7,4,colombia2
+Deportivo Pasto,8,1,1,6,4,14,-10,4,colombia2
 Envigado,8,0,2,6,5,17,-12,2,colombia2
 Jaguares de C.,8,0,2,6,0,12,-12,2,colombia2
 Saprissa,8,5,1,2,16,10,6,16,costarica
@@ -504,7 +504,7 @@ Luton Town,6,1,1,4,6,14,-8,4,england
 Bournemouth,5,0,1,4,5,17,-12,1,england
 Sheffield Utd,5,0,0,5,3,14,-11,0,england
 Leicester City,7,7,0,0,18,5,13,21,england2
-Ipswich Town,7,5,2,0,9,4,5,17,england2
+Ipswich Town,8,5,3,0,11,6,5,18,england2
 Southampton,8,5,1,2,11,12,-1,16,england2
 Blackburn,8,4,1,3,15,12,3,13,england2
 Leeds Utd,8,4,1,3,12,10,2,13,england2
@@ -528,12 +528,12 @@ Plymouth,7,0,3,4,6,12,-6,3,england2
 Sheffield Wed,8,0,1,7,3,15,-12,1,england2
 Rotherham,7,0,1,6,3,16,-13,1,england2
 Barnsley,7,5,2,0,13,3,10,17,england3
+Bolton,7,5,1,1,14,5,9,16,england3
 Portsmouth,7,4,3,0,13,6,7,15,england3
 Oxford Utd,7,5,0,2,13,7,6,15,england3
-Peterborough,8,4,2,2,12,9,3,14,england3
-Bolton,6,4,1,1,12,5,7,13,england3
 Derby County,8,4,1,3,15,10,5,13,england3
 Stevenage,8,4,1,3,12,10,2,13,england3
+Peterborough,8,3,2,3,12,11,1,11,england3
 Wycombe,8,3,2,3,13,14,-1,11,england3
 Wigan Athletic,8,3,1,4,12,11,1,10,england3
 Leyton Orient,8,2,4,2,8,8,0,10,england3
@@ -542,8 +542,8 @@ Exeter City,7,3,0,4,7,10,-3,9,england3
 Lincoln City,8,2,3,3,7,11,-4,9,england3
 Port Vale,8,2,3,3,6,16,-10,9,england3
 Burton Albion,8,2,2,4,6,10,-4,8,england3
+Bristol Rovers,8,2,2,4,8,13,-5,8,england3
 Blackpool,7,1,4,2,7,11,-4,7,england3
-Bristol Rovers,7,2,1,4,7,12,-5,7,england3
 Northampton,8,2,0,6,6,12,-6,6,england3
 Charlton,6,1,2,3,6,9,-3,5,england3
 Cambridge Utd,7,1,2,4,4,7,-3,5,england3
@@ -568,10 +568,10 @@ Milton Keynes,8,2,2,4,12,14,-2,8,england4
 Bradford,8,2,2,4,9,13,-4,8,england4
 Walsall,8,2,2,4,13,19,-6,8,england4
 Forest Green,6,2,1,3,7,9,-2,7,england4
-Swindon Town,8,1,4,3,14,17,-3,7,england4
 Doncaster,7,2,0,5,8,14,-6,6,england4
 Crawley Town,7,1,3,3,9,17,-8,6,england4
 Newport,8,2,0,6,9,18,-9,6,england4
+Swindon Town,8,0,4,4,13,19,-6,4,england4
 Grimsby,8,0,3,5,9,16,-7,3,england4
 Tranmere,8,0,0,8,4,17,-13,0,england4
 Sutton Utd,7,0,0,7,8,23,-15,0,england4
@@ -1492,8 +1492,8 @@ Costa del Este,8,2,1,5,9,17,-8,7,panama
 Universitario,8,2,1,5,7,15,-8,7,panama
 A. Chiriqui,8,0,0,8,5,22,-17,0,panama
 Tauro,8,4,3,1,14,5,9,15,panama2
+Independiente,8,4,3,1,18,11,7,15,panama2
 San Francisco,8,4,1,3,10,5,5,13,panama2
-Independiente,7,3,3,1,14,8,6,12,panama2
 Arabe Unido,8,3,3,2,9,6,3,12,panama2
 Alianza,8,3,3,2,9,11,-2,12,panama2
 Costa del Este,8,3,2,3,10,11,-1,11,panama2
@@ -1520,13 +1520,13 @@ S. Trinidense,8,4,1,3,13,9,4,13,paraguay2
 Olimpia,8,3,3,2,5,7,-2,12,paraguay2
 Cerro Porteno,8,2,5,1,14,9,5,11,paraguay2
 Nacional,8,2,4,2,8,7,1,10,paraguay2
-S. Ameliano,8,3,1,4,14,16,-2,10,paraguay2
 Tacuary,8,2,3,3,9,11,-2,9,paraguay2
 Guarani,8,2,3,3,6,11,-5,9,paraguay2
+S. Ameliano,8,2,2,4,14,17,-3,8,paraguay2
 G. Caballero,8,2,1,5,8,12,-4,7,paraguay2
-S. Luqueno,8,2,1,5,6,10,-4,7,paraguay2
+S. Luqueno,8,2,1,5,7,11,-4,7,paraguay2
 Guairena,8,1,2,5,7,14,-7,5,paraguay2
-Resistencia,8,1,2,5,8,17,-9,5,paraguay2
+Resistencia,8,1,1,6,6,20,-14,4,paraguay2
 Alianza Lima,8,5,0,3,12,9,3,15,peru
 S. Cristal,8,3,4,1,15,10,5,13,peru
 Universitario,8,3,1,4,8,9,-1,10,peru
@@ -1756,22 +1756,22 @@ Al Raed,6,0,3,3,4,7,-3,3,saudiarabia
 Al Hazm,6,0,3,3,6,14,-8,3,saudiarabia
 Abha,5,0,1,4,3,12,-9,1,saudiarabia
 Al Tai,6,0,1,5,4,14,-10,1,saudiarabia
+Al Adalh,6,4,0,2,13,9,4,12,saudiarabia2
 Al Quadisiya,5,3,1,1,4,1,3,10,saudiarabia2
 Al Orubah,4,3,0,1,6,3,3,9,saudiarabia2
-Al Adalh,5,3,0,2,9,7,2,9,saudiarabia2
 Ohod,5,3,0,2,8,6,2,9,saudiarabia2
 Jeddah,5,2,1,2,5,5,0,7,saudiarabia2
 Al Kholood,5,2,0,3,10,7,3,6,saudiarabia2
 Al Najma,5,1,2,2,11,9,2,5,saudiarabia2
 Al Faisaly,4,1,2,1,6,6,0,5,saudiarabia2
+Al Jabalain,5,1,2,2,4,6,-2,5,saudiarabia2
 Al Arabi,3,1,1,1,7,5,2,4,saudiarabia2
-Al Jabalain,4,1,1,2,4,6,-2,4,saudiarabia2
 Al Batin,5,1,1,3,2,4,-2,4,saudiarabia2
-Al-Ain,5,1,1,3,4,10,-6,4,saudiarabia2
+Al-Ain,6,1,1,4,4,11,-7,4,saudiarabia2
 Al-Jndal,5,1,1,3,3,10,-7,4,saudiarabia2
 Al Taraji,5,1,0,4,2,10,-8,3,saudiarabia2
 Al Bukayriyah,4,0,2,2,1,3,-2,2,saudiarabia2
-Al Qaisoma,5,0,1,4,4,9,-5,1,saudiarabia2
+Al Qaisoma,5,0,1,4,5,12,-7,1,saudiarabia2
 Hajer,4,0,1,3,2,9,-7,1,saudiarabia2
 Al Safa,4,0,0,4,2,10,-8,0,saudiarabia2
 Celtic,7,6,1,0,16,3,13,19,scotland
@@ -1782,8 +1782,8 @@ Hearts,5,2,0,3,4,4,0,6,scotland
 Ross County,6,1,3,2,8,13,-5,6,scotland
 Dundee FC,5,1,2,2,5,7,-2,5,scotland
 Hibernian,5,1,2,2,7,10,-3,5,scotland
+Motherwell,6,1,2,3,4,7,-3,5,scotland
 Livingston,7,1,2,4,6,13,-7,5,scotland
-Motherwell,5,1,1,3,2,5,-3,4,scotland
 Kilmarnock,5,0,2,3,5,9,-4,2,scotland
 St. Johnstone,5,0,2,3,0,8,-8,2,scotland
 Dundee Utd,6,5,1,0,16,1,15,16,scotland2
@@ -1896,14 +1896,14 @@ Bravo,7,1,3,3,7,10,-3,6,slovenia
 Domzale,6,1,1,4,9,14,-5,4,slovenia
 Rogaska,7,1,0,6,3,18,-15,3,slovenia
 Mamelodi S.,5,5,0,0,8,1,7,15,southafrica
-Golden Arrows,5,4,0,1,8,6,2,12,southafrica
+Golden Arrows,6,4,0,2,8,7,1,12,southafrica
 SuperSport Utd,5,3,1,1,7,5,2,10,southafrica
-Sekhukhune,6,3,1,2,6,5,1,10,southafrica
 Cape Town City,7,3,1,3,7,7,0,10,southafrica
-Chippa Utd,4,2,2,0,3,1,2,8,southafrica
+Sekhukhune,7,3,1,3,6,6,0,10,southafrica
+Chippa Utd,5,2,2,1,4,3,1,8,southafrica
 Moroka Swallows,3,2,1,0,5,2,3,7,southafrica
 Polokwane,5,1,2,2,4,5,-1,5,southafrica
-Richards Bay,4,1,2,1,2,3,-1,5,southafrica
+Richards Bay,5,1,2,2,3,5,-2,5,southafrica
 Stellenbosch,4,1,1,2,4,5,-1,4,southafrica
 Royal AM,5,1,1,3,6,10,-4,4,southafrica
 Kaizer Chiefs,5,1,0,4,4,6,-2,3,southafrica
@@ -2149,7 +2149,7 @@ Obolon,7,2,1,4,5,11,-6,7,ukraine
 Chornomorets,7,2,0,5,10,11,-1,6,ukraine
 Metalist 1925,6,1,2,3,4,6,-2,5,ukraine
 LNZ Cherkasy,5,1,2,2,3,5,-2,5,ukraine
-Oleksandria,6,0,3,3,3,7,-4,3,ukraine
+Oleksandria,7,0,3,4,3,8,-5,3,ukraine
 Veres,5,0,2,3,1,6,-5,2,ukraine
 FC Minaj,6,0,2,4,3,11,-8,2,ukraine
 Wanderers,8,5,3,0,11,4,7,18,uruguay
