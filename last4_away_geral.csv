@@ -275,20 +275,20 @@ Blooming,8,1,1,6,5,16,-11,4,bolivia2
 U. Sucre,8,0,3,5,7,16,-9,3,bolivia2
 Santa Cruz,8,1,0,7,7,21,-14,3,bolivia2
 Royal Pari,8,0,2,6,3,13,-10,2,bolivia2
-Atletico MG,8,4,2,2,10,5,5,14,brazil
+Atletico MG,8,4,3,1,11,5,6,15,brazil
 Flamengo,8,4,2,2,12,10,2,14,brazil
 Bragantino,8,4,2,2,9,7,2,14,brazil
+Santos,8,4,1,3,9,15,-6,13,brazil
 Goias,8,3,3,2,9,9,0,12,brazil
+Gremio,8,3,2,3,17,20,-3,11,brazil
+Cuiaba,8,3,1,4,7,7,0,10,brazil
 Palmeiras,8,3,1,4,10,11,-1,10,brazil
-Cuiaba,8,3,1,4,6,8,-2,10,brazil
-Santos,8,3,1,4,8,19,-11,10,brazil
 Athletico PR,8,2,3,3,8,8,0,9,brazil
 Botafogo,8,2,3,3,6,6,0,9,brazil
 Vasco da Gama,8,2,3,3,7,9,-2,9,brazil
 Internacional,8,2,3,3,6,8,-2,9,brazil
 Coritiba,8,3,0,5,14,19,-5,9,brazil
 Cruzeiro,8,2,2,4,7,9,-2,8,brazil
-Gremio,8,2,2,4,14,19,-5,8,brazil
 Corinthians,8,1,4,3,9,11,-2,7,brazil
 Fortaleza,8,2,1,5,5,10,-5,7,brazil
 Bahia,8,2,0,6,10,16,-6,6,brazil
@@ -403,7 +403,7 @@ Atletico Huila,8,1,1,6,4,11,-7,4,colombia2
 Deportivo Pasto,8,1,1,6,4,14,-10,4,colombia2
 Envigado,8,0,2,6,5,17,-12,2,colombia2
 Jaguares de C.,8,0,2,6,0,12,-12,2,colombia2
-Saprissa,8,5,1,2,16,10,6,16,costarica
+Saprissa,8,5,1,2,17,11,6,16,costarica
 Alajuelense,8,4,2,2,13,11,2,14,costarica
 Guanacasteca,8,4,2,2,7,8,-1,14,costarica
 Herediano,8,3,3,2,13,9,4,12,costarica
@@ -733,10 +733,10 @@ Kolkheti Poti,8,5,3,0,22,6,16,18,georgia2
 Gareji Sagarejo,8,6,0,2,19,7,12,18,georgia2
 WIT Georgia,8,5,2,1,17,11,6,17,georgia2
 Bolnisi,8,5,1,2,13,6,7,16,georgia2
-Spaeri,8,4,1,3,13,10,3,13,georgia2
 L. Tbilisi,8,3,2,3,9,9,0,11,georgia2
-D. Tbilisi B,8,3,1,4,10,13,-3,10,georgia2
-Kolkheti Khobi,8,1,3,4,6,14,-8,6,georgia2
+D. Tbilisi B,8,3,1,4,11,12,-1,10,georgia2
+Spaeri,8,3,1,4,10,11,-1,10,georgia2
+Kolkheti Khobi,8,1,3,4,6,12,-6,6,georgia2
 Merani Martvili,8,1,2,5,10,25,-15,5,georgia2
 Merani Tbilisi,8,0,1,7,10,34,-24,1,georgia2
 Hoffenheim,5,5,0,0,14,7,7,15,germany
@@ -917,14 +917,14 @@ PSIS Semarang,8,2,3,3,12,12,0,9,indonesia
 Persik Kediri,8,2,3,3,10,14,-4,9,indonesia
 PSS Sleman,8,2,2,4,10,15,-5,8,indonesia
 Barito Putera,8,1,4,3,10,10,0,7,indonesia
-TIRA Persikabo,8,2,1,5,9,13,-4,7,indonesia
+TIRA Persikabo,8,2,1,5,8,15,-7,7,indonesia
 PSM,8,1,3,4,6,9,-3,6,indonesia
+Bhayangkara S.,8,1,3,4,7,14,-7,6,indonesia
 Arema,8,1,3,4,10,18,-8,6,indonesia
 Dewa United,8,1,2,5,9,13,-4,5,indonesia
 Persis Solo,8,1,2,5,8,14,-6,5,indonesia
-Bhayangkara S.,8,1,2,5,7,16,-9,5,indonesia
 Persebaya S.,8,1,2,5,4,15,-11,5,indonesia
-Persita,8,1,2,5,4,15,-11,5,indonesia
+Persita,8,1,2,5,4,17,-13,5,indonesia
 Zob Ahan,5,3,2,0,8,5,3,11,iran
 Persepolis,4,3,1,0,6,1,5,10,iran
 Shams A. Qazvin,5,3,1,1,8,5,3,10,iran
@@ -943,11 +943,11 @@ E. Khuzestan,4,0,1,3,1,4,-3,1,iran
 N. Mazandaran,3,0,1,2,1,5,-4,1,iran
 Naft Maysan,2,1,1,0,4,0,4,4,iraq
 Al Hudod,2,1,1,0,3,1,2,4,iraq
+Duhok,2,1,1,0,1,0,1,4,iraq
 Al Kahrabaa,2,1,0,1,3,2,1,3,iraq
 Al Shorta,2,1,0,1,3,2,1,3,iraq
 Newroz SC,2,1,0,1,3,2,1,3,iraq
 Al Quwa Al J.,1,1,0,0,1,0,1,3,iraq
-Duhok,1,1,0,0,1,0,1,3,iraq
 Al-Qasim,2,1,0,1,1,1,0,3,iraq
 Al Naft,1,0,1,0,1,1,0,1,iraq
 Al Najaf,1,0,1,0,1,1,0,1,iraq
@@ -956,10 +956,10 @@ Naft Al-Janoob,2,0,1,1,3,4,-1,1,iraq
 Al Karkh,2,0,1,1,1,2,-1,1,iraq
 Zakho,2,0,1,1,1,2,-1,1,iraq
 Naft Al-Wasat,2,0,1,1,2,4,-2,1,iraq
+Al Minaa Basra,2,0,1,1,1,4,-3,1,iraq
 Al Talaba,1,0,0,1,1,2,-1,0,iraq
-Erbil,1,0,0,1,1,2,-1,0,iraq
 Karbala,1,0,0,1,1,2,-1,0,iraq
-Al Minaa Basra,1,0,0,1,1,4,-3,0,iraq
+Erbil,2,0,0,2,2,4,-2,0,iraq
 Baghdad,1,0,0,1,0,3,-3,0,iraq
 Shelbourne,8,4,3,1,13,5,8,15,ireland
 St. Patricks,8,4,1,3,9,8,1,13,ireland
@@ -1371,13 +1371,13 @@ Telstar,7,0,1,6,3,14,-11,1,netherlands2
 Jong Ajax,7,0,0,7,9,24,-15,0,netherlands2
 Real Esteli,8,5,2,1,18,5,13,17,nicaragua
 Diriangen,8,4,2,2,13,8,5,14,nicaragua
-Export Sebaco,8,4,1,3,12,18,-6,13,nicaragua
 UNAN Managua,8,3,2,3,11,13,-2,11,nicaragua
+Export Sebaco,8,3,1,4,8,17,-9,10,nicaragua
 Managua FC,8,1,5,2,8,8,0,8,nicaragua
 Jalapa,7,2,1,4,10,15,-5,7,nicaragua
 Matagalpa,8,1,2,5,8,14,-6,5,nicaragua
 O. Masachapa,8,1,2,5,4,15,-11,5,nicaragua
-D. Ocotal,7,1,0,6,9,16,-7,3,nicaragua
+D. Ocotal,8,1,1,6,9,16,-7,4,nicaragua
 Walter Ferreti,8,0,2,6,4,15,-11,2,nicaragua
 Bendel,8,2,6,0,8,6,2,12,nigeria
 Enyimba,8,3,1,4,6,7,-1,10,nigeria
@@ -1523,8 +1523,8 @@ Nacional,8,2,4,2,8,7,1,10,paraguay2
 Tacuary,8,2,3,3,9,11,-2,9,paraguay2
 Guarani,8,2,3,3,6,11,-5,9,paraguay2
 S. Ameliano,8,2,2,4,14,17,-3,8,paraguay2
-G. Caballero,8,2,1,5,8,12,-4,7,paraguay2
 S. Luqueno,8,2,1,5,7,11,-4,7,paraguay2
+G. Caballero,8,2,1,5,8,13,-5,7,paraguay2
 Guairena,8,1,2,5,7,14,-7,5,paraguay2
 Resistencia,8,1,1,6,6,20,-14,4,paraguay2
 Alianza Lima,8,5,0,3,12,9,3,15,peru
@@ -1741,21 +1741,21 @@ SKA Khabarovsk,7,0,1,6,4,13,-9,1,russia2
 Al Hilal,6,5,1,0,17,5,12,16,saudiarabia
 Al Nassr,6,5,0,1,19,6,13,15,saudiarabia
 Al Ittihad,7,4,2,1,12,2,10,14,saudiarabia
-Al Fateh,6,4,1,1,13,8,5,13,saudiarabia
+Al Fateh,7,4,2,1,14,9,5,14,saudiarabia
 Al Taawon,6,3,2,1,10,6,4,11,saudiarabia
 Al Ittifaq,6,3,1,2,8,6,2,10,saudiarabia
 Al Feiha,6,2,3,1,11,9,2,9,saudiarabia
 Al Akhdoud,6,2,1,3,6,8,-2,7,saudiarabia
 Al Khaleej,6,2,1,3,6,8,-2,7,saudiarabia
-Al Ahli Jeddah,5,2,0,3,9,13,-4,6,saudiarabia
+Al Ahli Jeddah,6,2,1,3,11,15,-4,7,saudiarabia
 Al Wahda,6,2,0,4,8,14,-6,6,saudiarabia
 Damak,7,1,2,4,7,11,-4,5,saudiarabia
-Al Shabab,6,1,1,4,5,13,-8,4,saudiarabia
+Al Shabab,7,1,1,5,6,15,-9,4,saudiarabia
 Al Riyadh,6,1,1,4,6,17,-11,4,saudiarabia
 Al Raed,6,0,3,3,4,7,-3,3,saudiarabia
 Al Hazm,6,0,3,3,6,14,-8,3,saudiarabia
 Abha,5,0,1,4,3,12,-9,1,saudiarabia
-Al Tai,6,0,1,5,4,14,-10,1,saudiarabia
+Al Tai,7,0,1,6,5,17,-12,1,saudiarabia
 Al Adalh,6,4,0,2,13,9,4,12,saudiarabia2
 Al Orubah,5,4,0,1,7,3,4,12,saudiarabia2
 Al Quadisiya,5,3,1,1,4,1,3,10,saudiarabia2
@@ -2040,7 +2040,7 @@ Simba,3,3,0,0,9,4,5,9,tanzania
 Singida,5,3,0,2,8,7,1,9,tanzania
 Dodoma Jiji,5,2,1,2,6,7,-1,7,tanzania
 JKT Tanzania,5,2,1,2,5,9,-4,7,tanzania
-Namungo,4,1,2,1,4,3,1,5,tanzania
+Namungo,5,1,3,1,5,4,1,6,tanzania
 Geita Gold,5,1,2,2,2,4,-2,5,tanzania
 KMC,4,1,2,1,3,7,-4,5,tanzania
 Kagera Sugar,5,1,1,3,3,5,-2,4,tanzania
@@ -2255,9 +2255,9 @@ Nasaf Qarshi,8,4,2,2,10,7,3,14,uzbekistan
 Termez Surkhon,8,3,4,1,8,6,2,13,uzbekistan
 AMGK,8,3,4,1,9,8,1,13,uzbekistan
 Bunyodkor,8,3,2,3,7,7,0,11,uzbekistan
+Neftchi,8,2,4,2,9,8,1,10,uzbekistan
 Metallurg,8,3,1,4,9,9,0,10,uzbekistan
 FK Olympic,8,3,1,4,7,10,-3,10,uzbekistan
-Neftchi,8,1,5,2,8,10,-2,8,uzbekistan
 Andijan,8,2,2,4,6,11,-5,8,uzbekistan
 Qizilqum,8,1,4,3,4,10,-6,7,uzbekistan
 Sogdiana,8,1,2,5,10,15,-5,5,uzbekistan
