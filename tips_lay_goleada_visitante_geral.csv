@@ -515,45 +515,45 @@ Date,Hora,Liga,Home,Away,Placar FT,Winrate,Profit
 11.11.2023,17:00:00,Serie B,Chapecoense,Botafogo SP,2x0,1,"0,0345"
 11.11.2023,17:30:00,Primera Categoría Serie A,Guayaquil City FC,Técnico Universitario,1x0,1,"0,0345"
 11.11.2023,18:00:00,Serie B,Tombense,Ponte Preta,0x1,1,"0,0345"
-11.11.2023,21:00:00,Primera División,Huracán,Arsenal de Sarandí,1x0,,
-12.11.2023,01:00:00,J2 League,Blaublitz Akita,Tokushima Vortis,1x1,,
-12.11.2023,08:00:00,Russian Premier League,Olimpiyets,Baltika,0x0,,
-12.11.2023,08:00:00,Segunda División RFEF Group 5,CF Villanovense,Getafe II,4x0,,
-12.11.2023,08:00:00,Primera Division RFEF Group 1,SD Tarazona,CD Teruel,,,
-12.11.2023,08:00:00,Primera Division RFEF Group 2,CD Alcoyano,UD Melilla,,,
-12.11.2023,08:00:00,Primera Division RFEF Group 2,CD Atlético Baleares,Mérida AD,,,
-12.11.2023,08:00:00,Primera Division RFEF Group 2,Atlético Sanluqueño CF,Linares Deportivo,,,
-12.11.2023,08:30:00,Persian Gulf Pro League,Nassaji Mazandaran,Zob Ahan,,,
-12.11.2023,09:30:00,Premyer Liqası,Zira,Qabala,,,
-12.11.2023,10:00:00,Segunda División,Burgos CF,AD Alcorcón,,,
-12.11.2023,10:00:00,Super League,Mufulira Wanderers,NAPSA Stars,,,
-12.11.2023,10:00:00,Super League,Nkana,Power Dynamos,,,
-12.11.2023,10:00:00,FNL,Makhachkala,SKA Khabarovsk,,,
-12.11.2023,10:00:00,Burundi Premier League,Vital'O,Bumamuru,,,
-12.11.2023,10:00:00,Persian Gulf Pro League,Sepahan,Persepolis,,,
-12.11.2023,10:30:00,National First Division,University of Pretoria,Platinum City Rovers,,,
-12.11.2023,10:30:00,Ligue 1,AS Slimane,Olympique Béja,,,
-12.11.2023,10:30:00,Ligue 1,Stade Tunisien,Ben Guerdane,,,
-12.11.2023,10:30:00,Serie D Group A,Bra,Chieri,,,
-12.11.2023,10:30:00,Serie D Group A,Asti,Chisola,,,
-12.11.2023,10:30:00,Serie D Group E,San Donato Tavarnelle,Livorno,,,
-12.11.2023,10:30:00,Serie D Group G,Cassino,Trastevere,,,
-12.11.2023,11:00:00,Serie D Group A,Fezzanese,Sanremo,,,
-12.11.2023,11:00:00,Serie D Group G,Boreale,Ostia Mare Lidocalcio,,,
-12.11.2023,12:00:00,Primera Division RFEF Group 2,UD Ibiza,Málaga CF,,,
-12.11.2023,12:15:00,Serie C Group C,Messina,Latina,,,
-12.11.2023,13:00:00,Segunda División RFEF Group 5,Gimnástica Segoviana CF,Talavera CF,,,
-12.11.2023,13:00:00,Primera Division RFEF Group 1,CD Lugo,Cultural y Deportiva Leonesa,,,
-12.11.2023,14:30:00,Primera División,Defensa y Justicia,San Lorenzo,,,
-12.11.2023,14:30:00,Serie C Group B,Sestri Levante,Fermana,,,
-12.11.2023,14:30:00,Serie C Group C,Sorrento Calcio,Taranto,,,
-12.11.2023,15:45:00,Serie B,Ceará,Mirassol,,,
-12.11.2023,16:00:00,Primera Division RFEF Group 1,Gimnàstic de Tarragona,Sestao River Club,,,
-12.11.2023,16:00:00,Primera Division RFEF Group 2,Real Murcia,Real Madrid II,,,
-12.11.2023,16:45:00,Primera División,Tigre,Platense,,,
-12.11.2023,16:45:00,Primera División,Boca Juniors,Newell's Old Boys,,,
-12.11.2023,16:45:00,Serie C Group B,Juventus II,Carrarese,,,
-12.11.2023,16:45:00,Serie C Group B,Perugia,Gubbio,,,
-12.11.2023,18:30:00,Serie A,Cuiabá,Fortaleza,,,
-12.11.2023,19:00:00,Primera División,Independiente,Banfield,,,
-12.11.2023,19:00:00,Primera División,Belgrano,Unión Santa Fe,,,
+11.11.2023,21:00:00,Primera División,Huracán,Arsenal de Sarandí,1x0,1,"0,0345"
+12.11.2023,01:00:00,J2 League,Blaublitz Akita,Tokushima Vortis,1x1,1,"0,0345"
+12.11.2023,08:00:00,Russian Premier League,Olimpiyets,Baltika,0x0,1,"0,0345"
+12.11.2023,08:00:00,Segunda División RFEF Group 5,CF Villanovense,Getafe II,4x0,1,"0,0345"
+12.11.2023,08:00:00,Primera Division RFEF Group 1,SD Tarazona,CD Teruel,0x0,1,"0,0345"
+12.11.2023,08:00:00,Primera Division RFEF Group 2,CD Alcoyano,UD Melilla,3x0,1,"0,0345"
+12.11.2023,08:00:00,Primera Division RFEF Group 2,CD Atlético Baleares,Mérida AD,1x0,1,"0,0345"
+12.11.2023,08:00:00,Primera Division RFEF Group 2,Atlético Sanluqueño CF,Linares Deportivo,3x2,1,"0,0345"
+12.11.2023,08:30:00,Persian Gulf Pro League,Nassaji Mazandaran,Zob Ahan,1x2,1,"0,0345"
+12.11.2023,09:30:00,Premyer Liqası,Zira,Qabala,1x0,1,"0,0345"
+12.11.2023,10:00:00,Segunda División,Burgos CF,AD Alcorcón,4x2,1,"0,0345"
+12.11.2023,10:00:00,Super League,Mufulira Wanderers,NAPSA Stars,2x1,1,"0,0345"
+12.11.2023,10:00:00,Super League,Nkana,Power Dynamos,0x2,1,"0,0345"
+12.11.2023,10:00:00,FNL,Makhachkala,SKA Khabarovsk,2x0,1,"0,0345"
+12.11.2023,10:00:00,Burundi Premier League,Vital'O,Bumamuru,0x1,1,"0,0345"
+12.11.2023,10:00:00,Persian Gulf Pro League,Sepahan,Persepolis,1x0,1,"0,0345"
+12.11.2023,10:30:00,National First Division,University of Pretoria,Platinum City Rovers,2x1,1,"0,0345"
+12.11.2023,10:30:00,Ligue 1,AS Slimane,Olympique Béja,2x0,1,"0,0345"
+12.11.2023,10:30:00,Ligue 1,Stade Tunisien,Ben Guerdane,2x1,1,"0,0345"
+12.11.2023,10:30:00,Serie D Group A,Bra,Chieri,1x0,1,"0,0345"
+12.11.2023,10:30:00,Serie D Group A,Asti,Chisola,1x2,1,"0,0345"
+12.11.2023,10:30:00,Serie D Group E,San Donato Tavarnelle,Livorno,1x2,1,"0,0345"
+12.11.2023,10:30:00,Serie D Group G,Cassino,Trastevere,1x0,1,"0,0345"
+12.11.2023,11:00:00,Serie D Group A,Fezzanese,Sanremo,2x2,1,"0,0345"
+12.11.2023,11:00:00,Serie D Group G,Boreale,Ostia Mare Lidocalcio,0x0,1,"0,0345"
+12.11.2023,12:00:00,Primera Division RFEF Group 2,UD Ibiza,Málaga CF,1x1,1,"0,0345"
+12.11.2023,12:15:00,Serie C Group C,Messina,Latina,0x3,1,"0,0345"
+12.11.2023,13:00:00,Segunda División RFEF Group 5,Gimnástica Segoviana CF,Talavera CF,0x1,1,"0,0345"
+12.11.2023,13:00:00,Primera Division RFEF Group 1,CD Lugo,Cultural y Deportiva Leonesa,0x2,1,"0,0345"
+12.11.2023,14:30:00,Primera División,Defensa y Justicia,San Lorenzo,0x1,1,"0,0345"
+12.11.2023,14:30:00,Serie C Group B,Sestri Levante,Fermana,3x0,1,"0,0345"
+12.11.2023,14:30:00,Serie C Group C,Sorrento Calcio,Taranto,1x0,1,"0,0345"
+12.11.2023,15:45:00,Serie B,Ceará,Mirassol,2x0,1,"0,0345"
+12.11.2023,16:00:00,Primera Division RFEF Group 1,Gimnàstic de Tarragona,Sestao River Club,0x0,1,"0,0345"
+12.11.2023,16:00:00,Primera Division RFEF Group 2,Real Murcia,Real Madrid II,0x0,1,"0,0345"
+12.11.2023,16:45:00,Primera División,Tigre,Platense,1x1,1,"0,0345"
+12.11.2023,16:45:00,Primera División,Boca Juniors,Newell's Old Boys,1x0,1,"0,0345"
+12.11.2023,16:45:00,Serie C Group B,Juventus II,Carrarese,0x1,1,"0,0345"
+12.11.2023,16:45:00,Serie C Group B,Perugia,Gubbio,1x0,1,"0,0345"
+12.11.2023,18:30:00,Serie A,Cuiabá,Fortaleza,2x1,1,"0,0345"
+12.11.2023,19:00:00,Primera División,Independiente,Banfield,1x0,1,"0,0345"
+12.11.2023,19:00:00,Primera División,Belgrano,Unión Santa Fe,4x1,1,"0,0345"
