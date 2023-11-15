@@ -11,8 +11,8 @@ Besa Kavaje,6,0,3,3,6,13,-7,3,albania2
 Burreli,6,1,0,5,2,10,-8,3,albania2
 Kastrioti Kruje,5,0,2,3,3,8,-5,2,albania2
 Tomori Berat,5,0,1,4,3,15,-12,1,albania2
+CR Belouizdad,3,2,0,1,5,2,3,6,algeria
 Paradou AC,2,1,1,0,5,0,5,4,algeria
-CR Belouizdad,2,1,0,1,4,2,2,3,algeria
 MC Alger,2,1,0,1,2,2,0,3,algeria
 CS Constantine,3,1,0,2,4,5,-1,3,algeria
 JS Kabylie,3,1,0,2,2,3,-1,3,algeria
@@ -24,8 +24,8 @@ NC Magra,2,0,1,1,0,1,-1,1,algeria
 El Bayadh,3,0,1,2,1,4,-3,1,algeria
 JS Saoura,2,0,1,1,1,4,-3,1,algeria
 MC Oran,3,0,1,2,0,3,-3,1,algeria
-USM Alger,2,0,0,2,0,2,-2,0,algeria
 ES Setif,2,0,0,2,3,6,-3,0,algeria
+USM Alger,3,0,0,3,1,4,-3,0,algeria
 Ben Aknoun,3,0,0,3,1,8,-7,0,algeria
 Mostaganem,2,2,0,0,5,1,4,6,algeria2
 Koléa,3,2,0,1,3,2,1,6,algeria2
@@ -814,7 +814,7 @@ Antigua GFC,7,3,1,3,9,10,-1,10,guatemala
 Achuapa,7,3,1,3,11,14,-3,10,guatemala
 Guastatoya,8,3,0,5,8,9,-1,9,guatemala
 Malacateco,7,2,1,4,9,13,-4,7,guatemala
-Zacapa Tellioz,6,2,0,4,5,9,-4,6,guatemala
+Zacapa Tellioz,7,2,1,4,7,11,-4,7,guatemala
 Comunicaciones,6,1,2,3,8,11,-3,5,guatemala
 Mixco,7,1,2,4,5,10,-5,5,guatemala
 Xinabajul,6,1,2,3,5,11,-6,5,guatemala
@@ -884,6 +884,18 @@ IBV,8,1,3,4,9,18,-9,6,iceland
 Fram,8,0,3,5,6,17,-11,3,iceland
 Keflavik,8,0,2,6,7,19,-12,2,iceland
 HK Kopavogur,8,0,2,6,6,20,-14,2,iceland
+IA Akranes,8,7,1,0,23,11,12,22,iceland2
+Leiknir R.,8,5,0,3,21,11,10,15,iceland2
+Vestri,8,4,3,1,14,8,6,15,iceland2
+Afturelding,8,4,2,2,19,13,6,14,iceland2
+Fjolnir,8,3,3,2,14,14,0,12,iceland2
+Njardvík,8,3,0,5,14,22,-8,9,iceland2
+Thor Akureyri,8,1,3,4,8,14,-6,6,iceland2
+Grindavik,8,2,0,6,7,23,-16,6,iceland2
+Throttur R.,8,1,2,5,13,19,-6,5,iceland2
+Grotta,8,1,2,5,9,17,-8,5,iceland2
+Selfoss,8,1,0,7,10,23,-13,3,iceland2
+AEggir,8,1,0,7,9,30,-21,3,iceland2
 Dalvik / Reynir,8,5,2,1,15,6,9,17,iceland3
 IR Reykjavik,8,5,0,3,18,11,7,15,iceland3
 Haukar,8,4,1,3,14,11,3,13,iceland3
@@ -896,17 +908,31 @@ V. Olafsvik,8,2,2,4,9,15,-6,8,iceland3
 Fjallabyggd,8,2,1,5,14,18,-4,7,iceland3
 KV Reykjavik,8,0,1,7,6,24,-18,1,iceland3
 Sindri,8,0,1,7,6,32,-26,1,iceland3
-Mumbai City,8,7,0,1,25,11,14,21,india
-Hyderabad,8,5,1,2,14,7,7,16,india
-Bengaluru,8,4,0,4,12,12,0,12,india
-Jamshedpur,8,4,0,4,11,11,0,12,india
-ATK Mohun Bagan,8,2,3,3,3,5,-2,9,india
-East Bengal,8,3,0,5,8,14,-6,9,india
-Chennaiyin,8,2,2,4,17,17,0,8,india
-Odisha FC,8,2,1,5,10,15,-5,7,india
-Kerala Blasters,8,2,1,5,5,12,-7,7,india
-Goa,8,0,3,5,9,18,-9,3,india
-NorthEast Utd,8,0,1,7,10,25,-15,1,india
+Goa,3,2,1,0,5,1,4,7,india
+ATK Mohun Bagan,2,2,0,0,6,3,3,6,india
+Mumbai City,2,1,1,0,4,3,1,4,india
+Kerala Blasters,2,1,0,1,3,3,0,3,india
+Chennaiyin,3,1,0,2,1,5,-4,3,india
+NorthEast Utd,3,0,2,1,2,3,-1,2,india
+Hyderabad,4,0,2,2,3,5,-2,2,india
+Jamshedpur,3,0,1,2,1,3,-2,1,india
+Bengaluru,4,0,1,3,4,7,-3,1,india
+Punjab,5,0,1,4,3,11,-8,1,india
+East Bengal,1,0,0,1,1,2,-1,0,india
+Odisha FC,2,0,0,2,3,5,-2,0,india
+Churchill B.,3,1,1,1,3,3,0,4,india2
+Inter Kashi,3,1,1,1,7,8,-1,4,india2
+Gokulam,1,1,0,0,2,0,2,3,india2
+Mohammedan,1,1,0,0,2,1,1,3,india2
+Aizawl,2,1,0,1,3,3,0,3,india2
+Sreenidi Deccan,1,0,1,0,2,2,0,1,india2
+Shillong Lajong,1,0,1,0,1,1,0,1,india2
+Neroca,3,0,1,2,2,9,-7,1,india2
+TRAU,3,0,1,2,1,8,-7,1,india2
+Delhi FC,0,0,0,0,0,0,0,0,india2
+Namdhari,0,0,0,0,0,0,0,0,india2
+Real Kashmir,1,0,0,1,0,1,-1,0,india2
+Rajasthan,3,0,0,3,3,11,-8,0,india2
 Persib,8,5,2,1,13,9,4,17,indonesia
 Borneo,8,4,2,2,10,7,3,14,indonesia
 Madura Utd,8,4,2,2,13,11,2,14,indonesia
@@ -1799,7 +1825,7 @@ Airdrieonians,6,1,1,4,3,10,-7,4,scotland2
 Falkirk,6,4,2,0,16,6,10,14,scotland3
 Hamilton,7,4,2,1,12,4,8,14,scotland3
 Cove Rangers,7,3,2,2,9,6,3,11,scotland3
-Montrose,5,3,0,2,13,8,5,9,scotland3
+Montrose,6,3,0,3,13,9,4,9,scotland3
 Queen of South,6,3,0,3,6,7,-1,9,scotland3
 Kelty Hearts,6,2,2,2,11,9,2,8,scotland3
 Alloa Athletic,7,2,1,4,10,13,-3,7,scotland3
@@ -1807,7 +1833,7 @@ Stirling Albion,7,2,0,5,2,13,-11,6,scotland3
 Edinburgh City,6,0,2,4,7,13,-6,2,scotland3
 Annan Athletic,7,0,2,5,7,19,-12,2,scotland3
 Stenhousemuir,6,4,2,0,8,2,6,14,scotland4
-Peterhead,5,4,0,1,10,4,6,12,scotland4
+Peterhead,6,4,0,2,10,6,4,12,scotland4
 Spartans,6,3,2,1,12,10,2,11,scotland4
 Dumbarton,6,3,1,2,10,7,3,10,scotland4
 Bonnyrigg Rose,6,2,1,3,7,11,-4,7,scotland4
@@ -1911,6 +1937,22 @@ Royal AM,6,1,1,4,6,12,-6,4,southafrica
 Kaizer Chiefs,5,1,0,4,4,6,-2,3,southafrica
 TS Galaxy,5,0,1,4,0,6,-6,1,southafrica
 Cape Town Spurs,6,0,0,6,5,14,-9,0,southafrica
+Magesi,7,4,1,2,9,8,1,13,southafrica2
+Orbit College,6,4,0,2,8,7,1,12,southafrica2
+Baroka,6,2,3,1,6,5,1,9,southafrica2
+JDR Stars,6,2,3,1,7,7,0,9,southafrica2
+Casric Stars,6,2,2,2,4,7,-3,8,southafrica2
+Hungry Lions,5,2,1,2,6,4,2,7,southafrica2
+Maritzburg Utd,6,1,4,1,3,3,0,7,southafrica2
+MM Platinum,6,1,4,1,2,2,0,7,southafrica2
+Pretoria U.,6,1,3,2,2,4,-2,6,southafrica2
+Upington City,6,0,4,2,4,6,-2,4,southafrica2
+Milford,7,1,1,5,5,8,-3,4,southafrica2
+Pretoria C.,7,0,4,3,5,10,-5,4,southafrica2
+Venda FC,5,1,1,3,4,10,-6,4,southafrica2
+Tshakhuma,5,0,2,3,5,9,-4,2,southafrica2
+Platinum City,6,0,1,5,3,9,-6,1,southafrica2
+Black Leopards,6,0,1,5,0,10,-10,1,southafrica2
 Gwangju,8,4,4,0,10,5,5,16,southkorea
 Incheon Utd,8,4,3,1,9,6,3,15,southkorea
 Seoul,8,3,3,2,14,12,2,12,southkorea
@@ -2304,10 +2346,10 @@ Ba Ria Vung Tau,8,0,3,5,3,12,-9,3,vietnam2
 Hue,8,0,3,5,3,14,-11,3,vietnam2
 The New Saints,8,7,1,0,22,5,17,22,wales
 Connah`s Quay,8,4,1,3,18,13,5,13,wales
+Newtown,7,4,0,3,13,9,4,12,wales
 Penybont,7,3,1,3,14,13,1,10,wales
 Caernarfon Town,7,3,1,3,15,16,-1,10,wales
 Aberystwyth,8,3,1,4,5,15,-10,10,wales
-Newtown,6,3,0,3,12,9,3,9,wales
 Cardiff MU,7,2,2,3,8,14,-6,8,wales
 Haverfordwest,8,1,3,4,7,16,-9,6,wales
 Pontypridd Town,7,1,2,4,1,9,-8,5,wales
