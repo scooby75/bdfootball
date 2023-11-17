@@ -923,15 +923,15 @@ Punjab,4,0,2,2,3,8,-5,2,india
 Gokulam,4,3,1,0,13,3,10,10,india2
 Mohammedan,4,3,1,0,11,3,8,10,india2
 Sreenidi Deccan,4,2,1,1,11,5,6,7,india2
+Aizawl,3,2,0,1,6,4,2,6,india2
 Real Kashmir,4,2,0,2,4,4,0,6,india2
 Delhi FC,3,1,1,1,6,6,0,4,india2
 Churchill B.,3,1,1,1,3,3,0,4,india2
 Inter Kashi,3,1,1,1,7,8,-1,4,india2
 Namdhari,3,1,1,1,3,4,-1,4,india2
 Shillong Lajong,3,0,3,0,4,4,0,3,india2
-Aizawl,2,1,0,1,3,3,0,3,india2
 Rajasthan,4,1,0,3,5,11,-6,3,india2
-Neroca,3,0,1,2,2,9,-7,1,india2
+Neroca,4,0,1,3,3,12,-9,1,india2
 TRAU,4,0,1,3,1,10,-9,1,india2
 PSIS Semarang,4,3,1,0,10,4,6,10,indonesia
 Borneo,4,3,1,0,9,3,6,10,indonesia
@@ -1306,7 +1306,7 @@ Bayanzurkh S.,4,0,0,4,3,19,-16,0,mongolia
 Decic,4,3,1,0,6,1,5,10,montenegro
 Buducnost,4,3,1,0,8,4,4,10,montenegro
 Sutjeska,4,2,1,1,6,4,2,7,montenegro
-Rudar,4,2,0,2,2,3,-1,6,montenegro
+Rudar,4,2,0,2,3,3,0,6,montenegro
 Mornar,4,1,2,1,5,5,0,5,montenegro
 Jezero,4,1,2,1,3,3,0,5,montenegro
 Jedinstvo,4,1,1,2,6,8,-2,4,montenegro
@@ -2046,11 +2046,11 @@ FC Basel,4,1,0,3,3,9,-6,3,switzerland
 Yverdon,4,0,2,2,5,7,-2,2,switzerland
 Lausanne Ouchy,4,0,2,2,7,13,-6,2,switzerland
 Lugano,4,0,1,3,3,9,-6,1,switzerland
-Foutoua,4,3,1,0,6,1,5,10,syria
+Foutoua,4,3,1,0,7,2,5,10,syria
 Hottin,4,3,0,1,4,2,2,9,syria
 Jabala,4,2,2,0,6,2,4,8,syria
 Wathbah,4,2,2,0,4,0,4,8,syria
-Teshrin,4,2,1,1,4,4,0,7,syria
+Teshrin,4,2,1,1,5,5,0,7,syria
 Taliya,4,2,0,2,3,2,1,6,syria
 Al Ittihad,4,1,2,1,2,2,0,5,syria
 Al Jaish,4,1,1,2,4,4,0,4,syria
