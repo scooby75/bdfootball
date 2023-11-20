@@ -16,8 +16,8 @@ CR Belouizdad,3,2,0,1,5,2,3,6,algeria
 NC Magra,3,1,1,1,1,1,0,4,algeria
 MC Alger,2,1,0,1,2,2,0,3,algeria
 CS Constantine,3,1,0,2,4,5,-1,3,algeria
-JS Kabylie,3,1,0,2,2,3,-1,3,algeria
 US Biskra,3,1,0,2,2,3,-1,3,algeria
+JS Kabylie,4,1,0,3,2,4,-2,3,algeria
 Khenchela,3,1,0,2,3,6,-3,3,algeria
 US Souf,3,1,0,2,2,7,-5,3,algeria
 ASO Chlef,2,0,1,1,2,3,-1,1,algeria
@@ -212,19 +212,19 @@ Belshina,8,0,2,6,7,21,-14,2,belarus
 Arsenal D.,8,7,0,1,20,8,12,21,belarus2
 Dnepr Mogilev,8,6,2,0,19,1,18,20,belarus2
 Vitebsk,8,5,2,1,15,5,10,17,belarus2
+Zhodino Yuzhnoe,8,5,0,3,19,11,8,15,belarus2
 FC Ostrovets,8,4,2,2,19,11,8,14,belarus2
-Zhodino Yuzhnoe,8,4,0,4,16,12,4,12,belarus2
 Maxline,8,4,0,4,20,18,2,12,belarus2
-Lida,8,3,1,4,12,15,-3,10,belarus2
+Lida,8,3,1,4,12,17,-5,10,belarus2
 Volna Pinsk,8,2,3,3,9,10,-1,9,belarus2
+Niva,8,3,0,5,15,20,-5,9,belarus2
 S.Petrikov,8,3,0,5,9,16,-7,9,belarus2
 Lokomotiv Gomel,8,2,3,3,6,13,-7,9,belarus2
 Molodechno-DYuS,8,2,2,4,13,20,-7,8,belarus2
-Niva,8,2,1,5,12,20,-8,7,belarus2
 Orsha,8,1,3,4,15,18,-3,6,belarus2
 Bumprom,8,2,0,6,7,17,-10,6,belarus2
+Baranovichi,8,1,2,5,6,14,-8,5,belarus2
 Slonim,8,0,3,5,7,17,-10,3,belarus2
-Baranovichi,8,0,2,6,4,17,-13,2,belarus2
 Osipovichy,8,0,0,8,4,22,-18,0,belarus2
 Royale Union SG,6,5,0,1,13,7,6,15,belgium
 KRC Genk,7,4,2,1,14,5,9,14,belgium
@@ -255,10 +255,10 @@ Santa Cruz,8,2,0,6,5,19,-14,6,bolivia
 Nacional Potosi,8,0,4,4,10,15,-5,4,bolivia
 Bolivar,8,0,4,4,9,14,-5,4,bolivia
 Vaca Diez,8,1,1,6,8,20,-12,4,bolivia
-A. Palmaflor,8,1,1,6,5,19,-14,4,bolivia
 Libertad,8,0,3,5,7,21,-14,3,bolivia
 Blooming,8,0,1,7,3,15,-12,1,bolivia
-Guabira,8,0,0,8,2,21,-19,0,bolivia
+A. Palmaflor,8,0,1,7,4,20,-16,1,bolivia
+Guabira,8,0,0,8,2,16,-14,0,bolivia
 The Strongest,8,5,2,1,14,4,10,17,bolivia2
 Always Ready,8,4,2,2,12,8,4,14,bolivia2
 Bolivar,8,3,3,2,17,14,3,12,bolivia2
@@ -776,7 +776,7 @@ Schalke 04,7,1,1,5,8,17,-9,4,germany2
 Osnabruck,6,0,2,4,5,18,-13,2,germany2
 Braunschweig,6,0,0,6,1,13,-12,0,germany2
 Regensburg,7,5,2,0,11,5,6,17,germany3
-Dynamo Dresden,7,4,1,2,12,7,5,13,germany3
+Dynamo Dresden,8,4,1,3,12,8,4,13,germany3
 Sandhausen,8,3,3,2,9,9,0,12,germany3
 Verl,7,3,1,3,16,13,3,10,germany3
 Dortmund B,7,2,4,1,9,8,1,10,germany3
@@ -810,8 +810,8 @@ Volos,5,0,2,3,2,10,-8,2,greece
 Panaitolikos,6,0,1,5,4,13,-9,1,greece
 Kifisia,5,0,1,4,3,12,-9,1,greece
 Municipal,8,4,3,1,14,8,6,15,guatemala
-Antigua GFC,7,3,1,3,9,10,-1,10,guatemala
-Achuapa,7,3,1,3,11,14,-3,10,guatemala
+Antigua GFC,8,3,2,3,9,10,-1,11,guatemala
+Achuapa,8,3,2,3,12,15,-3,11,guatemala
 Guastatoya,8,3,0,5,8,9,-1,9,guatemala
 Comunicaciones,7,2,2,3,10,11,-1,8,guatemala
 Malacateco,7,2,1,4,9,13,-4,7,guatemala
@@ -923,10 +923,10 @@ Odisha FC,2,0,0,2,3,5,-2,0,india
 Inter Kashi,4,2,1,1,9,9,0,7,india2
 Aizawl,3,2,0,1,6,4,2,6,india2
 Mohammedan,2,2,0,0,4,2,2,6,india2
+Sreenidi Deccan,2,1,1,0,7,2,5,4,india2
 Churchill B.,3,1,1,1,3,3,0,4,india2
 Delhi FC,1,1,0,0,5,1,4,3,india2
-Gokulam,1,1,0,0,2,0,2,3,india2
-Sreenidi Deccan,1,0,1,0,2,2,0,1,india2
+Gokulam,2,1,0,1,3,3,0,3,india2
 Shillong Lajong,1,0,1,0,1,1,0,1,india2
 Neroca,3,0,1,2,2,9,-7,1,india2
 TRAU,3,0,1,2,1,8,-7,1,india2
@@ -1650,8 +1650,8 @@ Znicz Pruszkow,8,1,1,6,5,14,-9,4,poland2
 Podbeskidzie,7,0,2,5,3,13,-10,2,poland2
 Radunia Stezyca,8,4,3,1,9,9,0,15,poland3
 Pogon Siedlce,8,4,2,2,14,9,5,14,poland3
+Kalisz,8,4,1,3,13,10,3,13,poland3
 K. Kolobrzeg,8,3,3,2,19,17,2,12,poland3
-Kalisz,8,3,2,3,9,9,0,11,poland3
 Hutnik Krakow,8,3,1,4,9,11,-2,10,poland3
 SKRA Czestochow,8,2,3,3,8,9,-1,9,poland3
 Lech Poznan B,8,2,2,4,8,10,-2,8,poland3
@@ -1686,11 +1686,11 @@ Rio Ave,5,0,2,3,3,8,-5,2,portugal
 Gil Vicente,5,0,0,5,5,12,-7,0,portugal
 Maritimo,6,5,0,1,11,6,5,15,portugal2
 AVS,5,4,0,1,8,5,3,12,portugal2
+Nacional,5,3,1,1,8,6,2,10,portugal2
 Santa Clara,5,2,3,0,6,2,4,9,portugal2
 Torreense,5,2,2,1,6,5,1,8,portugal2
 FC Porto B,5,2,1,2,12,7,5,7,portugal2
 Uniao de Leiria,6,2,1,3,10,8,2,7,portugal2
-Nacional,4,2,1,1,7,6,1,7,portugal2
 Leixoes,6,2,1,3,6,11,-5,7,portugal2
 Tondela,5,1,3,1,8,11,-3,6,portugal2
 Oliveirense,4,2,0,2,4,9,-5,6,portugal2
@@ -1748,9 +1748,9 @@ Rostov,7,0,2,5,7,18,-11,2,russia
 Baltika,8,0,1,7,4,13,-9,1,russia
 Khimki,8,5,1,2,13,8,5,16,russia2
 Makhachkala,8,4,3,1,6,2,4,15,russia2
+Arsenal Tula,8,3,5,0,10,4,6,14,russia2
 Tyumen,8,4,2,2,11,9,2,14,russia2
 Akron,8,4,2,2,7,5,2,14,russia2
-Arsenal Tula,8,2,5,1,9,6,3,11,russia2
 V. Astrakhan,8,2,4,2,6,5,1,10,russia2
 A. Vladikavkaz,8,2,4,2,9,11,-2,10,russia2
 Leningradets,8,3,1,4,9,13,-4,10,russia2
@@ -1763,7 +1763,7 @@ Chernomorets,8,1,3,4,5,12,-7,6,russia2
 Torpedo Moscow,8,0,4,4,3,9,-6,4,russia2
 Urozhay,8,1,1,6,4,14,-10,4,russia2
 Yenisey,8,0,2,6,5,13,-8,2,russia2
-SKA Khabarovsk,8,0,1,7,4,15,-11,1,russia2
+SKA Khabarovsk,8,0,2,6,5,15,-10,2,russia2
 Al Nassr,7,6,0,1,22,7,15,18,saudiarabia
 Al Hilal,6,5,1,0,17,5,12,16,saudiarabia
 Al Ittihad,7,4,2,1,12,2,10,14,saudiarabia
@@ -1896,10 +1896,10 @@ FC Kosice,7,1,0,6,7,19,-12,3,slovakia
 Z. Michalovce,7,0,2,5,6,16,-10,2,slovakia
 Zlate Moravce,7,0,1,6,3,11,-8,1,slovakia
 Komarno,8,7,0,1,16,8,8,21,slovakia2
-Tatran Presov,8,5,1,2,14,6,8,16,slovakia2
+Tatran Presov,8,5,1,2,15,6,9,16,slovakia2
 Petrzalka,8,4,3,1,16,9,7,15,slovakia2
 Puchov,8,5,0,3,20,14,6,15,slovakia2
-S. Bratislava B,8,4,2,2,11,6,5,14,slovakia2
+S. Bratislava B,8,4,2,2,12,10,2,14,slovakia2
 P. Bystrica,8,3,4,1,10,6,4,13,slovakia2
 Zilina B,8,4,1,3,13,12,1,13,slovakia2
 Samorin,8,3,1,4,11,13,-2,10,slovakia2
@@ -2019,7 +2019,7 @@ Racing,7,1,2,4,7,13,-6,5,spain2
 Albacete,7,1,2,4,4,11,-7,5,spain2
 FC Andorra,7,1,0,6,6,15,-9,3,spain2
 Amorebieta,8,0,2,6,6,19,-13,2,spain2
-Burgos,7,0,0,7,5,17,-12,0,spain2
+Burgos,8,0,1,7,6,18,-12,1,spain2
 Mjallby,8,5,1,2,13,7,6,16,sweden
 Varnamo,8,5,1,2,17,12,5,16,sweden
 Sirius,8,4,1,3,14,10,4,13,sweden
@@ -2298,7 +2298,7 @@ Termez Surkhon,8,3,4,1,8,6,2,13,uzbekistan
 AMGK,8,3,4,1,9,8,1,13,uzbekistan
 Neftchi,8,2,4,2,9,8,1,10,uzbekistan
 Metallurg,8,3,1,4,9,9,0,10,uzbekistan
-FK Olympic,8,3,1,4,7,10,-3,10,uzbekistan
+FK Olympic,8,3,1,4,7,8,-1,10,uzbekistan
 Andijan,8,2,2,4,6,11,-5,8,uzbekistan
 Bunyodkor,8,2,2,4,5,10,-5,8,uzbekistan
 Qizilqum,8,1,4,3,4,10,-6,7,uzbekistan
