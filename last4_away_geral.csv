@@ -1,16 +1,16 @@
 Equipe,GP,W,D,L,GF,GA,GD,Pts,albania2
-Bylis,4,4,0,0,7,3,4,12,albania2
+Bylis,5,5,0,0,9,4,5,15,albania2
 Apolonia Fier,6,3,2,1,10,4,6,11,albania2
 Flamurtari,6,3,2,1,8,3,5,11,albania2
 AF Elbasani,6,3,1,2,9,7,2,10,albania2
 Vora,5,2,0,3,8,9,-1,6,albania2
-Lushnja,5,1,2,2,7,7,0,5,albania2
-Luzi 2008,5,1,0,4,6,7,-1,3,albania2
+Lushnja,6,1,2,3,8,11,-3,5,albania2
+Luzi 2008,6,1,0,5,7,9,-2,3,albania2
 Korabi Peshkopi,6,0,3,3,0,3,-3,3,albania2
 Besa Kavaje,6,0,3,3,6,13,-7,3,albania2
 Burreli,6,1,0,5,2,10,-8,3,albania2
-Kastrioti Kruje,5,0,2,3,3,8,-5,2,albania2
-Tomori Berat,5,0,1,4,3,15,-12,1,albania2
+Kastrioti Kruje,6,0,2,4,4,11,-7,2,albania2
+Tomori Berat,6,0,1,5,3,19,-16,1,albania2
 Paradou AC,3,2,1,0,6,0,6,7,algeria
 CR Belouizdad,3,2,0,1,5,2,3,6,algeria
 NC Magra,3,1,1,1,1,1,0,4,algeria
@@ -287,14 +287,14 @@ Athletico PR,8,2,3,3,8,8,0,9,brazil
 Botafogo,8,2,3,3,6,6,0,9,brazil
 Corinthians,8,2,3,3,10,11,-1,9,brazil
 Goias,8,2,3,3,9,11,-2,9,brazil
-Vasco da Gama,8,2,3,3,7,9,-2,9,brazil
+Vasco da Gama,8,2,3,3,8,10,-2,9,brazil
 Coritiba,8,3,0,5,14,19,-5,9,brazil
 Internacional,8,2,2,4,6,11,-5,8,brazil
 Fortaleza,8,2,1,5,6,11,-5,7,brazil
 Bahia,8,2,0,6,10,16,-6,6,brazil
 America MG,8,0,4,4,11,16,-5,4,brazil
-Sao Paulo,8,0,4,4,4,13,-9,4,brazil
 Fluminense,8,0,3,5,5,14,-9,3,brazil
+Sao Paulo,8,0,3,5,3,13,-10,3,brazil
 CSKA Sofia,8,7,0,1,16,6,10,21,bulgaria
 Ludogorets,8,5,1,2,16,5,11,16,bulgaria
 Lok. Plovdiv,8,4,4,0,14,9,5,16,bulgaria
@@ -409,12 +409,12 @@ Guanacasteca,8,4,2,2,7,8,-1,14,costarica
 Herediano,8,3,3,2,11,7,4,12,costarica
 Sporting SJ,8,2,2,4,9,15,-6,8,costarica
 Cartagines,8,2,1,5,9,10,-1,7,costarica
-M. Liberia,8,2,1,5,14,18,-4,7,costarica
 Puntarenas,8,1,2,5,8,13,-5,5,costarica
 AD Grecia,8,1,2,5,5,19,-14,5,costarica
 San Carlos,8,1,1,6,9,15,-6,4,costarica
+M. Liberia,8,1,1,6,12,19,-7,4,costarica
 Zeledon,8,1,1,6,4,21,-17,4,costarica
-Santos DG,8,0,3,5,3,12,-9,3,costarica
+Santos DG,8,0,3,5,3,14,-11,3,costarica
 Slavia Prague,8,6,2,0,14,5,9,20,czechrepublic
 Sparta Prague,8,5,2,1,15,7,8,17,czechrepublic
 Banik Ostrava,7,3,1,3,10,9,1,10,czechrepublic
@@ -535,11 +535,11 @@ Derby County,8,4,1,3,15,10,5,13,england3
 Stevenage,8,4,1,3,12,10,2,13,england3
 Peterborough,8,3,2,3,12,11,1,11,england3
 Wycombe,8,3,2,3,13,14,-1,11,england3
+Lincoln City,8,3,2,3,6,7,-1,11,england3
 Leyton Orient,8,2,4,2,8,8,0,10,england3
 Port Vale,8,2,4,2,7,10,-3,10,england3
 Bristol Rovers,8,3,1,4,8,12,-4,10,england3
 Fleetwood,8,2,3,3,10,11,-1,9,england3
-Lincoln City,8,2,3,3,7,9,-2,9,england3
 Exeter City,8,3,0,5,7,13,-6,9,england3
 Wigan Athletic,8,2,2,4,11,11,0,8,england3
 Burton Albion,8,2,2,4,6,10,-4,8,england3
@@ -575,27 +575,27 @@ Grimsby,8,0,4,4,9,15,-6,4,england4
 Swindon Town,8,0,4,4,9,15,-6,4,england4
 Tranmere,8,0,1,7,5,17,-12,1,england4
 Sutton Utd,8,0,1,7,9,24,-15,1,england4
-Chesterfield,8,5,1,2,15,10,5,16,england5
-Gateshead FC,8,4,3,1,20,8,12,15,england5
+Chesterfield,8,6,1,1,16,8,8,19,england5
+Gateshead FC,8,4,3,1,18,7,11,15,england5
 Barnet,8,5,0,3,16,14,2,15,england5
 Solihull Moors,8,4,3,1,11,10,1,15,england5
+Oldham,8,4,2,2,14,14,0,14,england5
 Woking,8,4,1,3,11,7,4,13,england5
 Bromley,8,3,4,1,10,9,1,13,england5
 Halifax Town,8,3,3,2,9,7,2,12,england5
 Rochdale,8,3,3,2,14,13,1,12,england5
+Aldershot Town,8,4,0,4,12,11,1,12,england5
 Dagenham & R.,8,3,3,2,9,8,1,12,england5
-Altrincham,8,3,3,2,11,11,0,12,england5
-Oldham,8,3,3,2,10,13,-3,12,england5
+Altrincham,8,3,2,3,8,11,-3,11,england5
 York City,8,3,1,4,10,17,-7,10,england5
 Dorking,8,3,1,4,5,13,-8,10,england5
-Aldershot Town,8,3,0,5,9,12,-3,9,england5
-Boreham Wood,8,2,3,3,11,15,-4,9,england5
+Boreham Wood,8,2,3,3,12,13,-1,9,england5
+Hartlepool,8,2,2,4,11,14,-3,8,england5
 Eastleigh,8,2,2,4,9,13,-4,8,england5
-Hartlepool,8,2,1,5,12,16,-4,7,england5
+AFC Fylde,8,2,1,5,11,14,-3,7,england5
 Southend Utd,8,1,4,3,8,12,-4,7,england5
-AFC Fylde,8,2,0,6,10,15,-5,6,england5
-Oxford City,8,1,3,4,11,17,-6,6,england5
-Maidenhead Utd,8,1,2,5,8,18,-10,5,england5
+Oxford City,8,1,2,5,11,19,-8,5,england5
+Maidenhead Utd,8,1,2,5,9,19,-10,5,england5
 Kidderminster,8,1,1,6,5,14,-9,4,england5
 Ebbsfleet Utd,8,0,3,5,10,23,-13,3,england5
 Wealdstone,8,0,0,8,6,16,-10,0,england5
@@ -920,18 +920,18 @@ Bengaluru,4,0,1,3,4,7,-3,1,india
 Punjab,5,0,1,4,3,11,-8,1,india
 East Bengal,1,0,0,1,1,2,-1,0,india
 Odisha FC,2,0,0,2,3,5,-2,0,india
+Mohammedan,3,3,0,0,6,2,4,9,india2
 Inter Kashi,4,2,1,1,9,9,0,7,india2
 Aizawl,3,2,0,1,6,4,2,6,india2
-Mohammedan,2,2,0,0,4,2,2,6,india2
 Sreenidi Deccan,2,1,1,0,7,2,5,4,india2
 Churchill B.,3,1,1,1,3,3,0,4,india2
-Delhi FC,1,1,0,0,5,1,4,3,india2
+Delhi FC,2,1,0,1,6,3,3,3,india2
 Gokulam,2,1,0,1,3,3,0,3,india2
 Shillong Lajong,1,0,1,0,1,1,0,1,india2
 Neroca,3,0,1,2,2,9,-7,1,india2
-TRAU,3,0,1,2,1,8,-7,1,india2
-Namdhari,1,0,0,1,1,2,-1,0,india2
+TRAU,4,0,1,3,1,12,-11,1,india2
 Real Kashmir,1,0,0,1,0,1,-1,0,india2
+Namdhari,2,0,0,2,1,5,-4,0,india2
 Rajasthan,3,0,0,3,3,11,-8,0,india2
 Persib,8,5,2,1,13,9,4,17,indonesia
 Borneo,8,4,2,2,10,7,3,14,indonesia
@@ -1836,9 +1836,9 @@ Stenhousemuir,7,5,2,0,11,2,9,17,scotland4
 Peterhead,7,5,0,2,12,7,5,15,scotland4
 Spartans,6,3,2,1,12,10,2,11,scotland4
 Dumbarton,6,3,1,2,10,7,3,10,scotland4
-Forfar Athletic,6,2,3,1,6,4,2,9,scotland4
+Forfar Athletic,7,2,3,2,6,5,1,9,scotland4
 Bonnyrigg Rose,6,2,1,3,7,11,-4,7,scotland4
-East Fife,6,1,3,2,8,7,1,6,scotland4
+East Fife,7,1,3,3,10,11,-1,6,scotland4
 Stranraer,6,1,1,4,5,16,-11,4,scotland4
 Clyde,6,0,3,3,6,10,-4,3,scotland4
 Elgin City,7,0,1,6,4,19,-15,1,scotland4
@@ -1848,7 +1848,7 @@ Red Star,6,4,0,2,15,11,4,12,serbia
 Napredak,6,3,1,2,9,9,0,10,serbia
 Radnicki 1923,8,3,0,5,10,12,-2,9,serbia
 Mladost Lucani,6,3,0,3,6,9,-3,9,serbia
-Cukaricki,6,2,1,3,8,9,-1,7,serbia
+Cukaricki,7,2,1,4,8,10,-2,7,serbia
 Z. Pancevo,7,2,1,4,8,14,-6,7,serbia
 IMT N. Beograd,7,2,0,5,11,12,-1,6,serbia
 Vojvodina,7,1,3,3,7,15,-8,6,serbia
@@ -1859,15 +1859,15 @@ Vozdovac,7,1,2,4,5,12,-7,5,serbia
 Rad. Surdulica,7,0,4,3,5,11,-6,4,serbia
 Sp. Subotica,6,1,1,4,4,10,-6,4,serbia
 OFK Beograd,8,5,2,1,19,8,11,17,serbia2
-Indija,7,3,2,2,7,6,1,11,serbia2
-Smederevo,7,2,4,1,6,5,1,10,serbia2
+Indija,8,4,2,2,8,6,2,14,serbia2
+Smederevo,8,2,4,2,7,7,0,10,serbia2
 Dubocica,8,2,4,2,7,8,-1,10,serbia2
-Tekstilac Odzac,8,2,3,3,5,4,1,9,serbia2
 Kolubara,8,2,3,3,6,6,0,9,serbia2
-OFK Vrac,7,2,2,3,5,9,-4,8,serbia2
+OFK Vrac,8,2,3,3,6,10,-4,9,serbia2
+Tekstilac Odzac,8,2,2,4,5,6,-1,8,serbia2
 Jedinstvo Ub,8,2,2,4,7,12,-5,8,serbia2
-S. Mitrovica,8,2,1,5,5,10,-5,7,serbia2
-Mladost Novi S.,7,1,3,3,4,8,-4,6,serbia2
+Mladost Novi S.,8,1,4,3,6,10,-4,7,serbia2
+S. Mitrovica,8,2,1,5,6,11,-5,7,serbia2
 Metalac GM,8,1,3,4,5,11,-6,6,serbia2
 Radnicki B.,7,1,2,4,7,12,-5,5,serbia2
 Graficar,8,0,5,3,5,12,-7,5,serbia2
@@ -2081,10 +2081,10 @@ Young Africans,4,3,0,1,10,3,7,9,tanzania
 Simba,3,3,0,0,9,4,5,9,tanzania
 Singida,5,3,0,2,8,7,1,9,tanzania
 Dodoma Jiji,5,2,1,2,6,7,-1,7,tanzania
-JKT Tanzania,5,2,1,2,5,9,-4,7,tanzania
+JKT Tanzania,6,2,1,3,5,10,-5,7,tanzania
 Namungo,5,1,3,1,5,4,1,6,tanzania
+KMC,5,1,3,1,4,8,-4,6,tanzania
 Geita Gold,5,1,2,2,2,4,-2,5,tanzania
-KMC,4,1,2,1,3,7,-4,5,tanzania
 Kagera Sugar,5,1,1,3,3,5,-2,4,tanzania
 Tabora,6,0,4,2,0,5,-5,4,tanzania
 Coastal Union,4,0,2,2,2,6,-4,2,tanzania
@@ -2292,20 +2292,20 @@ Charlotte,8,1,3,4,14,20,-6,6,usa3
 Forward Madison,8,1,2,5,11,19,-8,5,usa3
 Richmond K.,8,0,2,6,9,19,-10,2,usa3
 Pakhtakor,8,5,2,1,11,6,5,17,uzbekistan
+AMGK,8,4,3,1,9,7,2,15,uzbekistan
 Navbahor,8,4,2,2,15,8,7,14,uzbekistan
 Nasaf Qarshi,8,4,2,2,10,7,3,14,uzbekistan
 Termez Surkhon,8,3,4,1,8,6,2,13,uzbekistan
-AMGK,8,3,4,1,9,8,1,13,uzbekistan
+Andijan,8,3,2,3,8,10,-2,11,uzbekistan
 Neftchi,8,2,4,2,9,8,1,10,uzbekistan
 Metallurg,8,3,1,4,9,9,0,10,uzbekistan
 FK Olympic,8,3,1,4,7,8,-1,10,uzbekistan
-Andijan,8,2,2,4,6,11,-5,8,uzbekistan
 Bunyodkor,8,2,2,4,5,10,-5,8,uzbekistan
 Qizilqum,8,1,4,3,4,10,-6,7,uzbekistan
 Sogdiana,8,1,2,5,10,15,-5,5,uzbekistan
 Buxoro,8,1,1,6,3,11,-8,4,uzbekistan
 Turan,8,1,1,6,6,18,-12,4,uzbekistan
-D. Tachira,8,5,3,0,10,5,5,18,venezuela
+D. Tachira,8,6,2,0,13,6,7,20,venezuela
 Portuguesa,8,4,2,2,10,10,0,14,venezuela
 Caracas,8,2,5,1,9,7,2,11,venezuela
 Rayo Zuliano,8,3,2,3,11,11,0,11,venezuela
