@@ -51,7 +51,7 @@ Date,Hora,Liga,Home,Away,Placar HT,Winrate,Profit,Profit_HA-025,Profit_DNB_HT,Pr
 27.09.2023,14:00:00,Superettan,Öster,Helsingborg,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
 27.09.2023,14:30:00,First League,Ludogorets,Lokomotiv Plovdiv,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
 27.09.2023,19:00:00,Serie A,São Paulo,Coritiba,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-29.09.2023,07:30:00,J1 League,Urawa Reds,Yokohama,0x1,1,"0,2",-1,-1,-1,"0,16",-1
+29.09.2023,07:30:00,J1 League,Urawa Reds,Yokohama,0x1,1,-1,-1,-1,-1,"0,16",-1
 29.09.2023,09:00:00,Liga 1,Bali United,PS TNI,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
 29.09.2023,10:00:00,Armenian Premier League,FC Avan Academy,Ararat,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
 29.09.2023,12:00:00,A Lyga,Hegelmann Litauen,Banga,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
@@ -195,7 +195,7 @@ Date,Hora,Liga,Home,Away,Placar HT,Winrate,Profit,Profit_HA-025,Profit_DNB_HT,Pr
 15.10.2023,13:30:00,Segunda División,Leganés,SD Amorebieta,2x0,1,"0,2",,,,"0,16","0,7"
 15.10.2023,18:00:00,Categoria Primera A,Rionegro Águilas,Alianza Petrolera,2x0,1,"0,2",,,,"0,16","0,7"
 16.10.2023,22:05:00,Ascenso MX,Venados,Dorados,1x1,1,"0,2",,,,"0,16","-0,5"
-16.10.2023,15:30:00,Prim B Nacional,Deportivo Morón,San Telmo,1x2,1,"0,2",,,,"0,16",-1
+16.10.2023,15:30:00,Prim B Nacional,Deportivo Morón,San Telmo,1x2,1,-1,,,,"0,16",-1
 17.10.2023,23:00:00,Primera División FPD,Deportivo Saprissa,Puntarenas,1x1,1,"0,2",,,,"0,16","-0,5"
 18.10.2023,04:30:00,China League One,Nanjing City,Jinan Xingzhou,0x1,0,-1,,,,"0,16",-1
 18.10.2023,08:30:00,China League One,Hebei Kungfu,Heilongjiang Lava Spring,1x0,1,"0,2",,,,"0,16","0,7"
@@ -704,7 +704,61 @@ Date,Hora,Liga,Home,Away,Placar HT,Winrate,Profit,Profit_HA-025,Profit_DNB_HT,Pr
 24.11.2023,12:00:00,Professional League,Al Taawon,Al Riyadh,1x0,1,"0,2",,,,,
 24.11.2023,14:00:00,Ukrainian Premier League,Shakhtar Donetsk,Polessya,0x0,1,"0,2",,,,,
 24.11.2023,15:30:00,Oberliga Rheinland Pfalz Saar,Pirmasens,Arminia Ludwigshafen,0x1,0,-1,,,,,
-24.11.2023,15:30:00,Oberliga Bremen,Oberneuland,Brinkumer SV,,,,,,,,
 24.11.2023,16:45:00,NIFL Championship,Portadown,Newington Youth,3x0,1,"0,2",,,,,
-24.11.2023,17:00:00,Primera D,Centro Español,Central Ballester,,,,,,,,
-24.11.2023,17:00:00,Ligue 1,PSG,Monaco,,,,,,,,
+24.11.2023,17:00:00,Primera D,Centro Español,Central Ballester,1x0,1,"0,2",,,,,
+24.11.2023,17:00:00,Ligue 1,PSG,Monaco,2x1,1,"0,2",,,,,
+25.11.2023,02:00:00,J1 League,Sanfrecce Hiroshima,Gamba Osaka,2x0,1,"0,2",,,,,
+25.11.2023,07:00:00,National Super League,Migori Youth FC,Kibera Black Stars,0x0,1,"0,2",,,,,
+25.11.2023,07:30:00,1. Lig,BB Bodrumspor,Adanaspor,0x0,1,"0,2",,,,,
+25.11.2023,07:30:00,1. Lig,Bandırmaspor,Şanlıurfaspor,0x1,0,-1,,,,,
+25.11.2023,08:00:00,Thai League 2,Nong Bua Pitchaya,Samut Prakan City,1x1,1,"0,2",,,,,
+25.11.2023,08:00:00,2 Lig Beyaz,Erokspor,Ankara Demirspor,1x0,1,"0,2",,,,,
+25.11.2023,08:00:00,3 Liga Group 1,Legia Warszawa II,Olimpia Zambrów,1x0,1,"0,2",,,,,
+25.11.2023,09:00:00,3 Liga Group 1,Swit,Warta Sieradz,0x1,0,-1,,,,,
+25.11.2023,09:15:00,Russian Premier League,Zenit,FK Sochi,1x0,1,"0,2",,,,,
+25.11.2023,09:30:00,Premier League,Manchester City,Liverpool,1x0,1,"0,2",,,,,
+25.11.2023,10:00:00,Oberliga Bayern Süd,Schwaben Augsburg,Pipinsried,1x0,1,"0,2",,,,,
+25.11.2023,10:00:00,Oberliga Bayern Süd,Nördlingen,Türkspor Augsburg,1x0,1,"0,2",,,,,
+25.11.2023,10:00:00,Regionalliga West,Fortuna Köln,Rödinghausen,0x2,0,-1,,,,,
+25.11.2023,10:00:00,Serie B,Como,FeralpiSalò,1x0,1,"0,2",,,,,
+25.11.2023,10:30:00,Oberliga Hessen,Bayern Alzenau,FC 1906 Erlensee,,,,,,,,
+25.11.2023,11:00:00,Ekstraklasa,Raków Częstochowa,Cracovia Kraków,,,,,,,,
+25.11.2023,11:00:00,Super Liga,Žilina,FK Košice,,,,,,,,
+25.11.2023,11:30:00,Bundesliga,Borussia Dortmund,Borussia M'gladbach,,,,,,,,
+25.11.2023,11:30:00,Bundesliga,Freiburg,Darmstadt 98,,,,,,,,
+25.11.2023,11:30:00,Oberliga Hamburg,Altona 93,USC Paloma,,,,,,,,
+25.11.2023,12:00:00,Pro League,Cercle Brugge,AS Eupen,,,,,,,,
+25.11.2023,12:00:00,EFL League Two,Wrexham,Morecambe,,,,,,,,
+25.11.2023,12:00:00,EFL League One,Peterborough United,Burton Albion,,,,,,,,
+25.11.2023,12:00:00,Championship,Leicester City,Watford,,,,,,,,
+25.11.2023,12:00:00,National League,Chesterfield,Eastleigh,,,,,,,,
+25.11.2023,12:00:00,Southern League Premier South,Chesham United,Basingstoke Town,,,,,,,,
+25.11.2023,12:00:00,Southern League Premier South,Salisbury,Dorchester Town,,,,,,,,
+25.11.2023,12:00:00,Northern Premier League,Radcliffe Borough,Bamber Bridge,,,,,,,,
+25.11.2023,12:00:00,Northern Premier League,Worksop Town,Marine FC,,,,,,,,
+25.11.2023,12:00:00,Southern League Premier Central,Mickleover Sports,Nuneaton Town,,,,,,,,
+25.11.2023,12:00:00,Southern League Premier Central,Needham Market,Bromsgrove Sporting,,,,,,,,
+25.11.2023,12:30:00,3. Liga,Ulm,Freiburg II,,,,,,,,
+25.11.2023,13:00:00,Bundesliga,Salzburg,Hartberg,,,,,,,,
+25.11.2023,13:00:00,Bundesliga,LASK Linz,Wattens,,,,,,,,
+25.11.2023,13:30:00,Prva HNL,Dinamo Zagreb,Osijek,,,,,,,,
+25.11.2023,14:00:00,Super League,Luzern,Winterthur,,,,,,,,
+25.11.2023,14:00:00,First Division,Paphos,Othellos,,,,,,,,
+25.11.2023,14:00:00,Primera Division RFEF Group 1,SD Ponferradina,SD Tarazona,,,,,,,,
+25.11.2023,14:30:00,SuperLiga,Partizan,Bačka Topola,,,,,,,,
+25.11.2023,14:30:00,Serie C Group A,Triestina,Arzignano Valchiampo,,,,,,,,
+25.11.2023,14:30:00,National First Division,Maritzburg United,Pretoria Callies,,,,,,,,
+25.11.2023,15:00:00,Professional League,Al Ahli,Al Shabab,,,,,,,,
+25.11.2023,15:30:00,Liga I,CFR Cluj,UTA Arad,,,,,,,,
+25.11.2023,16:00:00,Ekstraklasa,Legia Warszawa,Warta Poznań,,,,,,,,
+25.11.2023,17:00:00,Serie B,Atlético GO,Guarani,,,,,,,,
+25.11.2023,17:00:00,Serie B,Novorizontino,Criciúma,,,,,,,,
+25.11.2023,17:00:00,Serie B,Sport Recife,Sampaio Corrêa,,,,,,,,
+25.11.2023,17:00:00,Eredivisie,Ajax,Vitesse,,,,,,,,
+25.11.2023,17:00:00,La Liga,Atlético Madrid,RCD Mallorca,,,,,,,,
+25.11.2023,17:00:00,Segunda División,SD Eibar,Levante UD,,,,,,,,
+25.11.2023,18:00:00,Liga Nacional de Fútbol Profesional de Honduras,Marathón,Lobos UPNFM,,,,,,,,
+25.11.2023,20:00:00,Primera Categoría Serie A,SD Aucas,Delfin SC,,,,,,,,
+26.11.2023,21:00:00,Serie A,Fluminense,Coritiba,,,,,,,,
+26.11.2023,23:00:00,Primera División FPD,Herediano,Sporting San José,,,,,,,,
+26.11.2023,23:00:00,Primera División FPD,Alajuelense,Guanacasteca,,,,,,,,
