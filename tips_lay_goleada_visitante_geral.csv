@@ -670,49 +670,60 @@ Date,Hora,Liga,Home,Away,Placar FT,Winrate,Profit
 25.11.2023,18:00:00,Copa de la Superliga,Vélez Sarsfield,Colón,3x1,1,"0,0345"
 25.11.2023,18:00:00,Copa de la Superliga,Banfield,Gimnasia La Plata,2x0,1,"0,0345"
 25.11.2023,18:00:00,Copa de la Superliga,Platense,Sarmiento,1x0,1,"0,0345"
-26.11.2023,07:45:00,Bulgaria,First League,CSKA 1948 Sofia,Arda,,
-26.11.2023,08:00:00,Spain,Segunda División RFEF Group 1,Ourense CF,CD Guijuelo,,
-26.11.2023,08:00:00,Spain,Segunda División RFEF Group 5,Illescas,UD San Fernando,,
-26.11.2023,08:00:00,Turkey,3. Lig Group 1,Arguvan Belediyespor,Edirnespor,,
-26.11.2023,08:00:00,Turkey,2 Lig Kirmizi,Etimesgut Belediyespor,Arnavutköy Belediyespor,,
-26.11.2023,08:00:00,Spain,Tercera Group 5,Pobla Mafumet,Vilassar Mar,,
-26.11.2023,08:00:00,Spain,Tercera Group 17,Cuarte,Huesca II,,
-26.11.2023,08:00:00,Spain,Tercera Group 18,UD Socuéllamos,Huracán Balazote,,
-26.11.2023,08:00:00,Tanzania,Ligi kuu Bara,Geita Gold,Namungo,,
-26.11.2023,08:00:00,Spain,Tercera Group 13,UCAM Murcia II,Atlético Pulpileño,,
-26.11.2023,08:00:00,Spain,Primera Division RFEF Group 1,CF Fuenlabrada,Unionistas de Salamanca CF,,
-26.11.2023,08:00:00,Spain,Primera Division RFEF Group 1,Real Unión,SD Logroñés,,
-26.11.2023,08:00:00,Spain,Primera Division RFEF Group 2,Granada II,CD Atlético Baleares,,
-26.11.2023,09:00:00,Montenegro,Montenegrin First League,FK Jezero Plav,Rudar,,
-26.11.2023,09:00:00,Hungary,NB II,Pécsi MFC,Budafoki MTE,,
-26.11.2023,09:00:00,Spain,Segunda División RFEF Group 5,Atlético Paso,Ursaria,,
-26.11.2023,09:00:00,Serbia,Prva Liga,Inđija,Mladost Novi Sad,,
-26.11.2023,09:00:00,Serbia,Prva Liga,Semendrija 1924,OFK Vršac,,
-26.11.2023,10:00:00,Montenegro,Montenegrin Second League,Kom,Grbalj,,
-26.11.2023,10:00:00,Montenegro,Montenegrin Second League,Iskra,Lovćen,,
-26.11.2023,10:00:00,Spain,Segunda División,Leganés,Racing Club de Ferrol,,
-26.11.2023,10:00:00,Ukraine,Ukrainian Premier League,Oleksandria,Obolon-Brovar,,
-26.11.2023,10:00:00,Zambia,Super League,Green Buffaloes,Mutondo Stars,,
-26.11.2023,10:00:00,Tanzania,Ligi kuu Bara,JKT Tanzania,Ihefu,,
-26.11.2023,10:00:00,Tunisia,Ligue 1,EGS Gafsa,Stade Tunisien,,
-26.11.2023,10:30:00,Russia,Russian Premier League,Rubin Kazan,Fakel,,
-26.11.2023,10:30:00,South Africa,National First Division,Magesi,Casric Stars,,
-26.11.2023,11:00:00,Russia,FNL,FK Chernomorets Novorossiysk,Neftekhimik,,
-26.11.2023,11:00:00,Morocco,Botola 2,Racing de Casablanca,Chabab Atlas Khénifra,,
-26.11.2023,11:00:00,Morocco,Botola 2,Raja Beni Mellal,Ittifaq Marrakech,,
-26.11.2023,12:00:00,Nigeria,NPFL,Niger Tornadoes,Akwa United,,
-26.11.2023,12:00:00,Morocco,Botola Pro,CR Khemis Zemamra,Riadi Salmi,,
-26.11.2023,12:00:00,Morocco,Botola Pro,Ittihad Tanger,Moghreb Tétouan,,
-26.11.2023,12:15:00,Spain,Segunda División,Mirandés,Real Oviedo,,
-26.11.2023,12:30:00,Romania,Liga I,Oţelul Galaţi,CS U Craiova,,
-26.11.2023,13:00:00,Spain,Segunda División RFEF Group 5,CF Villanovense,SS Reyes,,
-26.11.2023,13:00:00,Morocco,Botola 2,Khouribga,USM Oujda,,
-26.11.2023,14:00:00,Spain,Primera Division RFEF Group 2,Linares Deportivo,Intercity,,
-26.11.2023,14:00:00,Spain,Primera Division RFEF Group 2,Real Murcia,Málaga CF,,
-26.11.2023,16:00:00,Spain,Primera Division RFEF Group 2,Algeciras CF,Atlético Madrid II,,
-26.11.2023,16:00:00,Spain,Primera Division RFEF Group 2,Mérida AD,Recreativo de Huelva,,
-26.11.2023,18:00:00,Argentina,Primera División,Talleres Córdoba,Independiente,,
-26.11.2023,18:00:00,Argentina,Primera División,Atlético Tucumán,Huracán,,
-26.11.2023,18:00:00,Uruguay,Segunda División,Atenas,Rentistas,,
-26.11.2023,18:00:00,Guatemala,Liga Nacional de Fútbol de Guatemala,Mixco,Xelajú,,
-26.11.2023,21:30:00,Argentina,Primera División,Godoy Cruz,Boca Juniors,,
+26.11.2023,07:45:00,First League,CSKA 1948 Sofia,Arda,0x3,1,"0,0345"
+26.11.2023,08:00:00,Segunda División RFEF Group 1,Ourense CF,CD Guijuelo,1x0,1,"0,0345"
+26.11.2023,08:00:00,Segunda División RFEF Group 5,Illescas,UD San Fernando,6x0,1,"0,0345"
+26.11.2023,08:00:00,3. Lig Group 1,Arguvan Belediyespor,Edirnespor,1x2,1,"0,0345"
+26.11.2023,08:00:00,2 Lig Kirmizi,Etimesgut Belediyespor,Arnavutköy Belediyespor,1x1,1,"0,0345"
+26.11.2023,08:00:00,Tercera Group 5,Pobla Mafumet,Vilassar Mar,0x1,1,"0,0345"
+26.11.2023,08:00:00,Tercera Group 17,Cuarte,Huesca II,1x1,1,"0,0345"
+26.11.2023,08:00:00,Tercera Group 18,UD Socuéllamos,Huracán Balazote,5x1,1,"0,0345"
+26.11.2023,08:00:00,Ligi kuu Bara,Geita Gold,Namungo,1x0,1,"0,0345"
+26.11.2023,08:00:00,Tercera Group 13,UCAM Murcia II,Atlético Pulpileño,1x0,1,"0,0345"
+26.11.2023,08:00:00,Primera Division RFEF Group 1,CF Fuenlabrada,Unionistas de Salamanca CF,0x0,1,"0,0345"
+26.11.2023,08:00:00,Primera Division RFEF Group 1,Real Unión,SD Logroñés,0x1,1,"0,0345"
+26.11.2023,08:00:00,Primera Division RFEF Group 2,Granada II,CD Atlético Baleares,0x2,1,"0,0345"
+26.11.2023,09:00:00,Montenegrin First League,FK Jezero Plav,Rudar,4x1,1,"0,0345"
+26.11.2023,09:00:00,NB II,Pécsi MFC,Budafoki MTE,1x0,1,"0,0345"
+26.11.2023,09:00:00,Segunda División RFEF Group 5,Atlético Paso,Ursaria,2x0,1,"0,0345"
+26.11.2023,09:00:00,Prva Liga,Inđija,Mladost Novi Sad,2x0,1,"0,0345"
+26.11.2023,09:00:00,Prva Liga,Semendrija 1924,OFK Vršac,1x0,1,"0,0345"
+26.11.2023,10:00:00,Montenegrin Second League,Kom,Grbalj,1x1,1,"0,0345"
+26.11.2023,10:00:00,Montenegrin Second League,Iskra,Lovćen,0x0,1,"0,0345"
+26.11.2023,10:00:00,Segunda División,Leganés,Racing Club de Ferrol,2x2,1,"0,0345"
+26.11.2023,10:00:00,Super League,Green Buffaloes,Mutondo Stars,0x0,1,"0,0345"
+26.11.2023,10:00:00,Ligi kuu Bara,JKT Tanzania,Ihefu,1x1,1,"0,0345"
+26.11.2023,10:00:00,Ligue 1,EGS Gafsa,Stade Tunisien,1x3,1,"0,0345"
+26.11.2023,10:30:00,Russian Premier League,Rubin Kazan,Fakel,1x0,1,"0,0345"
+26.11.2023,10:30:00,National First Division,Magesi,Casric Stars,2x2,1,"0,0345"
+26.11.2023,11:00:00,FNL,FK Chernomorets Novorossiysk,Neftekhimik,0x1,1,"0,0345"
+26.11.2023,11:00:00,Botola 2,Racing de Casablanca,Chabab Atlas Khénifra,1x1,1,"0,0345"
+26.11.2023,11:00:00,Botola 2,Raja Beni Mellal,Ittifaq Marrakech,1x0,1,"0,0345"
+26.11.2023,12:00:00,NPFL,Niger Tornadoes,Akwa United,1x0,1,"0,0345"
+26.11.2023,12:00:00,Botola Pro,CR Khemis Zemamra,Riadi Salmi,1x0,1,"0,0345"
+26.11.2023,12:00:00,Botola Pro,Ittihad Tanger,Moghreb Tétouan,1x1,1,"0,0345"
+26.11.2023,12:15:00,Segunda División,Mirandés,Real Oviedo,2x1,1,"0,0345"
+26.11.2023,12:30:00,Liga I,Oţelul Galaţi,CS U Craiova,1x3,1,"0,0345"
+26.11.2023,13:00:00,Segunda División RFEF Group 5,CF Villanovense,SS Reyes,0x2,1,"0,0345"
+26.11.2023,13:00:00,Botola 2,Khouribga,USM Oujda,1x1,1,"0,0345"
+26.11.2023,14:00:00,Primera Division RFEF Group 2,Linares Deportivo,Intercity,1x1,1,"0,0345"
+26.11.2023,14:00:00,Primera Division RFEF Group 2,Real Murcia,Málaga CF,1x4,0,-1
+26.11.2023,16:00:00,Primera Division RFEF Group 2,Algeciras CF,Atlético Madrid II,2x2,1,"0,0345"
+26.11.2023,16:00:00,Primera Division RFEF Group 2,Mérida AD,Recreativo de Huelva,0x0,1,"0,0345"
+26.11.2023,18:00:00,Primera División,Talleres Córdoba,Independiente,3x2,1,"0,0345"
+26.11.2023,18:00:00,Primera División,Atlético Tucumán,Huracán,0x2,1,"0,0345"
+26.11.2023,18:00:00,Segunda División,Atenas,Rentistas,0x2,1,"0,0345"
+26.11.2023,18:00:00,Liga Nacional de Fútbol de Guatemala,Mixco,Xelajú,0x0,1,"0,0345"
+26.11.2023,21:30:00,Primera División,Godoy Cruz,Boca Juniors,1x2,1,"0,0345"
+27.11.2023,09:00:00,Prva Liga,Radnički Sr. Mitrovica,Mačva Šabac,1x0,1,"0,0345"
+27.11.2023,09:00:00,Prva Liga,Novi Sad,Dubočica,0x0,1,"0,0345"
+27.11.2023,09:30:00,Montenegrin First League,FK Jezero Plav,Rudar,4x1,1,"0,0345"
+27.11.2023,10:00:00,Super League 2 North,Levadiakos,Larissa,1x1,1,"0,0345"
+27.11.2023,11:00:00,FNL,Makhachkala,Torpedo Moskva,0x2,1,"0,0345"
+27.11.2023,12:30:00,Ivory Coast Ligue 1,Mouna,SOA,1x3,1,"0,0345"
+27.11.2023,14:00:00,Prva Liga,Kolubara,Sloboda Užice,0x0,1,"0,0345"
+27.11.2023,14:30:00,Serie A,Hellas Verona,Lecce,2x2,1,"0,0345"
+27.11.2023,16:45:00,Serie A,Bologna,Torino,2x0,1,"0,0345"
+27.11.2023,19:00:00,Primera División,San Lorenzo,Central Córdoba SdE,2x0,1,"0,0345"
+27.11.2023,21:30:00,Primera División,Newell's Old Boys,Defensa y Justicia,3x0,1,"0,0345"
+28.11.2023,14:00:00,Botola Pro,FAR Rabat,Wydad Casablanca,3x1,1,"0,0345"
