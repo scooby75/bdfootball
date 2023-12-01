@@ -123,16 +123,16 @@ Racing Cordoba,8,1,2,5,8,13,-5,5,argentina3
 Ferro Carril,8,1,2,5,7,13,-6,5,argentina3
 All Boys,8,0,4,4,4,9,-5,4,argentina3
 Atlanta,8,1,1,6,4,10,-6,4,argentina3
-Pyunik,8,7,1,0,23,5,18,22,armenia
-Ararat-Armenia,8,4,2,2,15,8,7,14,armenia
+Pyunik,8,6,2,0,22,6,16,20,armenia
+Ararat-Armenia,8,3,3,2,13,8,5,12,armenia
 Noah,8,4,0,4,15,13,2,12,armenia
 Urartu,8,3,2,3,15,15,0,11,armenia
-Ararat Yerevan,8,3,1,4,9,12,-3,10,armenia
 Alashkert,8,3,0,5,13,15,-2,9,armenia
-West Armenia,8,2,1,5,7,15,-8,7,armenia
+Ararat Yerevan,8,3,0,5,9,13,-4,9,armenia
+West Armenia,8,2,1,5,8,19,-11,7,armenia
 BKMA,8,2,0,6,6,15,-9,6,armenia
 Shirak,8,1,2,5,6,13,-7,5,armenia
-Van,8,0,1,7,2,19,-17,1,armenia
+Van,8,0,1,7,3,25,-22,1,armenia
 Adelaide Utd,2,1,1,0,4,2,2,4,australia
 Melbourne V.,2,1,1,0,3,1,2,4,australia
 Macarthur FC,2,1,1,0,5,4,1,4,australia
@@ -276,25 +276,25 @@ U. Sucre,8,0,3,5,7,16,-9,3,bolivia2
 Santa Cruz,8,1,0,7,7,21,-14,3,bolivia2
 Royal Pari,8,0,2,6,3,13,-10,2,bolivia2
 Flamengo,8,5,2,1,15,7,8,17,brazil
-Atletico MG,8,4,3,1,11,5,6,15,brazil
+Atletico MG,8,4,3,1,12,5,7,15,brazil
 Santos,8,4,2,2,10,14,-4,14,brazil
 Cruzeiro,8,4,1,3,6,3,3,13,brazil
 Bragantino,8,3,2,3,8,5,3,11,brazil
 Cuiaba,8,3,2,3,7,5,2,11,brazil
+Corinthians,8,3,2,3,12,11,1,11,brazil
 Palmeiras,8,3,2,3,11,11,0,11,brazil
+Internacional,8,3,2,3,7,8,-1,11,brazil
 Gremio,8,3,2,3,17,21,-4,11,brazil
 Vasco da Gama,8,2,4,2,8,9,-1,10,brazil
+Botafogo,8,2,3,3,9,9,0,9,brazil
 Athletico PR,8,2,3,3,8,8,0,9,brazil
-Botafogo,8,2,3,3,8,8,0,9,brazil
 Bahia,8,3,0,5,15,16,-1,9,brazil
-Corinthians,8,2,3,3,10,11,-1,9,brazil
-Goias,8,2,3,3,9,11,-2,9,brazil
 Coritiba,8,3,0,5,14,18,-4,9,brazil
-Internacional,8,2,2,4,6,11,-5,8,brazil
-Fortaleza,8,2,1,5,6,11,-5,7,brazil
-America MG,8,0,4,4,11,16,-5,4,brazil
-Fluminense,8,0,3,5,5,14,-9,3,brazil
-Sao Paulo,8,0,3,5,3,13,-10,3,brazil
+Fortaleza,8,2,1,5,7,12,-5,7,brazil
+Goias,8,1,3,4,9,13,-4,6,brazil
+Sao Paulo,8,1,3,4,3,11,-8,6,brazil
+Fluminense,8,1,2,5,6,12,-6,5,brazil
+America MG,8,0,4,4,10,17,-7,4,brazil
 CSKA Sofia,8,7,0,1,16,6,10,21,bulgaria
 Ludogorets,8,5,1,2,16,5,11,16,bulgaria
 Cherno More,8,3,4,1,12,6,6,13,bulgaria
@@ -466,22 +466,22 @@ America de Q.,8,1,3,4,8,15,-7,6,ecuador3
 Nueve Octubre,8,2,0,6,6,14,-8,6,ecuador3
 Guayaquil,8,0,3,5,5,19,-14,3,ecuador3
 Future FC,3,3,0,0,6,1,5,9,egypt
-ZED FC,3,2,1,0,6,4,2,7,egypt
+ZED FC,4,2,2,0,6,4,2,8,egypt
+Zamalek,4,2,1,1,7,5,2,7,egypt
 Al Ahly,3,2,1,0,5,3,2,7,egypt
+El Gouna,4,1,3,0,5,4,1,6,egypt
 Pyramids FC,3,2,0,1,2,2,0,6,egypt
-El Gouna,3,1,2,0,4,3,1,5,egypt
+Smouha,4,1,2,1,4,6,-2,5,egypt
 Baladiyyat,2,1,1,0,5,3,2,4,egypt
-Zamalek,3,1,1,1,5,5,0,4,egypt
 El Geish,3,1,1,1,3,3,0,4,egypt
 Al Ittihad,3,1,1,1,4,5,-1,4,egypt
-Smouha,3,1,1,1,4,6,-2,4,egypt
 National Bank,3,1,0,2,5,5,0,3,egypt
 Pharco,3,1,0,2,3,4,-1,3,egypt
 ENPPI,3,1,0,2,1,2,-1,3,egypt
 Al Masry,3,1,0,2,5,8,-3,3,egypt
-Al Mokawloon,3,0,1,2,4,6,-2,1,egypt
+Al Mokawloon,4,0,2,2,5,7,-2,2,egypt
 Ceramica C.,3,0,1,2,2,4,-2,1,egypt
-Ismaily,3,0,1,2,1,4,-3,1,egypt
+Ismaily,4,0,1,3,2,6,-4,1,egypt
 El Daklyeh,3,0,0,3,1,8,-7,0,egypt
 Tottenham,7,4,2,1,15,9,6,14,england
 Manchester City,7,4,1,2,16,9,7,13,england
@@ -503,78 +503,78 @@ Burnley,6,1,1,4,5,12,-7,4,england
 Luton Town,7,1,1,5,6,15,-9,4,england
 Bournemouth,6,1,1,4,8,18,-10,4,england
 Sheffield Utd,6,0,1,5,4,15,-11,1,england
-Leicester City,8,7,0,1,18,6,12,21,england2
+Leicester City,8,6,1,1,18,7,11,19,england2
 Blackburn,8,5,0,3,16,10,6,15,england2
 Ipswich Town,8,4,3,1,9,7,2,15,england2
 Leeds Utd,8,4,2,2,13,10,3,14,england2
 Hull City,8,4,2,2,13,12,1,14,england2
 Southampton,8,4,2,2,10,12,-2,14,england2
-Millwall,8,3,4,1,12,7,5,13,england2
+West Brom,8,3,3,2,12,8,4,12,england2
 Sunderland,8,3,2,3,10,7,3,11,england2
 Middlesbrough,8,3,2,3,18,16,2,11,england2
-Bristol City,8,3,2,3,7,8,-1,11,england2
-Preston,8,3,2,3,9,11,-2,11,england2
-Swansea City,8,3,1,4,13,12,1,10,england2
+Millwall,8,2,4,2,12,10,2,10,england2
 Cardiff City,8,3,1,4,10,9,1,10,england2
-West Brom,8,2,3,3,12,10,2,9,england2
+Swansea City,8,3,1,4,12,12,0,10,england2
+Preston,8,3,1,4,8,14,-6,10,england2
+Huddersfield,8,2,3,3,8,13,-5,9,england2
 Coventry City,8,2,2,4,12,12,0,8,england2
-Norwich City,8,2,2,4,17,20,-3,8,england2
-Stoke City,8,2,2,4,7,10,-3,8,england2
+Stoke City,8,2,2,4,9,12,-3,8,england2
+Bristol City,8,2,2,4,6,9,-3,8,england2
+Norwich City,8,2,1,5,15,19,-4,7,england2
 Watford,8,1,3,4,5,12,-7,6,england2
-Huddersfield,8,1,3,4,7,15,-8,6,england2
 QP Rangers,8,1,2,5,5,9,-4,5,england2
-Birmingham City,8,1,1,6,6,14,-8,4,england2
-Plymouth,8,0,3,5,7,14,-7,3,england2
+Birmingham City,8,1,0,7,7,17,-10,3,england2
+Plymouth,8,0,2,6,7,15,-8,2,england2
 Sheffield Wed,8,0,1,7,2,13,-11,1,england2
 Rotherham,8,0,1,7,3,21,-18,1,england2
+Portsmouth,8,5,3,0,15,6,9,18,england3
 Oxford Utd,8,6,0,2,16,9,7,18,england3
+Bolton,8,5,2,1,14,5,9,17,england3
 Barnsley,8,5,2,1,14,7,7,17,england3
-Bolton,7,5,1,1,14,5,9,16,england3
-Portsmouth,7,4,3,0,13,6,7,15,england3
-Derby County,8,4,1,3,15,10,5,13,england3
 Stevenage,8,4,1,3,13,9,4,13,england3
-Peterborough,8,3,2,3,12,11,1,11,england3
-Wycombe,8,3,2,3,13,14,-1,11,england3
-Lincoln City,8,3,2,3,6,7,-1,11,england3
-Leyton Orient,8,2,4,2,8,8,0,10,england3
+Derby County,8,4,1,3,13,10,3,13,england3
+Wycombe,8,3,2,3,13,12,1,11,england3
+Lincoln City,8,3,2,3,8,7,1,11,england3
+Leyton Orient,8,2,5,1,7,6,1,11,england3
 Blackpool,8,2,3,3,11,12,-1,9,england3
-Fleetwood,8,2,3,3,10,11,-1,9,england3
+Peterborough,8,2,3,3,11,12,-1,9,england3
 Port Vale,8,2,3,3,8,12,-4,9,england3
+Northampton,8,3,0,5,7,11,-4,9,england3
 Wigan Athletic,8,2,2,4,11,11,0,8,england3
+Fleetwood,8,2,2,4,9,13,-4,8,england3
 Burton Albion,8,2,2,4,5,12,-7,8,england3
 Charlton,8,1,4,3,9,12,-3,7,england3
 Bristol Rovers,8,2,1,5,7,13,-6,7,england3
-Northampton,8,2,0,6,6,12,-6,6,england3
 Exeter City,8,2,0,6,4,20,-16,6,england3
-Carlisle Utd,8,1,2,5,6,10,-4,5,england3
-Cheltenham,8,1,1,6,4,12,-8,4,england3
-Shrewsbury,8,1,1,6,2,16,-14,4,england3
+Carlisle Utd,8,1,2,5,7,14,-7,5,england3
+Cheltenham,8,1,1,6,5,13,-8,4,england3
 Reading,8,1,0,7,8,20,-12,3,england3
 Cambridge Utd,8,0,2,6,3,14,-11,2,england3
+Shrewsbury,8,0,2,6,1,16,-15,2,england3
 Stockport,8,6,0,2,19,11,8,18,england4
 Mansfield,8,4,3,1,17,8,9,15,england4
-AFC Wimbledon,8,4,3,1,12,7,5,15,england4
 Barrow,8,4,2,2,13,8,5,14,england4
 Harrogate,8,4,1,3,9,8,1,13,england4
-Crewe Alexandra,8,3,3,2,18,15,3,12,england4
-Wrexham,8,3,3,2,6,9,-3,12,england4
+Crewe Alexandra,8,3,3,2,17,14,3,12,england4
+AFC Wimbledon,8,3,3,2,10,8,2,12,england4
+Wrexham,8,3,3,2,7,10,-3,12,england4
 Notts County,8,3,2,3,15,14,1,11,england4
-Salford City,8,3,1,4,14,13,1,10,england4
+Bradford,8,3,1,4,13,13,0,10,england4
 Accrington,8,3,1,4,11,13,-2,10,england4
 Milton Keynes,8,2,3,3,10,11,-1,9,england4
-Colchester Utd,8,3,0,5,9,14,-5,9,england4
+Newport,8,3,0,5,9,14,-5,9,england4
 Morecambe,8,3,0,5,11,18,-7,9,england4
+Salford City,8,2,2,4,10,10,0,8,england4
 Forest Green,8,2,2,4,7,12,-5,8,england4
-Walsall,8,2,2,4,13,19,-6,8,england4
-Bradford,8,2,1,5,10,16,-6,7,england4
+Walsall,8,2,2,4,11,17,-6,8,england4
+Swindon Town,8,1,3,4,13,18,-5,6,england4
 Doncaster,8,2,0,6,10,15,-5,6,england4
-Newport,8,2,0,6,9,17,-8,6,england4
-Crawley Town,8,1,3,4,9,18,-9,6,england4
+Colchester Utd,8,2,0,6,7,17,-10,6,england4
 Gillingham,8,2,0,6,5,15,-10,6,england4
+Crawley Town,8,1,2,5,9,20,-11,5,england4
 Grimsby,8,0,4,4,9,15,-6,4,england4
-Swindon Town,8,0,4,4,9,15,-6,4,england4
+Tranmere,8,0,2,6,6,17,-11,2,england4
 Sutton Utd,8,0,2,6,9,23,-14,2,england4
-Tranmere,8,0,1,7,5,17,-12,1,england4
 Chesterfield,8,6,1,1,16,8,8,19,england5
 Gateshead FC,8,4,3,1,18,7,11,15,england5
 Bromley,8,4,3,1,12,8,4,15,england5
@@ -673,9 +673,9 @@ Monaco,7,2,3,2,14,15,-1,9,france
 Lens,7,2,2,3,7,9,-2,8,france
 Le Havre,7,1,5,1,6,8,-2,8,france
 Montpellier,6,2,1,3,9,9,0,7,france
+Clermont,6,1,3,2,6,8,-2,6,france
 Toulouse,8,1,3,4,5,11,-6,6,france
 Nantes,6,2,0,4,5,13,-8,6,france
-Clermont,5,1,2,2,5,7,-2,5,france
 Lyon,5,1,1,3,2,5,-3,4,france
 Strasbourg,5,1,1,3,2,9,-7,4,france
 Rennes,5,0,3,2,2,5,-3,3,france
@@ -687,11 +687,11 @@ Saint-Etienne,7,4,1,2,9,9,0,13,france2
 Grenoble,7,3,3,1,9,7,2,12,france2
 Guingamp,8,3,3,2,8,7,1,12,france2
 Concarneau,8,3,2,3,8,9,-1,11,france2
+Pau FC,8,3,2,3,12,15,-3,11,france2
 Angers,7,3,1,3,11,12,-1,10,france2
 USL Dunkerque,7,3,1,3,8,11,-3,10,france2
 Caen,8,2,2,4,12,15,-3,8,france2
 Annecy,7,2,2,3,8,11,-3,8,france2
-Pau FC,7,2,2,3,10,14,-4,8,france2
 AC Ajaccio,8,2,2,4,5,10,-5,8,france2
 Bordeaux,8,2,2,4,5,12,-7,8,france2
 Paris FC,7,2,1,4,7,11,-4,7,france2
@@ -720,15 +720,15 @@ Nancy,6,1,1,4,3,5,-2,4,france3
 Epinal,7,1,1,5,9,17,-8,4,france3
 Cholet,6,1,0,5,4,11,-7,3,france3
 Torpedo Kutaisi,8,5,3,0,12,6,6,18,georgia
-Dinamo Batumi,8,5,1,2,20,7,13,16,georgia
 Dinamo Tbilisi,8,4,3,1,22,12,10,15,georgia
-Samtredia,8,3,3,2,17,8,9,12,georgia
+Dinamo Batumi,8,4,1,3,20,13,7,13,georgia
+Samtredia,8,3,3,2,20,9,11,12,georgia
 Telavi,8,4,0,4,8,13,-5,12,georgia
 Dila Gori,8,3,2,3,9,10,-1,11,georgia
 Gagra,8,2,1,5,6,18,-12,7,georgia
 Samgurali,8,0,4,4,8,17,-9,4,georgia
-Saburtalo,8,1,1,6,4,15,-11,4,georgia
-Shukura,8,1,0,7,7,29,-22,3,georgia
+Saburtalo,8,1,1,6,3,16,-13,4,georgia
+Shukura,8,1,0,7,7,33,-26,3,georgia
 Bolnisi,8,6,1,1,15,5,10,19,georgia2
 Gareji Sagarejo,8,5,1,2,17,8,9,16,georgia2
 Kolkheti Poti,8,4,3,1,21,7,14,15,georgia2
@@ -736,8 +736,8 @@ WIT Georgia,8,4,2,2,17,14,3,14,georgia2
 Spaeri,8,3,1,4,13,11,2,10,georgia2
 D. Tbilisi B,8,3,1,4,11,12,-1,10,georgia2
 L. Tbilisi,8,3,1,4,8,10,-2,10,georgia2
-Kolkheti Khobi,8,1,3,4,6,12,-6,6,georgia2
 Merani Martvili,8,1,1,6,10,30,-20,4,georgia2
+Kolkheti Khobi,8,0,3,5,4,18,-14,3,georgia2
 Merani Tbilisi,8,0,1,7,10,33,-23,1,georgia2
 Bayern Munich,6,5,1,0,16,4,12,16,germany
 Leverkusen,6,5,1,0,16,5,11,16,germany
@@ -789,12 +789,12 @@ Ulm,8,3,1,4,11,15,-4,10,germany3
 Preuss. Munster,8,2,2,4,9,11,-2,8,germany3
 Bielefeld,8,2,2,4,9,13,-4,8,germany3
 FC Ingolstadt,8,2,1,5,9,15,-6,7,germany3
+Hallescher,8,2,1,5,13,20,-7,7,germany3
 VfB Lubeck,8,1,4,3,8,15,-7,7,germany3
 Viktoria Koln,8,1,3,4,14,17,-3,6,germany3
 Freiburg B,8,2,0,6,7,13,-6,6,germany3
-Hallescher,7,1,1,5,11,19,-8,4,germany3
+MSV Duisburg,8,0,4,4,3,9,-6,4,germany3
 Mannheim,8,1,1,6,6,16,-10,4,germany3
-MSV Duisburg,7,0,3,4,3,9,-6,3,germany3
 Panathinaikos,7,6,0,1,16,4,12,18,greece
 AEK Athens,6,4,1,1,10,6,4,13,greece
 Olympiakos,4,3,1,0,8,1,7,10,greece
@@ -806,7 +806,7 @@ Aris,5,1,1,3,5,8,-3,4,greece
 PAS Giannina,6,0,3,3,6,10,-4,3,greece
 OFI Crete,5,0,3,2,4,8,-4,3,greece
 Volos,6,0,3,3,3,11,-8,3,greece
-Panserraikos,7,0,3,4,6,19,-13,3,greece
+Panserraikos,8,0,3,5,6,20,-14,3,greece
 Kifisia,5,0,1,4,3,12,-9,1,greece
 Panaitolikos,7,0,1,6,5,16,-11,1,greece
 Municipal,8,4,3,1,14,8,6,15,guatemala
@@ -911,19 +911,19 @@ Sindri,8,0,1,7,6,32,-26,1,iceland3
 Goa,3,2,1,0,5,1,4,7,india
 ATK Mohun Bagan,2,2,0,0,6,3,3,6,india
 Mumbai City,2,1,1,0,4,3,1,4,india
+Chennaiyin,4,1,1,2,4,8,-4,4,india
 Kerala Blasters,2,1,0,1,3,3,0,3,india
-Chennaiyin,3,1,0,2,1,5,-4,3,india
 NorthEast Utd,3,0,2,1,2,3,-1,2,india
 Bengaluru,5,0,2,3,5,8,-3,2,india
 Hyderabad,5,0,2,3,3,6,-3,2,india
+Punjab,6,0,2,4,6,14,-8,2,india
 East Bengal,2,0,1,1,2,3,-1,1,india
 Jamshedpur,4,0,1,3,1,4,-3,1,india
-Punjab,5,0,1,4,3,11,-8,1,india
 Odisha FC,2,0,0,2,3,5,-2,0,india
 Sreenidi Deccan,4,3,1,0,11,3,8,10,india2
 Mohammedan,3,3,0,0,6,2,4,9,india2
-Inter Kashi,4,2,1,1,9,9,0,7,india2
-Aizawl,3,2,0,1,6,4,2,6,india2
+Aizawl,4,2,1,1,8,6,2,7,india2
+Inter Kashi,5,2,1,2,9,13,-4,7,india2
 Churchill B.,4,1,2,1,4,4,0,5,india2
 Neroca,4,1,1,2,6,12,-6,4,india2
 Delhi FC,2,1,0,1,6,3,3,3,india2
@@ -974,10 +974,10 @@ Al Hudod,3,1,2,0,4,2,2,5,iraq
 Al Shorta,3,1,1,1,5,4,1,4,iraq
 Zakho,3,1,1,1,3,2,1,4,iraq
 Al Zawraa,2,1,1,0,2,1,1,4,iraq
-Duhok,2,1,1,0,1,0,1,4,iraq
-Karbala,2,1,0,1,3,2,1,3,iraq
+Duhok,3,1,1,1,1,1,0,4,iraq
 Al Kahrabaa,3,1,0,2,3,4,-1,3,iraq
 Al-Qasim,3,1,0,2,1,2,-1,3,iraq
+Karbala,3,1,0,2,3,5,-2,3,iraq
 Baghdad,2,1,0,1,1,3,-2,3,iraq
 Al Naft,2,0,2,0,3,3,0,2,iraq
 Al Karkh,3,0,2,1,3,4,-1,2,iraq
@@ -1021,11 +1021,11 @@ Maccabi Netanya,2,0,1,1,1,3,-2,1,israel
 H. Jerusalem,3,0,1,2,2,6,-4,1,israel
 Ashdod,2,0,0,2,1,6,-5,0,israel
 H. Petah Tikva,3,0,0,3,2,8,-6,0,israel
-Ramat Hasharon,4,3,1,0,11,5,6,10,israel2
-Bnei Yehuda,4,2,1,1,8,6,2,7,israel2
+Ramat Hasharon,5,3,2,0,11,5,6,11,israel2
+Bnei Yehuda,5,3,1,1,10,6,4,10,israel2
 Kiryat Shmona,4,2,0,2,6,4,2,6,israel2
-H. Ramat Gan,4,1,3,0,5,4,1,6,israel2
 H. Ironi Rishon,5,1,3,1,6,6,0,6,israel2
+H. Ramat Gan,5,1,3,1,5,5,0,6,israel2
 M. Herziliya,4,2,0,2,4,7,-3,6,israel2
 Kafr Qasim,4,1,2,1,2,2,0,5,israel2
 H. Umm al-Fahm,4,1,2,1,6,7,-1,5,israel2
@@ -1066,12 +1066,12 @@ Catanzaro,7,3,2,2,10,9,1,11,italy2
 Como,7,3,2,2,8,7,1,11,italy2
 Pisa,7,3,2,2,6,5,1,11,italy2
 Bari,7,2,4,1,9,8,1,10,italy2
+Brescia,7,2,3,2,7,6,1,9,italy2
 Sampdoria,7,2,3,2,8,8,0,9,italy2
-Brescia,6,2,2,2,6,5,1,8,italy2
+Lecco,8,2,3,3,6,9,-3,9,italy2
 Sudtirol,7,2,2,3,8,9,-1,8,italy2
 Cittadella,6,2,2,2,6,7,-1,8,italy2
 Reggiana,7,2,2,3,7,9,-2,8,italy2
-Lecco,7,2,2,3,6,9,-3,8,italy2
 Cosenza,7,2,2,3,4,7,-3,8,italy2
 Ascoli,8,1,3,4,7,12,-5,6,italy2
 Spezia,8,1,3,4,8,15,-7,6,italy2
@@ -1159,9 +1159,9 @@ Kaspiy Aktau,8,0,3,5,8,15,-7,3,kazakhstan
 Aksu,8,0,1,7,4,16,-12,1,kazakhstan
 Ballkani,6,4,2,0,10,2,8,14,kosovo
 Llapi,8,4,2,2,13,9,4,14,kosovo
-Drita,7,3,2,2,7,4,3,11,kosovo
+Drita,8,3,2,3,7,5,2,11,kosovo
+Dukagjini,8,2,4,2,15,16,-1,10,kosovo
 Malisheva,7,2,2,3,5,7,-2,8,kosovo
-Dukagjini,7,1,4,2,12,16,-4,7,kosovo
 Prishtina,7,0,5,2,4,8,-4,5,kosovo
 Feronikeli,7,1,1,5,9,16,-7,4,kosovo
 Liria,8,0,3,5,4,13,-9,3,kosovo
@@ -1217,9 +1217,9 @@ Differdange,7,3,4,0,11,7,4,13,luxembourg
 Hesperang,7,4,0,3,15,7,8,12,luxembourg
 Dudelange,7,3,1,3,9,10,-1,10,luxembourg
 Mondercange,7,2,3,2,8,12,-4,9,luxembourg
-V. Rosport,5,2,2,1,9,8,1,8,luxembourg
-Jeunesse Esch,6,2,2,2,7,7,0,8,luxembourg
+V. Rosport,6,2,2,2,9,10,-1,8,luxembourg
 Wiltz,6,2,2,2,8,9,-1,8,luxembourg
+Jeunesse Esch,7,2,2,3,8,11,-3,8,luxembourg
 Racing,6,2,1,3,9,9,0,7,luxembourg
 Marisca Mersch,7,2,1,4,11,13,-2,7,luxembourg
 Niedercorn,6,1,3,2,10,12,-2,6,luxembourg
@@ -1309,14 +1309,14 @@ Jezero,8,3,5,0,10,7,3,14,montenegro
 Sutjeska,8,2,5,1,9,5,4,11,montenegro
 Mornar,8,2,4,2,10,11,-1,10,montenegro
 Arsenal Tivat,8,2,3,3,9,11,-2,9,montenegro
-Petrovac,8,2,2,4,9,11,-2,8,montenegro
+Petrovac,8,1,3,4,8,11,-3,6,montenegro
 Mladost DG,8,1,3,4,10,15,-5,6,montenegro
 Rudar,8,2,0,6,4,13,-9,6,montenegro
 Jedinstvo,8,0,3,5,11,17,-6,3,montenegro
 FUS Rabat,6,2,2,2,6,5,1,8,morocco
 Moghreb Tetouan,6,2,2,2,6,5,1,8,morocco
-Wydad,3,2,1,0,6,2,4,7,morocco
 Raja Casablanca,5,1,4,0,7,5,2,7,morocco
+Wydad,4,2,1,1,7,5,2,7,morocco
 Berkane,4,1,3,0,4,2,2,6,morocco
 Maghreb de Fes,5,1,3,1,6,5,1,6,morocco
 Union Touarga,4,2,0,2,5,4,1,6,morocco
@@ -1438,7 +1438,7 @@ Dungannon,8,1,3,4,6,14,-8,6,northernireland
 Newry City,8,2,0,6,9,22,-13,6,northernireland
 Ballymena Utd,8,2,0,6,4,19,-15,6,northernireland
 Dundela,8,5,1,2,12,11,1,16,northernireland2
-Ards,8,4,2,2,14,10,4,14,northernireland2
+Ards,8,4,2,2,14,12,2,14,northernireland2
 Bangor,8,4,1,3,15,9,6,13,northernireland2
 Portadown,8,4,1,3,12,9,3,13,northernireland2
 Ballinamallard,8,3,1,4,10,9,1,10,northernireland2
@@ -1450,17 +1450,17 @@ Ballyclare,6,1,1,4,8,14,-6,4,northernireland2
 Dergview,8,1,1,6,12,23,-11,4,northernireland2
 Knockbreda,8,0,1,7,4,21,-17,1,northernireland2
 Skendija,8,4,2,2,13,10,3,14,northmacedonia
-Struga,7,3,0,4,9,8,1,9,northmacedonia
-Shkupi,7,2,3,2,7,8,-1,9,northmacedonia
+Struga,8,4,0,4,12,9,3,12,northmacedonia
+Shkupi,8,2,4,2,7,8,-1,10,northmacedonia
 Gostivar,8,2,2,4,7,12,-5,8,northmacedonia
-Sileks,7,1,3,3,7,10,-3,6,northmacedonia
+Tikves,8,2,1,5,8,9,-1,7,northmacedonia
+Sileks,8,1,3,4,7,11,-4,6,northmacedonia
 Voska Sport,7,1,3,3,7,12,-5,6,northmacedonia
 A. Pandev,8,1,2,5,4,8,-4,5,northmacedonia
-Tikves,7,1,1,5,5,9,-4,4,northmacedonia
 Makedonija,8,1,1,6,7,12,-5,4,northmacedonia
 Vardar,7,1,1,5,3,11,-8,4,northmacedonia
-Rabotnicki,7,1,1,5,2,10,-8,4,northmacedonia
-Bregalnica Stip,7,0,1,6,1,9,-8,1,northmacedonia
+Rabotnicki,8,1,1,6,2,12,-10,4,northmacedonia
+Bregalnica Stip,8,0,2,6,2,10,-8,2,northmacedonia
 Brann,8,5,1,2,11,7,4,16,norway
 Tromso,8,5,0,3,15,13,2,15,norway
 Bodo / Glimt,8,4,2,2,24,16,8,14,norway
@@ -1545,12 +1545,12 @@ Libertad,8,5,3,0,18,6,12,18,paraguay2
 S. Trinidense,8,4,1,3,14,9,5,13,paraguay2
 Cerro Porteno,8,2,5,1,13,8,5,11,paraguay2
 Olimpia,8,3,2,3,4,7,-3,11,paraguay2
+S. Ameliano,8,3,1,4,15,15,0,10,paraguay2
 Tacuary,8,2,3,3,9,11,-2,9,paraguay2
 G. Caballero,8,3,0,5,10,14,-4,9,paraguay2
 Guarani,8,2,3,3,6,11,-5,9,paraguay2
 Nacional,8,1,5,2,7,7,0,8,paraguay2
-S. Ameliano,8,2,2,4,14,17,-3,8,paraguay2
-Guairena,8,1,3,4,4,10,-6,6,paraguay2
+Guairena,8,1,3,4,6,15,-9,6,paraguay2
 S. Luqueno,8,1,2,5,6,11,-5,5,paraguay2
 Resistencia,8,1,1,6,7,23,-16,4,paraguay2
 Alianza Lima,8,5,0,3,12,9,3,15,peru
@@ -1651,10 +1651,10 @@ Podbeskidzie,8,0,2,6,3,16,-13,2,poland2
 Pogon Siedlce,8,5,0,3,15,10,5,15,poland3
 K. Kolobrzeg,8,4,2,2,21,18,3,14,poland3
 Kalisz,8,4,1,3,13,10,3,13,poland3
+Hutnik Krakow,8,4,0,4,10,11,-1,12,poland3
 Radunia Stezyca,8,3,3,2,9,12,-3,12,poland3
 Chojniczanka,8,3,2,3,11,12,-1,11,poland3
 SKRA Czestochow,8,2,4,2,10,8,2,10,poland3
-Hutnik Krakow,8,3,1,4,9,11,-2,10,poland3
 Lech Poznan B,8,2,2,4,8,10,-2,8,poland3
 LKS Lodz B,8,2,2,4,10,13,-3,8,poland3
 Olimpia Elblag,7,1,2,4,6,10,-4,5,poland3
@@ -1771,40 +1771,40 @@ Al Fateh,7,4,2,1,14,9,5,14,saudiarabia
 Al Feiha,7,3,3,1,12,9,3,12,saudiarabia
 Al Taawon,7,3,2,2,10,8,2,11,saudiarabia
 Al Ittifaq,7,3,2,2,8,6,2,11,saudiarabia
-Al Ahli Jeddah,6,2,1,3,11,15,-4,7,saudiarabia
-Al Khaleej,7,2,1,4,7,11,-4,7,saudiarabia
+Al Ahli Jeddah,7,3,1,3,17,15,2,10,saudiarabia
 Al Akhdoud,7,2,1,4,6,11,-5,7,saudiarabia
+Al Khaleej,8,2,1,5,9,15,-6,7,saudiarabia
 Al Riyadh,7,2,1,4,8,18,-10,7,saudiarabia
 Al Wahda,6,2,0,4,8,14,-6,6,saudiarabia
 Damak,7,1,2,4,7,11,-4,5,saudiarabia
 Al Shabab,8,1,2,5,6,15,-9,5,saudiarabia
+Al Hazm,8,0,4,4,7,16,-9,4,saudiarabia
 Al Raed,7,0,3,4,7,11,-4,3,saudiarabia
-Al Hazm,7,0,3,4,7,16,-9,3,saudiarabia
 Al Tai,7,0,1,6,5,17,-12,1,saudiarabia
 Abha,7,0,1,6,7,20,-13,1,saudiarabia
 Al Adalh,6,4,0,2,13,9,4,12,saudiarabia2
 Al Orubah,5,4,0,1,7,3,4,12,saudiarabia2
+Jeddah,7,3,2,2,12,10,2,11,saudiarabia2
 Al Quadisiya,5,3,1,1,4,1,3,10,saudiarabia2
-Jeddah,6,3,1,2,9,7,2,10,saudiarabia2
 Al Kholood,6,3,0,3,11,7,4,9,saudiarabia2
 Ohod,5,3,0,2,8,6,2,9,saudiarabia2
-Al Najma,5,1,2,2,11,9,2,5,saudiarabia2
+Al Najma,6,2,2,2,15,12,3,8,saudiarabia2
+Al Batin,6,2,1,3,3,4,-1,7,saudiarabia2
+Al Arabi,5,1,2,2,9,8,1,5,saudiarabia2
 Al Faisaly,5,1,2,2,6,7,-1,5,saudiarabia2
 Al Jabalain,5,1,2,2,4,6,-2,5,saudiarabia2
-Al Arabi,4,1,1,2,8,7,1,4,saudiarabia2
-Al Batin,5,1,1,3,2,4,-2,4,saudiarabia2
 Al-Ain,6,1,1,4,4,11,-7,4,saudiarabia2
-Al-Jndal,5,1,1,3,3,10,-7,4,saudiarabia2
+Al-Jndal,6,1,1,4,3,12,-9,4,saudiarabia2
 Al Taraji,5,1,0,4,2,10,-8,3,saudiarabia2
 Al Safa,6,1,0,5,3,12,-9,3,saudiarabia2
 Al Bukayriyah,4,0,2,2,1,3,-2,2,saudiarabia2
 Hajer,5,0,2,3,4,11,-7,2,saudiarabia2
-Al Qaisoma,5,0,1,4,5,12,-7,1,saudiarabia2
+Al Qaisoma,6,0,1,5,6,14,-8,1,saudiarabia2
 Celtic,7,6,1,0,16,3,13,19,scotland
 Rangers,7,5,1,1,15,2,13,16,scotland
 Hearts,6,3,0,3,6,5,1,9,scotland
 Hibernian,7,2,3,2,11,13,-2,9,scotland
-St. Mirren,6,2,2,2,7,10,-3,8,scotland
+St. Mirren,7,2,2,3,7,11,-4,8,scotland
 Aberdeen,7,2,2,3,9,15,-6,8,scotland
 Motherwell,7,1,3,3,5,8,-3,6,scotland
 Ross County,7,1,3,3,8,14,-6,6,scotland
@@ -1818,12 +1818,12 @@ Partick Thistle,6,3,2,1,14,6,8,11,scotland2
 Ayr Utd,7,3,1,3,13,13,0,10,scotland2
 Dunfermline,6,2,2,2,6,7,-1,8,scotland2
 Queen`s Park,7,2,2,3,10,14,-4,8,scotland2
-Arbroath,5,2,0,3,7,10,-3,6,scotland2
+Arbroath,6,2,0,4,7,13,-6,6,scotland2
 Inverness,6,1,2,3,6,8,-2,5,scotland2
 Greenock Morton,6,1,2,3,6,9,-3,5,scotland2
 Airdrieonians,6,1,1,4,3,10,-7,4,scotland2
-Falkirk,6,4,2,0,16,6,10,14,scotland3
-Hamilton,7,4,2,1,12,4,8,14,scotland3
+Hamilton,8,5,2,1,14,5,9,17,scotland3
+Falkirk,7,4,3,0,16,6,10,15,scotland3
 Kelty Hearts,7,3,2,2,14,10,4,11,scotland3
 Cove Rangers,7,3,2,2,9,6,3,11,scotland3
 Montrose,6,3,0,3,13,9,4,9,scotland3
@@ -1921,14 +1921,14 @@ Maribor,8,2,2,4,10,10,0,8,slovenia
 Bravo,8,1,4,3,8,11,-3,7,slovenia
 Aluminij,8,2,1,5,7,11,-4,7,slovenia
 Rogaska,8,2,0,6,6,19,-13,6,slovenia
-Mamelodi S.,5,5,0,0,8,1,7,15,southafrica
+Mamelodi S.,6,6,0,0,10,1,9,18,southafrica
 Cape Town City,8,4,1,3,8,7,1,13,southafrica
 Golden Arrows,6,4,0,2,8,7,1,12,southafrica
+Stellenbosch,7,3,2,2,8,5,3,11,southafrica
 SuperSport Utd,7,3,2,2,9,8,1,11,southafrica
 Sekhukhune,7,3,1,3,6,6,0,10,southafrica
 Moroka Swallows,4,2,2,0,5,2,3,8,southafrica
 Chippa Utd,5,2,2,1,4,3,1,8,southafrica
-Stellenbosch,6,2,2,2,5,5,0,8,southafrica
 Royal AM,7,2,1,4,8,13,-5,7,southafrica
 Kaizer Chiefs,6,2,0,4,5,6,-1,6,southafrica
 Orlando Pirates,6,1,3,2,3,4,-1,6,southafrica
@@ -1995,7 +1995,7 @@ Mallorca,8,1,2,5,9,15,-6,5,spain
 Getafe,7,0,4,3,9,14,-5,4,spain
 Sevilla FC,6,0,3,3,7,10,-3,3,spain
 Alaves,7,0,2,5,4,10,-6,2,spain
-Cadiz,6,0,1,5,3,12,-9,1,spain
+Cadiz,7,0,2,5,4,13,-9,2,spain
 Granada,7,0,1,6,8,18,-10,1,spain
 Almeria,7,0,1,6,6,19,-13,1,spain
 Leganes,8,5,1,2,11,4,7,16,spain2
@@ -2080,12 +2080,12 @@ Singida,6,4,0,2,10,8,2,12,tanzania
 Azam,5,3,1,1,9,4,5,10,tanzania
 Young Africans,4,3,0,1,10,3,7,9,tanzania
 Simba,3,3,0,0,9,4,5,9,tanzania
-Dodoma Jiji,5,2,1,2,6,7,-1,7,tanzania
+Dodoma Jiji,6,2,1,3,6,8,-2,7,tanzania
 JKT Tanzania,6,2,1,3,5,10,-5,7,tanzania
 Namungo,6,1,3,2,5,5,0,6,tanzania
 KMC,5,1,3,1,4,8,-4,6,tanzania
-Geita Gold,5,1,2,2,2,4,-2,5,tanzania
 Coastal Union,6,1,2,3,4,8,-4,5,tanzania
+Geita Gold,6,1,2,3,3,7,-4,5,tanzania
 Kagera Sugar,5,1,1,3,3,5,-2,4,tanzania
 Tabora,6,0,4,2,0,5,-5,4,tanzania
 T. Prisons,5,0,2,3,4,9,-5,2,tanzania
@@ -2121,7 +2121,7 @@ Samut Prakan,7,2,2,3,8,13,-5,8,thailand2
 Chiangmai Utd,6,1,3,2,9,9,0,6,thailand2
 Kanchanaburi,7,1,3,3,6,8,-2,6,thailand2
 Chiangmai FC,6,1,3,2,3,5,-2,6,thailand2
-Customs Utd,6,1,2,3,4,14,-10,5,thailand2
+Customs Utd,7,1,2,4,5,16,-11,5,thailand2
 Chanthaburi,7,1,1,5,11,16,-5,4,thailand2
 Chainat,6,0,3,3,0,5,-5,3,thailand2
 Krabi,5,1,0,4,4,16,-12,3,thailand2
@@ -2344,15 +2344,15 @@ Phu Tho,8,1,2,5,8,14,-6,5,vietnam2
 Binh Phuoc,8,1,1,6,9,16,-7,4,vietnam2
 Ba Ria Vung Tau,8,0,3,5,3,12,-9,3,vietnam2
 Hue,8,0,3,5,3,14,-11,3,vietnam2
-The New Saints,8,7,1,0,22,5,17,22,wales
-Connah`s Quay,8,4,1,3,18,13,5,13,wales
+The New Saints,8,7,1,0,24,6,18,22,wales
+Connah`s Quay,8,5,1,2,19,9,10,16,wales
 Newtown,8,4,1,3,14,10,4,13,wales
-Penybont,8,3,1,4,15,15,0,10,wales
-Caernarfon Town,7,3,1,3,15,16,-1,10,wales
+Caernarfon Town,8,3,2,3,16,17,-1,11,wales
 Aberystwyth,8,3,1,4,5,15,-10,10,wales
+Cardiff MU,8,2,3,3,9,15,-6,9,wales
 Haverfordwest,8,2,3,3,9,15,-6,9,wales
-Cardiff MU,7,2,2,3,8,14,-6,8,wales
+Penybont,8,2,2,4,13,15,-2,8,wales
 Barry Town,8,2,1,5,7,11,-4,7,wales
 Bala Town,8,1,4,3,6,10,-4,7,wales
 Colwyn Bay,8,2,1,5,8,17,-9,7,wales
-Pontypridd Town,7,1,2,4,1,9,-8,5,wales
+Pontypridd Town,8,1,2,5,2,12,-10,5,wales
