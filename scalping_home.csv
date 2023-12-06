@@ -28,19 +28,19 @@ Argentina - Liga Profesional,Tigre,2,3,1,1,5,1,1,0,2,3,3,6,8,5,6,9
 Argentina - Liga Profesional,Union Santa Fe,0,0,2,2,0,4,3,2,5,2,2,2,2,6,10,6
 Argentina - Liga Profesional,Velez Sarsfield,0,1,4,1,2,1,5,0,2,3,3,5,6,3,10,8
 Armenia - Premier League,Alashkert,2,0,1,0,1,4,3,0,2,0,4,3,4,4,9,3
-Armenia - Premier League,Ararat Yerevan,0,2,3,3,2,3,0,1,2,2,0,5,5,8,2,8
+Armenia - Premier League,Ararat Yerevan,0,3,3,3,2,3,0,1,2,2,0,5,5,9,2,8
 Armenia - Premier League,Ararat-Armenia,4,0,5,1,4,0,3,2,4,3,4,4,13,1,11,9
-Armenia - Premier League,BKMA,3,4,1,0,1,4,4,2,0,2,5,7,5,8,9,11
-Armenia - Premier League,Noah,2,2,5,1,5,0,2,0,3,0,6,1,12,3,11,1
+Armenia - Premier League,BKMA,3,4,1,0,1,4,4,2,2,2,5,7,5,8,11,11
+Armenia - Premier League,Noah,2,2,5,1,7,0,2,0,3,0,7,2,14,3,12,2
 Armenia - Premier League,Pyunik,4,3,2,0,8,1,3,0,5,0,2,1,14,4,10,1
-Armenia - Premier League,Shirak,0,5,1,0,0,2,2,0,3,5,1,2,1,7,6,7
+Armenia - Premier League,Shirak,0,6,1,0,0,2,2,0,4,5,1,3,1,8,7,8
 Armenia - Premier League,Urartu,2,0,3,4,2,0,1,1,2,1,5,3,7,4,8,5
 Armenia - Premier League,Van,0,1,1,3,0,2,2,2,2,1,6,8,1,6,10,11
 Armenia - Premier League,West Armenia,4,1,0,4,3,4,3,4,0,4,3,9,7,9,6,17
 Australia - A-League,Adelaide Utd,1,2,1,0,1,2,0,1,3,0,4,0,3,4,7,1
 Australia - A-League,Brisbane Roar,3,0,1,0,0,0,2,1,1,0,0,2,4,0,3,3
 Australia - A-League,Central Coast,0,0,1,1,2,2,1,2,1,0,2,2,3,3,4,4
-Australia - A-League,Macarthur FC,1,0,0,0,0,0,1,0,0,1,1,1,1,0,2,2
+Australia - A-League,Macarthur FC,2,0,1,1,0,1,1,1,0,1,3,1,3,2,4,3
 Australia - A-League,Melbourne City,0,0,0,0,1,0,2,1,1,1,2,3,1,0,5,5
 Australia - A-League,Melbourne V.,2,1,1,0,3,1,1,2,0,1,0,0,6,2,1,3
 Australia - A-League,Newcastle Jets,0,1,1,0,1,0,0,1,0,1,0,1,2,1,0,3
@@ -49,9 +49,9 @@ Australia - A-League,Sydney FC,0,0,0,0,2,0,0,0,0,3,1,2,2,0,1,5
 Australia - A-League,Wellington,1,1,1,0,1,0,2,2,2,0,1,0,3,1,5,2
 Australia - A-League,Western Sydney,2,0,0,0,3,0,2,0,0,0,0,0,5,0,2,0
 Australia - A-League,Western United,0,0,0,1,0,1,1,1,0,1,0,1,0,2,1,3
-Austria - Bundesliga,A. Klagenfurt,0,2,1,2,3,3,2,0,1,3,1,1,4,7,4,4
+Austria - Bundesliga,A. Klagenfurt,0,2,1,2,3,3,2,1,1,3,2,1,4,7,5,5
 Austria - Bundesliga,A. Lustenau,0,4,0,5,0,5,2,3,1,5,1,3,0,14,4,11
-Austria - Bundesliga,Altach,2,1,0,1,0,1,0,1,0,3,2,1,2,3,2,5
+Austria - Bundesliga,Altach,3,1,0,1,0,1,1,1,0,3,3,1,3,3,4,5
 Austria - Bundesliga,Austria Wien,1,2,0,0,2,1,1,1,0,1,3,0,3,3,4,2
 Austria - Bundesliga,BW Linz,2,2,3,2,0,1,0,1,0,2,4,2,5,5,4,5
 Austria - Bundesliga,Hartberg,1,2,1,1,3,2,4,3,1,3,2,2,5,5,7,8
@@ -59,7 +59,7 @@ Austria - Bundesliga,LASK Linz,2,0,0,1,3,0,2,1,0,0,5,0,5,1,7,1
 Austria - Bundesliga,Rapid Wien,2,1,3,2,2,0,3,1,1,5,4,3,7,3,8,9
 Austria - Bundesliga,Salzburg,1,1,0,0,4,1,5,1,0,1,4,0,5,2,9,2
 Austria - Bundesliga,Sturm Graz,3,2,1,0,2,1,2,1,3,1,2,0,6,3,7,2
-Austria - Bundesliga,Tirol,0,4,2,1,3,1,2,3,2,3,2,4,5,6,6,10
+Austria - Bundesliga,Tirol,0,4,2,1,3,1,2,4,2,4,3,4,5,6,7,12
 Austria - Bundesliga,Wolfsberger AC,1,1,2,0,5,0,1,4,2,3,1,2,8,1,4,9
 Austria - 2. Liga,Admira Wacker,1,2,3,2,2,0,1,0,1,2,2,1,6,4,4,3
 Austria - 2. Liga,Amstetten,0,1,0,3,2,2,2,1,1,2,2,4,2,6,5,7
@@ -98,7 +98,7 @@ Belgium - First Division B,Beerschot,1,0,0,2,3,0,1,1,4,0,0,3,4,2,5,4
 Belgium - First Division B,Beveren,2,1,2,3,2,1,2,2,1,0,3,3,6,5,6,5
 Belgium - First Division B,Club Brugge B,1,1,1,2,1,2,3,2,3,1,4,5,3,5,10,8
 Belgium - First Division B,Deinze,4,1,0,0,0,0,2,1,2,2,2,3,4,1,6,6
-Belgium - First Division B,Dender,1,3,1,0,3,1,2,1,0,3,4,2,5,4,6,6
+Belgium - First Division B,Dender,1,3,2,0,4,1,2,1,0,3,4,2,7,4,6,6
 Belgium - First Division B,Francs Borains,0,0,0,0,2,2,2,1,0,2,3,4,2,2,5,7
 Belgium - First Division B,KRC Genk B,0,1,3,1,2,4,1,1,0,1,2,8,5,6,3,10
 Belgium - First Division B,Lierse K.,1,1,0,2,2,2,3,0,1,3,1,5,3,5,5,8
@@ -107,7 +107,7 @@ Belgium - First Division B,Oostende,0,2,3,1,0,1,1,0,0,1,1,2,3,4,2,3
 Belgium - First Division B,Patro Eisden,1,1,2,0,1,2,1,4,0,3,3,1,4,3,4,8
 Belgium - First Division B,RFC Liege,0,1,5,1,1,1,2,0,2,2,1,5,6,3,5,7
 Belgium - First Division B,Seraing,0,1,0,0,1,3,4,3,2,0,1,5,1,4,7,8
-Belgium - First Division B,Standard L. B,2,1,1,1,1,1,0,3,3,1,1,1,4,3,4,5
+Belgium - First Division B,Standard L. B,2,1,1,1,1,1,0,3,3,1,2,1,4,3,5,5
 Belgium - First Division B,Zulte-Waregem,0,2,1,2,2,3,0,1,2,0,2,4,3,7,4,5
 Brazil - Serie A,America MG,3,1,3,9,5,4,3,8,3,5,4,11,11,14,10,24
 Brazil - Serie A,Athletico PR,2,5,4,2,11,4,3,3,3,1,10,4,17,11,16,8
@@ -244,7 +244,7 @@ CzechRepublic - FNL,Zbrojovka Brno,1,0,1,2,1,1,0,1,1,1,5,2,3,3,6,4
 Denmark - Superligaen,AGF Aarhus,1,0,2,1,2,3,1,2,1,0,3,4,5,4,5,6
 Denmark - Superligaen,Brondby IF,3,0,4,0,3,1,1,1,3,3,3,3,10,1,7,7
 Denmark - Superligaen,FC Kobenhavn,5,1,2,0,0,2,2,2,3,4,4,0,7,3,9,6
-Denmark - Superligaen,FC Midtjylland,1,1,1,1,2,0,4,1,2,1,2,2,4,2,8,4
+Denmark - Superligaen,FC Midtjylland,1,1,1,2,4,0,5,1,3,1,3,2,6,3,11,4
 Denmark - Superligaen,Hvidovre,0,4,0,4,2,1,0,4,2,2,0,5,2,9,2,11
 Denmark - Superligaen,Lyngby,1,2,2,0,1,3,4,2,3,1,4,4,4,5,11,7
 Denmark - Superligaen,Nordsjaelland,1,1,2,2,1,1,3,1,3,0,3,0,4,4,9,1
@@ -276,7 +276,7 @@ England - Premier League,Crystal Palace,1,1,0,0,0,0,1,3,1,2,3,2,1,1,5,7
 England - Premier League,Everton,2,1,0,1,2,1,1,1,0,3,0,2,4,3,1,6
 England - Premier League,Fulham,1,0,0,3,0,1,2,0,1,3,3,2,1,4,6,5
 England - Premier League,Liverpool,1,1,4,1,5,2,2,0,4,0,5,1,10,4,11,1
-England - Premier League,Luton Town,0,0,0,0,0,2,0,2,2,1,4,3,0,2,6,6
+England - Premier League,Luton Town,0,0,1,1,0,3,2,3,2,1,4,4,1,4,8,8
 England - Premier League,Manchester City,4,1,3,0,6,1,1,0,2,3,4,2,13,2,7,5
 England - Premier League,Manchester Utd,0,2,1,4,0,0,2,2,1,1,4,1,1,6,7,4
 England - Premier League,Newcastle Utd,4,1,2,1,2,0,3,0,4,0,4,2,8,2,11,2
@@ -284,7 +284,7 @@ England - Premier League,Nottm Forest,3,0,0,1,0,2,2,3,2,1,3,2,3,3,7,6
 England - Premier League,Sheffield Utd,0,2,0,2,3,3,0,4,1,4,3,4,3,7,4,12
 England - Premier League,Tottenham,1,0,1,0,2,3,2,0,0,3,4,2,4,3,6,5
 England - Premier League,West Ham Utd,4,0,1,1,2,1,1,4,1,2,3,2,7,2,5,8
-England - Premier League,Wolverhampton,2,2,0,1,1,1,1,6,3,0,2,2,3,4,6,8
+England - Premier League,Wolverhampton,2,2,0,1,2,1,1,6,3,0,2,2,4,4,6,8
 England - Championship,Birmingham City,3,3,2,0,2,1,2,1,1,1,5,3,7,4,8,5
 England - Championship,Blackburn,1,1,2,3,2,2,6,2,1,1,1,7,5,6,8,10
 England - Championship,Bristol City,4,0,0,3,5,1,1,4,2,0,1,4,9,4,4,8
@@ -421,25 +421,25 @@ France - Ligue 1,Reims,1,1,2,0,2,1,1,5,1,0,2,2,5,2,4,7
 France - Ligue 1,Rennes,3,0,3,1,0,6,3,1,4,3,4,1,6,7,11,5
 France - Ligue 1,Strasbourg,1,0,0,2,0,2,1,2,4,0,2,1,1,4,7,3
 France - Ligue 1,Toulouse,2,0,0,0,2,1,2,1,1,1,2,4,4,1,5,6
-France - Ligue 2,AC Ajaccio,0,1,2,1,1,1,4,2,3,0,1,0,3,3,8,2
+France - Ligue 2,AC Ajaccio,0,1,2,1,1,1,5,2,3,0,2,0,3,3,10,2
 France - Ligue 2,Amiens,1,1,1,1,4,4,1,0,0,1,4,2,6,6,5,3
-France - Ligue 2,Angers,1,0,3,1,3,0,1,0,1,1,6,0,7,1,8,1
+France - Ligue 2,Angers,1,0,3,1,4,0,1,0,1,1,6,0,8,1,8,1
 France - Ligue 2,Annecy,1,1,3,0,2,1,3,4,0,3,2,2,6,2,5,9
 France - Ligue 2,Auxerre,2,0,3,1,3,3,1,2,3,0,5,3,8,4,9,5
 France - Ligue 2,Bordeaux,2,1,2,1,2,5,3,2,0,0,2,1,6,7,5,3
 France - Ligue 2,Caen,1,1,1,3,5,0,1,3,1,0,3,2,7,4,5,5
-France - Ligue 2,Concarneau,1,0,0,3,0,1,0,2,3,3,4,1,1,4,7,6
+France - Ligue 2,Concarneau,1,0,0,4,0,2,0,2,3,3,5,1,1,6,8,6
 France - Ligue 2,Grenoble,2,2,1,1,2,2,1,2,1,0,4,1,5,5,6,3
 France - Ligue 2,Guingamp,2,1,2,1,3,0,2,0,0,3,4,2,7,2,6,5
 France - Ligue 2,Laval,0,1,0,1,0,0,0,3,2,0,6,2,0,2,8,5
-France - Ligue 2,Paris FC,2,1,0,1,3,1,1,2,2,3,2,1,5,3,5,6
-France - Ligue 2,Pau FC,2,1,6,1,2,2,0,5,3,1,3,2,10,4,6,8
-France - Ligue 2,Quevilly Rouen,0,1,2,3,2,4,0,1,1,1,3,0,4,8,4,2
+France - Ligue 2,Paris FC,3,1,1,1,3,1,1,2,2,3,2,1,7,3,5,6
+France - Ligue 2,Pau FC,2,1,6,1,3,2,0,6,4,1,4,2,11,4,8,9
+France - Ligue 2,Quevilly Rouen,1,1,3,3,2,4,1,1,1,1,3,2,6,8,5,4
 France - Ligue 2,Rodez Aveyron,3,3,0,0,1,3,3,1,3,0,6,1,4,6,12,2
-France - Ligue 2,Saint-Etienne,1,0,1,0,1,0,2,1,0,2,2,2,3,0,4,5
+France - Ligue 2,Saint-Etienne,1,0,2,0,1,1,2,2,0,2,2,3,4,1,4,7
 France - Ligue 2,SC Bastia,1,1,1,3,1,0,2,3,4,0,3,4,3,4,9,7
-France - Ligue 2,Troyes,1,1,2,2,0,1,1,0,2,1,2,3,3,4,5,4
-France - Ligue 2,USL Dunkerque,0,4,1,2,0,1,1,1,2,2,0,2,1,7,3,5
+France - Ligue 2,Troyes,1,1,3,2,1,1,1,0,2,1,2,3,5,4,5,4
+France - Ligue 2,USL Dunkerque,0,6,1,2,0,1,1,1,2,3,0,4,1,9,3,8
 France - Ligue 2,Valenciennes,1,1,2,1,0,2,0,0,1,2,1,5,3,4,2,7
 France - National,Avranches,1,0,2,0,0,1,2,0,0,3,6,1,3,1,8,4
 France - National,Chateauroux,0,0,1,1,2,2,1,2,3,2,0,3,3,3,4,7
@@ -449,7 +449,7 @@ France - National,Epinal,3,2,0,1,2,2,2,0,2,2,2,2,5,5,6,4
 France - National,G. O. A. L.,3,0,2,2,1,1,0,1,1,0,1,3,6,3,2,4
 France - National,Le Mans,1,0,0,2,2,0,1,2,2,2,0,3,3,2,3,7
 France - National,Marignane G.,2,2,2,0,2,3,0,3,0,0,2,1,6,5,2,4
-France - National,Martigues,1,0,0,1,1,0,5,1,1,0,1,3,2,1,7,4
+France - National,Martigues,1,0,0,1,1,0,5,1,1,0,2,3,2,1,8,4
 France - National,Nancy,3,2,0,2,3,1,1,0,1,1,3,3,6,5,5,4
 France - National,Nimes,4,2,2,1,0,1,3,1,0,1,0,4,6,4,3,6
 France - National,Niort,1,2,4,1,4,1,3,0,2,2,3,1,9,4,8,3
@@ -525,7 +525,7 @@ Germany - 3. Liga,Unterhaching,2,1,1,1,2,1,3,0,2,0,3,2,5,3,8,2
 Germany - 3. Liga,Verl,2,3,6,2,4,2,0,0,3,3,4,2,12,7,7,5
 Germany - 3. Liga,VfB Lubeck,0,2,3,1,1,1,2,4,1,2,3,2,4,4,6,8
 Germany - 3. Liga,Viktoria Koln,1,2,0,2,2,3,6,0,1,2,3,4,3,7,10,6
-Greece - Super League,AEK Athens,1,1,2,0,4,1,1,0,0,0,4,1,7,2,5,1
+Greece - Super League,AEK Athens,1,1,2,0,4,1,2,0,0,0,4,1,7,2,6,1
 Greece - Super League,Aris,0,0,3,2,2,0,2,1,3,1,3,2,5,2,8,4
 Greece - Super League,Asteras T.,2,1,2,2,1,2,0,0,0,1,2,6,5,5,2,7
 Greece - Super League,Atromitos,0,0,0,1,1,1,1,1,2,0,2,2,1,2,5,3
@@ -536,7 +536,7 @@ Greece - Super League,Olympiakos,0,1,5,0,4,1,1,2,6,1,7,1,9,2,14,4
 Greece - Super League,Panaitolikos,1,2,0,1,2,1,0,0,1,1,2,2,3,4,3,3
 Greece - Super League,Panathinaikos,5,0,0,1,6,1,2,1,3,1,4,0,11,2,9,2
 Greece - Super League,Panserraikos,1,1,2,1,1,0,0,0,2,1,2,1,4,2,4,2
-Greece - Super League,PAOK,0,0,4,1,5,0,4,0,2,1,2,0,9,1,8,1
+Greece - Super League,PAOK,0,0,5,1,6,0,5,0,2,1,2,0,11,1,9,1
 Greece - Super League,PAS Giannina,0,2,1,2,1,1,2,0,0,2,1,2,2,5,3,4
 Greece - Super League,Volos,1,1,2,1,0,3,4,3,2,2,1,2,3,5,7,7
 Hong Kong - Premier League,Eastern,0,1,1,0,2,1,1,0,1,0,0,0,3,2,2,0
@@ -606,17 +606,17 @@ Ireland - First Division,Longford Town,3,0,1,6,5,2,2,4,3,8,5,7,9,8,10,19
 Ireland - First Division,Treaty Utd,4,7,3,7,3,3,4,0,6,6,7,10,10,17,17,16
 Ireland - First Division,Waterford,8,2,9,4,10,3,7,5,4,3,8,2,27,9,19,10
 Ireland - First Division,Wexford,2,4,2,4,4,6,3,5,5,6,6,4,8,14,14,15
-Israel - Ligat HaAl,Ashdod,0,1,1,0,0,0,1,0,0,2,0,1,1,1,1,3
+Israel - Ligat HaAl,Ashdod,1,1,1,0,0,0,2,0,0,2,0,2,2,1,2,4
 Israel - Ligat HaAl,B. Jerusalem,0,0,1,0,0,1,1,3,1,0,0,1,1,1,2,4
 Israel - Ligat HaAl,Bnei Sakhnin,1,1,0,1,0,0,1,0,1,1,1,0,1,2,3,1
 Israel - Ligat HaAl,H. Beer Sheva,2,0,1,0,1,0,1,0,0,0,1,0,4,0,2,0
 Israel - Ligat HaAl,H. Jerusalem,0,0,0,0,2,2,0,1,0,1,1,1,2,2,1,3
 Israel - Ligat HaAl,H. Petah Tikva,1,0,1,0,0,0,1,0,0,0,0,1,2,0,1,1
-Israel - Ligat HaAl,Hapoel Hadera,1,1,1,0,0,2,2,1,0,1,0,0,2,3,2,2
-Israel - Ligat HaAl,Hapoel Haifa,0,1,1,0,0,2,1,1,2,0,1,0,1,3,4,1
+Israel - Ligat HaAl,Hapoel Hadera,1,1,1,0,0,3,2,1,0,2,0,0,2,4,2,3
+Israel - Ligat HaAl,Hapoel Haifa,0,1,2,0,0,2,1,1,2,0,1,1,2,3,4,2
 Israel - Ligat HaAl,Hapoel Tel Aviv,1,0,0,2,0,2,1,1,0,0,0,1,1,4,1,2
 Israel - Ligat HaAl,M. Bnei Raina,1,1,0,0,0,1,2,0,0,0,0,0,1,2,2,0
-Israel - Ligat HaAl,M. Petah Tikva,0,1,1,0,3,2,2,0,0,0,3,1,4,3,5,1
+Israel - Ligat HaAl,M. Petah Tikva,0,1,2,0,3,2,2,0,0,0,3,1,5,3,5,1
 Israel - Ligat HaAl,M. Tel Aviv,0,0,0,0,1,0,3,1,1,0,2,1,1,0,6,2
 Israel - Ligat HaAl,Maccabi Haifa,0,0,1,0,2,1,0,1,0,0,1,0,3,1,1,1
 Israel - Ligat HaAl,Maccabi Netanya,2,0,1,1,2,1,0,0,1,1,1,2,5,2,2,3
@@ -654,7 +654,7 @@ Italy - Serie A,Monza,1,2,3,0,1,0,1,1,1,1,2,1,5,2,4,3
 Italy - Serie A,Napoli,0,1,2,2,3,2,1,1,3,2,1,4,5,5,5,7
 Italy - Serie A,Salernitana,0,3,0,0,0,2,2,2,2,1,2,6,0,5,6,9
 Italy - Serie A,Sassuolo,2,2,1,3,3,1,1,1,2,1,2,5,6,6,5,7
-Italy - Serie A,Torino,1,0,0,1,0,0,0,1,1,2,2,1,1,1,3,4
+Italy - Serie A,Torino,1,0,1,1,0,0,1,1,1,2,3,1,2,1,5,4
 Italy - Serie A,Udinese,0,2,3,1,1,4,1,0,1,1,1,4,4,7,3,5
 Italy - Serie B,Ascoli,1,2,1,0,3,1,0,2,0,0,2,1,5,3,2,3
 Italy - Serie B,Bari,1,0,1,2,0,1,1,0,2,1,1,4,2,3,4,5
@@ -844,7 +844,7 @@ Netherlands - Eredivisie,Sparta,1,2,0,0,2,0,2,4,1,0,2,5,3,2,5,9
 Netherlands - Eredivisie,Vitesse Arnhem,1,0,1,2,0,1,0,2,0,3,1,3,2,3,1,8
 Netherlands - Eerste Divisie,ADO Den Haag,1,2,3,2,4,2,2,2,3,1,3,1,8,6,8,4
 Netherlands - Eerste Divisie,Cambuur,4,2,3,4,1,6,3,1,4,1,5,2,8,12,12,4
-Netherlands - Eerste Divisie,De Graafschap,1,0,0,0,2,2,3,0,1,0,0,2,3,2,4,2
+Netherlands - Eerste Divisie,De Graafschap,1,0,0,1,2,2,4,0,1,0,0,2,3,3,5,2
 Netherlands - Eerste Divisie,FC Den Bosch,4,1,0,2,1,1,1,7,4,3,2,3,5,4,7,13
 Netherlands - Eerste Divisie,FC Dordrecht,3,1,5,4,5,2,1,2,6,2,6,5,13,7,13,9
 Netherlands - Eerste Divisie,FC Eindhoven,1,1,3,3,0,1,1,2,0,0,2,1,4,5,3,3
@@ -853,7 +853,7 @@ Netherlands - Eerste Divisie,FC Groningen,2,2,2,1,3,1,1,1,4,1,2,3,7,4,7,5
 Netherlands - Eerste Divisie,Helmond Sport,4,0,2,2,1,1,3,2,2,2,3,2,7,3,8,6
 Netherlands - Eerste Divisie,Jong Ajax,2,1,3,1,2,0,3,2,0,1,4,2,7,2,7,5
 Netherlands - Eerste Divisie,Jong AZ,5,4,1,0,2,2,4,0,1,3,4,2,8,6,9,5
-Netherlands - Eerste Divisie,Jong PSV,0,0,2,2,3,1,1,2,4,1,1,9,5,3,6,12
+Netherlands - Eerste Divisie,Jong PSV,0,1,2,2,3,1,1,4,4,2,1,10,5,4,6,16
 Netherlands - Eerste Divisie,Jong Utrecht,1,0,2,1,3,1,0,1,0,1,3,0,6,2,3,2
 Netherlands - Eerste Divisie,MVV Maastricht,3,4,4,0,1,4,0,2,0,2,2,1,8,8,2,5
 Netherlands - Eerste Divisie,NAC Breda,2,3,1,3,4,0,0,2,5,2,1,2,7,6,6,6
@@ -989,13 +989,13 @@ Portugal - Liga Portugal,Moreirense,0,0,1,2,3,0,1,0,0,2,1,2,4,2,2,4
 Portugal - Liga Portugal,Portimonense,1,4,0,2,3,0,1,0,0,1,1,2,4,6,2,3
 Portugal - Liga Portugal,Rio Ave,0,3,0,1,3,1,3,1,2,0,2,6,3,5,7,7
 Portugal - Liga Portugal,Sporting Braga,1,2,1,3,2,0,6,0,0,1,7,1,4,5,13,2
-Portugal - Liga Portugal,Sporting CP,3,0,1,0,2,0,2,3,3,1,3,1,6,0,8,5
+Portugal - Liga Portugal,Sporting CP,3,0,1,0,3,1,4,3,3,1,3,1,7,1,10,5
 Portugal - Liga Portugal,Vizela,1,1,0,1,0,5,2,0,1,1,2,1,1,7,5,2
 Portugal - Liga Portugal 2,Academico Viseu,3,1,0,0,2,0,1,1,2,1,1,2,5,1,4,4
 Portugal - Liga Portugal 2,AVS,1,1,2,0,1,0,0,0,1,1,0,0,4,1,1,1
 Portugal - Liga Portugal 2,Benfica B,0,2,2,0,1,4,1,1,2,2,1,0,3,6,4,3
 Portugal - Liga Portugal 2,FC Porto B,0,0,2,0,1,0,2,3,4,0,1,3,3,0,7,6
-Portugal - Liga Portugal 2,Feirense,1,0,1,1,0,1,0,1,0,0,3,1,2,2,3,2
+Portugal - Liga Portugal 2,Feirense,1,0,3,1,1,1,0,2,0,1,3,1,5,2,3,4
 Portugal - Liga Portugal 2,Leixoes,0,0,0,2,1,0,0,1,0,0,2,2,1,2,2,3
 Portugal - Liga Portugal 2,Mafra,1,0,2,1,4,1,1,0,0,1,0,0,7,2,1,1
 Portugal - Liga Portugal 2,Maritimo,2,0,1,3,0,0,0,1,3,2,0,1,3,3,3,4
@@ -1018,7 +1018,7 @@ Scotland - Premiership,Kilmarnock,0,1,2,1,2,2,2,2,3,0,1,0,4,4,6,2
 Scotland - Premiership,Livingston,0,1,0,1,0,0,1,1,1,1,1,4,0,2,3,6
 Scotland - Premiership,Motherwell,1,1,0,3,0,2,1,1,2,5,10,5,1,6,13,11
 Scotland - Premiership,Rangers,1,1,2,0,2,2,0,0,3,1,6,1,5,3,9,2
-Scotland - Premiership,Ross County,0,0,0,2,1,1,2,0,0,2,1,2,1,3,3,4
+Scotland - Premiership,Ross County,1,0,1,2,1,1,3,0,0,2,1,2,3,3,4,4
 Scotland - Premiership,St. Johnstone,2,0,2,1,2,1,0,3,1,4,2,4,6,2,3,11
 Scotland - Premiership,St. Mirren,2,1,0,1,3,1,3,0,1,3,3,2,5,3,7,5
 Scotland - Championship,Airdrieonians,1,0,1,2,2,1,0,3,4,1,1,0,4,3,5,4
@@ -1067,7 +1067,7 @@ South Africa - Premier Division ,Golden Arrows,1,2,3,1,1,0,2,1,0,0,0,4,5,3,2,5
 South Africa - Premier Division ,Kaizer Chiefs,2,0,1,1,0,2,2,1,0,0,3,1,3,3,5,2
 South Africa - Premier Division ,Mamelodi S.,0,1,3,0,3,0,1,0,0,0,2,1,6,1,3,1
 South Africa - Premier Division ,Moroka Swallows,2,0,0,1,2,1,0,2,2,0,0,1,4,2,2,3
-South Africa - Premier Division ,Orlando Pirates,2,1,1,0,2,1,0,0,1,1,2,1,5,2,3,2
+South Africa - Premier Division ,Orlando Pirates,2,1,1,0,3,1,0,0,2,1,2,1,6,2,4,2
 South Africa - Premier Division ,Polokwane,1,1,0,0,2,0,0,1,1,0,2,2,3,1,3,3
 South Africa - Premier Division ,Richards Bay,0,1,1,0,0,7,1,0,2,0,1,2,1,8,4,2
 South Africa - Premier Division ,Royal AM,1,0,0,1,1,0,0,1,1,2,0,0,2,1,1,3
@@ -1105,7 +1105,7 @@ Spain - La Liga,Almeria,1,1,0,5,3,1,2,1,3,5,1,5,4,7,6,11
 Spain - La Liga,Athletic Bilbao,2,2,2,2,5,2,2,1,6,3,5,1,9,6,13,5
 Spain - La Liga,Atletico Madrid,1,1,3,2,4,1,2,0,3,2,4,1,8,4,9,3
 Spain - La Liga,Cadiz,2,2,3,0,0,1,2,2,0,2,0,1,5,3,2,5
-Spain - La Liga,Celta Vigo,0,1,2,2,2,1,0,0,0,4,0,3,4,4,0,7
+Spain - La Liga,Celta Vigo,0,1,2,3,2,1,1,0,0,4,0,3,4,5,1,7
 Spain - La Liga,FC Barcelona,1,1,2,1,1,0,1,0,2,1,9,2,4,2,12,3
 Spain - La Liga,Getafe,0,2,1,0,3,1,1,1,0,0,3,0,4,3,4,1
 Spain - La Liga,Girona,1,2,1,3,6,0,3,1,2,2,5,2,8,5,10,5
@@ -1141,7 +1141,7 @@ Spain - La Liga 2,Real Zaragoza,0,1,0,0,6,2,2,0,1,3,0,3,6,3,3,6
 Spain - La Liga 2,Sporting Gijon,1,1,3,0,5,1,0,1,3,1,4,1,9,2,7,3
 Spain - La Liga 2,Tenerife,0,0,3,1,1,1,0,0,4,1,1,1,4,2,5,2
 Spain - La Liga 2,Valladolid,2,0,2,0,3,1,1,3,2,0,5,2,7,1,8,5
-Spain - La Liga 2,Villarreal B,3,1,3,1,1,4,4,2,1,5,0,0,7,6,5,7
+Spain - La Liga 2,Villarreal B,3,1,3,1,1,4,4,2,1,5,1,0,7,6,6,7
 Sweden - Allsvenskan,AIK,1,2,4,3,6,2,4,3,2,2,4,2,11,7,10,7
 Sweden - Allsvenskan,Brommapojkarna,5,2,4,4,0,6,5,1,2,2,2,8,9,12,9,11
 Sweden - Allsvenskan,Degerfors,1,3,2,4,1,7,5,4,5,3,4,3,4,14,14,10
@@ -1203,7 +1203,7 @@ Turkey - Super Lig,Antalyaspor,1,0,2,0,1,2,3,2,0,0,1,2,4,2,4,4
 Turkey - Super Lig,Basaksehir,3,2,1,2,1,2,2,3,3,0,0,0,5,6,5,3
 Turkey - Super Lig,Besiktas,2,0,1,0,1,0,2,1,3,0,1,1,4,0,6,2
 Turkey - Super Lig,F. Karagumruk,0,2,0,0,4,1,3,1,0,0,4,1,4,3,7,2
-Turkey - Super Lig,Fenerbahce,6,1,2,0,2,3,4,3,4,1,4,1,10,4,12,5
+Turkey - Super Lig,Fenerbahce,6,1,3,0,3,3,4,4,6,1,4,1,12,4,14,6
 Turkey - Super Lig,Galatasaray,1,0,3,0,4,0,3,4,3,1,2,0,8,0,8,5
 Turkey - Super Lig,Gaziantep,0,2,1,0,0,2,2,0,2,2,1,1,1,4,5,3
 Turkey - Super Lig,Hatayspor,1,0,2,1,0,5,3,2,6,1,3,3,3,6,12,6
@@ -1311,17 +1311,17 @@ USA - USL League One,One Knoxville,5,3,1,2,7,3,3,5,2,4,1,5,13,8,6,14
 USA - USL League One,Richmond K.,4,2,2,1,4,5,3,5,3,7,6,6,10,8,12,18
 USA - USL League One,Tormenta,4,8,3,5,7,5,4,4,2,2,3,7,14,18,9,13
 USA - USL League One,Union Omaha,2,3,7,2,6,2,9,5,5,1,9,9,15,7,23,15
-Vietnam - V League,Binh Dinh,0,3,1,2,3,2,0,1,5,0,4,1,4,7,9,2
-Vietnam - V League,Binh Duong,1,3,0,2,5,4,0,1,1,0,4,2,6,9,5,3
-Vietnam - V League,Cong An Nhan,1,3,2,1,4,0,3,0,7,3,4,4,7,4,14,7
-Vietnam - V League,Da Nang,0,2,1,0,2,0,0,1,2,2,0,2,3,2,2,5
-Vietnam - V League,H. A. Gia Lai,1,0,2,0,0,1,1,2,1,0,2,2,3,1,4,4
-Vietnam - V League,Ha Noi,3,0,3,0,3,4,1,0,2,2,6,1,9,4,9,3
-Vietnam - V League,Hai Phong,1,3,3,3,1,1,1,1,2,1,3,2,5,7,6,4
-Vietnam - V League,Ho Chi Minh,0,2,2,1,2,5,1,1,4,3,2,2,4,8,7,6
-Vietnam - V League,Hong Linh Ha T.,3,3,2,1,1,2,1,2,4,0,2,1,6,6,7,3
-Vietnam - V League,Nam Dinh,2,0,0,0,2,1,1,1,1,1,4,4,4,1,6,6
-Vietnam - V League,S. Khanh Hoa,1,1,0,2,3,4,3,0,3,2,3,2,4,7,9,4
-Vietnam - V League,Song Lam Nghe,2,2,2,0,2,5,3,1,2,0,2,1,6,7,7,2
-Vietnam - V League,Thanh Hoa,0,1,3,0,2,8,1,3,4,3,7,2,5,9,12,8
-Vietnam - V League,The Cong,1,1,2,1,2,3,4,1,2,2,4,2,5,5,10,5
+Vietnam - V League,Binh Dinh,1,0,1,1,1,0,0,0,0,1,0,1,3,1,0,2
+Vietnam - V League,Binh Duong,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1
+Vietnam - V League,Cong An Nhan,0,0,1,0,1,1,0,0,0,0,1,0,2,1,1,0
+Vietnam - V League,Gia Lai,1,1,0,1,0,0,0,1,0,1,0,0,1,2,0,2
+Vietnam - V League,Ha Noi,0,1,0,0,2,0,0,1,0,1,1,3,2,1,1,5
+Vietnam - V League,Hai Phong,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1
+Vietnam - V League,Ho Chi Minh,0,0,0,0,2,0,0,0,1,0,1,0,2,0,2,0
+Vietnam - V League,Hong Linh Ha T.,0,2,1,0,0,1,1,1,0,0,1,1,1,3,2,2
+Vietnam - V League,Nam Dinh,1,0,0,1,0,0,1,1,1,0,1,0,1,1,3,1
+Vietnam - V League,Quang Nam,1,1,0,0,0,1,0,0,0,0,0,0,1,2,0,0
+Vietnam - V League,S. Khanh Hoa,1,1,0,1,1,1,0,0,0,1,0,1,2,3,0,2
+Vietnam - V League,Song Lam Nghe,1,2,2,0,0,1,2,1,0,0,0,1,3,3,2,2
+Vietnam - V League,Thanh Hoa,1,1,2,1,1,0,0,1,1,0,0,0,4,2,1,1
+Vietnam - V League,Viettel,0,0,0,0,0,0,0,0,1,1,1,0,0,0,2,1
