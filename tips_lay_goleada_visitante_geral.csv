@@ -977,56 +977,87 @@ Date,Hora,Liga,Home,Away,Placar FT,Winrate,Profit
 16.12.2023,16:00:00,Primera Division RFEF Group 1,Sestao River Club,Osasuna II,2x1,1,"0,0345"
 16.12.2023,16:00:00,Primera Division RFEF Group 2,Recreativo de Huelva,Granada II,1x0,1,"0,0345"
 16.12.2023,16:45:00,Serie C Group B,Pineto,SPAL,1x1,1,"0,0345"
-17.12.2023,07:30:00,Segunda División RFEF Group 5,Gimnástica Segoviana CF,Atlético Paso,,,
-17.12.2023,08:00:00,Segunda División RFEF Group 5,Ursaria,CDA Navalcarnero,,,
-17.12.2023,08:00:00,Segunda División RFEF Group 5,Montijo,Llerenense,,,
-17.12.2023,08:00:00,Tercera Group 6,Castellón II,Levante II,,,
-17.12.2023,08:00:00,Tercera Group 12,Tenerife II,Herbania,,,
-17.12.2023,08:00:00,Primera Division RFEF Group 1,SD Logroñés,Gimnàstic de Tarragona,,,
-17.12.2023,08:00:00,Primera Division RFEF Group 2,Ceuta,Mérida AD,,,
-17.12.2023,08:00:00,Primera Division RFEF Group 2,UD Ibiza,Antequera CF,,,
-17.12.2023,08:00:00,Primera Division RFEF Group 2,UD Melilla,Linares Deportivo,,,
-17.12.2023,08:00:00,Super League 2 North,Aiolikos,Kozani,,,
-17.12.2023,08:30:00,Tercera Group 11,Mallorca II,Ibiza Islas Pitiusas,,,
-17.12.2023,09:00:00,Segunda División RFEF Group 5,UD San Fernando,CF Villanovense,,,
-17.12.2023,09:00:00,Super League 2 North,AEK Athens II,Anagennisi Karditsas,,,
-17.12.2023,10:00:00,Super League,Mutondo Stars,Zanaco,,,
-17.12.2023,10:00:00,Serie C Group B,Olbia,Pontedera,,,
-17.12.2023,10:30:00,Serie D Group F,Atletico Ascoli,San Nicolò,,,
-17.12.2023,10:30:00,Serie D Group F,Città di Campobasso,Chieti,,,
-17.12.2023,10:30:00,Serie D Group H,Virtus Casarano,Manfredonia,,,
-17.12.2023,12:00:00,Ghana Premier League,Bibiani Gold Stars,Samartex,,,
-17.12.2023,12:00:00,Ghana Premier League,Bofoakwe Tano,Legon Cities,,,
-17.12.2023,12:00:00,Campeonato de Portugal Group D,Moncarapachense,Juventude Évora,,,
-17.12.2023,12:00:00,Campeonato de Portugal Group D,Imortal Albufeira,Sintrense,,,
-17.12.2023,12:00:00,Campeonato de Portugal Group A,Brito,Dumiense,,,
-17.12.2023,12:00:00,Campeonato de Portugal Group B,Rebordosa,AD Marco 09,,,
-17.12.2023,12:00:00,Campeonato de Portugal Group B,Paredes,Vitória Guimarães II,,,
-17.12.2023,12:00:00,Campeonato de Portugal Group B,Florgrade,São João Ver,,,
-17.12.2023,12:00:00,Campeonato de Portugal Group B,Gondomar SC,Vila Meã,,,
-17.12.2023,12:00:00,Campeonato de Portugal Group C,Benfica Castelo Branco,Peniche,,,
-17.12.2023,12:00:00,Primera Division RFEF Group 1,CF Fuenlabrada,Celta de Vigo II,,,
-17.12.2023,12:00:00,Super League 2 South,Diagoras,Giouchtas,,,
-17.12.2023,12:00:00,Botola Pro,CR Khemis Zemamra,FUS Rabat,,,
-17.12.2023,12:00:00,Botola 2,Difaâ El Jadida,Olympique Dcheïra,,,
-17.12.2023,12:15:00,Segunda División,Levante UD,SD Huesca,,,
-17.12.2023,12:15:00,Serie C Group A,US Alessandria,Legnago Salus,,,
-17.12.2023,12:15:00,Serie C Group B,Vis Pesaro,Sestri Levante,,,
-17.12.2023,13:00:00,Segunda División RFEF Group 5,CD Badajoz,SS Reyes,,,
-17.12.2023,13:00:00,Primera Division RFEF Group 1,Barcelona II,SD Ponferradina,,,
-17.12.2023,14:00:00,Serie A,Bologna,Roma,,,
-17.12.2023,14:30:00,Segunda División,SD Amorebieta,Real Zaragoza,,,
-17.12.2023,14:30:00,Serie C Group A,Arzignano Valchiampo,Pro Vercelli,,,
-17.12.2023,14:30:00,Serie C Group C,Avellino,Taranto,,,
-17.12.2023,15:00:00,Primera Division RFEF Group 1,Arenteiro,Deportivo La Coruña,,,
-17.12.2023,16:00:00,Botola Pro,Youssoufia Berrechid,Moghreb Tétouan,,,
-17.12.2023,16:45:00,Serie C Group A,Virtus Verona,Pro Patria,,,
-17.12.2023,16:45:00,Serie C Group B,Carrarese,Lucchese,,,
-17.12.2023,17:00:00,Segunda División,Racing Club de Ferrol,CD Tenerife,,,
-18.12.2023,07:45:00,Azadegan League,Esteghlal Mollasani,Ario Eslamshahr,,,
-18.12.2023,08:30:00,Persian Gulf Pro League,Mes Rafsanjan,Malavan,,,
-18.12.2023,12:00:00,Ghana Premier League,Accra Lions,Nsoatreman,,,
-18.12.2023,12:30:00,Ligi kuu Bara,JKT Tanzania,Coastal Union,,,
+17.12.2023,07:30:00,Segunda División RFEF Group 5,Gimnástica Segoviana CF,Atlético Paso,2x1,1,"0,0345"
+17.12.2023,08:00:00,Segunda División RFEF Group 5,Ursaria,CDA Navalcarnero,1x0,1,"0,0345"
+17.12.2023,08:00:00,Segunda División RFEF Group 5,Montijo,Llerenense,0x1,1,"0,0345"
+17.12.2023,08:00:00,Tercera Group 6,Castellón II,Levante II,1x3,1,"0,0345"
+17.12.2023,08:00:00,Tercera Group 12,Tenerife II,Herbania,0x0,1,"0,0345"
+17.12.2023,08:00:00,Primera Division RFEF Group 1,SD Logroñés,Gimnàstic de Tarragona,0x2,1,"0,0345"
+17.12.2023,08:00:00,Primera Division RFEF Group 2,Ceuta,Mérida AD,1x1,1,"0,0345"
+17.12.2023,08:00:00,Primera Division RFEF Group 2,UD Ibiza,Antequera CF,3x0,1,"0,0345"
+17.12.2023,08:00:00,Primera Division RFEF Group 2,UD Melilla,Linares Deportivo,1x0,1,"0,0345"
+17.12.2023,08:00:00,Super League 2 North,Aiolikos,Kozani,0x0,1,"0,0345"
+17.12.2023,08:30:00,Tercera Group 11,Mallorca II,Ibiza Islas Pitiusas,0x1,1,"0,0345"
+17.12.2023,09:00:00,Segunda División RFEF Group 5,UD San Fernando,CF Villanovense,2x0,1,"0,0345"
+17.12.2023,09:00:00,Super League 2 North,AEK Athens II,Anagennisi Karditsas,0x0,1,"0,0345"
+17.12.2023,10:00:00,Super League,Mutondo Stars,Zanaco,1x0,1,"0,0345"
+17.12.2023,10:00:00,Serie C Group B,Olbia,Pontedera,0x3,1,"0,0345"
+17.12.2023,10:30:00,Serie D Group F,Atletico Ascoli,San Nicolò,1x1,1,"0,0345"
+17.12.2023,10:30:00,Serie D Group F,Città di Campobasso,Chieti,1x0,1,"0,0345"
+17.12.2023,10:30:00,Serie D Group H,Virtus Casarano,Manfredonia,1x2,1,"0,0345"
+17.12.2023,12:00:00,Ghana Premier League,Bibiani Gold Stars,Samartex,3x0,1,"0,0345"
+17.12.2023,12:00:00,Ghana Premier League,Bofoakwe Tano,Legon Cities,0x1,1,"0,0345"
+17.12.2023,12:00:00,Campeonato de Portugal Group D,Moncarapachense,Juventude Évora,0x2,1,"0,0345"
+17.12.2023,12:00:00,Campeonato de Portugal Group D,Imortal Albufeira,Sintrense,0x2,1,"0,0345"
+17.12.2023,12:00:00,Campeonato de Portugal Group A,Brito,Dumiense,1x0,1,"0,0345"
+17.12.2023,12:00:00,Campeonato de Portugal Group B,Rebordosa,AD Marco 09,0x2,1,"0,0345"
+17.12.2023,12:00:00,Campeonato de Portugal Group B,Paredes,Vitória Guimarães II,2x1,1,"0,0345"
+17.12.2023,12:00:00,Campeonato de Portugal Group B,Florgrade,São João Ver,1x1,1,"0,0345"
+17.12.2023,12:00:00,Campeonato de Portugal Group B,Gondomar SC,Vila Meã,4x2,1,"0,0345"
+17.12.2023,12:00:00,Campeonato de Portugal Group C,Benfica Castelo Branco,Peniche,2x0,1,"0,0345"
+17.12.2023,12:00:00,Primera Division RFEF Group 1,CF Fuenlabrada,Celta de Vigo II,0x2,1,"0,0345"
+17.12.2023,12:00:00,Super League 2 South,Diagoras,Giouchtas,2x0,1,"0,0345"
+17.12.2023,12:00:00,Botola Pro,CR Khemis Zemamra,FUS Rabat,1x2,1,"0,0345"
+17.12.2023,12:00:00,Botola 2,Difaâ El Jadida,Olympique Dcheïra,2x1,1,"0,0345"
+17.12.2023,12:15:00,Segunda División,Levante UD,SD Huesca,2x1,1,"0,0345"
+17.12.2023,12:15:00,Serie C Group A,US Alessandria,Legnago Salus,0x0,1,"0,0345"
+17.12.2023,12:15:00,Serie C Group B,Vis Pesaro,Sestri Levante,2x2,1,"0,0345"
+17.12.2023,13:00:00,Segunda División RFEF Group 5,CD Badajoz,SS Reyes,0x0,1,"0,0345"
+17.12.2023,13:00:00,Primera Division RFEF Group 1,Barcelona II,SD Ponferradina,1x1,1,"0,0345"
+17.12.2023,14:00:00,Serie A,Bologna,Roma,2x0,1,"0,0345"
+17.12.2023,14:30:00,Segunda División,SD Amorebieta,Real Zaragoza,1x1,1,"0,0345"
+17.12.2023,14:30:00,Serie C Group A,Arzignano Valchiampo,Pro Vercelli,3x1,1,"0,0345"
+17.12.2023,14:30:00,Serie C Group C,Avellino,Taranto,0x0,1,"0,0345"
+17.12.2023,15:00:00,Primera Division RFEF Group 1,Arenteiro,Deportivo La Coruña,1x2,1,"0,0345"
+17.12.2023,16:00:00,Botola Pro,Youssoufia Berrechid,Moghreb Tétouan,0x0,1,"0,0345"
+17.12.2023,16:45:00,Serie C Group A,Virtus Verona,Pro Patria,2x0,1,"0,0345"
+17.12.2023,16:45:00,Serie C Group B,Carrarese,Lucchese,1x0,1,"0,0345"
+17.12.2023,17:00:00,Segunda División,Racing Club de Ferrol,CD Tenerife,3x1,1,"0,0345"
+18.12.2023,07:45:00,Azadegan League,Esteghlal Mollasani,Ario Eslamshahr,1x0,1,"0,0345"
+18.12.2023,08:30:00,Persian Gulf Pro League,Mes Rafsanjan,Malavan,1x4,0,-1
+18.12.2023,12:00:00,Ghana Premier League,Accra Lions,Nsoatreman,2x1,1,"0,0345"
+18.12.2023,12:30:00,Ligi kuu Bara,JKT Tanzania,Coastal Union,0x1,1,"0,0345"
 18.12.2023,15:00:00,Ligi kuu Bara,Dodoma Jiji,Ihefu,,,
 18.12.2023,16:45:00,Serie C Group C,Audace Cerignola,Foggia,,,
 18.12.2023,16:45:00,Serie C Group C,Latina,Benevento,,,
+19.12.2023,07:30,Azadegan League,Shahrdari Astara,Naft Gachsaran,,,
+19.12.2023,08:30,Persian Gulf Pro League,Aluminium Arak,Gol Gohar,,,
+19.12.2023,08:30,Persian Gulf Pro League,Shams Azar Qazvin,Sanat Naft,,,
+19.12.2023,10:00,Ligi kuu Bara,Mtibwa Sugar,Mashujaa,,,
+19.12.2023,10:00,Persian Gulf Pro League,Zob Ahan,Foolad,,,
+20.12.2023,07:30,Azadegan League,Khooshe Talaee Saveh,Naft Masjed Soleyman,,,
+20.12.2023,07:30,Azadegan League,Fajr Sepasi,Pars Jam Bushehr,,,
+20.12.2023,07:30,Azadegan League,Mes Kerman,Mes Soongoun,,,
+20.12.2023,07:45,Azadegan League,Khalij Fars,Mes Shahr-e Babak,,,
+20.12.2023,08:30,Iraqi Premier League,Al Talaba,Karbalaa FC,,,
+20.12.2023,10:00,Uganda Premier League,Mbarara City,Kitara,,,
+20.12.2023,10:00,Jordanian Pro League,Al Salt,Moghayer Al Sarhan,,,
+20.12.2023,10:00,Ligue 2,Korba,Hammam-Lif,,,
+20.12.2023,10:00,Ligue 2,Kalaâ Sport,Radès,,,
+20.12.2023,10:00,Ligue 2,Kairouan,Jeunesse Sportive Omrane,,,
+20.12.2023,10:30,National First Division,Hungry Lions,Marumo Gallants,,,
+20.12.2023,10:30,National First Division,Platinum City Rovers,JDR Stars,,,
+20.12.2023,10:30,National First Division,Pretoria Callies,Casric Stars,,,
+20.12.2023,10:30,Serie D Group B,Caldiero Terme,Villa Valle,,,
+20.12.2023,10:30,Serie D Group B,Club Milano,Folgore Caratese,,,
+20.12.2023,10:30,Serie D Group F,Avezzano,Sora,,,
+20.12.2023,10:30,Serie D Group F,Real Monterotondo Scalo,Fano,,,
+20.12.2023,10:30,Serie D Group D,Progresso,Mezzolara,,,
+20.12.2023,11:00,Serie D Group A,Ligorna,Derthona,,,
+20.12.2023,11:00,Elite Two,Racing de Bafoussam,Renaissance FC de Ngoumou,,,
+20.12.2023,11:00,Elite Two,Bafmeng United,Aigle Royal de Moungo,,,
+20.12.2023,11:30,Elite Two,Eding Sport,Dragon de Yaoundé,,,
+20.12.2023,12:00,Campeonato de Portugal Group A,Portosantense,Vilar de Perdizes,,,
+20.12.2023,13:00,Iraqi Premier League,Al-Qasim,Al Kahrabaa,,,
+20.12.2023,15:00,Segunda División,Real Zaragoza,Levante UD,,,
+20.12.2023,17:30,Segunda División,Leganés,CD Tenerife,,,
