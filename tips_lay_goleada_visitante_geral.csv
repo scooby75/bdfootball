@@ -1027,37 +1027,43 @@ Date,Hora,Liga,Home,Away,Placar FT,Winrate,Profit
 18.12.2023,08:30:00,Persian Gulf Pro League,Mes Rafsanjan,Malavan,1x4,0,-1
 18.12.2023,12:00:00,Ghana Premier League,Accra Lions,Nsoatreman,2x1,1,"0,0345"
 18.12.2023,12:30:00,Ligi kuu Bara,JKT Tanzania,Coastal Union,0x1,1,"0,0345"
-18.12.2023,15:00:00,Ligi kuu Bara,Dodoma Jiji,Ihefu,,,
-18.12.2023,16:45:00,Serie C Group C,Audace Cerignola,Foggia,,,
-18.12.2023,16:45:00,Serie C Group C,Latina,Benevento,,,
-19.12.2023,07:30,Azadegan League,Shahrdari Astara,Naft Gachsaran,,,
-19.12.2023,08:30,Persian Gulf Pro League,Aluminium Arak,Gol Gohar,,,
-19.12.2023,08:30,Persian Gulf Pro League,Shams Azar Qazvin,Sanat Naft,,,
-19.12.2023,10:00,Ligi kuu Bara,Mtibwa Sugar,Mashujaa,,,
-19.12.2023,10:00,Persian Gulf Pro League,Zob Ahan,Foolad,,,
-20.12.2023,07:30,Azadegan League,Khooshe Talaee Saveh,Naft Masjed Soleyman,,,
-20.12.2023,07:30,Azadegan League,Fajr Sepasi,Pars Jam Bushehr,,,
-20.12.2023,07:30,Azadegan League,Mes Kerman,Mes Soongoun,,,
-20.12.2023,07:45,Azadegan League,Khalij Fars,Mes Shahr-e Babak,,,
-20.12.2023,08:30,Iraqi Premier League,Al Talaba,Karbalaa FC,,,
-20.12.2023,10:00,Uganda Premier League,Mbarara City,Kitara,,,
-20.12.2023,10:00,Jordanian Pro League,Al Salt,Moghayer Al Sarhan,,,
-20.12.2023,10:00,Ligue 2,Korba,Hammam-Lif,,,
-20.12.2023,10:00,Ligue 2,Kalaâ Sport,Radès,,,
-20.12.2023,10:00,Ligue 2,Kairouan,Jeunesse Sportive Omrane,,,
-20.12.2023,10:30,National First Division,Hungry Lions,Marumo Gallants,,,
-20.12.2023,10:30,National First Division,Platinum City Rovers,JDR Stars,,,
-20.12.2023,10:30,National First Division,Pretoria Callies,Casric Stars,,,
-20.12.2023,10:30,Serie D Group B,Caldiero Terme,Villa Valle,,,
-20.12.2023,10:30,Serie D Group B,Club Milano,Folgore Caratese,,,
-20.12.2023,10:30,Serie D Group F,Avezzano,Sora,,,
-20.12.2023,10:30,Serie D Group F,Real Monterotondo Scalo,Fano,,,
-20.12.2023,10:30,Serie D Group D,Progresso,Mezzolara,,,
-20.12.2023,11:00,Serie D Group A,Ligorna,Derthona,,,
-20.12.2023,11:00,Elite Two,Racing de Bafoussam,Renaissance FC de Ngoumou,,,
-20.12.2023,11:00,Elite Two,Bafmeng United,Aigle Royal de Moungo,,,
-20.12.2023,11:30,Elite Two,Eding Sport,Dragon de Yaoundé,,,
-20.12.2023,12:00,Campeonato de Portugal Group A,Portosantense,Vilar de Perdizes,,,
-20.12.2023,13:00,Iraqi Premier League,Al-Qasim,Al Kahrabaa,,,
-20.12.2023,15:00,Segunda División,Real Zaragoza,Levante UD,,,
-20.12.2023,17:30,Segunda División,Leganés,CD Tenerife,,,
+18.12.2023,15:00:00,Ligi kuu Bara,Dodoma Jiji,Ihefu,1x0,1,"0,0345"
+18.12.2023,16:45:00,Serie C Group C,Audace Cerignola,Foggia,2x0,1,"0,0345"
+18.12.2023,16:45:00,Serie C Group C,Latina,Benevento,0x0,1,"0,0345"
+19.12.2023,07:30,Azadegan League,Shahrdari Astara,Naft Gachsaran,0x3,1,"0,0345"
+19.12.2023,08:30,Persian Gulf Pro League,Aluminium Arak,Gol Gohar,0x0,1,"0,0345"
+19.12.2023,08:30,Persian Gulf Pro League,Shams Azar Qazvin,Sanat Naft,0x0,1,"0,0345"
+19.12.2023,10:00,Ligi kuu Bara,Mtibwa Sugar,Mashujaa,2x1,1,"0,0345"
+19.12.2023,10:00,Persian Gulf Pro League,Zob Ahan,Foolad,0x0,1,"0,0345"
+20.12.2023,07:30,Azadegan League,Khooshe Talaee Saveh,Naft Masjed Soleyman,0x3,1,"0,0345"
+20.12.2023,07:30,Azadegan League,Fajr Sepasi,Pars Jam Bushehr,2x0,1,"0,0345"
+20.12.2023,07:30,Azadegan League,Mes Kerman,Mes Soongoun,1x0,1,"0,0345"
+20.12.2023,07:45,Azadegan League,Khalij Fars,Mes Shahr-e Babak,1x0,1,"0,0345"
+20.12.2023,08:30,Iraqi Premier League,Al Talaba,Karbalaa FC,0x0,1,"0,0345"
+20.12.2023,10:00,Uganda Premier League,Mbarara City,Kitara,0x0,1,"0,0345"
+20.12.2023,10:00,Jordanian Pro League,Al Salt,Moghayer Al Sarhan,1x2,1,"0,0345"
+20.12.2023,10:00,Ligue 2,Korba,Hammam-Lif,0x0,1,"0,0345"
+20.12.2023,10:00,Ligue 2,Kalaâ Sport,Radès,0x0,1,"0,0345"
+20.12.2023,10:00,Ligue 2,Kairouan,Jeunesse Sportive Omrane,2x1,1,"0,0345"
+20.12.2023,10:30,National First Division,Hungry Lions,Marumo Gallants,3x1,1,"0,0345"
+20.12.2023,10:30,National First Division,Platinum City Rovers,JDR Stars,1x0,1,"0,0345"
+20.12.2023,10:30,National First Division,Pretoria Callies,Casric Stars,3x2,1,"0,0345"
+20.12.2023,10:30,Serie D Group B,Caldiero Terme,Villa Valle,1x0,1,"0,0345"
+20.12.2023,10:30,Serie D Group B,Club Milano,Folgore Caratese,4x3,1,"0,0345"
+20.12.2023,10:30,Serie D Group F,Avezzano,Sora,1x0,1,"0,0345"
+20.12.2023,10:30,Serie D Group F,Real Monterotondo Scalo,Fano,2x2,1,"0,0345"
+20.12.2023,10:30,Serie D Group D,Progresso,Mezzolara,2x2,1,"0,0345"
+20.12.2023,11:00,Serie D Group A,Ligorna,Derthona,3x1,1,"0,0345"
+20.12.2023,11:00,Elite Two,Racing de Bafoussam,Renaissance FC de Ngoumou,1x0,1,"0,0345"
+20.12.2023,11:00,Elite Two,Bafmeng United,Aigle Royal de Moungo,1x0,1,"0,0345"
+20.12.2023,11:30,Elite Two,Eding Sport,Dragon de Yaoundé,3x1,1,"0,0345"
+20.12.2023,12:00,Campeonato de Portugal Group A,Portosantense,Vilar de Perdizes,2x2,1,"0,0345"
+20.12.2023,13:00,Iraqi Premier League,Al-Qasim,Al Kahrabaa,3x3,1,"0,0345"
+20.12.2023,15:00,Segunda División,Real Zaragoza,Levante UD,2x2,1,"0,0345"
+20.12.2023,17:30,Segunda División,Leganés,CD Tenerife,1x1,1,"0,0345"
+21.12.2023,08:30,Iraqi Premier League,Naft,Zakho FC,0x0,1,"0,0345"
+21.12.2023,10:00,Jordanian Pro League,Ma'an,Al Ahli,2x0,1,"0,0345"
+21.12.2023,10:30,Serie D Group C,Dolomiti Bellunesi,Mestre,1x0,1,"0,0345"
+21.12.2023,15:00,Segunda División,SD Huesca,FC Cartagena,3x0,1,"0,0345"
+21.12.2023,17:30,La Liga,RCD Mallorca,CA Osasuna,3x2,1,"0,0345"
+21.12.2023,17:30,Segunda División,SD Amorebieta,AD Alcorcón,1x2,1,"0,0345"
