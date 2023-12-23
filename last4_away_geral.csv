@@ -136,10 +136,10 @@ Van,8,0,0,8,4,28,-24,0,armenia
 Wellington,4,2,2,0,5,1,4,8,australia
 Melbourne V.,4,2,2,0,9,6,3,8,australia
 Macarthur FC,3,2,1,0,7,4,3,7,australia
-Newcastle Jets,5,2,1,2,10,10,0,7,australia
 Brisbane Roar,5,2,1,2,8,9,-1,7,australia
+Newcastle Jets,6,2,1,3,11,13,-2,7,australia
 Melbourne City,4,2,0,2,4,8,-4,6,australia
-Western Sydney,3,1,2,0,5,4,1,5,australia
+Western Sydney,4,1,2,1,5,6,-1,5,australia
 Adelaide Utd,4,1,1,2,7,7,0,4,australia
 Central Coast,4,1,1,2,6,8,-2,4,australia
 Sydney FC,4,1,0,3,5,9,-4,3,australia
@@ -233,7 +233,7 @@ Cercle Brugge,8,4,1,3,10,7,3,13,belgium
 Antwerp,8,2,4,2,13,10,3,10,belgium
 Gent,8,2,4,2,10,10,0,10,belgium
 Westerlo,8,2,3,3,12,12,0,9,belgium
-Club Brugge,8,2,2,4,10,8,2,8,belgium
+Club Brugge,8,2,2,4,11,9,2,8,belgium
 Sint-Truiden,8,1,5,2,12,17,-5,8,belgium
 Standard Liege,8,2,2,4,9,19,-10,8,belgium
 KV Mechelen,8,2,1,5,8,14,-6,7,belgium
@@ -502,7 +502,7 @@ Burnley,8,1,2,5,6,14,-8,5,england
 Nottm Forest,8,1,2,5,6,17,-11,5,england
 Luton Town,8,1,1,6,7,18,-11,4,england
 Fulham,8,0,3,5,8,20,-12,3,england
-Sheffield Utd,8,0,1,7,4,22,-18,1,england
+Sheffield Utd,8,0,2,6,4,21,-17,2,england
 Leicester City,8,6,1,1,17,8,9,19,england2
 Ipswich Town,8,4,3,1,11,8,3,15,england2
 Middlesbrough,8,4,2,2,19,14,5,14,england2
@@ -512,15 +512,15 @@ Southampton,8,3,4,1,10,8,2,13,england2
 Blackburn,8,4,0,4,16,14,2,12,england2
 Leeds Utd,8,3,2,3,8,8,0,11,england2
 Watford,8,3,2,3,9,10,-1,11,england2
-Hull City,8,3,2,3,12,14,-2,11,england2
 Cardiff City,8,3,1,4,7,9,-2,10,england2
 Millwall,8,2,3,3,12,10,2,9,england2
 Stoke City,8,2,3,3,11,13,-2,9,england2
 Sunderland,8,2,2,4,8,8,0,8,england2
+Hull City,8,2,2,4,11,16,-5,8,england2
 Norwich City,8,2,2,4,14,20,-6,8,england2
-Preston,8,2,2,4,8,15,-7,8,england2
 Coventry City,8,2,1,5,12,13,-1,7,england2
 Huddersfield,8,1,4,3,7,13,-6,7,england2
+Preston,8,2,1,5,8,16,-8,7,england2
 QP Rangers,8,1,2,5,5,9,-4,5,england2
 Bristol City,8,1,2,5,5,10,-5,5,england2
 Plymouth,8,0,3,5,5,15,-10,3,england2
@@ -544,35 +544,35 @@ Charlton,8,1,5,2,10,12,-2,8,england3
 Fleetwood,8,2,2,4,8,13,-5,8,england3
 Northampton,8,2,1,5,8,13,-5,7,england3
 Burton Albion,8,2,1,5,5,15,-10,7,england3
-Exeter City,8,2,1,5,5,20,-15,7,england3
 Wigan Athletic,8,1,2,5,9,14,-5,5,england3
 Cheltenham,8,1,2,5,6,13,-7,5,england3
 Carlisle Utd,8,1,2,5,7,16,-9,5,england3
 Shrewsbury,8,1,2,5,2,14,-12,5,england3
 Reading,8,1,1,6,8,19,-11,4,england3
+Exeter City,8,1,1,6,3,22,-19,4,england3
 Cambridge Utd,8,0,3,5,5,14,-9,3,england3
 Stockport,8,6,1,1,18,9,9,19,england4
 Mansfield,8,5,2,1,19,8,11,17,england4
-Barrow,8,4,2,2,15,8,7,14,england4
+Barrow,8,5,1,2,17,8,9,16,england4
 Harrogate,8,4,1,3,9,8,1,13,england4
 Crewe Alexandra,8,3,3,2,18,15,3,12,england4
-Bradford,8,4,0,4,15,13,2,12,england4
+Bradford,8,4,0,4,14,13,1,12,england4
 Morecambe,8,4,0,4,16,16,0,12,england4
+AFC Wimbledon,8,3,3,2,7,7,0,12,england4
 Wrexham,8,3,3,2,7,10,-3,12,england4
-AFC Wimbledon,8,2,4,2,7,8,-1,10,england4
 Walsall,8,3,1,4,11,16,-5,10,england4
 Milton Keynes,8,2,3,3,10,11,-1,9,england4
-Salford City,8,2,2,4,10,10,0,8,england4
-Notts County,8,2,2,4,13,16,-3,8,england4
+Salford City,8,2,2,4,11,11,0,8,england4
 Accrington,8,2,2,4,12,15,-3,8,england4
 Crawley Town,8,2,2,4,11,15,-4,8,england4
+Notts County,8,2,1,5,13,17,-4,7,england4
 Doncaster,8,2,1,5,9,13,-4,7,england4
 Newport,8,2,0,6,7,16,-9,6,england4
 Colchester Utd,8,2,0,6,8,18,-10,6,england4
-Gillingham,8,2,0,6,5,15,-10,6,england4
 Forest Green,8,1,2,5,6,14,-8,5,england4
 Swindon Town,8,1,2,5,11,20,-9,5,england4
 Grimsby,8,0,4,4,9,15,-6,4,england4
+Gillingham,8,1,1,6,4,15,-11,4,england4
 Tranmere,8,0,2,6,6,16,-10,2,england4
 Sutton Utd,8,0,2,6,8,28,-20,2,england4
 Chesterfield,8,6,1,1,13,5,8,19,england5
@@ -912,9 +912,9 @@ ATK Mohun Bagan,5,4,0,1,12,6,6,12,india
 Mumbai City,4,2,2,0,8,3,5,8,india
 Goa,3,2,1,0,5,1,4,7,india
 Kerala Blasters,4,2,0,2,4,4,0,6,india
+Odisha FC,5,1,2,2,6,7,-1,5,india
 Chennaiyin,6,1,2,3,6,11,-5,5,india
 Jamshedpur,6,1,1,4,6,5,1,4,india
-Odisha FC,4,1,1,2,6,7,-1,4,india
 Hyderabad,7,0,3,4,4,10,-6,3,india
 Punjab,7,0,3,4,6,14,-8,3,india
 East Bengal,3,0,2,1,2,3,-1,2,india
@@ -932,7 +932,7 @@ Neroca,5,1,1,3,7,16,-9,4,india2
 Real Kashmir,2,1,0,1,4,1,3,3,india2
 Rajasthan,4,1,0,3,7,14,-7,3,india2
 Shillong Lajong,3,0,2,1,3,5,-2,2,india2
-TRAU,5,0,1,4,2,14,-12,1,india2
+TRAU,6,0,1,5,6,19,-13,1,india2
 Persib,8,5,3,0,15,7,8,18,indonesia
 Borneo,8,5,2,1,10,5,5,17,indonesia
 Madura Utd,8,3,3,2,13,12,1,12,indonesia
@@ -974,9 +974,9 @@ Newroz SC,6,3,1,2,8,5,3,10,iraq
 Al Naft,5,2,3,0,6,3,3,9,iraq
 Al Zawraa,5,2,3,0,5,2,3,9,iraq
 Al Hudod,5,2,2,1,7,5,2,8,iraq
+Naft Al-Janoob,6,1,4,1,6,5,1,7,iraq
 Karbala,5,2,1,2,5,6,-1,7,iraq
 Baghdad,5,2,1,2,3,5,-2,7,iraq
-Naft Al-Janoob,5,1,3,1,5,4,1,6,iraq
 Al Talaba,4,1,2,1,4,3,1,5,iraq
 Al Kahrabaa,5,1,2,2,7,8,-1,5,iraq
 Zakho,5,1,2,2,3,4,-1,5,iraq
@@ -986,7 +986,7 @@ Al Karkh,5,0,4,1,5,6,-1,4,iraq
 Al-Qasim,4,1,1,2,4,5,-1,4,iraq
 Al Najaf,5,1,1,3,4,7,-3,4,iraq
 Duhok,5,1,1,3,1,5,-4,4,iraq
-Naft Al-Wasat,4,0,2,2,2,5,-3,2,iraq
+Naft Al-Wasat,5,0,2,3,2,8,-6,2,iraq
 Shelbourne,8,4,3,1,13,5,8,15,ireland
 St. Patricks,8,4,1,3,9,8,1,13,ireland
 Derry City,8,3,3,2,12,6,6,12,ireland
@@ -1027,32 +1027,32 @@ Maccabi Jaffa,6,3,1,2,13,9,4,10,israel2
 M. Herziliya,6,3,1,2,6,8,-2,10,israel2
 Ironi Tiberias,6,2,3,1,10,8,2,9,israel2
 Kiryat Shmona,6,3,0,3,8,7,1,9,israel2
-Hapoel Afula,7,2,2,3,9,14,-5,8,israel2
+Hapoel Akko,8,2,3,3,8,9,-1,9,israel2
+H. Ironi Rishon,8,2,3,3,8,10,-2,9,israel2
+Hapoel Afula,8,2,2,4,11,19,-8,8,israel2
 H. Nof Hagalil,7,2,1,4,7,9,-2,7,israel2
-Hapoel Akko,7,1,3,3,6,8,-2,6,israel2
+H. Umm al-Fahm,7,1,3,3,7,10,-3,6,israel2
 H. Ramat Gan,7,1,3,3,5,8,-3,6,israel2
-H. Ironi Rishon,7,1,3,3,6,10,-4,6,israel2
 Kafr Qasim,6,1,3,2,4,8,-4,6,israel2
-Nes Tziona,7,1,3,3,10,17,-7,6,israel2
+Nes Tziona,8,1,3,4,10,19,-9,6,israel2
 H. Kfar Saba,6,1,2,3,3,5,-2,5,israel2
-H. Umm al-Fahm,6,1,2,3,7,10,-3,5,israel2
 Ihud B. Shfaram,6,1,1,4,7,14,-7,4,israel2
 Inter Milan,8,7,1,0,18,2,16,22,italy
 Napoli,8,5,2,1,16,6,10,17,italy
 Juventus,8,5,2,1,12,6,6,17,italy
-AC Milan,8,4,2,2,15,14,1,14,italy
-Fiorentina,8,3,2,3,11,10,1,11,italy
+AC Milan,8,3,3,2,15,16,-1,12,italy
+Fiorentina,8,3,2,3,8,9,-1,11,italy
 Atalanta,8,3,1,4,12,12,0,10,italy
+Lazio,8,3,1,4,9,10,-1,10,italy
 Bologna,8,1,6,1,8,8,0,9,italy
 AS Roma,8,2,2,4,9,12,-3,8,italy
 Sassuolo,8,2,2,4,13,17,-4,8,italy
 Torino,8,2,2,4,6,11,-5,8,italy
 Monza,8,2,2,4,6,12,-6,8,italy
-Lazio,8,2,1,5,8,12,-4,7,italy
 Udinese,8,1,4,3,5,13,-8,7,italy
 Empoli,8,2,1,5,5,16,-11,7,italy
 Lecce,7,0,5,2,8,10,-2,5,italy
-Genoa,8,1,1,6,5,11,-6,4,italy
+Genoa,8,1,1,6,6,12,-6,4,italy
 Hellas Verona,8,0,2,6,5,12,-7,2,italy
 Frosinone,8,0,2,6,7,16,-9,2,italy
 Cagliari,8,0,2,6,5,14,-9,2,italy
@@ -1086,9 +1086,9 @@ Portmore Utd,5,1,2,2,6,6,0,5,jamaica
 Waterhouse,5,1,2,2,4,6,-2,5,jamaica
 Dunbeholden,4,1,2,1,2,4,-2,5,jamaica
 Montego Bay,5,1,2,2,5,8,-3,5,jamaica
-Humble Lions,4,1,1,2,5,8,-3,4,jamaica
+Humble Lions,5,1,1,3,5,9,-4,4,jamaica
 Treasure Beach,5,1,0,4,6,12,-6,3,jamaica
-Harbour View,2,0,1,1,2,4,-2,1,jamaica
+Harbour View,3,0,2,1,3,5,-2,2,jamaica
 Molynes Utd,4,0,1,3,2,6,-4,1,jamaica
 Lime Hall Acade,5,0,1,4,1,9,-8,1,jamaica
 Avispa Fukuoka,8,6,0,2,14,11,3,18,japan
@@ -1375,12 +1375,12 @@ Heracles Almelo,8,1,2,5,10,20,-10,5,netherlands
 FC Volendam,8,1,1,6,9,20,-11,4,netherlands
 Vitesse Arnhem,8,1,0,7,5,25,-20,3,netherlands
 Fortuna Sittard,8,0,2,6,4,21,-17,2,netherlands
+Willem II,8,5,1,2,14,6,8,16,netherlands2
 ADO Den Haag,8,4,3,1,14,9,5,15,netherlands2
 De Graafschap,8,5,0,3,14,12,2,15,netherlands2
-Willem II,8,4,2,2,12,5,7,14,netherlands2
 FC Eindhoven,8,4,2,2,16,12,4,14,netherlands2
 NAC Breda,8,4,1,3,19,12,7,13,netherlands2
-Cambuur,8,4,1,3,21,16,5,13,netherlands2
+Cambuur,8,4,1,3,21,17,4,13,netherlands2
 FC Dordrecht,8,3,4,1,13,10,3,13,netherlands2
 FC Emmen,8,3,3,2,12,12,0,12,netherlands2
 FC Groningen,8,3,2,3,14,9,5,11,netherlands2
@@ -1390,11 +1390,11 @@ MVV Maastricht,8,3,1,4,11,12,-1,10,netherlands2
 Jong PSV,8,3,1,4,11,15,-4,10,netherlands2
 Jong AZ,8,2,2,4,9,17,-8,8,netherlands2
 Helmond Sport,8,2,1,5,12,16,-4,7,netherlands2
-Telstar,8,1,2,5,6,13,-7,5,netherlands2
+Telstar,8,1,2,5,7,12,-5,5,netherlands2
 FC Den Bosch,8,1,1,6,7,17,-10,4,netherlands2
 Jong Ajax,8,0,3,5,12,22,-10,3,netherlands2
-TOP Oss,8,0,2,6,3,12,-9,2,netherlands2
-Jong Utrecht,8,0,2,6,6,22,-16,2,netherlands2
+TOP Oss,8,0,1,7,2,13,-11,1,netherlands2
+Jong Utrecht,8,0,1,7,4,21,-17,1,netherlands2
 Diriangen,8,5,1,2,13,7,6,16,nicaragua
 Real Esteli,8,4,3,1,17,6,11,15,nicaragua
 UNAN Managua,8,3,2,3,12,16,-4,11,nicaragua
@@ -1427,26 +1427,26 @@ El Kanemi,8,1,0,7,3,16,-13,3,nigeria
 Dakkada,8,0,0,8,2,15,-13,0,nigeria
 Cliftonville,8,7,0,1,20,5,15,21,northernireland
 Linfield,8,6,0,2,13,8,5,18,northernireland
+Carrick Rangers,8,5,1,2,15,14,1,16,northernireland
 Larne,8,4,3,1,12,4,8,15,northernireland
 Crusaders,8,4,2,2,14,10,4,14,northernireland
-Carrick Rangers,8,4,1,3,15,16,-1,13,northernireland
-Coleraine,8,3,2,3,10,14,-4,11,northernireland
+Coleraine,8,3,1,4,9,14,-5,10,northernireland
 Glentoran,8,2,3,3,11,11,0,9,northernireland
 Dungannon,8,2,3,3,11,16,-5,9,northernireland
 Glenavon,8,3,0,5,11,17,-6,9,northernireland
 Ballymena Utd,8,2,1,5,4,16,-12,7,northernireland
-Loughgall,8,1,3,4,10,21,-11,6,northernireland
+Loughgall,8,1,2,5,9,21,-12,5,northernireland
 Newry City,8,1,1,6,7,19,-12,4,northernireland
 Dundela,8,5,1,2,11,10,1,16,northernireland2
 Bangor,8,4,1,3,17,11,6,13,northernireland2
 Institute,8,3,3,2,13,13,0,12,northernireland2
 Ballinamallard,8,3,2,3,11,9,2,11,northernireland2
 Portadown,8,3,1,4,9,9,0,10,northernireland2
-Ards,8,3,1,4,14,18,-4,10,northernireland2
-Annagh Utd,8,2,2,4,9,15,-6,8,northernireland2
-Newington Youth,8,2,0,6,10,19,-9,6,northernireland2
+Ards,8,2,1,5,15,21,-6,7,northernireland2
+Annagh Utd,8,2,1,5,11,21,-10,7,northernireland2
 H&W Welders,8,1,2,5,10,17,-7,5,northernireland2
 Ballyclare,6,1,1,4,8,14,-6,4,northernireland2
+Newington Youth,8,1,1,6,9,21,-12,4,northernireland2
 Dergview,8,0,1,7,9,23,-14,1,northernireland2
 Knockbreda,8,0,1,7,6,24,-18,1,northernireland2
 Shkupi,8,3,4,1,7,5,2,13,northmacedonia
@@ -1686,7 +1686,7 @@ Chaves,7,1,0,6,4,22,-18,3,portugal
 Gil Vicente,7,0,0,7,6,18,-12,0,portugal
 Maritimo,8,6,0,2,13,8,5,18,portugal2
 AVS,6,5,0,1,11,7,4,15,portugal2
-Santa Clara,6,3,3,0,9,4,5,12,portugal2
+Santa Clara,7,3,4,0,9,4,5,13,portugal2
 Torreense,8,3,3,2,8,7,1,12,portugal2
 FC Porto B,7,3,1,3,16,10,6,10,portugal2
 Nacional,6,3,1,2,9,8,1,10,portugal2
@@ -1696,8 +1696,8 @@ Leixoes,8,2,2,4,6,12,-6,8,portugal2
 Uniao de Leiria,8,2,1,5,10,10,0,7,portugal2
 Oliveirense,6,2,1,3,5,11,-6,7,portugal2
 Benfica B,6,1,2,3,7,8,-1,5,portugal2
+Pacos Ferreira,8,1,2,5,5,11,-6,5,portugal2
 Academico Viseu,7,0,4,3,5,11,-6,4,portugal2
-Pacos Ferreira,7,1,1,5,4,10,-6,4,portugal2
 Feirense,7,1,1,5,4,12,-8,4,portugal2
 Os Belenense,7,1,1,5,4,13,-9,4,portugal2
 Vilaverdense,8,1,1,6,4,15,-11,4,portugal2
@@ -1718,7 +1718,7 @@ FCSB,8,5,3,0,16,8,8,18,romania
 Otelul,8,4,4,0,12,5,7,16,romania
 U. Cluj,8,4,3,1,13,11,2,15,romania
 Rapid Bucharest,8,1,7,0,5,4,1,10,romania
-Voluntari,8,2,4,2,11,13,-2,10,romania
+Voluntari,8,2,4,2,10,11,-1,10,romania
 Farul Constanta,8,3,1,4,10,16,-6,10,romania
 P. Iasi,8,2,3,3,9,9,0,9,romania
 CFR Cluj,8,2,2,4,14,15,-1,8,romania
@@ -1729,7 +1729,7 @@ UTA Arad,8,1,4,3,7,11,-4,7,romania
 Hermannstadt,8,0,6,2,6,11,-5,6,romania
 Univ. Craiova,8,1,3,4,7,13,-6,6,romania
 Din. Bucharest,8,2,0,6,7,16,-9,6,romania
-Botosani,8,0,2,6,7,20,-13,2,romania
+Botosani,8,1,2,5,9,19,-10,5,romania
 Rubin Kazan,8,5,0,3,7,6,1,15,russia
 Zenit,8,4,2,2,14,9,5,14,russia
 Lokomotiv M.,8,3,3,2,14,13,1,12,russia
@@ -1768,15 +1768,15 @@ Al Hilal,8,7,1,0,28,6,22,22,saudiarabia
 Al Nassr,8,6,0,2,22,10,12,18,saudiarabia
 Al Taawon,8,5,1,2,13,8,5,16,saudiarabia
 Al Fateh,8,4,2,2,14,11,3,14,saudiarabia
-Al Ahli Jeddah,8,4,1,3,21,15,6,13,saudiarabia
+Al Ahli Jeddah,8,4,1,3,22,14,8,13,saudiarabia
 Al Ittihad,8,3,3,2,11,6,5,12,saudiarabia
 Damak,8,3,2,3,12,12,0,11,saudiarabia
 Al Feiha,8,3,2,3,12,15,-3,11,saudiarabia
 Al Khaleej,8,3,1,4,9,12,-3,10,saudiarabia
-Al Ittifaq,8,2,3,3,6,7,-1,9,saudiarabia
+Al Ittifaq,8,2,3,3,7,8,-1,9,saudiarabia
 Al Akhdoud,8,2,1,5,6,13,-7,7,saudiarabia
 Al Riyadh,8,2,1,5,9,22,-13,7,saudiarabia
-Al Shabab,8,1,3,4,6,13,-7,6,saudiarabia
+Al Shabab,8,1,3,4,6,10,-4,6,saudiarabia
 Al Wahda,8,2,0,6,8,18,-10,6,saudiarabia
 Al Hazm,8,0,5,3,7,14,-7,5,saudiarabia
 Al Raed,8,0,4,4,7,11,-4,4,saudiarabia
@@ -1813,10 +1813,10 @@ Livingston,8,1,2,5,7,12,-5,5,scotland
 St. Mirren,8,1,2,5,4,12,-8,5,scotland
 St. Johnstone,8,0,3,5,1,12,-11,3,scotland
 Raith Rovers,8,7,0,1,13,7,6,21,scotland2
-Dundee Utd,7,6,1,0,18,2,16,19,scotland2
+Dundee Utd,8,6,2,0,18,2,16,20,scotland2
 Partick Thistle,8,4,2,2,19,11,8,14,scotland2
+Ayr Utd,8,3,2,3,16,15,1,11,scotland2
 Dunfermline,7,3,2,2,8,8,0,11,scotland2
-Ayr Utd,8,3,1,4,13,14,-1,10,scotland2
 Arbroath,7,3,0,4,9,14,-5,9,scotland2
 Inverness,8,2,2,4,11,11,0,8,scotland2
 Greenock Morton,7,2,2,3,8,10,-2,8,scotland2
@@ -1837,7 +1837,7 @@ Peterhead,8,5,1,2,13,8,5,16,scotland4
 Spartans,7,4,2,1,16,10,6,14,scotland4
 Dumbarton,7,4,1,2,14,9,5,13,scotland4
 Forfar Athletic,8,2,3,3,6,6,0,9,scotland4
-Bonnyrigg Rose,8,2,1,5,8,15,-7,7,scotland4
+Bonnyrigg Rose,8,2,1,5,9,15,-6,7,scotland4
 East Fife,8,1,3,4,11,13,-2,6,scotland4
 Stranraer,8,1,3,4,8,19,-11,6,scotland4
 Clyde,7,0,3,4,7,12,-5,3,scotland4
@@ -1845,14 +1845,14 @@ Elgin City,8,0,1,7,4,23,-19,1,scotland4
 Partizan,8,7,0,1,18,5,13,21,serbia
 Red Star,8,6,0,2,17,11,6,18,serbia
 Backa Topola,8,4,4,0,13,3,10,16,serbia
-Napredak,8,4,1,3,12,10,2,13,serbia
+Napredak,8,3,2,3,10,10,0,11,serbia
 Cukaricki,8,3,1,4,10,10,0,10,serbia
 Radnicki 1923,8,3,1,4,14,16,-2,10,serbia
 S. Subotica,8,3,1,4,7,10,-3,10,serbia
-Mladost Lucani,8,3,1,4,8,13,-5,10,serbia
-IMT N. Beograd,8,3,0,5,11,14,-3,9,serbia
 Novi Pazar,8,2,2,4,7,7,0,8,serbia
 Vojvodina,8,2,2,4,11,16,-5,8,serbia
+IMT N. Beograd,8,2,1,5,8,12,-4,7,serbia
+Mladost Lucani,8,2,1,5,6,16,-10,7,serbia
 Radnicki Nis,8,1,2,5,6,10,-4,5,serbia
 Z. Pancevo,8,1,2,5,9,18,-9,5,serbia
 Vozdovac,8,1,2,5,4,15,-11,5,serbia
@@ -1936,7 +1936,7 @@ AmaZulu,6,1,3,2,5,7,-2,6,southafrica
 Richards Bay,6,1,2,3,5,8,-3,5,southafrica
 Polokwane,6,1,2,3,4,8,-4,5,southafrica
 TS Galaxy,6,0,1,5,0,7,-7,1,southafrica
-Cape Town Spurs,7,0,0,7,5,17,-12,0,southafrica
+Cape Town Spurs,8,0,1,7,6,18,-12,1,southafrica
 Magesi,8,4,2,2,10,9,1,14,southafrica2
 Orbit College,8,4,1,3,12,15,-3,13,southafrica2
 Baroka,8,3,2,3,7,7,0,11,southafrica2
@@ -2322,18 +2322,18 @@ Angostura,8,1,1,6,6,16,-10,4,venezuela
 M. de Guayana,8,1,1,6,6,21,-15,4,venezuela
 Binh Dinh,3,2,1,0,6,1,5,7,vietnam
 Binh Duong,3,2,1,0,5,1,4,7,vietnam
-Thanh Hoa,3,2,1,0,6,3,3,7,vietnam
+Thanh Hoa,4,2,1,1,6,4,2,7,vietnam
 Nam Dinh,3,2,0,1,9,7,2,6,vietnam
 Ha Noi,3,2,0,1,3,2,1,6,vietnam
-Cong An Nhan,3,1,1,1,6,5,1,4,vietnam
 Hai Phong,3,1,1,1,6,5,1,4,vietnam
+Cong An Nhan,4,1,1,2,7,7,0,4,vietnam
 Viettel,3,1,1,1,3,4,-1,4,vietnam
 S. Khanh Hoa,3,1,0,2,2,5,-3,3,vietnam
 Quang Nam,3,0,2,1,5,6,-1,2,vietnam
 Ho Chi Minh,3,0,2,1,3,4,-1,2,vietnam
-Hong Linh Ha T.,3,0,1,2,2,4,-2,1,vietnam
+Hong Linh Ha T.,4,0,2,2,3,5,-2,2,vietnam
 Gia Lai,3,0,1,2,2,5,-3,1,vietnam
-Song Lam Nghe,3,0,1,2,2,6,-4,1,vietnam
+Song Lam Nghe,4,0,1,3,2,7,-5,1,vietnam
 Da Nang,4,3,1,0,11,2,9,10,vietnam2
 PVF-CAND,3,1,2,0,3,2,1,5,vietnam2
 Hoa Binh,4,1,1,2,2,4,-2,4,vietnam2
