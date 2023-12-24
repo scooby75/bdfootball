@@ -20,14 +20,14 @@ Date,Hora,Liga,Home,Away,Placar FT,Winrate,Profit
 17.09.2023,08:00:00,Kakkonen,Klubi-04,PEPO,1x0,1,"0,5"
 17.09.2023,09:00:00,Liga 1,Borneo,PSS Sleman,1x0,1,"0,5"
 17.09.2023,10:00:00,First Division,Fredrikstad,Sogndal,2x1,1,"0,5"
-17.09.2023,12:30:00,Allsvenskan,Elfsborg,Kalmar,0x3,0,"-0,5"
+17.09.2023,12:30:00,Allsvenskan,Elfsborg,Kalmar,0x3,0,-1
 17.09.2023,12:30:00,Vysheyshaya Liga,Dinamo Minsk,Neman Grodno,2x1,1,"0,5"
 17.09.2023,14:00:00,Primera Divisi�n FPD,Cartagin�s,Sporting San Jos�,2x1,1,"0,5"
 17.09.2023,15:45:00,Serie B,Guarani,Tombense,3x0,1,"0,5"
 17.09.2023,17:15:00,Prim B Nacional,Deportivo Mor�n,All Boys,0x0,0,"-0,5"
 17.09.2023,18:00:00,Categoria Primera A,Santa Fe,Alianza Petrolera,0x1,0,-1
 17.09.2023,18:00:00,Serie B,Vit�ria,Ava�,3x0,1,"0,5"
-17.09.2023,18:00:00,Prim B Nacional,Quilmes,Club Atl�tico Mitre,1x3,0,"-0,5"
+17.09.2023,18:00:00,Prim B Nacional,Quilmes,Club Atl�tico Mitre,1x3,0,-1
 17.09.2023,20:40:00,Primera Divisi�n,Academia Puerto Cabello,Portuguesa,4x1,1,"0,5"
 19.09.2023,07:00:00,K League 2,Busan I'Park,Ansan Greeners,2x0,1,"0,5"
 19.09.2023,12:15:00,Oberliga Bayern Süd,Pipinsried,Gundelfingen,1x0,1,"0,5"
@@ -71,7 +71,7 @@ Date,Hora,Liga,Home,Away,Placar FT,Winrate,Profit
 23.09.2023,11:00:00,Second League,Yantra 2019,Chernomorets Balchik,1x3,0,-1
 23.09.2023,11:00:00,2. SNL,NK Primorje,Bistrica,2x2,0,"-0,5"
 23.09.2023,11:00:00,National League,Barnet,Halifax Town,0x0,0,"-0,5"
-23.09.2023,11:00:00,National League,Southend United,Fylde,1x2,0,"-0,5"
+23.09.2023,11:00:00,National League,Southend United,Fylde,1x2,0,-1
 23.09.2023,11:00:00,FNL,Spartak Vladikavkaz,SKA Khabarovsk,2x1,1,"0,5"
 23.09.2023,11:30:00,First League,Lokomotiv Plovdiv,Slavia Sofia,2x0,1,"0,5"
 23.09.2023,11:30:00,FNL,Vlašim,Opava,1x1,0,"-0,5"
@@ -217,7 +217,7 @@ Date,Hora,Liga,Home,Away,Placar FT,Winrate,Profit
 28.10.2023,09:00:00,Liga 1,Borneo,Dewa United,3x1,1,"0,5"
 28.10.2023,11:00:00,Championship,Ipswich Town,Plymouth Argyle,3x2,1,"0,5"
 28.10.2023,13:00:00,Super League,St. Gallen,Grasshopper,3x1,1,"0,5"
-28.10.2023,14:30:00,Vysheyshaya Liga,Neman Grodno,Isloch,0x0,0,-1
+28.10.2023,14:30:00,Vysheyshaya Liga,Neman Grodno,Isloch,0x0,0,"-0,5"
 28.10.2023,15:15:00,PrvaLiga,Maribor,Rogaška,2x1,1,"0,5"
 29.10.2023,07:30:00,Esiliiga,Viimsi,Tallinna FC Levadia U21,2x0,1,"0,5"
 29.10.2023,09:00:00,First Football League,Shkupi,Rabotnički,3x0,1,"0,5"
@@ -282,3 +282,6 @@ Date,Hora,Liga,Home,Away,Placar FT,Winrate,Profit
 17.12.2023,09:00:00,Superleague of Kosovo,Ballkani,Prishtina,0x0,0,"-0,5"
 17.12.2023,12:00:00,NPFL,Lobi Stars,Doma United,2x1,1,"0,5"
 20.12.2023,12:00,Super League,Aris,Lamia,2x2,0,"-0,5"
+23.12.2023,10:00,Serie B,Parma,Ternana,3x1,1,"0,5"
+23.12.2023,10:00,Serie B,Venezia,Lecco,2x2,0,"-0,5"
+23.12.2023,12:00,National League,Chesterfield,Aldershot Town,4x1,1,"0,5"
