@@ -1,1005 +1,1005 @@
-Date,Hora,Liga,Home,Away,Placar HT,Winrate,Profit,Profit_HA-025,Profit_DNB_HT,Profit_HA+025,Lay Others HT,"-0,25 HT"
-16.09.2023,21:30:00,Serie A,Palmeiras,Goiás,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-16.09.2023,04:30:00,K League 1,Pohang Steelers,Suwon,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-16.09.2023,08:00:00,Ettan North,Sollentuna,Sylvia,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-16.09.2023,08:30:00,China League Two,Yunnan Yukun,Qingdao Red Lions,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-16.09.2023,08:35:00,Chinese Super League,Meizhou Hakka,Shenzhen,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-16.09.2023,09:00:00,Regionalliga Bayern,Aubstadt,Memmingen,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-16.09.2023,11:00:00,Ettan North,Vasalund,Örebro Syrianska,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-16.09.2023,12:30:00,Allsvenskan,Djurgården,Värnamo,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5"
-16.09.2023,13:00:00,Eliteserien,Molde,Odd,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-17.09.2023,23:00:00,Primera División FPD,Alajuelense,Puntarenas,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-17.09.2023,08:00:00,Superettan,GAIS,Helsingborg,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-17.09.2023,08:00:00,Division 2 Vastra Gotaland,Husqvarna,Laholm,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-17.09.2023,08:00:00,Kakkonen,Klubi-04,PEPO,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-17.09.2023,08:30:00,China League One,Sichuan Jiuniu,Yanbian Longding,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-17.09.2023,12:30:00,Allsvenskan,Elfsborg,Kalmar,0x3,0,-1,-1,-1,-1,-1,-1
-17.09.2023,12:30:00,Allsvenskan,Häcken,Halmstad,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-17.09.2023,15:00:00,Torneo Federal A,Ciudad de Bolívar,Sportivo Peñarol,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-18.09.2023,14:00:00,Faroe Islands Premier League,KÍ,B68,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5"
-19.09.2023,07:00:00,K League 2,Busan I'Park,Ansan Greeners,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-19.09.2023,16:00:00,Categoria Primera B,Patriotas Boyacá,Orsomarso,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-20.09.2023,17:30:00,Primera División,UTC Cajamarca,Deportivo Municipal,4x1,1,"0,2","0,7","0,25","0,25",-1,"0,7"
-20.09.2023,22:30:00,Primera División,Universitario,Sport Boys,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-21.09.2023,22:20:00,Categoria Primera A,Millonarios,Atlético Huila,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-22.09.2023,08:35:00,Chinese Super League,Shanghai Shenhua,Shijiazhuang Ever Bright,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-22.09.2023,13:30:00,Regionalliga Bayern,Würzburger Kickers,Wacker Burghausen,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-22.09.2023,14:00:00,Ettan South,Oddevold,Ljungskile,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-23.09.2023,09:00:00,FNL,Dukla Praha,Hanácká,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-23.09.2023,10:00:00,Superettan,Västerås SK,GIF Sundsvall,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-23.09.2023,10:00:00,Kazakhstan Premier League,Kairat,Shakhter Karagandy,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-23.09.2023,11:00:00,National League,Chesterfield,Wealdstone,0x1,0,-1,-1,-1,-1,"0,16",-1
-23.09.2023,12:00:00,Vysheyshaya Liga,Neman Grodno,Dinamo Brest,0x1,0,-1,-1,-1,-1,"0,16",-1
-23.09.2023,14:00:00,First League,Levski Sofia,Etar,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-23.09.2023,15:00:00,Prim B Nacional,Agropecuario,Flandria,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-23.09.2023,18:00:00,Prim B Nacional,San Martín Tucumán,Club Atlético Güemes,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-23.09.2023,20:45:00,Serie B,Sport Recife,Londrina,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-24.09.2023,23:00:00,Primera División FPD,Alajuelense,Santos de Guápiles,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-24.09.2023,01:00:00,J2 League,Shimizu S-Pulse,Ventforet Kofu,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-24.09.2023,09:00:00,Ettan North,Sandviken,Boden,0x1,0,-1,-1,-1,-1,"0,16",-1
-24.09.2023,10:00:00,Uzbekistan Super League,Nasaf,Bunyodkor,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-24.09.2023,11:00:00,Faroe Islands Premier League,Víkingur,07 Vestur,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-24.09.2023,12:00:00,Eliteserien,FK Bodo - Glimt,Vålerenga,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-24.09.2023,12:00:00,Eliteserien,Viking,Sandefjord,2x2,1,"0,2","-0,5",0,"0,25","0,16","-0,5"
-24.09.2023,17:15:00,Primera División,Melgar,Unión Comercio,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-25.09.2023,12:00:00,Virsliga,Riga,Liepāja,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-25.09.2023,21:00:00,Serie B,Novorizontino,ABC,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-25.09.2023,22:00:00,Primera División,Sporting Cristal,UTC Cajamarca,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-25.09.2023,22:35:00,Categoria Primera A,Independiente Medellín,Atlético Bucaramanga,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-27.09.2023,11:00:00,Uzbekistan Super League,Neftchi,Buxoro,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-27.09.2023,13:30:00,Montenegrin First League,Budućnost,Mladost DG,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5"
-27.09.2023,14:00:00,Superettan,Öster,Helsingborg,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-27.09.2023,14:30:00,First League,Ludogorets,Lokomotiv Plovdiv,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-27.09.2023,19:00:00,Serie A,São Paulo,Coritiba,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-29.09.2023,07:30:00,J1 League,Urawa Reds,Yokohama,0x1,1,-1,-1,-1,-1,"0,16",-1
-29.09.2023,09:00:00,Liga 1,Bali United,PS TNI,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-29.09.2023,10:00:00,Armenian Premier League,FC Avan Academy,Ararat,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-29.09.2023,12:00:00,A Lyga,Hegelmann Litauen,Banga,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-29.09.2023,15:45:00,First Division,Galway United,Athlone Town,3x0,1,"0,2","0,7","0,25","0,25",-1,"0,7"
-29.09.2023,15:45:00,First Division,Waterford,Wexford,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-30.09.2023,09:00:00,1st Division,SønderjyskE,B 93,3x0,1,"0,2","0,7","0,25","0,25",-1,"0,7"
-30.09.2023,10:00:00,Allsvenskan,Djurgården,Halmstad,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-30.09.2023,10:00:00,Super League,Pahang,Kuching FA,2x2,1,"0,2","-0,5",0,"0,25","0,16","-0,5"
-30.09.2023,11:00:00,NIFL Premiership,Cliftonville,Loughgall,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5"
-30.09.2023,13:30:00,Prim B Nacional,Defensores de Belgrano,All Boys,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-30.09.2023,14:00:00,Vysheyshaya Liga,Dinamo Minsk,Gomel,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-30.09.2023,16:30:00,Primera División,Deportivo Táchira,Hermanos Colmenares,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-30.09.2023,20:10:00,Categoria Primera A,Atlético Nacional,Envigado,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-01.10.2023,08:00:00,Hong Kong Premier League,Warriors,Rangers,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-01.10.2023,09:00:00,1st Division,Fredericia,Næstved,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-01.10.2023,09:00:00,Liga I,CS U Craiova,Botoşani,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-01.10.2023,09:15:00,First League,Arda,Etar,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-01.10.2023,10:00:00,Prva Liga,Semendrija 1924,Novi Sad,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-01.10.2023,12:00:00,NB II,Vasas,Csákvári TK,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-01.10.2023,13:00:00,Meistriliiga,Tallinna FC Levadia,Trans,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-01.10.2023,14:15:00,Eliteserien,FK Bodo - Glimt,Strømsgodset,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-01.10.2023,21:00:00,Primera División FPD,Deportivo Saprissa,Guanacasteca,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-02.10.2023,14:10:00,Allsvenskan,Malmö FF,Brommapojkarna,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-02.10.2023,15:00:00,Liga I,FCSB,Universitatea Cluj,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-02.10.2023,20:00:00,Serie A,Botafogo,Goiás,0x1,0,-1,-1,-1,-1,"0,16",-1
-02.10.2023,22:30:00,Primera División,Universitario,UTC Cajamarca,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-03.10.2023,09:30:00,Oberliga Baden Wurttemberg,Hollenbach,FC Holzhausen,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5"
-03.10.2023,15:45:00,EFL League One,Oxford United,Shrewsbury Town,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-03.10.2023,15:45:00,National League,Chesterfield,Bromley,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-03.10.2023,15:45:00,National League,Gateshead,Wealdstone,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-03.10.2023,15:45:00,National League,Southend United,Oxford City,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-03.10.2023,19:30:00,Serie B,Mirassol,Londrina,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-04.10.2023,14:00:00,Regionalliga Südwest,Stuttgarter Kickers,Schott Mainz,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-04.10.2023,15:45:00,Championship,Leicester City,Preston North End,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-05.10.2023,08:00:00,Armenian Premier League,Artsakh,BKMA,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-06.10.2023,13:00:00,Damallsvenskan,Rosengard Women,Djurgården W,1x2,0,-1,-1,-1,-1,"0,16",-1
-06.10.2023,15:00:00,Liga I,Rapid Bucureşti,CSM Iaşi,2x2,1,"0,2","-0,5",0,"0,25","0,16","-0,5"
-06.10.2023,21:30:00,Serie B,Atlético GO,Ituano,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-07.10.2023,05:15:00,FNL,Vyškov,Viktoria Žižkov,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-07.10.2023,08:00:00,Division 2 Norrland,Skellefteå,Frösö,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-07.10.2023,08:00:00,Division 2 Norra Gotaland,Torslanda,Stenungsund,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-07.10.2023,08:00:00,Regionalliga Nordost,Greifswalder FC,Rot-Weiß Erfurt,0x1,0,-1,-1,-1,-1,"0,16",-1
-07.10.2023,09:00:00,Regionalliga Bayern,Würzburger Kickers,Nürnberg II,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-07.10.2023,10:00:00,Superettan,Västerås SK,Jönköpings Södra,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-07.10.2023,10:00:00,Second League,Septemvri Sofia,Marek,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-07.10.2023,10:00:00,3. Liga CFL,Baník Souš,Arsenal Ceska Lipa,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-07.10.2023,10:00:00,3 Liga Group 4,Garbarnia Kraków,Sokół Sieniawa,2x3,0,-1,-1,-1,-1,-1,-1
-07.10.2023,10:00:00,3 Liga Group 4,Avia Świdnik,Karpaty Krosno,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-07.10.2023,11:00:00,Ettan North,Vasalund,Sylvia,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-07.10.2023,11:00:00,Prva HNL,Osijek,Rudeš,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-07.10.2023,11:00:00,EFL League Two,Stockport County,Doncaster Rovers,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-07.10.2023,11:00:00,NIFL Championship,H&W Welders,Knockbreda,0x1,0,-1,-1,-1,-1,"0,16",-1
-07.10.2023,11:00:00,NIFL Premiership,Cliftonville,Dungannon Swifts,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-07.10.2023,12:30:00,PrvaLiga,Celje,Bravo,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5"
-07.10.2023,15:30:00,Super League,St. Gallen,Stade Lausanne-Ouchy,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-07.10.2023,16:00:00,Categoria Primera B,Fortaleza CEIF,Bogotá,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-07.10.2023,18:30:00,LFPB,Nacional Potosí,Independiente Petrolero,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5"
-08.10.2023,08:00:00,Division 2 Vastra Gotaland,Vastra Frolunda,Lindome,3x2,1,"0,2","0,7","0,25","0,25",-1,"0,7"
-08.10.2023,09:00:00,Division 2 Vastra Gotaland,Astrio,Sävedalen,0x2,0,-1,-1,-1,-1,"0,16",-1
-08.10.2023,09:00:00,Superliga,Nordsjælland,OB,0x1,0,-1,-1,-1,-1,"0,16",-1
-08.10.2023,09:30:00,Bundesliga,LASK Linz,Rheindorf Altach,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-08.10.2023,10:00:00,A Lyga,FA Šiauliai,Dainava,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-08.10.2023,10:00:00,Prva Liga,OFK Beograd,Radnički Sr. Mitrovica,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-08.10.2023,10:30:00,Russian Premier League,Dinamo Moskva,Fakel,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-08.10.2023,11:00:00,Faroe Islands Premier League,B36,07 Vestur,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5"
-08.10.2023,11:15:00,Segunda División,Real Valladolid,Mirandés,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-08.10.2023,12:00:00,Eliteserien,Tromsø,Aalesund,0x1,0,-1,-1,-1,-1,"0,16",-1
-08.10.2023,12:30:00,PrvaLiga,Olimpija,Radomlje,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5"
-08.10.2023,12:30:00,SuperLiga,Čukarički,Voždovac,0x1,0,-1,-1,-1,-1,"0,16",-1
-08.10.2023,12:30:00,SuperLiga,Bačka Topola,Spartak Subotica,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-08.10.2023,13:00:00,Superliga,Midtjylland,Randers,0x1,0,-1,-1,-1,-1,"0,16",-1
-08.10.2023,13:00:00,First League,Viktoria Plzeň,Jablonec,2x2,1,"0,2","-0,5",0,"0,25","0,16","-0,5"
-08.10.2023,13:00:00,Super Liga,Slovan Bratislava,Trenčín,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-08.10.2023,14:00:00,Liga Premier Serie A,Estudiantes Tecos,Mexicali FC,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-08.10.2023,16:00:00,LFPB,Club Always Ready,Municipal Vinto,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-08.10.2023,16:00:00,Serie A,Palmeiras,Santos,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5"
-08.10.2023,16:00:00,Torneo Federal A,Gimnasia y Tiro,Sarmiento Resistencia,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-08.10.2023,16:30:00,Torneo Federal A,Douglas Haig,Defensores Belgrano VR,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-08.10.2023,16:50:00,Prim B Nacional,Chacarita Juniors,Estudiantes Caseros,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-08.10.2023,17:20:00,Primera División,ADT,Unión Comercio,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-08.10.2023,18:00:00,Salvadoran Primera División,Once Municipal,CD Platense,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-08.10.2023,18:30:00,Serie A,Atlético Mineiro,Coritiba,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-08.10.2023,18:30:00,Serie A,Fortaleza,América Mineiro,0x2,0,-1,-1,-1,-1,"0,16",-1
-08.10.2023,18:30:00,Salvadoran Primera División,Águila,Santa Tecla,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-08.10.2023,19:00:00,Primera División FPD,Alajuelense,Sporting San José,0x2,0,-1,-1,-1,-1,"0,16",-1
-08.10.2023,20:10:00,Categoria Primera A,Independiente Medellín,Atlético Huila,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-09.10.2023,05:00:00,China League Two,Qingdao Red Lions,Yichun Grand Tiger,3x0,1,"0,2","0,7","0,25","0,25",-1,"0,7"
-09.10.2023,19:00:00,LFPB,Aurora,Guabirá,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5"
-09.10.2023,20:00:00,Serie B,Sport Recife,Ponte Preta,0x2,0,-1,-1,-1,-1,"0,16",-1
-10.10.2023,08:30:00,China League One,Hebei Kungfu,Jiangxi Liansheng,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5"
-10.10.2023,15:00:00,Primera C,Sportivo Italiano,Yupanqui,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-11.10.2023,17:15:00,Categoria Primera B,Patriotas Boyacá,Tigres,3x0,1,"0,2","0,7","0,25","0,25",-1,"0,7"
-12.10.2023,21:30:00,Serie B,Vila Nova,Botafogo SP,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-13.10.2023,14:00:00,Division 2 Sodra Gotaland,IFK Hässleholm,Balkan,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-13.10.2023,14:30:00,Division 2 Norra Gotaland,Stenungsund,Vänersborgs FK,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5"
-13.10.2023,20:00:00,Categoria Primera A,Deportivo Pasto,Unión Magdalena,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-13.10.2023,21:30:00,Serie B,Criciúma,Chapecoense,0x1,0,-1,-1,-1,-1,"0,16",-1
-13.10.2023,23:00:00,Liga Premier Serie A,Durango,Correcaminos UAT II,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7"
-14.10.2023,08:00:00,Ettan South,Oddevold,Norrby,1x0,1,"0,2",,,,"0,16","0,7"
-14.10.2023,08:00:00,Oberliga Rheinland Pfalz Saar,Gonsenheim,Mechtersheim,0x0,1,"0,2",,,,,"-0,5"
-14.10.2023,08:00:00,Regionalliga Nord,Hannover 96 II,Bremer SV,1x0,1,"0,2",,,,"0,16","0,7"
-14.10.2023,08:30:00,3. Division,VSK Århus,Holstebro,0x0,1,"0,2",,,,,"-0,5"
-14.10.2023,09:00:00,Regionalliga Bayern,Aubstadt,Ansbach,1x0,1,"0,2",,,,"0,16","0,7"
-14.10.2023,09:00:00,2nd Division,Roskilde,Thisted,1x3,0,-1,,,,-1,-1
-14.10.2023,09:00:00,Oberliga Bayern Süd,TSV Kottern-St. Mang,TSV 1896 Rain am Lech,0x0,1,"0,2",,,,,"-0,5"
-14.10.2023,09:00:00,Regionalliga Südwest,Aalen,Bahlinger SC,0x0,1,"0,2",,,,,"-0,5"
-14.10.2023,09:00:00,Regionalliga Südwest,Stuttgarter Kickers,FSV Frankfurt,0x0,1,"0,2",,,,,"-0,5"
-14.10.2023,10:00:00,2. SNL,Bistrica,Tolmin,0x0,1,"0,2",,,,,"-0,5"
-14.10.2023,10:00:00,2nd Division,AB,Skive,0x0,1,"0,2",,,,,"-0,5"
-14.10.2023,10:00:00,Druga HNL,Zrinski Jurjevac,Croatia Zmijavci,3x0,1,"0,2",,,,-1,"0,7"
-14.10.2023,10:00:00,3 Liga Group 4,Siarka Tarnobrzeg,KSZO,1x0,1,"0,2",,,,"0,16","0,7"
-14.10.2023,11:00:00,Ettan North,Dalkurd,Örebro Syrianska,0x0,1,"0,2",,,,,"-0,5"
-14.10.2023,11:00:00,Ettan North,Sandviken,Hammarby Talang,1x1,1,"0,2",,,,"0,16","-0,5"
-14.10.2023,11:00:00,Ettan South,Lund,Oskarshamns AIK,0x0,1,"0,2",,,,,"-0,5"
-14.10.2023,11:00:00,EFL League Two,Wrexham,Salford City,1x2,0,-1,,,,"0,16",-1
-14.10.2023,11:00:00,3. Liga CFL,Slovan Velvary,Sokol Živanice,2x0,1,"0,2",,,,"0,16","0,7"
-14.10.2023,11:00:00,Southern League Premier South,Merthyr Town,Plymouth Parkway,0x0,1,"0,2",,,,,"-0,5"
-14.10.2023,11:00:00,Northern Premier League,Radcliffe Borough,Ilkeston Town,2x0,1,"0,2",,,,"0,16","0,7"
-14.10.2023,11:00:00,Southern League Premier Central,Mickleover Sports,Royston Town,0x0,1,"0,2",,,,,"-0,5"
-14.10.2023,11:00:00,Southern League Premier Central,Stamford,Alvechurch,0x0,1,"0,2",,,,,"-0,5"
-14.10.2023,11:00:00,FNL,Spartak Vladikavkaz,Leningradets,0x0,1,"0,2",,,,,"-0,5"
-14.10.2023,11:00:00,Regionalliga Ost,Donaufeld,Ardagger,2x0,1,"0,2",,,,"0,16","0,7"
-14.10.2023,13:00:00,Druga HNL,Šibenik,Dubrava Zagreb,2x1,1,"0,2",,,,"0,16","0,7"
-14.10.2023,15:30:00,Primera D,Centro Español,Deportivo Paraguayo,0x1,0,-1,,,,"0,16",-1
-14.10.2023,16:00:00,Segunda División,Uruguay Montevideo FC,Potencia,1x0,1,"0,2",,,,"0,16","0,7"
-14.10.2023,16:30:00,Torneo Federal A,Argentino Monte Maíz,Ferro Carril Oeste LP,2x0,1,"0,2",,,,"0,16","0,7"
-14.10.2023,17:00:00,Serie B,Novorizontino,Tombense,0x0,1,"0,2",,,,,"-0,5"
-14.10.2023,19:00:00,Reserve League,Talleres Córdoba Res.,Atlético Tucumán Res.,1x1,1,"0,2",,,,"0,16","-0,5"
-15.10.2023,01:00:00,J3 League,Imabari,YSCC,0x2,0,-1,,,,"0,16",-1
-15.10.2023,01:55:00,J3 League,Ehime,Giravanz Kitakyushu,0x0,1,"0,2",,,,,"-0,5"
-15.10.2023,05:45:00,Oberliga Hamburg,USC Paloma,Alsterbrüder,0x1,0,-1,,,,"0,16",-1
-15.10.2023,09:30:00,Eerste Divisie,Willem II,Den Bosch,1x1,1,"0,2",,,,"0,16","-0,5"
-15.10.2023,10:00:00,Damallsvenskan,Kristianstad,KIF Örebro,0x0,1,"0,2",,,,,"-0,5"
-15.10.2023,10:00:00,Premier Soccer League,Highlanders,Cranborne Bullets,0x0,1,"0,2",,,,,"-0,5"
-15.10.2023,10:30:00,Montenegrin Second League,Igalo,Kom,1x1,1,"0,2",,,,"0,16","-0,5"
-15.10.2023,11:00:00,3. Liga CFL,Sokol Zápy,Ústí nad Labem,0x1,0,-1,,,,"0,16",-1
-15.10.2023,12:30:00,Primera B,Deportes Temuco,Deportes Santa Cruz,0x0,1,"0,2",,,,,"-0,5"
-15.10.2023,12:30:00,Primera B,San Luis,Univ. Concepción,2x1,1,"0,2",,,,"0,16","0,7"
-15.10.2023,12:30:00,Segunda División,Progreso,Bella Vista,1x0,1,"0,2",,,,"0,16","0,7"
-15.10.2023,13:30:00,Segunda División,SD Eibar,SD Huesca,0x1,0,-1,,,,"0,16",-1
-15.10.2023,13:30:00,Segunda División,Leganés,SD Amorebieta,2x0,1,"0,2",,,,"0,16","0,7"
-15.10.2023,18:00:00,Categoria Primera A,Rionegro Águilas,Alianza Petrolera,2x0,1,"0,2",,,,"0,16","0,7"
-16.10.2023,22:05:00,Ascenso MX,Venados,Dorados,1x1,1,"0,2",,,,"0,16","-0,5"
-16.10.2023,15:30:00,Prim B Nacional,Deportivo Morón,San Telmo,1x2,1,-1,,,,"0,16",-1
-17.10.2023,23:00:00,Primera División FPD,Deportivo Saprissa,Puntarenas,1x1,1,"0,2",,,,"0,16","-0,5"
-18.10.2023,04:30:00,China League One,Nanjing City,Jinan Xingzhou,0x1,0,-1,,,,"0,16",-1
-18.10.2023,08:30:00,China League One,Hebei Kungfu,Heilongjiang Lava Spring,1x0,1,"0,2",,,,"0,16","0,7"
-18.10.2023,15:00:00,1. Liga Promotion,Brühl,Lugano II,0x0,1,"0,2",,,,,"-0,5"
-18.10.2023,15:45:00,Welsh Premier League,Connah's Quay,Bala Town,0x1,0,-1,,,,"0,16",-1
-19.10.2023,21:30:00,Serie A,Fluminense,Corinthians,1x3,0,-1,,,,-1,-1
-20.10.2023,13:00:00,FNL,Příbram,Prostějov,0x0,1,"0,2",,,,,"-0,5"
-20.10.2023,13:10:00,2. Liga,Ried,First Vienna,1x1,1,"0,2",,,,"0,16","-0,5"
-20.10.2023,13:10:00,2. Liga,Floridsdorfer AC,Amstetten,0x0,1,"0,2",,,,,"-0,5"
-20.10.2023,13:15:00,First League,Lokomotiv Plovdiv,Beroe,0x2,0,-1,,,,"0,16",-1
-20.10.2023,14:00:00,1st Division,SønderjyskE,Kolding IF,2x0,1,"0,2",,,,"0,16","0,7"
-20.10.2023,15:00:00,Professional League,Al Fateh,Abha,2x0,1,"0,2",,,,"0,16","0,7"
-20.10.2023,15:45:00,First Division,Galway United,Wexford,2x0,1,"0,2",,,,"0,16","0,7"
-20.10.2023,15:45:00,First Division,Waterford,Treaty United,0x0,1,"0,2",,,,,"-0,5"
-20.10.2023,15:45:00,Premier Division,Derry City,Shelbourne,0x0,1,"0,2",,,,,"-0,5"
-20.10.2023,16:00:00,LFPB,Santa Cruz,Vaca Díez,1x0,1,"0,2",,,,"0,16","0,7"
-20.10.2023,16:00:00,Segunda División,RCD Espanyol,Leganés,0x0,1,"0,2",,,,,"-0,5"
-20.10.2023,22:00:00,Liga MX,Atlas,Mazatlán,1x2,0,-1,,,,"0,16",-1
-21.10.2023,04:00:00,China League Two,Haimen Codion,Hunan Xiangtao,1x0,1,"0,2",,,,"0,16","0,7"
-21.10.2023,04:30:00,Chinese Super League,Henan Jianye,Shijiazhuang Ever Bright,3x0,1,"0,2",,,,-1,"0,7"
-21.10.2023,07:00:00,3 Liga Group 1,Legia Warszawa II,Warta Sieradz,2x1,1,"0,2",,,,"0,16","0,7"
-21.10.2023,08:00:00,2. Bundesliga,Hamburger SV,Greuther Fürth,2x0,1,"0,2",,,,"0,16","0,7"
-21.10.2023,08:00:00,Superleague of Kosovo,Gjilani,Fushë Kosova,0x0,1,"0,2",,,,,"-0,5"
-21.10.2023,09:00:00,Kazakhstan Premier League,Kairat,FK Aksu,2x0,1,"0,2",,,,"0,16","0,7"
-21.10.2023,09:00:00,FNL,Dukla Praha,Chrudim,0x0,1,"0,2",,,,,"-0,5"
-21.10.2023,09:00:00,Ukrainian Premier League,Chornomorets,Minai,1x0,1,"0,2",,,,"0,16","0,7"
-21.10.2023,09:00:00,Oberliga Bayern Süd,1860 München II,Sonthofen,2x0,1,"0,2",,,,"0,16","0,7"
-21.10.2023,09:00:00,Regionalliga West,Düren Merzenich,Fortuna Düsseldorf II,2x0,1,"0,2",,,,"0,16","0,7"
-21.10.2023,09:00:00,Regionalliga West,Koln II,Wiedenbrück,1x0,1,"0,2",,,,"0,16","0,7"
-21.10.2023,09:00:00,3. Liga,Dynamo Dresden,Preußen Münster,1x0,1,"0,2",,,,"0,16","0,7"
-21.10.2023,09:00:00,Regionalliga Südwest,SGV Freiberg,Mainz 05 II,0x1,0,-1,,,,"0,16",-1
-21.10.2023,09:00:00,Prva Liga,OFK Beograd,Mladost Novi Sad,0x0,1,"0,2",,,,,"-0,5"
-21.10.2023,09:30:00,2. Liga,Tatran Prešov,Petržalka akadémia,0x0,1,"0,2",,,,,"-0,5"
-21.10.2023,10:00:00,First Division,Kristiansund,Åsane,4x1,1,"0,2",,,,-1,"0,7"
-21.10.2023,10:00:00,Damallsvenskan,Hammarby,Linköping,1x0,1,"0,2",,,,"0,16","0,7"
-21.10.2023,10:00:00,Druga HNL,HNK Vukovar 1991,Solin,0x2,0,-1,,,,"0,16",-1
-21.10.2023,11:00:00,Kazakhstan Premier League,Astana,Zhetysu,1x0,1,"0,2",,,,"0,16","0,7"
-21.10.2023,11:00:00,EFL League Two,Stockport County,Grimsby Town,2x1,1,"0,2",,,,"0,16","0,7"
-21.10.2023,11:00:00,EFL League One,Portsmouth,Carlisle United,0x0,1,"0,2",,,,,"-0,5"
-21.10.2023,11:00:00,Championship,West Bromwich Albion,Plymouth Argyle,0x0,1,"0,2",,,,,"-0,5"
-21.10.2023,11:00:00,National League,Bromley,Oxford City,1x1,1,"0,2",,,,"0,16","-0,5"
-21.10.2023,11:00:00,Regionalliga Nordost,Energie Cottbus,Carl Zeiss Jena,0x1,0,-1,,,,"0,16",-1
-21.10.2023,11:00:00,Southern League Premier South,Gosport Borough,Tiverton Town,0x1,0,-1,,,,"0,16",-1
-21.10.2023,11:00:00,Southern League Premier South,Walton & Hersham,Beaconsfield Town,0x0,1,"0,2",,,,,"-0,5"
-21.10.2023,11:00:00,Isthmian Premier Division,AFC Hornchurch,Bognor Regis Town,2x0,1,"0,2",,,,"0,16","0,7"
-21.10.2023,11:00:00,Northern Premier League,Worksop Town,Bradford Park Avenue,1x1,1,"0,2",,,,"0,16","-0,5"
-21.10.2023,11:15:00,Serie B,Catanzaro,FeralpiSalò,0x0,1,"0,2",,,,,"-0,5"
-21.10.2023,12:00:00,Bundesliga,Salzburg,LASK Linz,0x1,0,-1,,,,"0,16",-1
-21.10.2023,12:00:00,Bundesliga,Sturm Graz,Hartberg,2x1,1,"0,2",,,,"0,16","0,7"
-21.10.2023,13:00:00,Super Liga,Trenčín,Skalica,0x0,1,"0,2",,,,,"-0,5"
-21.10.2023,13:00:00,Super Liga,Podbrezová,Ružomberok,4x0,1,"0,2",,,,-1,"0,7"
-21.10.2023,15:00:00,Primera División,Alianza Atlético,Deportivo Municipal,1x0,1,"0,2",,,,"0,16","0,7"
-21.10.2023,18:00:00,LFPB,Bolívar,Nacional Potosí,1x1,1,"0,2",,,,"0,16","-0,5"
-21.10.2023,18:00:00,Primera División,Alianza Lima,ADT,0x0,1,"0,2",,,,,"-0,5"
-21.10.2023,21:00:00,LFPB,Guabirá,Libertad,1x2,0,-1,,,,"0,16",-1
-21.10.2023,22:00:00,Liga MX,América,Santos Laguna,3x2,1,"0,2",,,,-1,"0,7"
-21.10.2023,23:00:00,Primera División FPD,Herediano,Puntarenas,0x0,1,"0,2",,,,,"-0,5"
-22.10.2023,00:10:00,Liga MX,Tigres UANL,Cruz Azul,0x1,0,-1,,,,"0,16",-1
-22.10.2023,08:00:00,Russian Premier League,Spartak Moskva,Olimpiyets,1x0,1,"0,2",,,,"0,16","0,7"
-22.10.2023,08:30:00,2 Lig Beyaz,Van BB,Diyarbekirspor,0x0,1,"0,2",,,,,"-0,5"
-22.10.2023,09:00:00,Uzbekistan Super League,Neftchi,Termez Surkhon,0x0,1,"0,2",,,,,"-0,5"
-22.10.2023,09:00:00,Regionalliga Nord,Teutonia Hamburg,BW Lohne,2x0,1,"0,2",,,,"0,16","0,7"
-22.10.2023,09:30:00,2 Lig Beyaz,Nazilli Belediyespor,Zonguldak Kömürspor,0x1,0,-1,,,,"0,16",-1
-22.10.2023,10:00:00,First Division,Bryne,Skeid,0x0,1,"0,2",,,,,"-0,5"
-22.10.2023,10:00:00,First Division,KFUM,Raufoss,0x0,1,"0,2",,,,,"-0,5"
-22.10.2023,10:00:00,Montenegrin Second League,Mladost Lješkopolje,Grbalj,1x2,0,-1,,,,"0,16",-1
-22.10.2023,10:30:00,First League,Levski Sofia,Cherno More,0x0,1,"0,2",,,,,"-0,5"
-22.10.2023,10:30:00,3. Liga CFL,Sokol Hostouň,Písek,2x0,1,"0,2",,,,"0,16","0,7"
-22.10.2023,10:30:00,3. Liga CFL,Povltava FA,Karlovy Vary,1x1,1,"0,2",,,,"0,16","-0,5"
-22.10.2023,11:00:00,Ukrainian Premier League,Dynamo Kyiv,Dnipro-1,0x1,0,-1,,,,"0,16",-1
-22.10.2023,11:15:00,La Liga,Girona FC,Almería,3x2,1,"0,2",,,,-1,"0,7"
-22.10.2023,11:30:00,Super League,Luzern,Yverdon Sport,1x0,1,"0,2",,,,"0,16","0,7"
-22.10.2023,11:30:00,Montenegrin Second League,Bokelj,Kom,0x0,1,"0,2",,,,,"-0,5"
-22.10.2023,11:55:00,A Lyga,Žalgiris,FA Šiauliai,1x0,1,"0,2",,,,"0,16","0,7"
-22.10.2023,12:00:00,Liga I,CS U Craiova,Petrolul 52,0x0,1,"0,2",,,,,"-0,5"
-22.10.2023,12:30:00,Allsvenskan,Häcken,Norrköping,2x1,1,"0,2",,,,"0,16","0,7"
-22.10.2023,13:00:00,Prva HNL,Hajduk Split,Osijek,0x0,1,"0,2",,,,,"-0,5"
-22.10.2023,14:00:00,Liga de Ascenso,Jicaral,AD Sarchí,1x0,1,"0,2",,,,"0,16","0,7"
-22.10.2023,15:00:00,Liga I,FCSB,Voluntari,0x0,1,"0,2",,,,,"-0,5"
-22.10.2023,16:00:00,La Liga,FC Barcelona,Athletic Club Bilbao,0x0,1,"0,2",,,,,"-0,5"
-22.10.2023,17:00:00,Primera División,Sport Huancayo,Sport Boys,0x0,1,"0,2",,,,,"-0,5"
-22.10.2023,20:00:00,Primera Categoría Serie A,LDU Quito,CS Emelec,0x0,1,"0,2",,,,,"-0,5"
-23.10.2023,06:30:00,National League,Hantharwady United,Rakhine United,2x2,1,"0,2",,,,"0,16","-0,5"
-23.10.2023,09:00:00,Prva Liga,Tekstilac Odžaci,Semendrija 1924,1x0,1,"0,2",,,,"0,16","0,7"
-23.10.2023,14:30:00,National,Red Star,Cholet,2x0,1,"0,2",,,,"0,16","0,7"
-23.10.2023,15:00:00,Liga I,CFR Cluj,Oţelul Galaţi,0x0,1,"0,2",,,,,"-0,5"
-23.10.2023,15:30:00,Premier Division,St Patrick's Athl.,Sligo Rovers,1x0,1,"0,2",,,,"0,16","0,7"
-23.10.2023,22:00:00,Categoria Primera A,América de Cali,Atlético Huila,0x0,1,"0,2",,,,,"-0,5"
-24.10.2023,14:00:00,Regionalliga Südwest,TSV Steinbach,Stuttgart II,2x1,1,"0,2",,,,"0,16","0,7"
-24.10.2023,15:45:00,EFL League Two,Notts County,Newport County,2x0,1,"0,2",,,,"0,16","0,7"
-24.10.2023,15:45:00,EFL League Two,Wrexham,Sutton United,1x0,1,"0,2",,,,"0,16","0,7"
-24.10.2023,15:45:00,EFL League One,Blackpool,Cheltenham Town,3x1,1,"0,2",,,,-1,"0,7"
-24.10.2023,15:45:00,National League,Barnet,Solihull Moors,0x0,1,"0,2",,,,,"-0,5"
-24.10.2023,15:45:00,National League,Bromley,Dorking Wanderers,1x1,1,"0,2",,,,"0,16","-0,5"
-24.10.2023,15:45:00,National League,Chesterfield,York City,0x0,1,"0,2",,,,,"-0,5"
-24.10.2023,15:45:00,National League,Southend United,Ebbsfleet United,1x0,1,"0,2",,,,"0,16","0,7"
-24.10.2023,15:45:00,National League,Wealdstone,Oxford City,1x1,1,"0,2",,,,"0,16","-0,5"
-24.10.2023,15:45:00,Northern Premier League,Radcliffe Borough,Stafford Rangers,3x1,1,"0,2",,,,-1,"0,7"
-24.10.2023,15:45:00,Southern League Premier Central,Mickleover Sports,Redditch United,1x1,1,"0,2",,,,"0,16","-0,5"
-24.10.2023,15:45:00,Serie C Group A,Calcio Padova,Renate,0x0,1,"0,2",,,,,"-0,5"
-24.10.2023,16:00:00,Championship,Leicester City,Sunderland,1x0,1,"0,2",,,,"0,16","0,7"
-24.10.2023,16:00:00,Championship,West Bromwich Albion,Queens Park Rangers,0x0,1,"0,2",,,,,"-0,5"
-24.10.2023,20:00:00,Categoria Primera A,Rionegro Águilas,Envigado,1x1,1,"0,2",,,,"0,16","-0,5"
-25.10.2023,08:00:00,Armenian Premier League,Pyunik,Banants,3x1,1,"0,2",,,,-1,"0,7"
-25.10.2023,08:00:00,Armenian Premier League,Alashkert,BKMA,0x0,1,"0,2",,,,,"-0,5"
-25.10.2023,19:00:00,Serie A,Fluminense,Goiás,2x2,1,"0,2",,,,"0,16","-0,5"
-25.10.2023,19:00:00,Serie A,Atlético PR,América Mineiro,3x1,1,"0,2",,,,-1,"0,7"
-26.10.2023,22:20:00,Categoria Primera A,Millonarios,Boyacá Chicó,1x1,1,"0,2",,,,"0,16","-0,5"
-26.10.2023,11:30:00,First League,CSKA 1948 Sofia,Lokomotiv Plovdiv,1x1,1,"0,2",,,,"0,16","-0,5"
-26.10.2023,16:00:00,Segunda División,Progreso,Cerrito,2x2,1,"0,2",,,,"0,16","-0,5"
-26.10.2023,22:05:00,Ascenso MX,Atlante,Cancún,0x0,1,"0,2",,,,,"-0,5"
-26.10.2023,22:20:00,Categoria Primera A,Atlético Nacional,Alianza Petrolera,1x0,1,"0,2",,,,"0,16","0,7"
-27.10.2023,07:00:00,J1 League,Nagoya Grampus,Sagan Tosu,0x0,1,"0,2",,,,,"-0,5"
-27.10.2023,09:00:00,Liga 1,Barito Putera,PS TNI,1x0,1,"0,2",,,,"0,16","0,7"
-27.10.2023,10:30:00,First League,CSKA Sofia,Arda,0x0,1,"0,2",,,,,"-0,5"
-27.10.2023,12:30:00,PrvaLiga,Celje,Domžale,1x0,1,"0,2",,,,"0,16","0,7"
-27.10.2023,13:00:00,1. Liga,Wisła Płock,Chrobry Głogów,0x0,1,"0,2",,,,,"-0,5"
-27.10.2023,13:00:00,1. Liga,GKS Katowice,Polonia Warszawa,0x1,0,-1,,,,"0,16",-1
-27.10.2023,13:30:00,2. Bundesliga,Greuther Fürth,Osnabrück,1x0,1,"0,2",,,,"0,16","0,7"
-27.10.2023,14:00:00,Superliga,Midtjylland,Lyngby,1x1,1,"0,2",,,,"0,16","-0,5"
-27.10.2023,14:00:00,Regionalliga Nordost,BFC Dynamo,Viktoria Berlin,1x1,1,"0,2",,,,"0,16","-0,5"
-27.10.2023,15:00:00,Eerste Divisie,NAC Breda,Helmond Sport,0x0,1,"0,2",,,,,"-0,5"
-27.10.2023,15:00:00,Eerste Divisie,Roda JC,Ajax II,1x1,1,"0,2",,,,"0,16","-0,5"
-27.10.2023,15:00:00,Eerste Divisie,Willem II,PSV II,1x0,1,"0,2",,,,"0,16","0,7"
-27.10.2023,15:00:00,Professional League,Al Hilal,Al Ahli,2x0,1,"0,2",,,,"0,16","0,7"
-27.10.2023,15:15:00,Challenge League,Sion,Neuchâtel Xamax,0x0,1,"0,2",,,,,"-0,5"
-27.10.2023,15:45:00,Welsh Premier League,Connah's Quay,Caernarfon Town,5x0,1,"0,2",,,,-1,"0,7"
-27.10.2023,15:45:00,Championship,Dundee United,Arbroath,3x0,1,"0,2",,,,-1,"0,7"
-27.10.2023,20:00:00,Primera Division,Managua,Jalapa,0x2,0,-1,,,,"0,16",-1
-27.10.2023,21:30:00,Serie B,Guarani,Botafogo SP,0x0,1,"0,2",,,,,"-0,5"
-27.10.2023,21:30:00,Serie B,Novorizontino,Ponte Preta,0x0,1,"0,2",,,,,"-0,5"
-27.10.2023,22:00:00,Liga Premier Serie A,Atlético Saltillo,Correcaminos UAT II,1x0,1,"0,2",,,,"0,16","0,7"
-27.10.2023,22:00:00,Liga Premier Serie A,Petroleros de Salamanca,Aguacateros de Peribán,1x0,1,"0,2",,,,"0,16","0,7"
-27.10.2023,22:10:00,Categoria Primera A,Deportes Tolima,Unión Magdalena,2x1,1,"0,2",,,,"0,16","0,7"
-27.10.2023,23:00:00,Liga Nacional de Fútbol de Guatemala,Antigua GFC,Cobán Imperial,1x0,1,"0,2",,,,"0,16","0,7"
-27.10.2023,23:00:00,Liga Premier Serie A,Durango,Colima,2x0,1,"0,2",,,,"0,16","0,7"
-28.10.2023,01:00:00,J2 League,Shimizu S-Pulse,Roasso Kumamoto,1x1,1,"0,2",,,,"0,16","-0,5"
-28.10.2023,02:00:00,J2 League,V-Varen Nagasaki,Tokushima Vortis,1x1,1,"0,2",,,,"0,16","-0,5"
-28.10.2023,05:15:00,FNL,Vyškov,Opava,1x2,0,-1,,,,"0,16",-1
-28.10.2023,05:15:00,4. Liga Division B,Chomutov,Brandýs nad Labem,3x0,1,"0,2",,,,-1,"0,7"
-28.10.2023,07:30:00,NB I,Kecskeméti TE,Zalaegerszegi TE,2x0,1,"0,2",,,,"0,16","0,7"
-28.10.2023,08:00:00,2. Bundesliga,St. Pauli,Karlsruher SC,0x1,0,-1,,,,"0,16",-1
-28.10.2023,08:00:00,2 Lig Kirmizi,Kastamonuspor 1966,Düzcespor,0x0,1,"0,2",,,,,"-0,5"
-28.10.2023,08:00:00,2 Lig Kirmizi,76 Iğdır Belediyespor,Sarıyer,1x1,1,"0,2",,,,"0,16","-0,5"
-28.10.2023,08:30:00,Championship,Leeds United,Huddersfield Town,4x0,1,"0,2",,,,-1,"0,7"
-28.10.2023,09:00:00,Liga 1,Persib,PSS Sleman,2x1,1,"0,2",,,,"0,16","0,7"
-28.10.2023,09:00:00,Regionalliga Bayern,Aubstadt,Greuther Fürth II,2x0,1,"0,2",,,,"0,16","0,7"
-28.10.2023,09:00:00,Regionalliga Südwest,Stuttgarter Kickers,Astoria Walldorf,2x1,1,"0,2",,,,"0,16","0,7"
-28.10.2023,09:00:00,2 Lig Beyaz,Erokspor,Osmanlıspor,0x1,0,-1,,,,"0,16",-1
-28.10.2023,09:30:00,2. Liga,Považská Bystrica,Slovan Bratislava II,1x0,1,"0,2",,,,"0,16","0,7"
-28.10.2023,10:00:00,First League,Sigma Olomouc,Zlín,0x0,1,"0,2",,,,,"-0,5"
-28.10.2023,10:30:00,Welsh Premier League,Newtown,Haverfordwest County,1x1,1,"0,2",,,,"0,16","-0,5"
-28.10.2023,11:00:00,Ettan North,Dalkurd,IF Karlstad,0x0,1,"0,2",,,,,"-0,5"
-28.10.2023,11:00:00,Ettan North,Sandviken,Motala,2x0,1,"0,2",,,,"0,16","0,7"
-28.10.2023,11:00:00,Ettan North,United Nordic,Stocksund,3x0,1,"0,2",,,,-1,"0,7"
-28.10.2023,11:00:00,EFL League Two,Mansfield Town,Walsall,1x0,1,"0,2",,,,"0,16","0,7"
-28.10.2023,11:00:00,EFL League Two,Stockport County,Tranmere Rovers,1x0,1,"0,2",,,,"0,16","0,7"
-28.10.2023,11:00:00,EFL League One,Oxford United,Wycombe Wanderers,1x0,1,"0,2",,,,"0,16","0,7"
-28.10.2023,11:00:00,Premiership,St. Mirren,St. Johnstone,1x0,1,"0,2",,,,"0,16","0,7"
-28.10.2023,11:00:00,Championship,Ipswich Town,Plymouth Argyle,1x1,1,"0,2",,,,"0,16","-0,5"
-28.10.2023,11:00:00,1. Liga Promotion,Brühl,Basel II,1x0,1,"0,2",,,,"0,16","0,7"
-28.10.2023,11:30:00,Super Liga,DAC,Zemplín Michalovce,1x1,1,"0,2",,,,"0,16","-0,5"
-28.10.2023,12:00:00,1. Liga Promotion,Étoile Carouge,Zürich II,2x1,1,"0,2",,,,"0,16","0,7"
-28.10.2023,13:00:00,Super League,St. Gallen,Grasshopper,3x1,1,"0,2",,,,-1,"0,7"
-28.10.2023,13:00:00,First League,Baník Ostrava,Jablonec,0x0,1,"0,2",,,,,"-0,5"
-28.10.2023,13:00:00,2 Lig Kirmizi,24 Erzincanspor,Utaş Uşakspor,1x0,1,"0,2",,,,"0,16","0,7"
-28.10.2023,13:00:00,2 Lig Kirmizi,Isparta Davrazspor,Karaman Belediyespor,1x0,1,"0,2",,,,"0,16","0,7"
-28.10.2023,13:10:00,Prva HNL,Osijek,Istra 1961,0x0,1,"0,2",,,,,"-0,5"
-28.10.2023,13:30:00,Serie C Group A,Triestina,Fiorenzuola,0x0,1,"0,2",,,,,"-0,5"
-28.10.2023,14:30:00,Vysheyshaya Liga,Neman Grodno,Isloch,0x0,1,"0,2",,,,,"-0,5"
-28.10.2023,15:00:00,Primera Categoría Serie A,CSD Independiente del Valle,Deportivo Cuenca,1x0,1,"0,2",,,,"0,16","0,7"
-28.10.2023,15:15:00,PrvaLiga,Maribor,Rogaška,1x1,1,"0,2",,,,"0,16","-0,5"
-28.10.2023,15:30:00,Super League,Zürich,Stade Lausanne-Ouchy,1x1,1,"0,2",,,,"0,16","-0,5"
-28.10.2023,15:30:00,Serie D Group I,Trapani 1905,Igea Virtus,1x0,1,"0,2",,,,"0,16","0,7"
-28.10.2023,15:45:00,Pro League,RSC Anderlecht,OH Leuven,2x1,1,"0,2",,,,"0,16","0,7"
-28.10.2023,19:00:00,Serie A,Palmeiras,Bahia,1x0,1,"0,2",,,,"0,16","0,7"
-28.10.2023,19:00:00,Liga de Ascenso,Santa Ana,Consultants Moravia,1x0,1,"0,2",,,,"0,16","0,7"
-29.10.2023,01:30:00,K League 2,Jeonnam Dragons,Cheongju,1x0,1,"0,2",,,,"0,16","0,7"
-29.10.2023,02:00:00,J2 League,Montedio Yamagata,ThespaKusatsu Gunma,0x0,1,"0,2",,,,,"-0,5"
-29.10.2023,02:00:00,J2 League,Machida Zelvia,Zweigen Kanazawa,1x0,1,"0,2",,,,"0,16","0,7"
-29.10.2023,02:00:00,J3 League,Kataller Toyama,Gifu,1x0,1,"0,2",,,,"0,16","0,7"
-29.10.2023,04:00:00,K League 2,Busan I'Park,Bucheon 1995,0x1,0,-1,,,,"0,16",-1
-29.10.2023,04:30:00,Chinese Super League,Meizhou Hakka,Nantong Zhiyun,0x1,0,-1,,,,"0,16",-1
-29.10.2023,08:00:00,Primera Division RFEF Group 2,UD Ibiza,Intercity,0x1,0,-1,,,,"0,16",-1
-29.10.2023,09:00:00,Superettan,Öster,Brage,1x0,1,"0,2",,,,"0,16","0,7"
-29.10.2023,09:00:00,NB II,Nyíregyháza Spartacus,Ajka,0x1,0,-1,,,,"0,16",-1
-29.10.2023,09:00:00,Regionalliga Nordost,Babelsberg,Hansa Rostock II,1x0,1,"0,2",,,,"0,16","0,7"
-29.10.2023,09:00:00,First Football League,Shkupi,Rabotnički,1x0,1,"0,2",,,,"0,16","0,7"
-29.10.2023,10:00:00,Regionalliga Südwest,Hoffenheim II,Bahlinger SC,0x0,1,"0,2",,,,,"-0,5"
-29.10.2023,10:30:00,Eredivisie,PSV,Ajax,1x2,0,-1,,,,"0,16",-1
-29.10.2023,10:30:00,Bundesliga,Sturm Graz,Austria Wien,0x1,0,-1,,,,"0,16",-1
-29.10.2023,11:00:00,First Division,Fredrikstad,Mjøndalen,0x2,0,-1,,,,"0,16",-1
-29.10.2023,11:00:00,First Division,Kongsvinger,Sandnes Ulf,2x0,1,"0,2",,,,"0,16","0,7"
-29.10.2023,11:00:00,Ettan South,Falkenberg,Eskilsminne,1x0,1,"0,2",,,,"0,16","0,7"
-29.10.2023,11:00:00,Prva HNL,Rijeka,Gorica,1x0,1,"0,2",,,,"0,16","0,7"
-29.10.2023,11:00:00,Ekstraklasa,Legia Warszawa,Stal Mielec,0x1,0,-1,,,,"0,16",-1
-29.10.2023,11:00:00,Premier League,Brighton & Hove Albion,Fulham,1x0,1,"0,2",,,,"0,16","0,7"
-29.10.2023,12:15:00,Serie B,Palermo,Lecco,0x2,0,-1,,,,"0,16",-1
-29.10.2023,12:30:00,Challenge League,Thun,Vaduz,1x1,1,"0,2",,,,"0,16","-0,5"
-29.10.2023,13:00:00,Eliteserien,Sarpsborg 08,Stabæk,1x0,1,"0,2",,,,"0,16","0,7"
-29.10.2023,13:00:00,1. Lig,Eyüpspor,Bandırmaspor,0x0,1,"0,2",,,,,"-0,5"
-29.10.2023,13:30:00,Ekstraklasa,Raków Częstochowa,Widzew Łódź,0x1,0,-1,,,,"0,16",-1
-29.10.2023,13:30:00,PrvaLiga,Olimpija,Aluminij,0x0,1,"0,2",,,,,"-0,5"
-29.10.2023,14:00:00,Serie A,Inter Milan,Roma,0x0,1,"0,2",,,,,"-0,5"
-29.10.2023,14:00:00,NB I,Ferencváros,Újpest,1x0,1,"0,2",,,,"0,16","0,7"
-29.10.2023,14:30:00,Pro League,KAA Gent,Standard Liège,3x0,1,"0,2",,,,-1,"0,7"
-29.10.2023,14:30:00,Segunda División,Leganés,Villarreal II,0x0,1,"0,2",,,,,"-0,5"
-29.10.2023,14:30:00,Serie C Group B,Pescara,Recanatese,1x0,1,"0,2",,,,"0,16","0,7"
-29.10.2023,15:00:00,Primera Categoría Serie A,Delfin SC,Cumbayá,2x0,1,"0,2",,,,"0,16","0,7"
-29.10.2023,15:00:00,SuperLiga,Bačka Topola,Novi Pazar,0x0,1,"0,2",,,,,"-0,5"
-29.10.2023,17:00:00,Primera División,ADT,Carlos Manucci,0x0,1,"0,2",,,,,"-0,5"
-29.10.2023,20:00:00,Serie A,Botafogo,Cuiabá,0x0,1,"0,2",,,,,"-0,5"
-30.10.2023,09:00:00,Liga 1,Bali United,Persita,0x0,1,"0,2",,,,,"-0,5"
-30.10.2023,14:30:00,Eliteserien,FK Bodo - Glimt,Lillestrøm,1x0,1,"0,2",,,,,"0,7"
-30.10.2023,16:45:00,Serie C Group B,Cesena,Carrarese,1x0,1,"0,2",,,,,"0,7"
-30.10.2023,16:45:00,Serie C Group C,Benevento,Potenza Calcio,1x0,1,"0,2",,,,,"0,7"
-30.10.2023,17:00:00,Eliteserien,Molde,Tromsø,0x1,0,-1,,,,,-1
-30.10.2023,22:00:00,Categoria Primera A,América de Cali,Millonarios,1x0,1,"0,2",,,,,"0,7"
-30.10.2023,23:05:00,Liga Premier Serie A,UA Zacatecas,Mineros de Fresnillo,0x1,0,-1,,,,,-1
-01.11.2023,06:00:00,National League,Yangon United,Yadanarbon,2x0,1,"0,2",,,,,"0,7"
-01.11.2023,09:00:00,Superleague of Kosovo,Gjilani,Feronikeli,1x0,1,"0,2",,,,,"0,7"
-01.11.2023,09:00:00,Superleague of Kosovo,Ballkani,Drita,1x0,1,"0,2",,,,,"0,7"
-01.11.2023,10:30:00,Serie D Group A,Alcione,Gozzano,0x0,1,"0,2",,,,,"-0,5"
-01.11.2023,20:00:00,Serie A,Flamengo,Santos,1x1,1,"0,2",,,,,"-0,5"
-01.11.2023,21:00:00,Liga Nacional de Fútbol de Guatemala,Antigua GFC,Malacateco,1x1,1,"0,2",,,,,"-0,5"
-02.11.2023,09:00:00,Liga 1,Borneo,Persik Kediri,2x0,1,"0,2",,,,,"0,7"
-02.11.2023,09:00:00,Azadegan League,Esteghlal Mollasani,Khooshe Talaee Saveh,0x0,1,"0,2",,,,,"-0,5"
-02.11.2023,09:00:00,Superleague of Kosovo,Llapi,Fushë Kosova,0x1,0,-1,,,,,-1
-02.11.2023,12:45:00,Vysheyshaya Liga,Dinamo Minsk,BATE,0x0,1,"0,2",,,,,"-0,5"
-02.11.2023,18:30:00,Copa de la División Profesional,Bolívar,Real Tomayapo,2x1,1,"0,2",,,,,"0,7"
-03.11.2023,00:05:00,Ascenso MX,Morelia,Tepatitlán de Morelos,1x0,1,"0,2",,,,,
-03.11.2023,10:00:00,National Soccer League,Police,Gorilla,0x0,1,"0,2",,,,,
-03.11.2023,10:15:00,Uzbekistan Super League,Neftchi,Olympic,0x0,1,"0,2",,,,,
-03.11.2023,14:00:00,1. Liga,Miedź Legnica,Resovia Rzeszów,0x1,0,-1,,,,,
-03.11.2023,14:10:00,2. Liga,Floridsdorfer AC,Horn,0x1,0,-1,,,,,
-03.11.2023,14:30:00,2. Bundesliga,Fortuna Düsseldorf,Wehen Wiesbaden,0x3,0,-1,,,,,
-03.11.2023,15:00:00,1st Division,SønderjyskE,Hobro,1x0,1,"0,2",,,,,
-03.11.2023,16:00:00,Eerste Divisie,Helmond Sport,Telstar,1x0,1,"0,2",,,,,
-03.11.2023,16:30:00,Ekstraklasa,Jagiellonia Białystok,Stal Mielec,2x0,1,"0,2",,,,,
-03.11.2023,16:30:00,1. Liga,Wisła Kraków,Zagłębie Sosnowiec,0x0,1,"0,2",,,,,
-03.11.2023,16:45:00,Premier Division,Bohemians,Cork City,2x0,1,"0,2",,,,,
-03.11.2023,16:45:00,Premier Division,Derry City,St Patrick's Athl.,2x0,1,"0,2",,,,,
-03.11.2023,21:00:00,Primera División,River Plate,Huracán,0x0,1,"0,2",,,,,
-04.11.2023,02:00:00,J2 League,Shimizu S-Pulse,Omiya Ardija,2x0,1,"0,2",,,,,
-04.11.2023,02:00:00,J2 League,Jubilo Iwata,Mito Hollyhock,3x0,1,"0,2",,,,,
-04.11.2023,04:30:00,Chinese Super League,Shandong Luneng,Henan Jianye,2x0,1,"0,2",,,,,
-04.11.2023,08:00:00,Armenian Premier League,Alashkert,Shirak,0x0,1,"0,2",,,,,
-04.11.2023,09:00:00,2. Liga,Tatran Prešov,Futura Humenné,0x0,1,"0,2",,,,,
-04.11.2023,09:00:00,Regionalliga Nordost,Altglienicke,ZFC Meuselwitz,1x2,0,-1,,,,,
-04.11.2023,10:00:00,FNL,Opava,Prostějov,0x0,1,"0,2",,,,,
-04.11.2023,10:00:00,Regionalliga West,Koln II,Lippstadt 08,1x0,1,"0,2",,,,,
-04.11.2023,10:00:00,Regionalliga West,Schalke 04 II,Gütersloh,1x1,1,"0,2",,,,,
-04.11.2023,10:00:00,3. Liga,Dynamo Dresden,Freiburg II,1x0,1,"0,2",,,,,
-04.11.2023,10:00:00,Regionalliga Nord,Holstein Kiel II,BW Lohne,0x0,1,"0,2",,,,,
-04.11.2023,11:00:00,First League,Slovácko,Hradec Králové,0x0,1,"0,2",,,,,
-04.11.2023,11:00:00,Oberliga Bayern Nord,Sport-Club 1926 Eltersdorf,Bayern Hof,1x1,1,"0,2",,,,,
-04.11.2023,11:30:00,Welsh Premier League,Bala Town,Pontypridd Town AFC,0x0,1,"0,2",,,,,
-04.11.2023,12:00:00,NIFL Premiership,Crusaders,Coleraine,0x0,1,"0,2",,,,,
-04.11.2023,12:00:00,Isthmian Premier Division,Billericay Town,Bognor Regis Town,1x0,1,"0,2",,,,,
-04.11.2023,12:00:00,Isthmian Premier Division,AFC Hornchurch,Enfield Town,0x0,1,"0,2",,,,,
-04.11.2023,12:00:00,Regionalliga Ost,Wiener Viktoria,Draßburg,1x1,1,"0,2",,,,,
-04.11.2023,13:00:00,Süper Lig,Fenerbahçe,Trabzonspor,0x1,0,-1,,,,,
-04.11.2023,13:30:00,Allsvenskan,Djurgården,Sirius,1x1,1,"0,2",,,,,
-04.11.2023,14:00:00,First Division,Aris,Nea Salamis,0x0,1,"0,2",,,,,
-04.11.2023,14:30:00,Segunda División,Levante UD,Mirandés,1x1,1,"0,2",,,,,
-04.11.2023,14:30:00,Serie C Group A,Calcio Padova,Giana Erminio,1x0,1,"0,2",,,,,
-04.11.2023,15:00:00,Ligue 2,Angers SCO,Valenciennes,2x0,1,"0,2",,,,,
-04.11.2023,15:00:00,Professional League,Al Ittifaq,Al Raed,0x0,1,"0,2",,,,,
-04.11.2023,16:15:00,Liga I,CS U Craiova,U Craiova 1948,1x0,1,"0,2",,,,,
-04.11.2023,16:30:00,2. Bundesliga,Hamburger SV,Magdeburg,1x0,1,"0,2",,,,,
-04.11.2023,16:45:00,Serie A,AC Milan,Udinese,0x0,1,"0,2",,,,,
-04.11.2023,19:30:00,Serie A,Grêmio,Bahia,0x0,1,"0,2",,,,,
-04.11.2023,19:55:00,Liga MX,Tigres UANL,Atlético San Luis,0x0,1,"0,2",,,,,
-04.11.2023,20:00:00,Liga Nacional de Fútbol de Guatemala,Comunicaciones,Guastatoya,2x1,1,"0,2",,,,,
-04.11.2023,21:30:00,Serie A,Palmeiras,Atlético PR,1x0,1,"0,2",,,,,
-04.11.2023,22:00:00,Liga MX,América,Tijuana,0x0,1,"0,2",,,,,
-04.11.2023,22:00:00,Salvadoran Primera División,FAS,CD Platense,0x0,1,"0,2",,,,,
-05.11.2023,01:00:00,J3 League,Imabari,Sagamihara,1x1,1,"0,2",,,,,
-05.11.2023,01:05:00,J3 League,Ehime,YSCC,1x0,1,"0,2",,,,,
-05.11.2023,03:30:00,China League One,Qingdao Youth Island,Yanbian Longding,0x0,1,"0,2",,,,,
-05.11.2023,03:30:00,China League One,Guangxi Baoyun,Jiangxi Liansheng,0x1,0,-1,,,,,
-05.11.2023,07:30:00,Thai League 2,Suphanburi,Lampang,0x1,0,-1,,,,,
-05.11.2023,08:00:00,2 Lig Kirmizi,Amed,Etimesgut Belediyespor,0x0,1,"0,2",,,,,
-05.11.2023,08:00:00,2 Lig Beyaz,Ankara Demirspor,Kırklarelispor,0x0,1,"0,2",,,,,
-05.11.2023,08:00:00,2 Lig Beyaz,Osmanlıspor,Afjet Afyonspor,0x0,1,"0,2",,,,,
-05.11.2023,08:30:00,2. Liga,Grazer AK,SV Stripfing Weiden,2x0,1,"0,2",,,,,
-05.11.2023,09:00:00,Thai League T1,Ratchaburi,Chonburi,1x1,1,"0,2",,,,,
-05.11.2023,09:00:00,Thai League 2,Nong Bua Pitchaya,Rayong,0x1,0,-1,,,,,
-05.11.2023,09:00:00,3 Liga West,Sereď,Slovan Duslo Šaľa,1x0,1,"0,2",,,,,
-05.11.2023,09:00:00,3 Liga East,Rimavská Sobota,Svidník,3x0,1,"0,2",,,,,
-05.11.2023,09:00:00,3 Liga East,MSK Tesla Stropkov,Partizán Bardejov,3x0,1,"0,2",,,,,
-05.11.2023,09:30:00,2. Bundesliga,Hannover 96,Eintracht Braunschweig,2x0,1,"0,2",,,,,
-05.11.2023,10:00:00,Montenegrin Second League,Mladost Lješkopolje,Iskra,1x0,1,"0,2",,,,,
-05.11.2023,10:00:00,3. Liga CFL,Povltava FA,Motorlet Praha,1x1,1,"0,2",,,,,
-05.11.2023,10:15:00,Super League,Luzern,Grasshopper,1x0,1,"0,2",,,,,
-05.11.2023,10:30:00,Russian Premier League,CSKA Moskva,Olimpiyets,1x2,0,-1,,,,,
-05.11.2023,10:30:00,Serie D Group C,Clodiense,Virtus Bolzano,0x0,1,"0,2",,,,,
-05.11.2023,10:30:00,Serie D Group B,Brusaporto,Club Milano,0x0,1,"0,2",,,,,
-05.11.2023,10:30:00,Serie D Group F,Città di Campobasso,Fano,1x0,1,"0,2",,,,,
-05.11.2023,10:30:00,Serie D Group G,Sarrabus Ogliastra,Budoni,0x0,1,"0,2",,,,,
-05.11.2023,11:00:00,First Division,Kristiansund,Raufoss,0x1,0,-1,,,,,
-05.11.2023,11:00:00,Oberliga Niederrhein,TVD Velbert,SV Sonsbeck,0x2,0,-1,,,,,
-05.11.2023,11:00:00,SuperLiga,Vojvodina,Železničar Pančevo,2x0,1,"0,2",,,,,
-05.11.2023,11:00:00,Serie D Group I,Città Di Sant’Agata,San Luca,2x2,1,"0,2",,,,,
-05.11.2023,11:00:00,Serie D Group I,Vibonese,Igea Virtus,1x0,1,"0,2",,,,,
-05.11.2023,11:30:00,National Division,Progrès Niederkorn,Mondercange,1x1,1,"0,2",,,,,
-05.11.2023,11:30:00,Bundesliga,Wolfsburg,Werder Bremen,1x1,1,"0,2",,,,,
-05.11.2023,12:00:00,National Division,Victoria Rosport,UN Käerjéng,1x2,0,-1,,,,,
-05.11.2023,12:00:00,National Division,Swift Hesperange,Differdange 03,1x0,1,"0,2",,,,,
-05.11.2023,12:00:00,Professional League,Al Taawon,Dhamk,0x0,1,"0,2",,,,,
-05.11.2023,12:00:00,Liga 3,Sporting Covilhã,Pêro Pinheiro,2x0,1,"0,2",,,,,
-05.11.2023,12:15:00,La Liga,Valencia CF,Granada CF,1x0,1,"0,2",,,,,
-05.11.2023,12:15:00,Serie B,Parma,Südtirol,1x0,1,"0,2",,,,,
-05.11.2023,13:00:00,Eliteserien,Lillestrøm,Haugesund,0x0,1,"0,2",,,,,
-05.11.2023,13:05:00,Ligue 1,Monaco,Brest,1x0,1,"0,2",,,,,
-05.11.2023,14:00:00,First League,Slavia Praha,Viktoria Plzeň,1x0,1,"0,2",,,,,
-05.11.2023,14:00:00,Serie A,Roma,Lecce,0x0,1,"0,2",,,,,
-05.11.2023,14:00:00,First Division,AEL,Karmiotissa,2x0,1,"0,2",,,,,
-05.11.2023,14:00:00,Primera Division RFEF Group 2,CD Castellón,CD Alcoyano,1x0,1,"0,2",,,,,
-05.11.2023,15:15:00,Eliteserien,Tromsø,Strømsgodset,0x0,1,"0,2",,,,,
-05.11.2023,15:15:00,Super League,Aris,Atromitos,1x1,1,"0,2",,,,,
-05.11.2023,21:00:00,Primera División,Newell's Old Boys,Sarmiento,0x0,1,"0,2",,,,,
-06.11.2023,11:00:00,FNL,Torpedo Moskva,Volgar Astrakhan,0x2,0,-1,,,,,
-06.11.2023,12:00:00,Ukrainian Premier League,Dnipro-1,Oleksandria,1x0,1,"0,2",,,,,
-06.11.2023,14:00:00,Druga HNL,Šibenik,Solin,0x0,1,"0,2",,,,,
-06.11.2023,14:00:00,Superliga,Partizani Tirana,Vllaznia Shkodër,3x1,1,"0,2",,,,,
-06.11.2023,21:00:00,LFPB,Wilstermann,Real Tomayapo,1x0,1,"0,2",,,,,
-07.11.2023,21:30:00,Serie B,Criciúma,ABC,1x0,1,"0,2",,,,,
-08.11.2023,05:00:00,Liga 1,Persib,Arema,2x1,1,"0,2",,,,,
-08.11.2023,09:00:00,Liga 1,Persis Solo,PSS Sleman,1x0,1,"0,2",,,,,
-08.11.2023,09:15:00,Super League,Pahang,PDRM,1x3,0,-1,,,,,
-08.11.2023,21:30:00,Categoria Primera A,América de Cali,Atlético Bucaramanga,1x1,1,"0,2",,,,,
-08.11.2023,22:00:00,Primera Division,Diriangén,UNAN Managua,0x1,0,-1,,,,,
-08.11.2023,23:00:00,Liga MX,Monterrey,Santos Laguna,1x0,1,"0,2",,,,,
-08.11.2023,23:30:00,Primera División FPD,Herediano,Cartaginés,1x0,1,"0,2",,,,,
-10.11.2023,12:00:00,Premyer Liqası,Araz,Kapaz,0x0,1,"0,2",,,,,
-10.11.2023,14:00:00,Süper Lig,Trabzonspor,Konyaspor,0x0,1,"0,2",,,,,
-10.11.2023,14:10:00,2. Liga,Ried,Lafnitz,3x0,1,"0,2",,,,,
-10.11.2023,14:30:00,2. Bundesliga,St. Pauli,Hannover 96,0x0,1,"0,2",,,,,
-10.11.2023,15:00:00,Superliga,Silkeborg,Randers,0x1,0,-1,,,,,
-10.11.2023,15:30:00,Oberliga Nordost Nord,Hertha Zehlendorf,Tasmania Berlin,0x0,1,"0,2",,,,,
-10.11.2023,15:30:00,Regionalliga West,Fortuna Köln,Borussia M'gladbach II,1x3,0,-1,,,,,
-10.11.2023,16:00:00,Eerste Divisie,Dordrecht,PSV II,0x1,0,-1,,,,,
-10.11.2023,16:15:00,Challenge League,Sion,Vaduz,1x3,0,-1,,,,,
-10.11.2023,17:00:00,La Liga,Athletic Club Bilbao,Celta de Vigo,2x2,1,"0,2",,,,,
-10.11.2023,22:00:00,Liga Premier Serie A,Atlético Saltillo,Colima,0x0,1,"0,2",,,,,
-11.11.2023,07:30:00,Thai League 2,Nakhon Ratchasima,Customs United,2x0,1,"0,2",,,,,
-11.11.2023,08:00:00,2 Lig Beyaz,Erokspor,Altınordu,1x0,1,"0,2",,,,,
-11.11.2023,09:00:00,Meistriliiga,Tallinna FC Flora,Nõmme Kalju,0x0,1,"0,2",,,,,
-11.11.2023,09:00:00,Uzbekistan Super League,Navbahor,Bunyodkor,1x0,1,"0,2",,,,,
-11.11.2023,09:00:00,EFL League One,Peterborough United,Cambridge United,3x0,1,"0,2",,,,,
-11.11.2023,09:00:00,2. Liga,Komárno,Futura Humenné,1x0,1,"0,2",,,,,
-11.11.2023,09:00:00,Regionalliga Nordost,Greifswalder FC,BAK '07,4x0,1,"0,2",,,,,
-11.11.2023,09:00:00,3 Liga Group 3,Rekord Bielsko-Biała W,Gwarek Tarnowskie Góry,1x1,1,"0,2",,,,,
-11.11.2023,09:00:00,3 Liga Group 4,Siarka Tarnobrzeg,NKP Podhale,0x0,1,"0,2",,,,,
-11.11.2023,09:00:00,3 Liga Group 4,Avia Świdnik,Wiązownica,1x0,1,"0,2",,,,,
-11.11.2023,09:00:00,Superleague of Kosovo,Llapi,Feronikeli,1x0,1,"0,2",,,,,
-11.11.2023,09:30:00,Championship,Sunderland,Birmingham City,1x1,1,"0,2",,,,,
-11.11.2023,09:30:00,Oberliga Nordost Süd,Bischofswerdaer FV,Auerbach,0x1,0,-1,,,,,
-11.11.2023,10:00:00,Damallsvenskan,Linköping,Kristianstad,2x2,1,"0,2",,,,,
-11.11.2023,10:00:00,Regionalliga Bayern,Aubstadt,Wacker Burghausen,0x1,0,-1,,,,,
-11.11.2023,10:00:00,Regionalliga Bayern,Deutsche Jugend Kraft Vilzing,Schalding-Heining,1x0,1,"0,2",,,,,
-11.11.2023,10:00:00,Ukrainian Premier League,Polessya,Metalist 1925 Kharkiv,0x1,0,-1,,,,,
-11.11.2023,10:00:00,Super League,Man Utd Zambia Academy,Konkola Blades,0x0,1,"0,2",,,,,
-11.11.2023,10:30:00,Ligue 1,Etoile du Sahel,EGS Gafsa,1x1,1,"0,2",,,,,
-11.11.2023,11:00:00,Superettan,Västerås SK,Östersunds FK,0x2,0,-1,,,,,
-11.11.2023,11:00:00,Ettan South,Falkenberg,Olympic,2x1,1,"0,2",,,,,
-11.11.2023,11:00:00,First League,Mladá Boleslav,Pardubice,0x0,1,"0,2",,,,,
-11.11.2023,11:00:00,Super Liga,DAC,Ružomberok,0x0,1,"0,2",,,,,
-11.11.2023,12:00:00,Pro League,Royal Antwerp FC,Standard Liège,4x0,1,"0,2",,,,,
-11.11.2023,12:00:00,EFL League Two,Wrexham,Gillingham,1x0,1,"0,2",,,,,
-11.11.2023,12:00:00,League One,Hamilton Academical,Stirling Albion,2x0,1,"0,2",,,,,
-11.11.2023,12:00:00,Championship,Ipswich Town,Swansea City,2x1,1,"0,2",,,,,
-11.11.2023,12:00:00,1. Liga Promotion,Cham,St. Gallen II,1x0,1,"0,2",,,,,
-11.11.2023,12:00:00,Southern League Premier South,Walton & Hersham,Plymouth Parkway,0x1,0,-1,,,,,
-11.11.2023,12:00:00,Isthmian Premier Division,Horsham,Hashtag United,0x1,0,-1,,,,,
-11.11.2023,12:00:00,Northern Premier League,Radcliffe Borough,Gainsborough Trinity,1x0,1,"0,2",,,,,
-11.11.2023,12:15:00,Serie C Group A,Triestina,Pro Sesto,0x0,1,"0,2",,,,,
-11.11.2023,12:45:00,First League,Arda,Beroe,0x0,1,"0,2",,,,,
-11.11.2023,13:00:00,First Division,Nea Salamis,Doxa,0x0,1,"0,2",,,,,
-11.11.2023,13:30:00,PrvaLiga,Koper,Domžale,0x0,1,"0,2",,,,,
-11.11.2023,13:30:00,Russian Premier League,Zenit,Krasnodar,0x0,1,"0,2",,,,,
-11.11.2023,14:00:00,Challenge League,Thun,FC Schaffhausen,0x0,1,"0,2",,,,,
-11.11.2023,14:00:00,Super League,St. Gallen,Winterthur,3x1,1,"0,2",,,,,
-11.11.2023,14:00:00,Liga 3,Varzim,Vianense,2x0,1,"0,2",,,,,
-11.11.2023,14:00:00,First Division,APOEL,AEL,1x0,1,"0,2",,,,,
-11.11.2023,14:30:00,Montenegrin First League,Dečić,FK Jezero Plav,0x0,1,"0,2",,,,,
-11.11.2023,15:00:00,Ligue 2,Ajaccio,Troyes,1x0,1,"0,2",,,,,
-11.11.2023,15:00:00,Ligue 2,Laval,Concarneau,0x1,0,-1,,,,,
-11.11.2023,16:30:00,Super League,Young Boys,Luzern,3x1,1,"0,2",,,,,
-11.11.2023,18:30:00,Primera División,Cobresal,Audax Italiano,1x2,0,-1,,,,,
-11.11.2023,21:00:00,Serie A,Palmeiras,Internacional,1x0,1,"0,2",,,,,
-12.11.2023,08:15:00,Persha Liga,Karpaty,Ahrobiznes Volochysk,2x0,1,"0,2",,,,,
-12.11.2023,09:00:00,NB II,Nyíregyháza Spartacus,BVSC,1x0,1,"0,2",,,,,
-12.11.2023,09:00:00,Regionalliga Nordost,BFC Dynamo,Hansa Rostock II,0x0,1,"0,2",,,,,
-12.11.2023,09:00:00,Prva Liga,OFK Beograd,Sloboda Užice,0x0,1,"0,2",,,,,
-12.11.2023,09:00:00,3 Liga Group 1,Bełchatów,Olimpia Zambrów,3x0,1,"0,2",,,,,
-12.11.2023,09:30:00,First Division B,RFC Liege,Lierse Kempenzonen,2x1,1,"0,2",,,,,
-12.11.2023,10:00:00,Ettan North,Sandviken,Umeå,2x1,1,"0,2",,,,,
-12.11.2023,10:00:00,Ettan North,United Nordic,Sylvia,2x0,1,"0,2",,,,,
-12.11.2023,10:00:00,2. SNL,Beltinci,Tabor Sežana,0x0,1,"0,2",,,,,
-12.11.2023,10:00:00,2nd Division,Esbjerg,Middelfart,1x0,1,"0,2",,,,,
-12.11.2023,10:00:00,Süper Lig,Beşiktaş,İstanbul Başakşehir,0x0,1,"0,2",,,,,
-12.11.2023,10:00:00,Serie C Group B,Sassari Torres,Ancona 1905,0x0,1,"0,2",,,,,
-12.11.2023,10:30:00,First Division,Kongsvinger,Moss,0x2,0,-1,,,,,
-12.11.2023,10:30:00,First Division,Sogndal,Mjøndalen,0x0,1,"0,2",,,,,
-12.11.2023,10:30:00,First League,Levski Sofia,Botev Plovdiv,1x0,1,"0,2",,,,,
-12.11.2023,10:30:00,Russian Premier League,Dinamo Moskva,Orenburg,0x0,1,"0,2",,,,,
-12.11.2023,10:30:00,Ligue 1,Stade Tunisien,Ben Guerdane,1x0,1,"0,2",,,,,
-12.11.2023,10:30:00,Serie D Group B,Arconatese,Casatese,2x1,1,"0,2",,,,,
-12.11.2023,10:30:00,Serie D Group F,Sambenedettese,Matese,1x0,1,"0,2",,,,,
-12.11.2023,10:30:00,Serie D Group H,Matera,USD Palmese,1x1,1,"0,2",,,,,
-12.11.2023,11:00:00,Allsvenskan,Hammarby,Halmstad,1x1,1,"0,2",,,,,
-12.11.2023,11:00:00,First League,Viktoria Plzeň,Slovácko,1x1,1,"0,2",,,,,
-12.11.2023,11:00:00,Liga I,CS U Craiova,Dinamo Bucureşti,1x0,1,"0,2",,,,,
-12.11.2023,11:00:00,Premier League,Aston Villa,Fulham,2x0,1,"0,2",,,,,
-12.11.2023,11:00:00,Premier League,Liverpool,Brentford,1x0,1,"0,2",,,,,
-12.11.2023,11:00:00,Ligue 1,Lille,Toulouse,1x0,1,"0,2",,,,,
-12.11.2023,13:30:00,PrvaLiga,Olimpija,Mura,0x0,1,"0,2",,,,,
-12.11.2023,13:30:00,Russian Premier League,Spartak Moskva,Rostov,2x0,1,"0,2",,,,,
-12.11.2023,14:00:00,Primera Division RFEF Group 1,SD Ponferradina,Rayo Majadahonda,0x0,1,"0,2",,,,,
-12.11.2023,14:30:00,Segunda División,CD Tenerife,Villarreal II,0x1,0,-1,,,,,
-12.11.2023,15:00:00,SuperLiga,Partizan,Čukarički,1x0,1,"0,2",,,,,
-12.11.2023,15:15:00,Eliteserien,Molde,Lillestrøm,3x0,1,"0,2",,,,,
-12.11.2023,15:30:00,Bundesliga,RB Leipzig,Freiburg,1x1,1,"0,2",,,,,
-12.11.2023,16:00:00,Liga I,FCSB,U Craiova 1948,2x0,1,"0,2",,,,,
-12.11.2023,16:45:00,Serie C Group B,Perugia,Gubbio,1x0,1,"0,2",,,,,
-12.11.2023,17:00:00,La Liga,Atlético Madrid,Villarreal,1x1,1,"0,2",,,,,
-12.11.2023,17:30:00,Primera División,Colo-Colo,Unión La Calera,0x0,1,"0,2",,,,,
-12.11.2023,18:30:00,Salvadoran Primera División,Águila,Jocoro,1x0,1,"0,2",,,,,
-12.11.2023,23:05:00,Liga MX,León,Juárez,2x1,1,"0,2",,,,,
-13.11.2023,12:00:00,Ghana Premier League,Aduana Stars,Bibiani Gold Stars,3x0,1,"0,2",,,,,
-13.11.2023,16:45:00,Serie C Group C,Benevento,SSC Giugliano,1x0,1,"0,2",,,,,
-15.11.2023,23:00:00,Liga Nacional de Fútbol de Guatemala,Comunicaciones,Zacapa Tellioz,0x2,0,-1,,,,,
-16.11.2023,22:00:00,Salvadoran Primera División,FAS,Municipal Limeño,0x2,0,-1,,,,,
-17.11.2023,13:00:00,Liga Premier Serie A,Correcaminos UAT II,Coras de Nayarit,0x0,1,"0,2",,,,,
-17.11.2023,15:00:00,Oberliga Baden Wurttemberg,Sonnenhof Großaspach,Ravensburg,2x0,1,"0,2",,,,,
-17.11.2023,17:00:00,NIFL Premiership,Larne,Coleraine,1x0,1,"0,2",,,,,
-18.11.2023,09:00:00,Montenegrin Second League,Grbalj,Iskra,0x0,1,"0,2",,,,,
-18.11.2023,10:00:00,Segunda División,Progreso,Juventud,2x0,1,"0,2",,,,,
-18.11.2023,10:00:00,2nd Division,Middelfart,Skive,0x1,0,-1,,,,,
-18.11.2023,10:00:00,Regionalliga West,Koln II,Gütersloh,2x2,1,"0,2",,,,,
-18.11.2023,10:00:00,Regionalliga Südwest,Stuttgarter Kickers,Kickers Offenbach,1x0,1,"0,2",,,,,
-18.11.2023,10:00:00,Oberliga Hessen,Baunatal,SV Steinbach,2x0,1,"0,2",,,,,
-18.11.2023,10:30:00,Tweede Divisie,HHC,Scheveningen,1x2,0,-1,,,,,
-18.11.2023,10:30:00,Burundi Premier League,Vital'O,Inter Star,1x0,1,"0,2",,,,,
-18.11.2023,11:00:00,Tweede Divisie,Spakenburg,Sparta Rotterdam II,1x1,1,"0,2",,,,,
-18.11.2023,12:00:00,EFL League Two,Mansfield Town,Newport County,1x0,1,"0,2",,,,,
-18.11.2023,12:00:00,EFL League Two,Stockport County,Colchester United,1x0,1,"0,2",,,,,
-18.11.2023,12:00:00,EFL League One,Blackpool,Shrewsbury Town,2x0,1,"0,2",,,,,
-18.11.2023,12:00:00,League Two,Dumbarton,Elgin City,0x0,1,"0,2",,,,,
-18.11.2023,12:00:00,League One,Cove Rangers,Stirling Albion,1x1,1,"0,2",,,,,
-18.11.2023,14:00:00,Primera Division RFEF Group 2,Málaga CF,CD Alcoyano,0x2,0,-1,,,,,
-18.11.2023,15:00:00,LigaPro,União de Leiria,Leixões,0x0,1,"0,2",,,,,
-18.11.2023,15:00:00,Segunda División RFEF Group 5,Talavera CF,Montijo,1x0,1,"0,2",,,,,
-18.11.2023,16:00:00,First Amateur Division,Lokeren-Temse,Union Namur,1x0,1,"0,2",,,,,
-18.11.2023,17:00:00,Serie B,Vila Nova,Ceará,1x1,1,"0,2",,,,,
-18.11.2023,17:00:00,Serie B,Criciúma,Botafogo SP,1x0,1,"0,2",,,,,
-18.11.2023,17:00:00,Serie B,Juventude,Ponte Preta,0x0,1,"0,2",,,,,
-18.11.2023,18:30:00,LFPB,Nacional Potosí,Santa Cruz,2x0,1,"0,2",,,,,
-18.11.2023,19:00:00,Liga Premier Serie B,CDM,Chilangos,2x0,1,"0,2",,,,,
-19.11.2023,06:30:00,2. Liga,Petržalka akadémia,Slovan Bratislava II,3x0,1,"0,2",,,,,
-19.11.2023,08:00:00,Segunda División RFEF Group 5,Ursaria,Llerenense,0x0,1,"0,2",,,,,
-19.11.2023,08:00:00,3. Lig Group 2,Turgutluspor,Eynesil Belediyespor,0x0,1,"0,2",,,,,
-19.11.2023,08:00:00,2 Lig Kirmizi,Isparta Davrazspor,Etimesgut Belediyespor,0x0,1,"0,2",,,,,
-19.11.2023,08:00:00,2 Lig Kirmizi,Amed,Fethiyespor,0x1,0,-1,,,,,
-19.11.2023,08:00:00,Tercera Group 11,Ibiza Islas Pitiusas,Llosetense,1x0,1,"0,2",,,,,
-19.11.2023,08:00:00,Tercera Group 7,Móstoles,Torrejón,1x0,1,"0,2",,,,,
-19.11.2023,08:00:00,Tercera Group 9,Huétor Vega,Polideportivo Almería,0x0,1,"0,2",,,,,
-19.11.2023,10:00:00,Segunda División,Albion,Tacuarembó,1x0,1,"0,2",,,,,
-19.11.2023,10:00:00,Segunda División,Uruguay Montevideo FC,Sud América,1x1,1,"0,2",,,,,
-19.11.2023,10:00:00,Primera División,Liverpool FC Montevideo,Racing,1x0,1,"0,2",,,,,
-19.11.2023,10:00:00,Serie C Group A,Mantova,Trento,0x0,1,"0,2",,,,,
-19.11.2023,10:30:00,Serie D Group B,Brusaporto,Legnano,1x0,1,"0,2",,,,,
-19.11.2023,10:30:00,Serie D Group G,Sarrabus Ogliastra,Boreale,1x0,1,"0,2",,,,,
-19.11.2023,10:30:00,Serie D Group H,Virtus Casarano,Santa Maria Cilento,2x0,1,"0,2",,,,,
-19.11.2023,10:30:00,Serie D Group D,Victor San Marino,Sammaurese,0x0,1,"0,2",,,,,
-19.11.2023,10:30:00,Serie D Group I,Vibonese,Acireale,1x1,1,"0,2",,,,,
-19.11.2023,11:00:00,Serie D Group H,Team Altamura,Città di Fasano,0x0,1,"0,2",,,,,
-19.11.2023,11:45:00,Tercera Group 2,Ceares,Gijón Industrial,0x0,1,"0,2",,,,,
-19.11.2023,12:00:00,Ghana Premier League,Bibiani Gold Stars,Nations,0x1,0,-1,,,,,
-19.11.2023,12:15:00,Serie C Group B,Cesena,Lucchese,0x0,1,"0,2",,,,,
-19.11.2023,12:15:00,Serie C Group C,Avellino,SSC Giugliano,1x1,1,"0,2",,,,,
-19.11.2023,12:30:00,Tercera Group 17,Caspe,Utrillas,1x2,0,-1,,,,,
-19.11.2023,13:00:00,Tercera Group 5,Reddis,Mollerussa,1x0,1,"0,2",,,,,
-19.11.2023,14:00:00,Tercera Group 9,Real Jaén CF,Atlético Mancha Real,3x0,1,"0,2",,,,,
-19.11.2023,14:00:00,Primera Division RFEF Group 2,Antequera CF,Linares Deportivo,1x0,1,"0,2",,,,,
-19.11.2023,14:30:00,Serie C Group C,Juve Stabia,Sorrento Calcio,0x0,1,"0,2",,,,,
-19.11.2023,18:00:00,Liga Nacional de Fútbol de Guatemala,Cobán Imperial,Achuapa,1x0,1,"0,2",,,,,
-19.11.2023,18:30:00,LFPB,Wilstermann,Guabirá,1x0,1,"0,2",,,,,
-20.11.2023,10:00:00,Super League 2 North,Niki Volos,Makedonikos Neapolis FC,0x2,0,-1,,,,,
-20.11.2023,15:00:00,Ivory Coast Ligue 1,San-Pédro,SOL,0x0,1,"0,2",,,,,
-20.11.2023,16:45:00,UEFA Euro Qualifiers,Slovenia,Kazakhstan,1x0,1,"0,2",,,,,
-20.11.2023,21:30:00,Segunda División,Miramar Misiones,Atenas,0x0,1,"0,2",,,,,
-21.11.2023,16:45:00,Southern League Premier South,Chesham United,Sholing,1x0,1,"0,2",,,,,
-21.11.2023,16:45:00,Southern League Premier South,Walton & Hersham,Hendon,1x0,1,"0,2",,,,,
-21.11.2023,16:45:00,Isthmian Premier Division,Horsham,Margate,0x0,1,"0,2",,,,,
-21.11.2023,16:45:00,Northern Premier League,Radcliffe Borough,Whitby Town,0x0,1,"0,2",,,,,
-23.11.2023,09:30:00,Second League,Ludogorets II,Chernomorets 1919 Burgas,0x0,1,"0,2",,,,,
-23.11.2023,09:40:00,Division One,Dibba Al Hisn,Masfut,2x0,1,"0,2",,,,,
-23.11.2023,09:40:00,Division One,Al Urooba,Al Taawon,0x0,1,"0,2",,,,,
-23.11.2023,10:15:00,Uzbekistan Super League,Neftchi,Qizilqum,1x0,1,"0,2",,,,,
-23.11.2023,15:00:00,1st Division,Fredericia,B 93,0x3,0,-1,,,,,
-23.11.2023,20:30:00,LFPB,Aurora,Blooming,1x1,1,"0,2",,,,,
-24.11.2023,08:00:00,Thai League T1,Buriram United,Ratchaburi,0x0,1,"0,2",,,,,
-24.11.2023,12:00:00,Professional League,Al Taawon,Al Riyadh,1x0,1,"0,2",,,,,
-24.11.2023,14:00:00,Ukrainian Premier League,Shakhtar Donetsk,Polessya,0x0,1,"0,2",,,,,
-24.11.2023,15:30:00,Oberliga Rheinland Pfalz Saar,Pirmasens,Arminia Ludwigshafen,0x1,0,-1,,,,,
-24.11.2023,16:45:00,NIFL Championship,Portadown,Newington Youth,3x0,1,"0,2",,,,,
-24.11.2023,17:00:00,Primera D,Centro Español,Central Ballester,1x0,1,"0,2",,,,,
-24.11.2023,17:00:00,Ligue 1,PSG,Monaco,2x1,1,"0,2",,,,,
-25.11.2023,02:00:00,J1 League,Sanfrecce Hiroshima,Gamba Osaka,2x0,1,"0,2",,,,,
-25.11.2023,07:00:00,National Super League,Migori Youth FC,Kibera Black Stars,0x0,1,"0,2",,,,,
-25.11.2023,07:30:00,1. Lig,BB Bodrumspor,Adanaspor,0x0,1,"0,2",,,,,
-25.11.2023,07:30:00,1. Lig,Bandırmaspor,Şanlıurfaspor,0x1,0,-1,,,,,
-25.11.2023,08:00:00,Thai League 2,Nong Bua Pitchaya,Samut Prakan City,1x1,1,"0,2",,,,,
-25.11.2023,08:00:00,2 Lig Beyaz,Erokspor,Ankara Demirspor,1x0,1,"0,2",,,,,
-25.11.2023,08:00:00,3 Liga Group 1,Legia Warszawa II,Olimpia Zambrów,1x0,1,"0,2",,,,,
-25.11.2023,09:00:00,3 Liga Group 1,Swit,Warta Sieradz,0x1,0,-1,,,,,
-25.11.2023,09:15:00,Russian Premier League,Zenit,FK Sochi,1x0,1,"0,2",,,,,
-25.11.2023,09:30:00,Premier League,Manchester City,Liverpool,1x0,1,"0,2",,,,,
-25.11.2023,10:00:00,Oberliga Bayern Süd,Schwaben Augsburg,Pipinsried,1x0,1,"0,2",,,,,
-25.11.2023,10:00:00,Oberliga Bayern Süd,Nördlingen,Türkspor Augsburg,1x0,1,"0,2",,,,,
-25.11.2023,10:00:00,Regionalliga West,Fortuna Köln,Rödinghausen,0x2,0,-1,,,,,
-25.11.2023,10:00:00,Serie B,Como,FeralpiSalò,1x0,1,"0,2",,,,,
-25.11.2023,10:30:00,Oberliga Hessen,Bayern Alzenau,FC 1906 Erlensee,0x0,1,"0,2",,,,,
-25.11.2023,11:00:00,Ekstraklasa,Raków Częstochowa,Cracovia Kraków,0x1,0,-1,,,,,
-25.11.2023,11:00:00,Super Liga,Žilina,FK Košice,0x0,1,"0,2",,,,,
-25.11.2023,11:30:00,Bundesliga,Borussia Dortmund,Borussia M'gladbach,3x2,1,"0,2",,,,,
-25.11.2023,11:30:00,Bundesliga,Freiburg,Darmstadt 98,1x1,1,"0,2",,,,,
-25.11.2023,11:30:00,Oberliga Hamburg,Altona 93,USC Paloma,0x0,1,"0,2",,,,,
-25.11.2023,12:00:00,Pro League,Cercle Brugge,AS Eupen,0x0,1,"0,2",,,,,
-25.11.2023,12:00:00,EFL League Two,Wrexham,Morecambe,3x0,1,"0,2",,,,,
-25.11.2023,12:00:00,EFL League One,Peterborough United,Burton Albion,2x0,1,"0,2",,,,,
-25.11.2023,12:00:00,Championship,Leicester City,Watford,0x0,1,"0,2",,,,,
-25.11.2023,12:00:00,National League,Chesterfield,Eastleigh,0x0,1,"0,2",,,,,
-25.11.2023,12:00:00,Southern League Premier South,Chesham United,Basingstoke Town,2x0,1,"0,2",,,,,
-25.11.2023,12:00:00,Southern League Premier South,Salisbury,Dorchester Town,0x1,0,-1,,,,,
-25.11.2023,12:00:00,Northern Premier League,Radcliffe Borough,Bamber Bridge,1x1,1,"0,2",,,,,
-25.11.2023,12:00:00,Northern Premier League,Worksop Town,Marine FC,0x1,0,-1,,,,,
-25.11.2023,12:00:00,Southern League Premier Central,Mickleover Sports,Nuneaton Town,2x0,1,"0,2",,,,,
-25.11.2023,12:00:00,Southern League Premier Central,Needham Market,Bromsgrove Sporting,0x1,0,-1,,,,,
-25.11.2023,12:30:00,3. Liga,Ulm,Freiburg II,1x1,1,"0,2",,,,,
-25.11.2023,13:00:00,Bundesliga,Salzburg,Hartberg,1x1,1,"0,2",,,,,
-25.11.2023,13:00:00,Bundesliga,LASK Linz,Wattens,1x0,1,"0,2",,,,,
-25.11.2023,13:30:00,Prva HNL,Dinamo Zagreb,Osijek,1x0,1,"0,2",,,,,
-25.11.2023,14:00:00,Super League,Luzern,Winterthur,1x0,1,"0,2",,,,,
-25.11.2023,14:00:00,First Division,Paphos,Othellos,0x0,1,"0,2",,,,,
-25.11.2023,14:00:00,Primera Division RFEF Group 1,SD Ponferradina,SD Tarazona,0x0,1,"0,2",,,,,
-25.11.2023,14:30:00,SuperLiga,Partizan,Bačka Topola,0x3,0,-1,,,,,
-25.11.2023,14:30:00,Serie C Group A,Triestina,Arzignano Valchiampo,2x1,1,"0,2",,,,,
-25.11.2023,14:30:00,National First Division,Maritzburg United,Pretoria Callies,1x2,0,-1,,,,,
-25.11.2023,15:00:00,Professional League,Al Ahli,Al Shabab,0x0,1,"0,2",,,,,
-25.11.2023,15:30:00,Liga I,CFR Cluj,UTA Arad,0x0,1,"0,2",,,,,
-25.11.2023,16:00:00,Ekstraklasa,Legia Warszawa,Warta Poznań,1x2,0,-1,,,,,
-25.11.2023,17:00:00,Serie B,Atlético GO,Guarani,0x0,1,"0,2",,,,,
-25.11.2023,17:00:00,Serie B,Novorizontino,Criciúma,1x0,1,"0,2",,,,,
-25.11.2023,17:00:00,Serie B,Sport Recife,Sampaio Corrêa,3x0,1,"0,2",,,,,
-25.11.2023,17:00:00,Eredivisie,Ajax,Vitesse,2x0,1,"0,2",,,,,
-25.11.2023,17:00:00,La Liga,Atlético Madrid,RCD Mallorca,0x0,1,"0,2",,,,,
-25.11.2023,17:00:00,Segunda División,SD Eibar,Levante UD,1x1,1,"0,2",,,,,
-25.11.2023,18:00:00,Liga Nacional de Fútbol Profesional de Honduras,Marathón,Lobos UPNFM,2x0,1,"0,2",,,,,
-25.11.2023,20:00:00,Primera Categoría Serie A,SD Aucas,Delfin SC,0x0,1,"0,2",,,,,
-25.11.2023,21:00:00,Serie A,Fluminense,Coritiba,1x0,1,"0,2",,,,,
-25.11.2023,23:00:00,Primera División FPD,Herediano,Sporting San José,0x0,1,"0,2",,,,,
-25.11.2023,23:00:00,Primera División FPD,Alajuelense,Guanacasteca,0x3,0,-1,,,,,
-26.11.2023,01:05:00,J3 League,Kagoshima United,Azul Claro Numazu,0x0,1,"0,2",,,,,
-26.11.2023,03:00:00,K League 2,Busan I'Park,Cheongju,0x0,1,"0,2",,,,,
-26.11.2023,07:00:00,National Super League,TransMara Sugar,Gusii,2x0,1,"0,2",,,,,
-26.11.2023,07:30:00,Tercera Group 15,Subiza,Peña Sport FC,0x0,1,"0,2",,,,,
-26.11.2023,08:00:00,2 Lig Kirmizi,Kastamonuspor 1966,Derincespor,1x1,1,"0,2",,,,,
-26.11.2023,08:00:00,2 Lig Beyaz,Van BB,Nazilli Belediyespor,0x0,1,"0,2",,,,,
-26.11.2023,08:00:00,Tercera Group 11,Mallorca II,CE Constància,1x1,1,"0,2",,,,,
-26.11.2023,08:00:00,Tercera Group 10,Utrera,Sevilla III,2x0,1,"0,2",,,,,
-26.11.2023,08:00:00,Tercera Group 12,Tenerife II,CD Marino,2x1,1,"0,2",,,,,
-26.11.2023,08:00:00,Tercera Group 16,CD Varea,Casalarreina,0x1,0,-1,,,,,
-26.11.2023,08:15:00,Eerste Divisie,Roda JC,MVV,0x0,1,"0,2",,,,,
-26.11.2023,08:30:00,Tercera Group 5,CE L'Hospitalet,Girona II,1x0,1,"0,2",,,,,
-26.11.2023,09:00:00,Ligue 1,Nice,Toulouse,0x0,1,"0,2",,,,,
-26.11.2023,09:00:00,Prva Liga,Tekstilac Odžaci,Metalac GM,1x0,1,"0,2",,,,,
-26.11.2023,09:00:00,Prva Liga,OFK Beograd,Jedinstvo Ub,0x0,1,"0,2",,,,,
-26.11.2023,09:00:00,First Football League,Shkupi,Makedonija GjP,0x0,1,"0,2",,,,,
-26.11.2023,09:00:00,Tercera Group 12,Las Palmas II,Panadería Pulido,0x0,1,"0,2",,,,,
-26.11.2023,09:30:00,2. Bundesliga,Greuther Fürth,Wehen Wiesbaden,1x0,1,"0,2",,,,,
-26.11.2023,09:45:00,Professional League,Sohar,Ibri,0x2,0,-1,,,,,
-26.11.2023,10:00:00,1st Division,Vendsyssel,HB Køge,1x0,1,"0,2",,,,,
-26.11.2023,10:00:00,Ukrainian Premier League,Dynamo Kyiv,Rukh Vynnyky,2x0,1,"0,2",,,,,
-26.11.2023,10:00:00,Regionalliga Nord,Teutonia Hamburg,Weiche Flensburg,1x0,1,"0,2",,,,,
-26.11.2023,10:00:00,Super League,ZESCO United,Nkana,0x1,0,-1,,,,,
-26.11.2023,10:00:00,1. Lig,Eyüpspor,Manisa BBSK,0x1,0,-1,,,,,
-26.11.2023,10:30:00,National First Division,Baroka,MM Platinum,0x1,0,-1,,,,,
-26.11.2023,10:30:00,Serie D Group E,Seravezza,Mobilieri Ponsacco,1x1,1,"0,2",,,,,
-26.11.2023,11:00:00,1st Division,AaB,Hobro,0x0,1,"0,2",,,,,
-26.11.2023,11:00:00,Montenegrin First League,Budućnost,Mornar,2x2,1,"0,2",,,,,
-26.11.2023,11:30:00,National Division,Progrès Niederkorn,Mondorf-les-Bains,1x0,1,"0,2",,,,,
-26.11.2023,12:00:00,National Division,Swift Hesperange,Jeunesse d'Esch,2x0,1,"0,2",,,,,
-26.11.2023,12:00:00,Ghana Premier League,Aduana Stars,Accra Lions,0x0,1,"0,2",,,,,
-26.11.2023,12:30:00,Super League,Servette,Grasshopper,1x0,1,"0,2",,,,,
-26.11.2023,13:00:00,Eliteserien,Lillestrøm,Odd,1x3,0,-1,,,,,
-26.11.2023,13:00:00,Eliteserien,Tromsø,Haugesund,1x0,1,"0,2",,,,,
-26.11.2023,13:00:00,FNL,Khimki,SKA Khabarovsk,0x0,1,"0,2",,,,,
-26.11.2023,13:10:00,Prva HNL,Gorica,Rudeš,3x0,1,"0,2",,,,,
-26.11.2023,13:30:00,Ekstraklasa,Lech Poznań,Widzew Łódź,0x1,0,-1,,,,,
-26.11.2023,14:00:00,Serie A,Roma,Udinese,1x0,1,"0,2",,,,,
-26.11.2023,14:30:00,Pro League,RSC Anderlecht,RWDM,0x1,0,-1,,,,,
-26.11.2023,16:00:00,Serie A,Botafogo,Santos,1x0,1,"0,2",,,,,
-26.11.2023,16:00:00,Serie A,Atlético Mineiro,Grêmio,1x0,1,"0,2",,,,,
-26.11.2023,17:00:00,Segunda División,RCD Espanyol,AD Alcorcón,1x0,1,"0,2",,,,,
-26.11.2023,18:00:00,Liga Nacional de Fútbol de Guatemala,Antigua GFC,Xinabajul,1x1,1,"0,2",,,,,
-26.11.2023,18:30:00,LFPB,The Strongest,Club Always Ready,1x0,1,"0,2",,,,,
-26.11.2023,18:30:00,Serie A,São Paulo,Cuiabá,0x0,1,"0,2",,,,,
-26.11.2023,19:30:00,Primera División,Nacional,Wanderers,3x0,1,"0,2",,,,,
-27.11.2023,09:00:00,Liga 1,Borneo,Persis Solo,0x0,1,"0,2",,,,,
-27.11.2023,09:15:00,First Division,Al Bukayriyah,Hajer,0x2,0,-1,,,,,
-27.11.2023,13:00:00,Superliga,Partizani Tirana,Dinamo Tirana,0x0,1,"0,2",,,,,
-27.11.2023,17:00:00,Segunda División,Sporting Gijón,CD Eldense,1x0,1,"0,2",,,,,
-28.11.2023,16:45:00,Welsh Premier League,Newtown,Pontypridd Town AFC,1x0,1,"0,2",,,,,
-28.11.2023,16:45:00,EFL League Two,Notts County,Crawley Town,1x1,1,"0,2",,,,,
-28.11.2023,16:45:00,EFL League Two,Stockport County,Salford City,0x0,1,"0,2",,,,,
-28.11.2023,16:45:00,EFL League One,Charlton Athletic,Cheltenham Town,1x1,1,"0,2",,,,,
-29.11.2023,09:00:00,First Football League,Shkendija,Rabotnički,0x0,1,"0,2",,,,,
-29.11.2023,09:30:00,Second Division,Asyut Petroleum,Makadi,0x0,1,"0,2",,,,,
-29.11.2023,09:30:00,Second Division,Tanta SC,Gomhoreyat Shepin,1x0,1,"0,2",,,,,
-29.11.2023,10:00:00,Segunda División,Miramar Misiones,Sud América,1x0,1,"0,2",,,,,
-29.11.2023,11:00:00,Armenian Premier League,Banants,Ararat,1x1,1,"0,2",,,,,
-29.11.2023,16:30:00,Segunda División,Progreso,Albion,0x1,0,-1,,,,,
-29.11.2023,16:30:00,Primera División,Liverpool FC Montevideo,Boston River,1x0,1,"0,2",,,,,
-29.11.2023,16:45:00,Championship,Southampton,Bristol City,0x0,1,"0,2",,,,,
-29.11.2023,16:45:00,Championship,Sunderland,Huddersfield Town,1x1,1,"0,2",,,,,
-29.11.2023,16:45:00,Southern League Premier South,Gosport Borough,Hanwell Town,0x0,1,"0,2",,,,,
-29.11.2023,17:00:00,Championship,Ipswich Town,Millwall,3x0,1,"0,2",,,,,
-29.11.2023,21:15:00,Primera División,Defensor Sporting,River Plate,0x0,1,"0,2",,,,,
-30.11.2023,20:30:00,Serie A,Bragantino,Fortaleza,1x2,0,-1,,,,,
-01.12.2023,09:00:00,3. Liga Series 3,Dunărea Călăraşi,Înainte Modelu,2x0,1,"0,2",,,,,
-01.12.2023,09:00:00,3. Liga Series 4,Popești-Leordeni,Flacăra Moreni,0x0,1,"0,2",,,,,
-01.12.2023,09:15:00,Uzbekistan Super League,Navbahor,Neftchi,0x1,0,-1,,,,,
-01.12.2023,13:30:00,Stars League,Al Duhail,Umm Salal,0x0,1,"0,2",,,,,
-01.12.2023,14:00:00,1. Lig,Kocaelispor,Ümraniyespor,0x2,0,-1,,,,,
-01.12.2023,16:00:00,First Division B,Lommel United,KRC Genk II,0x1,0,-1,,,,,
-01.12.2023,16:00:00,Eerste Divisie,Cambuur,Eindhoven,1x1,1,"0,2",,,,,
-01.12.2023,16:00:00,National 2 Group C,Chambly,Bastia-Borgo,1x0,1,"0,2",,,,,
-02.12.2023,02:00:00,J3 League,Kataller Toyama,YSCC,1x1,1,"0,2",,,,,
-02.12.2023,07:45:00,Tercera Group 6,Atzeneta,Soneja,0x0,1,"0,2",,,,,
-02.12.2023,08:30:00,Thai League 2,Lampang,Kasetsart,0x0,1,"0,2",,,,,
-02.12.2023,09:00:00,1st Division,SønderjyskE,Hillerød,0x2,0,-1,,,,,
-02.12.2023,09:00:00,Thai League 2,Nakhon Si Thammarat,Kanchanaburi,2x0,1,"0,2",,,,,
-02.12.2023,09:00:00,First Football League,Makedonija GjP,Vardar,0x1,0,-1,,,,,
-02.12.2023,10:00:00,Ukrainian Premier League,Hirnyk,Oleksandria,0x1,0,-1,,,,,
-02.12.2023,10:00:00,Oberliga Bayern Süd,Erlbach,Ismaning,,,,,,,,
-02.12.2023,10:00:00,Regionalliga West,Rot-Weiß Oberhausen,Wiedenbrück,1x1,1,"0,2",,,,,
-02.12.2023,10:00:00,Oberliga Rheinland Pfalz Saar,TuS RW Koblenz,Cosmos Koblenz,1x0,1,"0,2",,,,,
-02.12.2023,11:00:00,First League,Mladá Boleslav,Karviná,,,,,,,,
-02.12.2023,11:00:00,NPFL,Doma United,Niger Tornadoes,1x0,1,"0,2",,,,,
-02.12.2023,11:30:00,Welsh Premier League,Cardiff MU,Aberystwyth Town,1x0,1,"0,2",,,,,
-02.12.2023,11:30:00,Welsh Premier League,Newtown,Colwyn Bay,1x2,0,-1,,,,,
-02.12.2023,11:30:00,SuperLiga,Partizan,Vojvodina,0x0,1,"0,2",,,,,
-02.12.2023,12:00:00,League Two,Stenhousemuir,Bonnyrigg Rose Athletic,1x0,1,"0,2",,,,,
-02.12.2023,12:00:00,League One,Falkirk,Cove Rangers,,,,,,,,
-02.12.2023,12:00:00,League One,Hamilton Academical,Queen of the South,3x0,1,"0,2",,,,,
-02.12.2023,12:00:00,Championship,Birmingham City,Rotherham United,0x0,1,"0,2",,,,,
-02.12.2023,12:00:00,Championship,Southampton,Cardiff City,2x0,1,"0,2",,,,,
-02.12.2023,12:00:00,Ukrainian Premier League,Dnipro-1,Vorskla,1x2,0,-1,,,,,
-02.12.2023,12:00:00,National League,Altrincham,Dorking Wanderers,,,,,,,,
-02.12.2023,12:00:00,National League,Southend United,Wealdstone,,,,,,,,
-02.12.2023,12:00:00,National League,Chesterfield,Altrincham,,,,,,,,
-02.12.2023,12:00:00,Isthmian Premier Division,Enfield Town,Margate,2x0,1,"0,2",,,,,
-02.12.2023,12:00:00,NPFL,Akwa United,Kwara United,1x1,1,"0,2",,,,,
-02.12.2023,12:15:00,La Liga,Athletic Club Bilbao,Rayo Vallecano,1x0,1,"0,2",,,,,
-02.12.2023,12:30:00,First League,Levski Sofia,Lokomotiv Plovdiv,2x0,1,"0,2",,,,,
-02.12.2023,13:00:00,Süper Lig,Adana Demirspor,Samsunspor,1x2,0,-1,,,,,
-02.12.2023,13:30:00,PrvaLiga,Celje,Koper,,,,,,,,
-02.12.2023,14:00:00,Serie A,Lazio,Cagliari,1x0,1,"0,2",,,,,
-02.12.2023,14:30:00,Bundesliga,Stuttgart,Werder Bremen,1x0,1,"0,2",,,,,
-02.12.2023,14:30:00,Serie C Group B,Carrarese,Recanatese,1x1,1,"0,2",,,,,
-02.12.2023,15:30:00,National,Red Star,Nîmes,2x0,1,"0,2",,,,,
-02.12.2023,16:00:00,First Amateur Division,Lokeren-Temse,KVK Tienen-Hageland,1x0,1,"0,2",,,,,
-02.12.2023,16:00:00,First Division B,KMSK Deinze,Club Brugge II,0x0,1,"0,2",,,,,
-02.12.2023,16:00:00,Primera Division RFEF Group 2,Málaga CF,Atlético Sanluqueño CF,0x0,1,"0,2",,,,,
-02.12.2023,16:45:00,Pro League,Royal Antwerp FC,OH Leuven,1x0,1,"0,2",,,,,
-02.12.2023,17:45:00,Liga 3,Felgueiras 1932,Canelas 2010,1x0,1,"0,2",,,,,
-02.12.2023,18:00:00,Primera División,Palestino,Curicó Unido,0x0,1,"0,2",,,,,
-02.12.2023,19:00:00,Primera División,Peñarol,Racing,0x0,1,"0,2",,,,,
-02.12.2023,21:00:00,Serie A,Atlético Mineiro,São Paulo,0x0,1,"0,2",,,,,
-03.12.2023,05:00:00,Liga 1,PSIS Semarang,PSS Sleman,1x0,1,"0,2",,,,,
-03.12.2023,08:00:00,Russian Premier League,CSKA Moskva,Rostov,1x0,1,"0,2",,,,,
-03.12.2023,08:00:00,3. Lig Group 3,Kuşadasıspor,Darıca Gençlerbirliği,2x0,1,"0,2",,,,,
-03.12.2023,08:00:00,Tercera Group 10,Utrera,Pozoblanco,0x1,0,-1,,,,,
-03.12.2023,09:00:00,Superleague of Kosovo,Drita,Feronikeli,2x0,1,"0,2",,,,,
-03.12.2023,09:30:00,Second Division,Omonia 29is Maiou,Akritas,1x0,1,"0,2",,,,,
-03.12.2023,10:30:00,Russian Premier League,Krasnodar,Orenburg,1x0,1,"0,2",,,,,
-03.12.2023,10:30:00,Serie D Group B,Brusaporto,Pontisola,0x1,0,-1,,,,,
-03.12.2023,11:00:00,Ligue 1,Monaco,Montpellier,1x0,1,"0,2",,,,,
-03.12.2023,11:00:00,Serie D Group H,Martina Franca,Santa Maria Cilento,0x0,1,"0,2",,,,,
-03.12.2023,11:00:00,Serie D Group H,Team Altamura,Paganese,0x1,0,-1,,,,,
-03.12.2023,11:00:00,NPFL,Gombe United,Kano Pillars,2x4,0,-1,,,,,
-03.12.2023,12:00:00,National Division,F91 Dudelange,Victoria Rosport,1x0,1,"0,2",,,,,
-03.12.2023,12:00:00,Liga 3,Varzim,Fafe,0x1,0,-1,,,,,
-03.12.2023,12:00:00,Ghana Premier League,Aduana Stars,Hearts of Oak,0x0,1,"0,2",,,,,
-03.12.2023,12:00:00,NPFL,Sporting Lagos,Katsina United,1x0,1,"0,2",,,,,
-03.12.2023,12:30:00,3. Liga,Jahn Regensburg,Freiburg II,2x1,1,"0,2",,,,,
-03.12.2023,13:00:00,Eliteserien,FK Bodo - Glimt,Sarpsborg 08,1x0,1,"0,2",,,,,
-03.12.2023,13:00:00,Eliteserien,Viking,Rosenborg,0x1,0,-1,,,,,
-03.12.2023,13:00:00,NB II,Győri ETO,Ajka,0x0,1,"0,2",,,,,
-03.12.2023,13:30:00,Super Liga,Slovan Bratislava,Ružomberok,1x2,0,-1,,,,,
-03.12.2023,14:00:00,Superliga,København,AGF,0x2,0,-1,,,,,
-03.12.2023,14:30:00,Pro League,Club Brugge,Standard Liège,1x0,1,"0,2",,,,,
-03.12.2023,14:30:00,Serie C Group A,Mantova,Renate,1x1,1,"0,2",,,,,
-03.12.2023,14:30:00,Serie C Group A,Calcio Padova,Lumezzane,1x1,1,"0,2",,,,,
-03.12.2023,16:00:00,Liga I,FCSB,Oţelul Galaţi,0x1,0,-1,,,,,
-03.12.2023,16:45:00,Serie C Group C,Avellino,Turris Neapolis,0x0,1,"0,2",,,,,
-03.12.2023,18:00:00,Primera División,Colo-Colo,Unión Española,0x0,1,"0,2",,,,,
-04.12.2023,05:00:00,Liga 1,Bali United,Arema,3x1,1,"0,2",,,,,
-04.12.2023,09:00:00,Liga 1,Persib,PSM,0x0,1,"0,2",,,,,
-04.12.2023,12:00:00,Ghana Premier League,Great Olympics,Legon Cities,0x0,1,"0,2",,,,,
-04.12.2023,13:30:00,Russian Premier League,Dinamo Moskva,Rubin Kazan,1x0,1,"0,2",,,,,
-04.12.2023,15:00:00,Superliga,Midtjylland,Viborg,2x1,1,"0,2",,,,,
-04.12.2023,16:00:00,Super League,AEK Athens,Aris,0x0,1,"0,2",,,,,
-05.12.2023,16:45:00,Southern League Premier South,Chesham United,Tiverton Town,0x0,1,"0,2",,,,,
-06.12.2023,21:00:00,LFPB,Aurora,Vaca Díez,2x0,1,"0,2",,,,,
-06.12.2023,21:00:00,LFPB,Guabirá,Independiente Petrolero,1x0,1,"0,2",,,,,
-07.12.2023,13:00:00,Ligi kuu Bara,Azam,KMC,2x0,1,"0,2",,,,,
-07.12.2023,13:30:00,PrvaLiga,Olimpija,Bravo,0x0,1,"0,2",,,,,
-07.12.2023,14:00:00,Botola Pro,RSB Berkane,Olympic Safi,0x0,1,"0,2",,,,,
-07.12.2023,17:00:00,Primera División,Nacional,Torque,0x1,0,-1,,,,,
-07.12.2023,17:15:00,Premier League,Tottenham Hotspur,West Ham United,1x0,1,"0,2",,,,,
-08.12.2023,10:00:00,Liga Leumit,Ironi Kiryat Shmona,Hapoel Ramat Gan,0x0,1,"0,2",,,,,
-08.12.2023,13:30:00,Stars League,Al Wakrah,Al Ahli,2x1,1,"0,2",,,,,
-08.12.2023,18:00:00,Primera División,Huachipato,Audax Italiano,0x0,1,"0,2",,,,,
-09.12.2023,07:30:00,1. Lig,BB Bodrumspor,Tuzlaspor,0x0,1,"0,2",,,,,
-09.12.2023,08:30:00,Persian Gulf Pro League,Sepahan,Mes Rafsanjan,0x0,1,"0,2",,,,,
-09.12.2023,09:00:00,Liga 1,Borneo,PSIS Semarang,1x0,1,"0,2",,,,,
-09.12.2023,09:00:00,2. Bundesliga,Hamburger SV,Paderborn,1x1,1,"0,2",,,,,
-09.12.2023,10:00:00,First League,Cherno More,Slavia Sofia,1x0,1,"0,2",,,,,
-09.12.2023,10:00:00,3. Liga,Ulm,Borussia Dortmund II,1x0,1,"0,2",,,,,
-09.12.2023,10:00:00,Premyer Liqası,Zira,Araz,0x0,1,"0,2",,,,,
-09.12.2023,11:00:00,First League,Slovan Liberec,Zlín,2x1,1,"0,2",,,,,
-09.12.2023,11:00:00,Botola Pro,Raja Casablanca,CR Khemis Zemamra,2x1,1,"0,2",,,,,
-09.12.2023,11:30:00,Stars League,Al Gharafa,Al Shamal,1x0,1,"0,2",,,,,
-09.12.2023,11:30:00,Stars League,Al Duhail,Qatar SC,1x0,1,"0,2",,,,,
-09.12.2023,12:00:00,National Division,UT Pétange,Marisca Mersch,2x0,1,"0,2",,,,,
-09.12.2023,12:00:00,EFL League Two,Notts County,Walsall,1x0,1,"0,2",,,,,
-09.12.2023,12:00:00,EFL League One,Blackpool,Carlisle United,1x0,1,"0,2",,,,,
-09.12.2023,12:00:00,EFL League One,Charlton Athletic,Cambridge United,0x0,1,"0,2",,,,,
-09.12.2023,12:00:00,Championship,Dundee United,Ayr United,0x0,1,"0,2",,,,,
-09.12.2023,12:00:00,League One,Falkirk,Kelty Hearts,1x0,1,"0,2",,,,,
-09.12.2023,12:00:00,Premier League,Manchester United,AFC Bournemouth,0x1,0,-1,,,,,
-09.12.2023,12:00:00,Northern Premier League,Rylands,Stafford Rangers,3x1,1,"0,2",,,,,
-09.12.2023,12:15:00,Segunda División,Real Valladolid,SD Amorebieta,0x1,0,-1,,,,,
-09.12.2023,13:30:00,1. Liga,Lechia Gdańsk,Chrobry Głogów,1x0,1,"0,2",,,,,
-09.12.2023,14:30:00,Liga 3,CD Trofense,Vianense,0x1,0,-1,,,,,
-09.12.2023,14:30:00,Serie C Group A,Triestina,Giana Erminio,0x0,1,"0,2",,,,,
-09.12.2023,14:45:00,Eredivisie,Ajax,Sparta Rotterdam,2x0,1,"0,2",,,,,
-09.12.2023,15:45:00,Liga I,Rapid Bucureşti,Voluntari,0x0,1,"0,2",,,,,
-09.12.2023,16:45:00,Pro League,KAA Gent,RWDM,2x0,1,"0,2",,,,,
-10.12.2023,09:00:00,Prva Liga,OFK Beograd,Dubočica,1x0,1,"0,2",,,,,
-10.12.2023,09:00:00,First Football League,Struga,Bregalnica Štip,1x0,1,"0,2",,,,,
-10.12.2023,12:30:00,3. Liga,Dynamo Dresden,Unterhaching,1x1,1,"0,2",,,,,
-10.12.2023,13:00:00,1. Lig,Eyüpspor,Şanlıurfaspor,2x0,1,"0,2",,,,,
-10.12.2023,13:10:00,Prva HNL,Rijeka,Slaven Koprivnica,0x1,0,-1,,,,,
-10.12.2023,14:30:00,Pro League,RSC Anderlecht,Standard Liège,1x1,1,"0,2",,,,,
-10.12.2023,17:00:00,La Liga,FC Barcelona,Girona FC,1x2,0,-1,,,,,
-11.12.2023,13:00:00,Ligi kuu Bara,Azam,JKT Tanzania,1x1,1,"0,2",,,,,
-13.12.2023,13:30:00,Stars League,Al Sadd,Al Duhail,0x1,0,-1,,,,,
-13.12.2023,16:45:00,Championship,Leicester City,Millwall,0x1,0,-1,,,,,
-14.12.2023,14:00:00,Egyptian Premier League,Pyramids FC,Baladiyyat Al Mehalla,1x1,1,"0,2",,,,,
-15.12.2023,08:00:00,Thai League 2,Nong Bua Pitchaya,Lampang,2x1,1,"0,2",,,,,
-15.12.2023,10:00:00,Liga Leumit,Ironi Tiberias,Hapoel Ramat Gan,1x0,1,"0,2",,,,,
-15.12.2023,16:00:00,Eerste Divisie,Willem II,Helmond Sport,1x1,1,"0,2",,,,,
-15.12.2023,17:00:00,Ligue 1,Monaco,Olympique Lyonnais,0x0,1,"0,2",,,,,
-16.12.2023,09:00:00,Ethiopia Premier League,Ethiopia Nigd Bank,Ethiopia Bunna,2x1,1,"0,2",,,,,
-16.12.2023,09:30:00,Championship,Ipswich Town,Norwich City,1x1,1,"0,2",,,,,
-16.12.2023,09:45:00,Arabian Gulf League,Al Wasl,Al Ittihad Kalba,1x0,1,"0,2",,,,,
-16.12.2023,12:00:00,Premiership,Celtic,Hearts,0x2,0,-1,,,,,
-16.12.2023,12:00:00,Premier League,Newcastle United,Fulham,0x0,1,"0,2",,,,,
-16.12.2023,12:00:00,Campeonato de Portugal Group D,Vitória Setúbal,O Elvas,1x0,1,"0,2",,,,,
-16.12.2023,14:00:00,Ligue 1,MC Alger,USM Khenchela,1x0,1,"0,2",,,,,
-16.12.2023,14:30:00,Bundesliga,RB Leipzig,Hoffenheim,1x1,1,"0,2",,,,,
-16.12.2023,14:30:00,Serie C Group A,Mantova,Lumezzane,0x0,1,"0,2",,,,,
-16.12.2023,16:00:00,First Amateur Division,RAAL La Louvière,Union Namur,3x0,1,"0,2",,,,,
-17.12.2023,08:30:00,Thai League 2,Chiangmai,Chanthaburi,0x0,1,"0,2",,,,,
-17.12.2023,09:00:00,Superleague of Kosovo,Ballkani,Prishtina,0x0,1,"0,2",,,,,
-17.12.2023,09:40:00,Division One,Dibba Al Hisn,Al Ramms,2x0,1,"0,2",,,,,
-17.12.2023,10:30:00,Serie D Group C,Clodiense,Chions,0x0,1,"0,2",,,,,
-17.12.2023,11:00:00,Premier League,Arsenal,Brighton & Hove Albion,0x0,1,"0,2",,,,,
-17.12.2023,12:00:00,Pro League,Union Saint-Gilloise,KV Mechelen,0x0,1,"0,2",,,,,
-17.12.2023,12:00:00,Campeonato de Portugal Group B,Amarante,CF Oliveira Douro,1x0,1,"0,2",,,,,
-17.12.2023,13:05:00,Ligue 1,Olympique Marseille,Clermont,2x0,1,"0,2",,,,,
-17.12.2023,13:30:00,Bundesliga,Bayer Leverkusen,Eintracht Frankfurt,1x0,1,"0,2",,,,,
-17.12.2023,13:30:00,Premier League,Liverpool,Manchester United,0x0,1,"0,2",,,,,
-17.12.2023,13:30:00,Super Liga,Slovan Bratislava,DAC,1x1,1,"0,2",,,,,
-17.12.2023,14:00:00,Botola Pro,FAR Rabat,Hassania Agadir,0x0,1,"0,2",,,,,
-17.12.2023,15:30:00,Bundesliga,Bayern München,Stuttgart,1x0,1,"0,2",,,,,
-17.12.2023,17:00:00,La Liga,Real Madrid,Villarreal,2x0,1,"0,2",,,,,
-17.12.2023,17:00:00,Jamaica National Premier League,Mount Pleasant Academy FC,Vere United,0x1,0,-1,,,,,
-18.12.2023,11:30:00,First Division,Al Quadisiya,Ohod,1x1,1,"0,2",,,,,
-18.12.2023,13:00:00,Premyer Liqası,Qarabağ,Neftçi,0x0,1,"0,2",,,,,
-19.12.2023,11:00,Persian Gulf Pro League,Esteghlal,Nassaji Mazandaran,1x0,1,"0,2",,,,,
-19.12.2023,17:30,La Liga,Atlético Madrid,Getafe CF,1x0,1,"0,2",,,,,
-20.12.2023,08:30,Iraqi Premier League,Al Quwa Al Jawiya,Duhok,1x0,1,"0,2",,,,,
-20.12.2023,14:00,Süper Lig,Galatasaray,Fatih Karagümrük,1x0,1,"0,2",,,,,
-22.12.2023,09:45,Division One,Al Urooba,Gulf Heroes,1x2,1,"0,2",,,,,
-22.12.2023,10:00,Liga Leumit,Hapoel Nazareth Illit,Hapoel Rishon LeZion,0x1,0,-1,,,,,
-22.12.2023,16:45,Championship,Raith Rovers,Ayr United,2x1,1,"0,2",,,,,
-22.12.2023,16:45,NIFL Premiership,Linfield,Coleraine,0x0,1,"0,2",,,,,
-22.12.2023,17:00,NIFL Championship,Dundela,Annagh United,4x2,1,"0,2",,,,,
-23.12.2023,12:00,National League,Chesterfield,Aldershot Town,1x1,1,"0,2",,,,,
-23.12.2023,12:00,Isthmian Premier Division,AFC Hornchurch,Canvey Island,0x0,1,"0,2",,,,,
+Date,Hora,Liga,Home,Away,Placar HT,Winrate,Profit,Profit_HA-025,Profit_DNB_HT,Profit_HA+025,Lay Others HT,"-0,25 HT",profit_acumulado
+16.09.2023,21:30:00,Serie A,Palmeiras,Goiás,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","0,2"
+16.09.2023,04:30:00,K League 1,Pohang Steelers,Suwon,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","0,4"
+16.09.2023,08:00:00,Ettan North,Sollentuna,Sylvia,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","0,6"
+16.09.2023,08:30:00,China League Two,Yunnan Yukun,Qingdao Red Lions,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","0,8"
+16.09.2023,08:35:00,Chinese Super League,Meizhou Hakka,Shenzhen,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7",1
+16.09.2023,09:00:00,Regionalliga Bayern,Aubstadt,Memmingen,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7","1,2"
+16.09.2023,11:00:00,Ettan North,Vasalund,Örebro Syrianska,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","1,4"
+16.09.2023,12:30:00,Allsvenskan,Djurgården,Värnamo,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5","1,6"
+16.09.2023,13:00:00,Eliteserien,Molde,Odd,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7","1,8"
+17.09.2023,23:00:00,Primera División FPD,Alajuelense,Puntarenas,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7",2
+17.09.2023,08:00:00,Superettan,GAIS,Helsingborg,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","2,2"
+17.09.2023,08:00:00,Division 2 Vastra Gotaland,Husqvarna,Laholm,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","2,4"
+17.09.2023,08:00:00,Kakkonen,Klubi-04,PEPO,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","2,6"
+17.09.2023,08:30:00,China League One,Sichuan Jiuniu,Yanbian Longding,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7","2,8"
+17.09.2023,12:30:00,Allsvenskan,Elfsborg,Kalmar,0x3,0,-1,-1,-1,-1,-1,-1,"1,8"
+17.09.2023,12:30:00,Allsvenskan,Häcken,Halmstad,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7",2
+17.09.2023,15:00:00,Torneo Federal A,Ciudad de Bolívar,Sportivo Peñarol,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","2,2"
+18.09.2023,14:00:00,Faroe Islands Premier League,KÍ,B68,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5","2,4"
+19.09.2023,07:00:00,K League 2,Busan I'Park,Ansan Greeners,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","2,6"
+19.09.2023,16:00:00,Categoria Primera B,Patriotas Boyacá,Orsomarso,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","2,8"
+20.09.2023,17:30:00,Primera División,UTC Cajamarca,Deportivo Municipal,4x1,1,"0,2","0,7","0,25","0,25",-1,"0,7",3
+20.09.2023,22:30:00,Primera División,Universitario,Sport Boys,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","3,2"
+21.09.2023,22:20:00,Categoria Primera A,Millonarios,Atlético Huila,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","3,4"
+22.09.2023,08:35:00,Chinese Super League,Shanghai Shenhua,Shijiazhuang Ever Bright,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","3,6"
+22.09.2023,13:30:00,Regionalliga Bayern,Würzburger Kickers,Wacker Burghausen,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","3,8"
+22.09.2023,14:00:00,Ettan South,Oddevold,Ljungskile,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7",4
+23.09.2023,09:00:00,FNL,Dukla Praha,Hanácká,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","4,2"
+23.09.2023,10:00:00,Superettan,Västerås SK,GIF Sundsvall,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","4,4"
+23.09.2023,10:00:00,Kazakhstan Premier League,Kairat,Shakhter Karagandy,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","4,6"
+23.09.2023,11:00:00,National League,Chesterfield,Wealdstone,0x1,0,-1,-1,-1,-1,"0,16",-1,"3,6"
+23.09.2023,12:00:00,Vysheyshaya Liga,Neman Grodno,Dinamo Brest,0x1,0,-1,-1,-1,-1,"0,16",-1,"2,6"
+23.09.2023,14:00:00,First League,Levski Sofia,Etar,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","2,8"
+23.09.2023,15:00:00,Prim B Nacional,Agropecuario,Flandria,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5",3
+23.09.2023,18:00:00,Prim B Nacional,San Martín Tucumán,Club Atlético Güemes,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","3,2"
+23.09.2023,20:45:00,Serie B,Sport Recife,Londrina,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","3,4"
+24.09.2023,23:00:00,Primera División FPD,Alajuelense,Santos de Guápiles,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","3,6"
+24.09.2023,01:00:00,J2 League,Shimizu S-Pulse,Ventforet Kofu,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","3,8"
+24.09.2023,09:00:00,Ettan North,Sandviken,Boden,0x1,0,-1,-1,-1,-1,"0,16",-1,"2,8"
+24.09.2023,10:00:00,Uzbekistan Super League,Nasaf,Bunyodkor,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5",3
+24.09.2023,11:00:00,Faroe Islands Premier League,Víkingur,07 Vestur,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","3,2"
+24.09.2023,12:00:00,Eliteserien,FK Bodo - Glimt,Vålerenga,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7","3,4"
+24.09.2023,12:00:00,Eliteserien,Viking,Sandefjord,2x2,1,"0,2","-0,5",0,"0,25","0,16","-0,5","3,6"
+24.09.2023,17:15:00,Primera División,Melgar,Unión Comercio,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","3,8"
+25.09.2023,12:00:00,Virsliga,Riga,Liepāja,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7",4
+25.09.2023,21:00:00,Serie B,Novorizontino,ABC,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","4,20000000000001"
+25.09.2023,22:00:00,Primera División,Sporting Cristal,UTC Cajamarca,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","4,40000000000001"
+25.09.2023,22:35:00,Categoria Primera A,Independiente Medellín,Atlético Bucaramanga,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","4,60000000000001"
+27.09.2023,11:00:00,Uzbekistan Super League,Neftchi,Buxoro,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","4,80000000000001"
+27.09.2023,13:30:00,Montenegrin First League,Budućnost,Mladost DG,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5","5,00000000000001"
+27.09.2023,14:00:00,Superettan,Öster,Helsingborg,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","5,20000000000001"
+27.09.2023,14:30:00,First League,Ludogorets,Lokomotiv Plovdiv,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","5,40000000000001"
+27.09.2023,19:00:00,Serie A,São Paulo,Coritiba,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7","5,60000000000001"
+29.09.2023,07:30:00,J1 League,Urawa Reds,Yokohama,0x1,1,-1,-1,-1,-1,"0,16",-1,"4,60000000000001"
+29.09.2023,09:00:00,Liga 1,Bali United,PS TNI,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","4,80000000000001"
+29.09.2023,10:00:00,Armenian Premier League,FC Avan Academy,Ararat,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","5,00000000000001"
+29.09.2023,12:00:00,A Lyga,Hegelmann Litauen,Banga,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","5,20000000000001"
+29.09.2023,15:45:00,First Division,Galway United,Athlone Town,3x0,1,"0,2","0,7","0,25","0,25",-1,"0,7","5,40000000000001"
+29.09.2023,15:45:00,First Division,Waterford,Wexford,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","5,60000000000001"
+30.09.2023,09:00:00,1st Division,SønderjyskE,B 93,3x0,1,"0,2","0,7","0,25","0,25",-1,"0,7","5,80000000000001"
+30.09.2023,10:00:00,Allsvenskan,Djurgården,Halmstad,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","6,00000000000001"
+30.09.2023,10:00:00,Super League,Pahang,Kuching FA,2x2,1,"0,2","-0,5",0,"0,25","0,16","-0,5","6,20000000000001"
+30.09.2023,11:00:00,NIFL Premiership,Cliftonville,Loughgall,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5","6,40000000000001"
+30.09.2023,13:30:00,Prim B Nacional,Defensores de Belgrano,All Boys,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","6,60000000000001"
+30.09.2023,14:00:00,Vysheyshaya Liga,Dinamo Minsk,Gomel,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","6,80000000000001"
+30.09.2023,16:30:00,Primera División,Deportivo Táchira,Hermanos Colmenares,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","7,00000000000001"
+30.09.2023,20:10:00,Categoria Primera A,Atlético Nacional,Envigado,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","7,20000000000001"
+01.10.2023,08:00:00,Hong Kong Premier League,Warriors,Rangers,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7","7,40000000000001"
+01.10.2023,09:00:00,1st Division,Fredericia,Næstved,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","7,60000000000001"
+01.10.2023,09:00:00,Liga I,CS U Craiova,Botoşani,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7","7,80000000000001"
+01.10.2023,09:15:00,First League,Arda,Etar,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","8,00000000000001"
+01.10.2023,10:00:00,Prva Liga,Semendrija 1924,Novi Sad,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","8,20000000000001"
+01.10.2023,12:00:00,NB II,Vasas,Csákvári TK,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","8,40000000000001"
+01.10.2023,13:00:00,Meistriliiga,Tallinna FC Levadia,Trans,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","8,60000000000001"
+01.10.2023,14:15:00,Eliteserien,FK Bodo - Glimt,Strømsgodset,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","8,80000000000001"
+01.10.2023,21:00:00,Primera División FPD,Deportivo Saprissa,Guanacasteca,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","9,00000000000001"
+02.10.2023,14:10:00,Allsvenskan,Malmö FF,Brommapojkarna,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","9,20000000000001"
+02.10.2023,15:00:00,Liga I,FCSB,Universitatea Cluj,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7","9,4"
+02.10.2023,20:00:00,Serie A,Botafogo,Goiás,0x1,0,-1,-1,-1,-1,"0,16",-1,"8,4"
+02.10.2023,22:30:00,Primera División,Universitario,UTC Cajamarca,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","8,6"
+03.10.2023,09:30:00,Oberliga Baden Wurttemberg,Hollenbach,FC Holzhausen,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5","8,8"
+03.10.2023,15:45:00,EFL League One,Oxford United,Shrewsbury Town,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7",9
+03.10.2023,15:45:00,National League,Chesterfield,Bromley,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","9,2"
+03.10.2023,15:45:00,National League,Gateshead,Wealdstone,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","9,4"
+03.10.2023,15:45:00,National League,Southend United,Oxford City,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","9,6"
+03.10.2023,19:30:00,Serie B,Mirassol,Londrina,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","9,8"
+04.10.2023,14:00:00,Regionalliga Südwest,Stuttgarter Kickers,Schott Mainz,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7",10
+04.10.2023,15:45:00,Championship,Leicester City,Preston North End,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","10,2"
+05.10.2023,08:00:00,Armenian Premier League,Artsakh,BKMA,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","10,4"
+06.10.2023,13:00:00,Damallsvenskan,Rosengard Women,Djurgården W,1x2,0,-1,-1,-1,-1,"0,16",-1,"9,4"
+06.10.2023,15:00:00,Liga I,Rapid Bucureşti,CSM Iaşi,2x2,1,"0,2","-0,5",0,"0,25","0,16","-0,5","9,6"
+06.10.2023,21:30:00,Serie B,Atlético GO,Ituano,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","9,8"
+07.10.2023,05:15:00,FNL,Vyškov,Viktoria Žižkov,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5",10
+07.10.2023,08:00:00,Division 2 Norrland,Skellefteå,Frösö,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","10,2"
+07.10.2023,08:00:00,Division 2 Norra Gotaland,Torslanda,Stenungsund,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","10,4"
+07.10.2023,08:00:00,Regionalliga Nordost,Greifswalder FC,Rot-Weiß Erfurt,0x1,0,-1,-1,-1,-1,"0,16",-1,"9,39999999999999"
+07.10.2023,09:00:00,Regionalliga Bayern,Würzburger Kickers,Nürnberg II,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7","9,59999999999999"
+07.10.2023,10:00:00,Superettan,Västerås SK,Jönköpings Södra,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","9,79999999999999"
+07.10.2023,10:00:00,Second League,Septemvri Sofia,Marek,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","9,99999999999999"
+07.10.2023,10:00:00,3. Liga CFL,Baník Souš,Arsenal Ceska Lipa,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","10,2"
+07.10.2023,10:00:00,3 Liga Group 4,Garbarnia Kraków,Sokół Sieniawa,2x3,0,-1,-1,-1,-1,-1,-1,"9,19999999999999"
+07.10.2023,10:00:00,3 Liga Group 4,Avia Świdnik,Karpaty Krosno,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","9,39999999999999"
+07.10.2023,11:00:00,Ettan North,Vasalund,Sylvia,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","9,59999999999999"
+07.10.2023,11:00:00,Prva HNL,Osijek,Rudeš,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","9,79999999999999"
+07.10.2023,11:00:00,EFL League Two,Stockport County,Doncaster Rovers,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","9,99999999999999"
+07.10.2023,11:00:00,NIFL Championship,H&W Welders,Knockbreda,0x1,0,-1,-1,-1,-1,"0,16",-1,"8,99999999999999"
+07.10.2023,11:00:00,NIFL Premiership,Cliftonville,Dungannon Swifts,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","9,19999999999999"
+07.10.2023,12:30:00,PrvaLiga,Celje,Bravo,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5","9,39999999999999"
+07.10.2023,15:30:00,Super League,St. Gallen,Stade Lausanne-Ouchy,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","9,59999999999999"
+07.10.2023,16:00:00,Categoria Primera B,Fortaleza CEIF,Bogotá,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7","9,79999999999999"
+07.10.2023,18:30:00,LFPB,Nacional Potosí,Independiente Petrolero,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5","9,99999999999998"
+08.10.2023,08:00:00,Division 2 Vastra Gotaland,Vastra Frolunda,Lindome,3x2,1,"0,2","0,7","0,25","0,25",-1,"0,7","10,2"
+08.10.2023,09:00:00,Division 2 Vastra Gotaland,Astrio,Sävedalen,0x2,0,-1,-1,-1,-1,"0,16",-1,"9,19999999999998"
+08.10.2023,09:00:00,Superliga,Nordsjælland,OB,0x1,0,-1,-1,-1,-1,"0,16",-1,"8,19999999999998"
+08.10.2023,09:30:00,Bundesliga,LASK Linz,Rheindorf Altach,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","8,39999999999998"
+08.10.2023,10:00:00,A Lyga,FA Šiauliai,Dainava,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","8,59999999999998"
+08.10.2023,10:00:00,Prva Liga,OFK Beograd,Radnički Sr. Mitrovica,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","8,79999999999998"
+08.10.2023,10:30:00,Russian Premier League,Dinamo Moskva,Fakel,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","8,99999999999998"
+08.10.2023,11:00:00,Faroe Islands Premier League,B36,07 Vestur,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5","9,19999999999998"
+08.10.2023,11:15:00,Segunda División,Real Valladolid,Mirandés,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","9,39999999999998"
+08.10.2023,12:00:00,Eliteserien,Tromsø,Aalesund,0x1,0,-1,-1,-1,-1,"0,16",-1,"8,39999999999998"
+08.10.2023,12:30:00,PrvaLiga,Olimpija,Radomlje,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5","8,59999999999998"
+08.10.2023,12:30:00,SuperLiga,Čukarički,Voždovac,0x1,0,-1,-1,-1,-1,"0,16",-1,"7,59999999999998"
+08.10.2023,12:30:00,SuperLiga,Bačka Topola,Spartak Subotica,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","7,79999999999998"
+08.10.2023,13:00:00,Superliga,Midtjylland,Randers,0x1,0,-1,-1,-1,-1,"0,16",-1,"6,79999999999998"
+08.10.2023,13:00:00,First League,Viktoria Plzeň,Jablonec,2x2,1,"0,2","-0,5",0,"0,25","0,16","-0,5","6,99999999999998"
+08.10.2023,13:00:00,Super Liga,Slovan Bratislava,Trenčín,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","7,19999999999998"
+08.10.2023,14:00:00,Liga Premier Serie A,Estudiantes Tecos,Mexicali FC,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","7,39999999999998"
+08.10.2023,16:00:00,LFPB,Club Always Ready,Municipal Vinto,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","7,59999999999998"
+08.10.2023,16:00:00,Serie A,Palmeiras,Santos,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5","7,79999999999998"
+08.10.2023,16:00:00,Torneo Federal A,Gimnasia y Tiro,Sarmiento Resistencia,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","7,99999999999998"
+08.10.2023,16:30:00,Torneo Federal A,Douglas Haig,Defensores Belgrano VR,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","8,19999999999998"
+08.10.2023,16:50:00,Prim B Nacional,Chacarita Juniors,Estudiantes Caseros,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","8,39999999999998"
+08.10.2023,17:20:00,Primera División,ADT,Unión Comercio,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","8,59999999999998"
+08.10.2023,18:00:00,Salvadoran Primera División,Once Municipal,CD Platense,2x1,1,"0,2","0,7","0,25","0,25","0,16","0,7","8,79999999999998"
+08.10.2023,18:30:00,Serie A,Atlético Mineiro,Coritiba,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","8,99999999999998"
+08.10.2023,18:30:00,Serie A,Fortaleza,América Mineiro,0x2,0,-1,-1,-1,-1,"0,16",-1,"7,99999999999998"
+08.10.2023,18:30:00,Salvadoran Primera División,Águila,Santa Tecla,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","8,19999999999998"
+08.10.2023,19:00:00,Primera División FPD,Alajuelense,Sporting San José,0x2,0,-1,-1,-1,-1,"0,16",-1,"7,19999999999998"
+08.10.2023,20:10:00,Categoria Primera A,Independiente Medellín,Atlético Huila,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","7,39999999999998"
+09.10.2023,05:00:00,China League Two,Qingdao Red Lions,Yichun Grand Tiger,3x0,1,"0,2","0,7","0,25","0,25",-1,"0,7","7,59999999999998"
+09.10.2023,19:00:00,LFPB,Aurora,Guabirá,0x0,1,"0,2","-0,5",0,"0,25",,"-0,5","7,79999999999998"
+09.10.2023,20:00:00,Serie B,Sport Recife,Ponte Preta,0x2,0,-1,-1,-1,-1,"0,16",-1,"6,79999999999998"
+10.10.2023,08:30:00,China League One,Hebei Kungfu,Jiangxi Liansheng,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5","6,99999999999998"
+10.10.2023,15:00:00,Primera C,Sportivo Italiano,Yupanqui,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","7,19999999999998"
+11.10.2023,17:15:00,Categoria Primera B,Patriotas Boyacá,Tigres,3x0,1,"0,2","0,7","0,25","0,25",-1,"0,7","7,39999999999998"
+12.10.2023,21:30:00,Serie B,Vila Nova,Botafogo SP,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","7,59999999999998"
+13.10.2023,14:00:00,Division 2 Sodra Gotaland,IFK Hässleholm,Balkan,2x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","7,79999999999998"
+13.10.2023,14:30:00,Division 2 Norra Gotaland,Stenungsund,Vänersborgs FK,1x1,1,"0,2","-0,5",0,"0,25","0,16","-0,5","7,99999999999998"
+13.10.2023,20:00:00,Categoria Primera A,Deportivo Pasto,Unión Magdalena,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","8,19999999999998"
+13.10.2023,21:30:00,Serie B,Criciúma,Chapecoense,0x1,0,-1,-1,-1,-1,"0,16",-1,"7,19999999999998"
+13.10.2023,23:00:00,Liga Premier Serie A,Durango,Correcaminos UAT II,1x0,1,"0,2","0,7","0,25","0,25","0,16","0,7","7,39999999999998"
+14.10.2023,08:00:00,Ettan South,Oddevold,Norrby,1x0,1,"0,2",,,,"0,16","0,7","7,59999999999998"
+14.10.2023,08:00:00,Oberliga Rheinland Pfalz Saar,Gonsenheim,Mechtersheim,0x0,1,"0,2",,,,,"-0,5","7,79999999999998"
+14.10.2023,08:00:00,Regionalliga Nord,Hannover 96 II,Bremer SV,1x0,1,"0,2",,,,"0,16","0,7","7,99999999999998"
+14.10.2023,08:30:00,3. Division,VSK Århus,Holstebro,0x0,1,"0,2",,,,,"-0,5","8,19999999999998"
+14.10.2023,09:00:00,Regionalliga Bayern,Aubstadt,Ansbach,1x0,1,"0,2",,,,"0,16","0,7","8,39999999999998"
+14.10.2023,09:00:00,2nd Division,Roskilde,Thisted,1x3,0,-1,,,,-1,-1,"7,39999999999998"
+14.10.2023,09:00:00,Oberliga Bayern Süd,TSV Kottern-St. Mang,TSV 1896 Rain am Lech,0x0,1,"0,2",,,,,"-0,5","7,59999999999998"
+14.10.2023,09:00:00,Regionalliga Südwest,Aalen,Bahlinger SC,0x0,1,"0,2",,,,,"-0,5","7,79999999999998"
+14.10.2023,09:00:00,Regionalliga Südwest,Stuttgarter Kickers,FSV Frankfurt,0x0,1,"0,2",,,,,"-0,5","7,99999999999998"
+14.10.2023,10:00:00,2. SNL,Bistrica,Tolmin,0x0,1,"0,2",,,,,"-0,5","8,19999999999998"
+14.10.2023,10:00:00,2nd Division,AB,Skive,0x0,1,"0,2",,,,,"-0,5","8,39999999999998"
+14.10.2023,10:00:00,Druga HNL,Zrinski Jurjevac,Croatia Zmijavci,3x0,1,"0,2",,,,-1,"0,7","8,59999999999998"
+14.10.2023,10:00:00,3 Liga Group 4,Siarka Tarnobrzeg,KSZO,1x0,1,"0,2",,,,"0,16","0,7","8,79999999999998"
+14.10.2023,11:00:00,Ettan North,Dalkurd,Örebro Syrianska,0x0,1,"0,2",,,,,"-0,5","8,99999999999998"
+14.10.2023,11:00:00,Ettan North,Sandviken,Hammarby Talang,1x1,1,"0,2",,,,"0,16","-0,5","9,19999999999997"
+14.10.2023,11:00:00,Ettan South,Lund,Oskarshamns AIK,0x0,1,"0,2",,,,,"-0,5","9,39999999999997"
+14.10.2023,11:00:00,EFL League Two,Wrexham,Salford City,1x2,0,-1,,,,"0,16",-1,"8,39999999999997"
+14.10.2023,11:00:00,3. Liga CFL,Slovan Velvary,Sokol Živanice,2x0,1,"0,2",,,,"0,16","0,7","8,59999999999997"
+14.10.2023,11:00:00,Southern League Premier South,Merthyr Town,Plymouth Parkway,0x0,1,"0,2",,,,,"-0,5","8,79999999999997"
+14.10.2023,11:00:00,Northern Premier League,Radcliffe Borough,Ilkeston Town,2x0,1,"0,2",,,,"0,16","0,7","8,99999999999997"
+14.10.2023,11:00:00,Southern League Premier Central,Mickleover Sports,Royston Town,0x0,1,"0,2",,,,,"-0,5","9,19999999999997"
+14.10.2023,11:00:00,Southern League Premier Central,Stamford,Alvechurch,0x0,1,"0,2",,,,,"-0,5","9,39999999999997"
+14.10.2023,11:00:00,FNL,Spartak Vladikavkaz,Leningradets,0x0,1,"0,2",,,,,"-0,5","9,59999999999997"
+14.10.2023,11:00:00,Regionalliga Ost,Donaufeld,Ardagger,2x0,1,"0,2",,,,"0,16","0,7","9,79999999999997"
+14.10.2023,13:00:00,Druga HNL,Šibenik,Dubrava Zagreb,2x1,1,"0,2",,,,"0,16","0,7","9,99999999999997"
+14.10.2023,15:30:00,Primera D,Centro Español,Deportivo Paraguayo,0x1,0,-1,,,,"0,16",-1,"8,99999999999997"
+14.10.2023,16:00:00,Segunda División,Uruguay Montevideo FC,Potencia,1x0,1,"0,2",,,,"0,16","0,7","9,19999999999997"
+14.10.2023,16:30:00,Torneo Federal A,Argentino Monte Maíz,Ferro Carril Oeste LP,2x0,1,"0,2",,,,"0,16","0,7","9,39999999999997"
+14.10.2023,17:00:00,Serie B,Novorizontino,Tombense,0x0,1,"0,2",,,,,"-0,5","9,59999999999997"
+14.10.2023,19:00:00,Reserve League,Talleres Córdoba Res.,Atlético Tucumán Res.,1x1,1,"0,2",,,,"0,16","-0,5","9,79999999999997"
+15.10.2023,01:00:00,J3 League,Imabari,YSCC,0x2,0,-1,,,,"0,16",-1,"8,79999999999997"
+15.10.2023,01:55:00,J3 League,Ehime,Giravanz Kitakyushu,0x0,1,"0,2",,,,,"-0,5","8,99999999999996"
+15.10.2023,05:45:00,Oberliga Hamburg,USC Paloma,Alsterbrüder,0x1,0,-1,,,,"0,16",-1,"7,99999999999996"
+15.10.2023,09:30:00,Eerste Divisie,Willem II,Den Bosch,1x1,1,"0,2",,,,"0,16","-0,5","8,19999999999996"
+15.10.2023,10:00:00,Damallsvenskan,Kristianstad,KIF Örebro,0x0,1,"0,2",,,,,"-0,5","8,39999999999996"
+15.10.2023,10:00:00,Premier Soccer League,Highlanders,Cranborne Bullets,0x0,1,"0,2",,,,,"-0,5","8,59999999999996"
+15.10.2023,10:30:00,Montenegrin Second League,Igalo,Kom,1x1,1,"0,2",,,,"0,16","-0,5","8,79999999999996"
+15.10.2023,11:00:00,3. Liga CFL,Sokol Zápy,Ústí nad Labem,0x1,0,-1,,,,"0,16",-1,"7,79999999999996"
+15.10.2023,12:30:00,Primera B,Deportes Temuco,Deportes Santa Cruz,0x0,1,"0,2",,,,,"-0,5","7,99999999999996"
+15.10.2023,12:30:00,Primera B,San Luis,Univ. Concepción,2x1,1,"0,2",,,,"0,16","0,7","8,19999999999996"
+15.10.2023,12:30:00,Segunda División,Progreso,Bella Vista,1x0,1,"0,2",,,,"0,16","0,7","8,39999999999996"
+15.10.2023,13:30:00,Segunda División,SD Eibar,SD Huesca,0x1,0,-1,,,,"0,16",-1,"7,39999999999996"
+15.10.2023,13:30:00,Segunda División,Leganés,SD Amorebieta,2x0,1,"0,2",,,,"0,16","0,7","7,59999999999996"
+15.10.2023,18:00:00,Categoria Primera A,Rionegro Águilas,Alianza Petrolera,2x0,1,"0,2",,,,"0,16","0,7","7,79999999999996"
+16.10.2023,22:05:00,Ascenso MX,Venados,Dorados,1x1,1,"0,2",,,,"0,16","-0,5","7,99999999999996"
+16.10.2023,15:30:00,Prim B Nacional,Deportivo Morón,San Telmo,1x2,1,-1,,,,"0,16",-1,"6,99999999999996"
+17.10.2023,23:00:00,Primera División FPD,Deportivo Saprissa,Puntarenas,1x1,1,"0,2",,,,"0,16","-0,5","7,19999999999996"
+18.10.2023,04:30:00,China League One,Nanjing City,Jinan Xingzhou,0x1,0,-1,,,,"0,16",-1,"6,19999999999996"
+18.10.2023,08:30:00,China League One,Hebei Kungfu,Heilongjiang Lava Spring,1x0,1,"0,2",,,,"0,16","0,7","6,39999999999996"
+18.10.2023,15:00:00,1. Liga Promotion,Brühl,Lugano II,0x0,1,"0,2",,,,,"-0,5","6,59999999999996"
+18.10.2023,15:45:00,Welsh Premier League,Connah's Quay,Bala Town,0x1,0,-1,,,,"0,16",-1,"5,59999999999996"
+19.10.2023,21:30:00,Serie A,Fluminense,Corinthians,1x3,0,-1,,,,-1,-1,"4,59999999999996"
+20.10.2023,13:00:00,FNL,Příbram,Prostějov,0x0,1,"0,2",,,,,"-0,5","4,79999999999996"
+20.10.2023,13:10:00,2. Liga,Ried,First Vienna,1x1,1,"0,2",,,,"0,16","-0,5","4,99999999999996"
+20.10.2023,13:10:00,2. Liga,Floridsdorfer AC,Amstetten,0x0,1,"0,2",,,,,"-0,5","5,19999999999996"
+20.10.2023,13:15:00,First League,Lokomotiv Plovdiv,Beroe,0x2,0,-1,,,,"0,16",-1,"4,19999999999996"
+20.10.2023,14:00:00,1st Division,SønderjyskE,Kolding IF,2x0,1,"0,2",,,,"0,16","0,7","4,39999999999996"
+20.10.2023,15:00:00,Professional League,Al Fateh,Abha,2x0,1,"0,2",,,,"0,16","0,7","4,59999999999996"
+20.10.2023,15:45:00,First Division,Galway United,Wexford,2x0,1,"0,2",,,,"0,16","0,7","4,79999999999996"
+20.10.2023,15:45:00,First Division,Waterford,Treaty United,0x0,1,"0,2",,,,,"-0,5","4,99999999999996"
+20.10.2023,15:45:00,Premier Division,Derry City,Shelbourne,0x0,1,"0,2",,,,,"-0,5","5,19999999999996"
+20.10.2023,16:00:00,LFPB,Santa Cruz,Vaca Díez,1x0,1,"0,2",,,,"0,16","0,7","5,39999999999996"
+20.10.2023,16:00:00,Segunda División,RCD Espanyol,Leganés,0x0,1,"0,2",,,,,"-0,5","5,59999999999996"
+20.10.2023,22:00:00,Liga MX,Atlas,Mazatlán,1x2,0,-1,,,,"0,16",-1,"4,59999999999996"
+21.10.2023,04:00:00,China League Two,Haimen Codion,Hunan Xiangtao,1x0,1,"0,2",,,,"0,16","0,7","4,79999999999996"
+21.10.2023,04:30:00,Chinese Super League,Henan Jianye,Shijiazhuang Ever Bright,3x0,1,"0,2",,,,-1,"0,7","4,99999999999996"
+21.10.2023,07:00:00,3 Liga Group 1,Legia Warszawa II,Warta Sieradz,2x1,1,"0,2",,,,"0,16","0,7","5,19999999999997"
+21.10.2023,08:00:00,2. Bundesliga,Hamburger SV,Greuther Fürth,2x0,1,"0,2",,,,"0,16","0,7","5,39999999999997"
+21.10.2023,08:00:00,Superleague of Kosovo,Gjilani,Fushë Kosova,0x0,1,"0,2",,,,,"-0,5","5,59999999999997"
+21.10.2023,09:00:00,Kazakhstan Premier League,Kairat,FK Aksu,2x0,1,"0,2",,,,"0,16","0,7","5,79999999999997"
+21.10.2023,09:00:00,FNL,Dukla Praha,Chrudim,0x0,1,"0,2",,,,,"-0,5","5,99999999999997"
+21.10.2023,09:00:00,Ukrainian Premier League,Chornomorets,Minai,1x0,1,"0,2",,,,"0,16","0,7","6,19999999999997"
+21.10.2023,09:00:00,Oberliga Bayern Süd,1860 München II,Sonthofen,2x0,1,"0,2",,,,"0,16","0,7","6,39999999999997"
+21.10.2023,09:00:00,Regionalliga West,Düren Merzenich,Fortuna Düsseldorf II,2x0,1,"0,2",,,,"0,16","0,7","6,59999999999997"
+21.10.2023,09:00:00,Regionalliga West,Koln II,Wiedenbrück,1x0,1,"0,2",,,,"0,16","0,7","6,79999999999997"
+21.10.2023,09:00:00,3. Liga,Dynamo Dresden,Preußen Münster,1x0,1,"0,2",,,,"0,16","0,7","6,99999999999997"
+21.10.2023,09:00:00,Regionalliga Südwest,SGV Freiberg,Mainz 05 II,0x1,0,-1,,,,"0,16",-1,"5,99999999999997"
+21.10.2023,09:00:00,Prva Liga,OFK Beograd,Mladost Novi Sad,0x0,1,"0,2",,,,,"-0,5","6,19999999999997"
+21.10.2023,09:30:00,2. Liga,Tatran Prešov,Petržalka akadémia,0x0,1,"0,2",,,,,"-0,5","6,39999999999997"
+21.10.2023,10:00:00,First Division,Kristiansund,Åsane,4x1,1,"0,2",,,,-1,"0,7","6,59999999999997"
+21.10.2023,10:00:00,Damallsvenskan,Hammarby,Linköping,1x0,1,"0,2",,,,"0,16","0,7","6,79999999999997"
+21.10.2023,10:00:00,Druga HNL,HNK Vukovar 1991,Solin,0x2,0,-1,,,,"0,16",-1,"5,79999999999997"
+21.10.2023,11:00:00,Kazakhstan Premier League,Astana,Zhetysu,1x0,1,"0,2",,,,"0,16","0,7","5,99999999999997"
+21.10.2023,11:00:00,EFL League Two,Stockport County,Grimsby Town,2x1,1,"0,2",,,,"0,16","0,7","6,19999999999997"
+21.10.2023,11:00:00,EFL League One,Portsmouth,Carlisle United,0x0,1,"0,2",,,,,"-0,5","6,39999999999997"
+21.10.2023,11:00:00,Championship,West Bromwich Albion,Plymouth Argyle,0x0,1,"0,2",,,,,"-0,5","6,59999999999997"
+21.10.2023,11:00:00,National League,Bromley,Oxford City,1x1,1,"0,2",,,,"0,16","-0,5","6,79999999999997"
+21.10.2023,11:00:00,Regionalliga Nordost,Energie Cottbus,Carl Zeiss Jena,0x1,0,-1,,,,"0,16",-1,"5,79999999999997"
+21.10.2023,11:00:00,Southern League Premier South,Gosport Borough,Tiverton Town,0x1,0,-1,,,,"0,16",-1,"4,79999999999997"
+21.10.2023,11:00:00,Southern League Premier South,Walton & Hersham,Beaconsfield Town,0x0,1,"0,2",,,,,"-0,5","4,99999999999997"
+21.10.2023,11:00:00,Isthmian Premier Division,AFC Hornchurch,Bognor Regis Town,2x0,1,"0,2",,,,"0,16","0,7","5,19999999999997"
+21.10.2023,11:00:00,Northern Premier League,Worksop Town,Bradford Park Avenue,1x1,1,"0,2",,,,"0,16","-0,5","5,39999999999997"
+21.10.2023,11:15:00,Serie B,Catanzaro,FeralpiSalò,0x0,1,"0,2",,,,,"-0,5","5,59999999999997"
+21.10.2023,12:00:00,Bundesliga,Salzburg,LASK Linz,0x1,0,-1,,,,"0,16",-1,"4,59999999999997"
+21.10.2023,12:00:00,Bundesliga,Sturm Graz,Hartberg,2x1,1,"0,2",,,,"0,16","0,7","4,79999999999997"
+21.10.2023,13:00:00,Super Liga,Trenčín,Skalica,0x0,1,"0,2",,,,,"-0,5","4,99999999999997"
+21.10.2023,13:00:00,Super Liga,Podbrezová,Ružomberok,4x0,1,"0,2",,,,-1,"0,7","5,19999999999997"
+21.10.2023,15:00:00,Primera División,Alianza Atlético,Deportivo Municipal,1x0,1,"0,2",,,,"0,16","0,7","5,39999999999997"
+21.10.2023,18:00:00,LFPB,Bolívar,Nacional Potosí,1x1,1,"0,2",,,,"0,16","-0,5","5,59999999999997"
+21.10.2023,18:00:00,Primera División,Alianza Lima,ADT,0x0,1,"0,2",,,,,"-0,5","5,79999999999997"
+21.10.2023,21:00:00,LFPB,Guabirá,Libertad,1x2,0,-1,,,,"0,16",-1,"4,79999999999997"
+21.10.2023,22:00:00,Liga MX,América,Santos Laguna,3x2,1,"0,2",,,,-1,"0,7","4,99999999999997"
+21.10.2023,23:00:00,Primera División FPD,Herediano,Puntarenas,0x0,1,"0,2",,,,,"-0,5","5,19999999999997"
+22.10.2023,00:10:00,Liga MX,Tigres UANL,Cruz Azul,0x1,0,-1,,,,"0,16",-1,"4,19999999999997"
+22.10.2023,08:00:00,Russian Premier League,Spartak Moskva,Olimpiyets,1x0,1,"0,2",,,,"0,16","0,7","4,39999999999997"
+22.10.2023,08:30:00,2 Lig Beyaz,Van BB,Diyarbekirspor,0x0,1,"0,2",,,,,"-0,5","4,59999999999997"
+22.10.2023,09:00:00,Uzbekistan Super League,Neftchi,Termez Surkhon,0x0,1,"0,2",,,,,"-0,5","4,79999999999997"
+22.10.2023,09:00:00,Regionalliga Nord,Teutonia Hamburg,BW Lohne,2x0,1,"0,2",,,,"0,16","0,7","4,99999999999997"
+22.10.2023,09:30:00,2 Lig Beyaz,Nazilli Belediyespor,Zonguldak Kömürspor,0x1,0,-1,,,,"0,16",-1,"3,99999999999997"
+22.10.2023,10:00:00,First Division,Bryne,Skeid,0x0,1,"0,2",,,,,"-0,5","4,19999999999997"
+22.10.2023,10:00:00,First Division,KFUM,Raufoss,0x0,1,"0,2",,,,,"-0,5","4,39999999999997"
+22.10.2023,10:00:00,Montenegrin Second League,Mladost Lješkopolje,Grbalj,1x2,0,-1,,,,"0,16",-1,"3,39999999999997"
+22.10.2023,10:30:00,First League,Levski Sofia,Cherno More,0x0,1,"0,2",,,,,"-0,5","3,59999999999997"
+22.10.2023,10:30:00,3. Liga CFL,Sokol Hostouň,Písek,2x0,1,"0,2",,,,"0,16","0,7","3,79999999999997"
+22.10.2023,10:30:00,3. Liga CFL,Povltava FA,Karlovy Vary,1x1,1,"0,2",,,,"0,16","-0,5","3,99999999999997"
+22.10.2023,11:00:00,Ukrainian Premier League,Dynamo Kyiv,Dnipro-1,0x1,0,-1,,,,"0,16",-1,"2,99999999999997"
+22.10.2023,11:15:00,La Liga,Girona FC,Almería,3x2,1,"0,2",,,,-1,"0,7","3,19999999999997"
+22.10.2023,11:30:00,Super League,Luzern,Yverdon Sport,1x0,1,"0,2",,,,"0,16","0,7","3,39999999999997"
+22.10.2023,11:30:00,Montenegrin Second League,Bokelj,Kom,0x0,1,"0,2",,,,,"-0,5","3,59999999999997"
+22.10.2023,11:55:00,A Lyga,Žalgiris,FA Šiauliai,1x0,1,"0,2",,,,"0,16","0,7","3,79999999999997"
+22.10.2023,12:00:00,Liga I,CS U Craiova,Petrolul 52,0x0,1,"0,2",,,,,"-0,5","3,99999999999997"
+22.10.2023,12:30:00,Allsvenskan,Häcken,Norrköping,2x1,1,"0,2",,,,"0,16","0,7","4,19999999999997"
+22.10.2023,13:00:00,Prva HNL,Hajduk Split,Osijek,0x0,1,"0,2",,,,,"-0,5","4,39999999999997"
+22.10.2023,14:00:00,Liga de Ascenso,Jicaral,AD Sarchí,1x0,1,"0,2",,,,"0,16","0,7","4,59999999999997"
+22.10.2023,15:00:00,Liga I,FCSB,Voluntari,0x0,1,"0,2",,,,,"-0,5","4,79999999999997"
+22.10.2023,16:00:00,La Liga,FC Barcelona,Athletic Club Bilbao,0x0,1,"0,2",,,,,"-0,5","4,99999999999997"
+22.10.2023,17:00:00,Primera División,Sport Huancayo,Sport Boys,0x0,1,"0,2",,,,,"-0,5","5,19999999999997"
+22.10.2023,20:00:00,Primera Categoría Serie A,LDU Quito,CS Emelec,0x0,1,"0,2",,,,,"-0,5","5,39999999999997"
+23.10.2023,06:30:00,National League,Hantharwady United,Rakhine United,2x2,1,"0,2",,,,"0,16","-0,5","5,59999999999997"
+23.10.2023,09:00:00,Prva Liga,Tekstilac Odžaci,Semendrija 1924,1x0,1,"0,2",,,,"0,16","0,7","5,79999999999997"
+23.10.2023,14:30:00,National,Red Star,Cholet,2x0,1,"0,2",,,,"0,16","0,7","5,99999999999997"
+23.10.2023,15:00:00,Liga I,CFR Cluj,Oţelul Galaţi,0x0,1,"0,2",,,,,"-0,5","6,19999999999997"
+23.10.2023,15:30:00,Premier Division,St Patrick's Athl.,Sligo Rovers,1x0,1,"0,2",,,,"0,16","0,7","6,39999999999998"
+23.10.2023,22:00:00,Categoria Primera A,América de Cali,Atlético Huila,0x0,1,"0,2",,,,,"-0,5","6,59999999999998"
+24.10.2023,14:00:00,Regionalliga Südwest,TSV Steinbach,Stuttgart II,2x1,1,"0,2",,,,"0,16","0,7","6,79999999999998"
+24.10.2023,15:45:00,EFL League Two,Notts County,Newport County,2x0,1,"0,2",,,,"0,16","0,7","6,99999999999998"
+24.10.2023,15:45:00,EFL League Two,Wrexham,Sutton United,1x0,1,"0,2",,,,"0,16","0,7","7,19999999999998"
+24.10.2023,15:45:00,EFL League One,Blackpool,Cheltenham Town,3x1,1,"0,2",,,,-1,"0,7","7,39999999999998"
+24.10.2023,15:45:00,National League,Barnet,Solihull Moors,0x0,1,"0,2",,,,,"-0,5","7,59999999999998"
+24.10.2023,15:45:00,National League,Bromley,Dorking Wanderers,1x1,1,"0,2",,,,"0,16","-0,5","7,79999999999998"
+24.10.2023,15:45:00,National League,Chesterfield,York City,0x0,1,"0,2",,,,,"-0,5","7,99999999999998"
+24.10.2023,15:45:00,National League,Southend United,Ebbsfleet United,1x0,1,"0,2",,,,"0,16","0,7","8,19999999999998"
+24.10.2023,15:45:00,National League,Wealdstone,Oxford City,1x1,1,"0,2",,,,"0,16","-0,5","8,39999999999998"
+24.10.2023,15:45:00,Northern Premier League,Radcliffe Borough,Stafford Rangers,3x1,1,"0,2",,,,-1,"0,7","8,59999999999998"
+24.10.2023,15:45:00,Southern League Premier Central,Mickleover Sports,Redditch United,1x1,1,"0,2",,,,"0,16","-0,5","8,79999999999997"
+24.10.2023,15:45:00,Serie C Group A,Calcio Padova,Renate,0x0,1,"0,2",,,,,"-0,5","8,99999999999997"
+24.10.2023,16:00:00,Championship,Leicester City,Sunderland,1x0,1,"0,2",,,,"0,16","0,7","9,19999999999997"
+24.10.2023,16:00:00,Championship,West Bromwich Albion,Queens Park Rangers,0x0,1,"0,2",,,,,"-0,5","9,39999999999997"
+24.10.2023,20:00:00,Categoria Primera A,Rionegro Águilas,Envigado,1x1,1,"0,2",,,,"0,16","-0,5","9,59999999999997"
+25.10.2023,08:00:00,Armenian Premier League,Pyunik,Banants,3x1,1,"0,2",,,,-1,"0,7","9,79999999999997"
+25.10.2023,08:00:00,Armenian Premier League,Alashkert,BKMA,0x0,1,"0,2",,,,,"-0,5","9,99999999999997"
+25.10.2023,19:00:00,Serie A,Fluminense,Goiás,2x2,1,"0,2",,,,"0,16","-0,5","10,2"
+25.10.2023,19:00:00,Serie A,Atlético PR,América Mineiro,3x1,1,"0,2",,,,-1,"0,7","10,4"
+26.10.2023,22:20:00,Categoria Primera A,Millonarios,Boyacá Chicó,1x1,1,"0,2",,,,"0,16","-0,5","10,6"
+26.10.2023,11:30:00,First League,CSKA 1948 Sofia,Lokomotiv Plovdiv,1x1,1,"0,2",,,,"0,16","-0,5","10,8"
+26.10.2023,16:00:00,Segunda División,Progreso,Cerrito,2x2,1,"0,2",,,,"0,16","-0,5",11
+26.10.2023,22:05:00,Ascenso MX,Atlante,Cancún,0x0,1,"0,2",,,,,"-0,5","11,2"
+26.10.2023,22:20:00,Categoria Primera A,Atlético Nacional,Alianza Petrolera,1x0,1,"0,2",,,,"0,16","0,7","11,4"
+27.10.2023,07:00:00,J1 League,Nagoya Grampus,Sagan Tosu,0x0,1,"0,2",,,,,"-0,5","11,6"
+27.10.2023,09:00:00,Liga 1,Barito Putera,PS TNI,1x0,1,"0,2",,,,"0,16","0,7","11,8"
+27.10.2023,10:30:00,First League,CSKA Sofia,Arda,0x0,1,"0,2",,,,,"-0,5",12
+27.10.2023,12:30:00,PrvaLiga,Celje,Domžale,1x0,1,"0,2",,,,"0,16","0,7","12,2"
+27.10.2023,13:00:00,1. Liga,Wisła Płock,Chrobry Głogów,0x0,1,"0,2",,,,,"-0,5","12,4"
+27.10.2023,13:00:00,1. Liga,GKS Katowice,Polonia Warszawa,0x1,0,-1,,,,"0,16",-1,"11,4"
+27.10.2023,13:30:00,2. Bundesliga,Greuther Fürth,Osnabrück,1x0,1,"0,2",,,,"0,16","0,7","11,6"
+27.10.2023,14:00:00,Superliga,Midtjylland,Lyngby,1x1,1,"0,2",,,,"0,16","-0,5","11,8"
+27.10.2023,14:00:00,Regionalliga Nordost,BFC Dynamo,Viktoria Berlin,1x1,1,"0,2",,,,"0,16","-0,5",12
+27.10.2023,15:00:00,Eerste Divisie,NAC Breda,Helmond Sport,0x0,1,"0,2",,,,,"-0,5","12,2"
+27.10.2023,15:00:00,Eerste Divisie,Roda JC,Ajax II,1x1,1,"0,2",,,,"0,16","-0,5","12,4"
+27.10.2023,15:00:00,Eerste Divisie,Willem II,PSV II,1x0,1,"0,2",,,,"0,16","0,7","12,6"
+27.10.2023,15:00:00,Professional League,Al Hilal,Al Ahli,2x0,1,"0,2",,,,"0,16","0,7","12,8"
+27.10.2023,15:15:00,Challenge League,Sion,Neuchâtel Xamax,0x0,1,"0,2",,,,,"-0,5",13
+27.10.2023,15:45:00,Welsh Premier League,Connah's Quay,Caernarfon Town,5x0,1,"0,2",,,,-1,"0,7","13,2"
+27.10.2023,15:45:00,Championship,Dundee United,Arbroath,3x0,1,"0,2",,,,-1,"0,7","13,4"
+27.10.2023,20:00:00,Primera Division,Managua,Jalapa,0x2,0,-1,,,,"0,16",-1,"12,4"
+27.10.2023,21:30:00,Serie B,Guarani,Botafogo SP,0x0,1,"0,2",,,,,"-0,5","12,6"
+27.10.2023,21:30:00,Serie B,Novorizontino,Ponte Preta,0x0,1,"0,2",,,,,"-0,5","12,8"
+27.10.2023,22:00:00,Liga Premier Serie A,Atlético Saltillo,Correcaminos UAT II,1x0,1,"0,2",,,,"0,16","0,7",13
+27.10.2023,22:00:00,Liga Premier Serie A,Petroleros de Salamanca,Aguacateros de Peribán,1x0,1,"0,2",,,,"0,16","0,7","13,2"
+27.10.2023,22:10:00,Categoria Primera A,Deportes Tolima,Unión Magdalena,2x1,1,"0,2",,,,"0,16","0,7","13,4"
+27.10.2023,23:00:00,Liga Nacional de Fútbol de Guatemala,Antigua GFC,Cobán Imperial,1x0,1,"0,2",,,,"0,16","0,7","13,6"
+27.10.2023,23:00:00,Liga Premier Serie A,Durango,Colima,2x0,1,"0,2",,,,"0,16","0,7","13,8"
+28.10.2023,01:00:00,J2 League,Shimizu S-Pulse,Roasso Kumamoto,1x1,1,"0,2",,,,"0,16","-0,5","13,9999999999999"
+28.10.2023,02:00:00,J2 League,V-Varen Nagasaki,Tokushima Vortis,1x1,1,"0,2",,,,"0,16","-0,5","14,1999999999999"
+28.10.2023,05:15:00,FNL,Vyškov,Opava,1x2,0,-1,,,,"0,16",-1,"13,1999999999999"
+28.10.2023,05:15:00,4. Liga Division B,Chomutov,Brandýs nad Labem,3x0,1,"0,2",,,,-1,"0,7","13,3999999999999"
+28.10.2023,07:30:00,NB I,Kecskeméti TE,Zalaegerszegi TE,2x0,1,"0,2",,,,"0,16","0,7","13,5999999999999"
+28.10.2023,08:00:00,2. Bundesliga,St. Pauli,Karlsruher SC,0x1,0,-1,,,,"0,16",-1,"12,5999999999999"
+28.10.2023,08:00:00,2 Lig Kirmizi,Kastamonuspor 1966,Düzcespor,0x0,1,"0,2",,,,,"-0,5","12,7999999999999"
+28.10.2023,08:00:00,2 Lig Kirmizi,76 Iğdır Belediyespor,Sarıyer,1x1,1,"0,2",,,,"0,16","-0,5","12,9999999999999"
+28.10.2023,08:30:00,Championship,Leeds United,Huddersfield Town,4x0,1,"0,2",,,,-1,"0,7","13,1999999999999"
+28.10.2023,09:00:00,Liga 1,Persib,PSS Sleman,2x1,1,"0,2",,,,"0,16","0,7","13,3999999999999"
+28.10.2023,09:00:00,Regionalliga Bayern,Aubstadt,Greuther Fürth II,2x0,1,"0,2",,,,"0,16","0,7","13,5999999999999"
+28.10.2023,09:00:00,Regionalliga Südwest,Stuttgarter Kickers,Astoria Walldorf,2x1,1,"0,2",,,,"0,16","0,7","13,7999999999999"
+28.10.2023,09:00:00,2 Lig Beyaz,Erokspor,Osmanlıspor,0x1,0,-1,,,,"0,16",-1,"12,7999999999999"
+28.10.2023,09:30:00,2. Liga,Považská Bystrica,Slovan Bratislava II,1x0,1,"0,2",,,,"0,16","0,7","12,9999999999999"
+28.10.2023,10:00:00,First League,Sigma Olomouc,Zlín,0x0,1,"0,2",,,,,"-0,5","13,1999999999999"
+28.10.2023,10:30:00,Welsh Premier League,Newtown,Haverfordwest County,1x1,1,"0,2",,,,"0,16","-0,5","13,3999999999999"
+28.10.2023,11:00:00,Ettan North,Dalkurd,IF Karlstad,0x0,1,"0,2",,,,,"-0,5","13,5999999999999"
+28.10.2023,11:00:00,Ettan North,Sandviken,Motala,2x0,1,"0,2",,,,"0,16","0,7","13,7999999999999"
+28.10.2023,11:00:00,Ettan North,United Nordic,Stocksund,3x0,1,"0,2",,,,-1,"0,7","13,9999999999999"
+28.10.2023,11:00:00,EFL League Two,Mansfield Town,Walsall,1x0,1,"0,2",,,,"0,16","0,7","14,1999999999999"
+28.10.2023,11:00:00,EFL League Two,Stockport County,Tranmere Rovers,1x0,1,"0,2",,,,"0,16","0,7","14,3999999999999"
+28.10.2023,11:00:00,EFL League One,Oxford United,Wycombe Wanderers,1x0,1,"0,2",,,,"0,16","0,7","14,5999999999999"
+28.10.2023,11:00:00,Premiership,St. Mirren,St. Johnstone,1x0,1,"0,2",,,,"0,16","0,7","14,7999999999999"
+28.10.2023,11:00:00,Championship,Ipswich Town,Plymouth Argyle,1x1,1,"0,2",,,,"0,16","-0,5","14,9999999999999"
+28.10.2023,11:00:00,1. Liga Promotion,Brühl,Basel II,1x0,1,"0,2",,,,"0,16","0,7","15,1999999999999"
+28.10.2023,11:30:00,Super Liga,DAC,Zemplín Michalovce,1x1,1,"0,2",,,,"0,16","-0,5","15,3999999999999"
+28.10.2023,12:00:00,1. Liga Promotion,Étoile Carouge,Zürich II,2x1,1,"0,2",,,,"0,16","0,7","15,5999999999999"
+28.10.2023,13:00:00,Super League,St. Gallen,Grasshopper,3x1,1,"0,2",,,,-1,"0,7","15,7999999999999"
+28.10.2023,13:00:00,First League,Baník Ostrava,Jablonec,0x0,1,"0,2",,,,,"-0,5","15,9999999999999"
+28.10.2023,13:00:00,2 Lig Kirmizi,24 Erzincanspor,Utaş Uşakspor,1x0,1,"0,2",,,,"0,16","0,7","16,1999999999999"
+28.10.2023,13:00:00,2 Lig Kirmizi,Isparta Davrazspor,Karaman Belediyespor,1x0,1,"0,2",,,,"0,16","0,7","16,3999999999999"
+28.10.2023,13:10:00,Prva HNL,Osijek,Istra 1961,0x0,1,"0,2",,,,,"-0,5","16,5999999999999"
+28.10.2023,13:30:00,Serie C Group A,Triestina,Fiorenzuola,0x0,1,"0,2",,,,,"-0,5","16,7999999999999"
+28.10.2023,14:30:00,Vysheyshaya Liga,Neman Grodno,Isloch,0x0,1,"0,2",,,,,"-0,5","16,9999999999999"
+28.10.2023,15:00:00,Primera Categoría Serie A,CSD Independiente del Valle,Deportivo Cuenca,1x0,1,"0,2",,,,"0,16","0,7","17,1999999999999"
+28.10.2023,15:15:00,PrvaLiga,Maribor,Rogaška,1x1,1,"0,2",,,,"0,16","-0,5","17,3999999999999"
+28.10.2023,15:30:00,Super League,Zürich,Stade Lausanne-Ouchy,1x1,1,"0,2",,,,"0,16","-0,5","17,5999999999999"
+28.10.2023,15:30:00,Serie D Group I,Trapani 1905,Igea Virtus,1x0,1,"0,2",,,,"0,16","0,7","17,7999999999999"
+28.10.2023,15:45:00,Pro League,RSC Anderlecht,OH Leuven,2x1,1,"0,2",,,,"0,16","0,7","17,9999999999999"
+28.10.2023,19:00:00,Serie A,Palmeiras,Bahia,1x0,1,"0,2",,,,"0,16","0,7","18,1999999999999"
+28.10.2023,19:00:00,Liga de Ascenso,Santa Ana,Consultants Moravia,1x0,1,"0,2",,,,"0,16","0,7","18,3999999999999"
+29.10.2023,01:30:00,K League 2,Jeonnam Dragons,Cheongju,1x0,1,"0,2",,,,"0,16","0,7","18,5999999999999"
+29.10.2023,02:00:00,J2 League,Montedio Yamagata,ThespaKusatsu Gunma,0x0,1,"0,2",,,,,"-0,5","18,7999999999999"
+29.10.2023,02:00:00,J2 League,Machida Zelvia,Zweigen Kanazawa,1x0,1,"0,2",,,,"0,16","0,7","18,9999999999999"
+29.10.2023,02:00:00,J3 League,Kataller Toyama,Gifu,1x0,1,"0,2",,,,"0,16","0,7","19,1999999999999"
+29.10.2023,04:00:00,K League 2,Busan I'Park,Bucheon 1995,0x1,0,-1,,,,"0,16",-1,"18,1999999999999"
+29.10.2023,04:30:00,Chinese Super League,Meizhou Hakka,Nantong Zhiyun,0x1,0,-1,,,,"0,16",-1,"17,1999999999999"
+29.10.2023,08:00:00,Primera Division RFEF Group 2,UD Ibiza,Intercity,0x1,0,-1,,,,"0,16",-1,"16,1999999999999"
+29.10.2023,09:00:00,Superettan,Öster,Brage,1x0,1,"0,2",,,,"0,16","0,7","16,3999999999999"
+29.10.2023,09:00:00,NB II,Nyíregyháza Spartacus,Ajka,0x1,0,-1,,,,"0,16",-1,"15,3999999999999"
+29.10.2023,09:00:00,Regionalliga Nordost,Babelsberg,Hansa Rostock II,1x0,1,"0,2",,,,"0,16","0,7","15,5999999999999"
+29.10.2023,09:00:00,First Football League,Shkupi,Rabotnički,1x0,1,"0,2",,,,"0,16","0,7","15,7999999999999"
+29.10.2023,10:00:00,Regionalliga Südwest,Hoffenheim II,Bahlinger SC,0x0,1,"0,2",,,,,"-0,5","15,9999999999999"
+29.10.2023,10:30:00,Eredivisie,PSV,Ajax,1x2,0,-1,,,,"0,16",-1,"14,9999999999999"
+29.10.2023,10:30:00,Bundesliga,Sturm Graz,Austria Wien,0x1,0,-1,,,,"0,16",-1,"13,9999999999999"
+29.10.2023,11:00:00,First Division,Fredrikstad,Mjøndalen,0x2,0,-1,,,,"0,16",-1,"12,9999999999999"
+29.10.2023,11:00:00,First Division,Kongsvinger,Sandnes Ulf,2x0,1,"0,2",,,,"0,16","0,7","13,1999999999999"
+29.10.2023,11:00:00,Ettan South,Falkenberg,Eskilsminne,1x0,1,"0,2",,,,"0,16","0,7","13,3999999999999"
+29.10.2023,11:00:00,Prva HNL,Rijeka,Gorica,1x0,1,"0,2",,,,"0,16","0,7","13,5999999999999"
+29.10.2023,11:00:00,Ekstraklasa,Legia Warszawa,Stal Mielec,0x1,0,-1,,,,"0,16",-1,"12,5999999999999"
+29.10.2023,11:00:00,Premier League,Brighton & Hove Albion,Fulham,1x0,1,"0,2",,,,"0,16","0,7","12,7999999999999"
+29.10.2023,12:15:00,Serie B,Palermo,Lecco,0x2,0,-1,,,,"0,16",-1,"11,7999999999999"
+29.10.2023,12:30:00,Challenge League,Thun,Vaduz,1x1,1,"0,2",,,,"0,16","-0,5","11,9999999999999"
+29.10.2023,13:00:00,Eliteserien,Sarpsborg 08,Stabæk,1x0,1,"0,2",,,,"0,16","0,7","12,1999999999999"
+29.10.2023,13:00:00,1. Lig,Eyüpspor,Bandırmaspor,0x0,1,"0,2",,,,,"-0,5","12,3999999999999"
+29.10.2023,13:30:00,Ekstraklasa,Raków Częstochowa,Widzew Łódź,0x1,0,-1,,,,"0,16",-1,"11,3999999999999"
+29.10.2023,13:30:00,PrvaLiga,Olimpija,Aluminij,0x0,1,"0,2",,,,,"-0,5","11,5999999999999"
+29.10.2023,14:00:00,Serie A,Inter Milan,Roma,0x0,1,"0,2",,,,,"-0,5","11,7999999999999"
+29.10.2023,14:00:00,NB I,Ferencváros,Újpest,1x0,1,"0,2",,,,"0,16","0,7","11,9999999999999"
+29.10.2023,14:30:00,Pro League,KAA Gent,Standard Liège,3x0,1,"0,2",,,,-1,"0,7","12,1999999999999"
+29.10.2023,14:30:00,Segunda División,Leganés,Villarreal II,0x0,1,"0,2",,,,,"-0,5","12,3999999999999"
+29.10.2023,14:30:00,Serie C Group B,Pescara,Recanatese,1x0,1,"0,2",,,,"0,16","0,7","12,5999999999999"
+29.10.2023,15:00:00,Primera Categoría Serie A,Delfin SC,Cumbayá,2x0,1,"0,2",,,,"0,16","0,7","12,7999999999999"
+29.10.2023,15:00:00,SuperLiga,Bačka Topola,Novi Pazar,0x0,1,"0,2",,,,,"-0,5","12,9999999999999"
+29.10.2023,17:00:00,Primera División,ADT,Carlos Manucci,0x0,1,"0,2",,,,,"-0,5","13,1999999999999"
+29.10.2023,20:00:00,Serie A,Botafogo,Cuiabá,0x0,1,"0,2",,,,,"-0,5","13,3999999999999"
+30.10.2023,09:00:00,Liga 1,Bali United,Persita,0x0,1,"0,2",,,,,"-0,5","13,5999999999999"
+30.10.2023,14:30:00,Eliteserien,FK Bodo - Glimt,Lillestrøm,1x0,1,"0,2",,,,,"0,7","13,7999999999999"
+30.10.2023,16:45:00,Serie C Group B,Cesena,Carrarese,1x0,1,"0,2",,,,,"0,7","13,9999999999999"
+30.10.2023,16:45:00,Serie C Group C,Benevento,Potenza Calcio,1x0,1,"0,2",,,,,"0,7","14,1999999999999"
+30.10.2023,17:00:00,Eliteserien,Molde,Tromsø,0x1,0,-1,,,,,-1,"13,1999999999999"
+30.10.2023,22:00:00,Categoria Primera A,América de Cali,Millonarios,1x0,1,"0,2",,,,,"0,7","13,3999999999999"
+30.10.2023,23:05:00,Liga Premier Serie A,UA Zacatecas,Mineros de Fresnillo,0x1,0,-1,,,,,-1,"12,3999999999999"
+01.11.2023,06:00:00,National League,Yangon United,Yadanarbon,2x0,1,"0,2",,,,,"0,7","12,5999999999999"
+01.11.2023,09:00:00,Superleague of Kosovo,Gjilani,Feronikeli,1x0,1,"0,2",,,,,"0,7","12,7999999999999"
+01.11.2023,09:00:00,Superleague of Kosovo,Ballkani,Drita,1x0,1,"0,2",,,,,"0,7","12,9999999999999"
+01.11.2023,10:30:00,Serie D Group A,Alcione,Gozzano,0x0,1,"0,2",,,,,"-0,5","13,1999999999999"
+01.11.2023,20:00:00,Serie A,Flamengo,Santos,1x1,1,"0,2",,,,,"-0,5","13,3999999999999"
+01.11.2023,21:00:00,Liga Nacional de Fútbol de Guatemala,Antigua GFC,Malacateco,1x1,1,"0,2",,,,,"-0,5","13,5999999999999"
+02.11.2023,09:00:00,Liga 1,Borneo,Persik Kediri,2x0,1,"0,2",,,,,"0,7","13,7999999999999"
+02.11.2023,09:00:00,Azadegan League,Esteghlal Mollasani,Khooshe Talaee Saveh,0x0,1,"0,2",,,,,"-0,5","13,9999999999999"
+02.11.2023,09:00:00,Superleague of Kosovo,Llapi,Fushë Kosova,0x1,0,-1,,,,,-1,"12,9999999999999"
+02.11.2023,12:45:00,Vysheyshaya Liga,Dinamo Minsk,BATE,0x0,1,"0,2",,,,,"-0,5","13,1999999999999"
+02.11.2023,18:30:00,Copa de la División Profesional,Bolívar,Real Tomayapo,2x1,1,"0,2",,,,,"0,7","13,3999999999999"
+03.11.2023,00:05:00,Ascenso MX,Morelia,Tepatitlán de Morelos,1x0,1,"0,2",,,,,,"13,5999999999999"
+03.11.2023,10:00:00,National Soccer League,Police,Gorilla,0x0,1,"0,2",,,,,,"13,7999999999999"
+03.11.2023,10:15:00,Uzbekistan Super League,Neftchi,Olympic,0x0,1,"0,2",,,,,,"13,9999999999999"
+03.11.2023,14:00:00,1. Liga,Miedź Legnica,Resovia Rzeszów,0x1,0,-1,,,,,,"12,9999999999999"
+03.11.2023,14:10:00,2. Liga,Floridsdorfer AC,Horn,0x1,0,-1,,,,,,"11,9999999999999"
+03.11.2023,14:30:00,2. Bundesliga,Fortuna Düsseldorf,Wehen Wiesbaden,0x3,0,-1,,,,,,"10,9999999999999"
+03.11.2023,15:00:00,1st Division,SønderjyskE,Hobro,1x0,1,"0,2",,,,,,"11,1999999999999"
+03.11.2023,16:00:00,Eerste Divisie,Helmond Sport,Telstar,1x0,1,"0,2",,,,,,"11,3999999999999"
+03.11.2023,16:30:00,Ekstraklasa,Jagiellonia Białystok,Stal Mielec,2x0,1,"0,2",,,,,,"11,5999999999999"
+03.11.2023,16:30:00,1. Liga,Wisła Kraków,Zagłębie Sosnowiec,0x0,1,"0,2",,,,,,"11,7999999999999"
+03.11.2023,16:45:00,Premier Division,Bohemians,Cork City,2x0,1,"0,2",,,,,,"11,9999999999999"
+03.11.2023,16:45:00,Premier Division,Derry City,St Patrick's Athl.,2x0,1,"0,2",,,,,,"12,1999999999999"
+03.11.2023,21:00:00,Primera División,River Plate,Huracán,0x0,1,"0,2",,,,,,"12,3999999999999"
+04.11.2023,02:00:00,J2 League,Shimizu S-Pulse,Omiya Ardija,2x0,1,"0,2",,,,,,"12,5999999999999"
+04.11.2023,02:00:00,J2 League,Jubilo Iwata,Mito Hollyhock,3x0,1,"0,2",,,,,,"12,7999999999999"
+04.11.2023,04:30:00,Chinese Super League,Shandong Luneng,Henan Jianye,2x0,1,"0,2",,,,,,"12,9999999999999"
+04.11.2023,08:00:00,Armenian Premier League,Alashkert,Shirak,0x0,1,"0,2",,,,,,"13,1999999999999"
+04.11.2023,09:00:00,2. Liga,Tatran Prešov,Futura Humenné,0x0,1,"0,2",,,,,,"13,3999999999999"
+04.11.2023,09:00:00,Regionalliga Nordost,Altglienicke,ZFC Meuselwitz,1x2,0,-1,,,,,,"12,3999999999999"
+04.11.2023,10:00:00,FNL,Opava,Prostějov,0x0,1,"0,2",,,,,,"12,5999999999999"
+04.11.2023,10:00:00,Regionalliga West,Koln II,Lippstadt 08,1x0,1,"0,2",,,,,,"12,7999999999999"
+04.11.2023,10:00:00,Regionalliga West,Schalke 04 II,Gütersloh,1x1,1,"0,2",,,,,,"12,9999999999999"
+04.11.2023,10:00:00,3. Liga,Dynamo Dresden,Freiburg II,1x0,1,"0,2",,,,,,"13,1999999999999"
+04.11.2023,10:00:00,Regionalliga Nord,Holstein Kiel II,BW Lohne,0x0,1,"0,2",,,,,,"13,3999999999999"
+04.11.2023,11:00:00,First League,Slovácko,Hradec Králové,0x0,1,"0,2",,,,,,"13,5999999999999"
+04.11.2023,11:00:00,Oberliga Bayern Nord,Sport-Club 1926 Eltersdorf,Bayern Hof,1x1,1,"0,2",,,,,,"13,7999999999999"
+04.11.2023,11:30:00,Welsh Premier League,Bala Town,Pontypridd Town AFC,0x0,1,"0,2",,,,,,"13,9999999999999"
+04.11.2023,12:00:00,NIFL Premiership,Crusaders,Coleraine,0x0,1,"0,2",,,,,,"14,1999999999999"
+04.11.2023,12:00:00,Isthmian Premier Division,Billericay Town,Bognor Regis Town,1x0,1,"0,2",,,,,,"14,3999999999999"
+04.11.2023,12:00:00,Isthmian Premier Division,AFC Hornchurch,Enfield Town,0x0,1,"0,2",,,,,,"14,5999999999999"
+04.11.2023,12:00:00,Regionalliga Ost,Wiener Viktoria,Draßburg,1x1,1,"0,2",,,,,,"14,7999999999999"
+04.11.2023,13:00:00,Süper Lig,Fenerbahçe,Trabzonspor,0x1,0,-1,,,,,,"13,7999999999999"
+04.11.2023,13:30:00,Allsvenskan,Djurgården,Sirius,1x1,1,"0,2",,,,,,"13,9999999999999"
+04.11.2023,14:00:00,First Division,Aris,Nea Salamis,0x0,1,"0,2",,,,,,"14,1999999999999"
+04.11.2023,14:30:00,Segunda División,Levante UD,Mirandés,1x1,1,"0,2",,,,,,"14,3999999999999"
+04.11.2023,14:30:00,Serie C Group A,Calcio Padova,Giana Erminio,1x0,1,"0,2",,,,,,"14,5999999999999"
+04.11.2023,15:00:00,Ligue 2,Angers SCO,Valenciennes,2x0,1,"0,2",,,,,,"14,7999999999999"
+04.11.2023,15:00:00,Professional League,Al Ittifaq,Al Raed,0x0,1,"0,2",,,,,,"14,9999999999999"
+04.11.2023,16:15:00,Liga I,CS U Craiova,U Craiova 1948,1x0,1,"0,2",,,,,,"15,1999999999999"
+04.11.2023,16:30:00,2. Bundesliga,Hamburger SV,Magdeburg,1x0,1,"0,2",,,,,,"15,3999999999999"
+04.11.2023,16:45:00,Serie A,AC Milan,Udinese,0x0,1,"0,2",,,,,,"15,5999999999999"
+04.11.2023,19:30:00,Serie A,Grêmio,Bahia,0x0,1,"0,2",,,,,,"15,7999999999999"
+04.11.2023,19:55:00,Liga MX,Tigres UANL,Atlético San Luis,0x0,1,"0,2",,,,,,"15,9999999999999"
+04.11.2023,20:00:00,Liga Nacional de Fútbol de Guatemala,Comunicaciones,Guastatoya,2x1,1,"0,2",,,,,,"16,1999999999999"
+04.11.2023,21:30:00,Serie A,Palmeiras,Atlético PR,1x0,1,"0,2",,,,,,"16,3999999999999"
+04.11.2023,22:00:00,Liga MX,América,Tijuana,0x0,1,"0,2",,,,,,"16,5999999999999"
+04.11.2023,22:00:00,Salvadoran Primera División,FAS,CD Platense,0x0,1,"0,2",,,,,,"16,7999999999999"
+05.11.2023,01:00:00,J3 League,Imabari,Sagamihara,1x1,1,"0,2",,,,,,"16,9999999999999"
+05.11.2023,01:05:00,J3 League,Ehime,YSCC,1x0,1,"0,2",,,,,,"17,1999999999999"
+05.11.2023,03:30:00,China League One,Qingdao Youth Island,Yanbian Longding,0x0,1,"0,2",,,,,,"17,3999999999999"
+05.11.2023,03:30:00,China League One,Guangxi Baoyun,Jiangxi Liansheng,0x1,0,-1,,,,,,"16,3999999999999"
+05.11.2023,07:30:00,Thai League 2,Suphanburi,Lampang,0x1,0,-1,,,,,,"15,3999999999999"
+05.11.2023,08:00:00,2 Lig Kirmizi,Amed,Etimesgut Belediyespor,0x0,1,"0,2",,,,,,"15,5999999999999"
+05.11.2023,08:00:00,2 Lig Beyaz,Ankara Demirspor,Kırklarelispor,0x0,1,"0,2",,,,,,"15,7999999999999"
+05.11.2023,08:00:00,2 Lig Beyaz,Osmanlıspor,Afjet Afyonspor,0x0,1,"0,2",,,,,,"15,9999999999999"
+05.11.2023,08:30:00,2. Liga,Grazer AK,SV Stripfing Weiden,2x0,1,"0,2",,,,,,"16,1999999999999"
+05.11.2023,09:00:00,Thai League T1,Ratchaburi,Chonburi,1x1,1,"0,2",,,,,,"16,3999999999999"
+05.11.2023,09:00:00,Thai League 2,Nong Bua Pitchaya,Rayong,0x1,0,-1,,,,,,"15,3999999999999"
+05.11.2023,09:00:00,3 Liga West,Sereď,Slovan Duslo Šaľa,1x0,1,"0,2",,,,,,"15,5999999999999"
+05.11.2023,09:00:00,3 Liga East,Rimavská Sobota,Svidník,3x0,1,"0,2",,,,,,"15,7999999999999"
+05.11.2023,09:00:00,3 Liga East,MSK Tesla Stropkov,Partizán Bardejov,3x0,1,"0,2",,,,,,"15,9999999999999"
+05.11.2023,09:30:00,2. Bundesliga,Hannover 96,Eintracht Braunschweig,2x0,1,"0,2",,,,,,"16,1999999999999"
+05.11.2023,10:00:00,Montenegrin Second League,Mladost Lješkopolje,Iskra,1x0,1,"0,2",,,,,,"16,3999999999999"
+05.11.2023,10:00:00,3. Liga CFL,Povltava FA,Motorlet Praha,1x1,1,"0,2",,,,,,"16,5999999999999"
+05.11.2023,10:15:00,Super League,Luzern,Grasshopper,1x0,1,"0,2",,,,,,"16,7999999999999"
+05.11.2023,10:30:00,Russian Premier League,CSKA Moskva,Olimpiyets,1x2,0,-1,,,,,,"15,7999999999999"
+05.11.2023,10:30:00,Serie D Group C,Clodiense,Virtus Bolzano,0x0,1,"0,2",,,,,,"15,9999999999999"
+05.11.2023,10:30:00,Serie D Group B,Brusaporto,Club Milano,0x0,1,"0,2",,,,,,"16,1999999999999"
+05.11.2023,10:30:00,Serie D Group F,Città di Campobasso,Fano,1x0,1,"0,2",,,,,,"16,3999999999999"
+05.11.2023,10:30:00,Serie D Group G,Sarrabus Ogliastra,Budoni,0x0,1,"0,2",,,,,,"16,5999999999999"
+05.11.2023,11:00:00,First Division,Kristiansund,Raufoss,0x1,0,-1,,,,,,"15,5999999999999"
+05.11.2023,11:00:00,Oberliga Niederrhein,TVD Velbert,SV Sonsbeck,0x2,0,-1,,,,,,"14,5999999999999"
+05.11.2023,11:00:00,SuperLiga,Vojvodina,Železničar Pančevo,2x0,1,"0,2",,,,,,"14,7999999999999"
+05.11.2023,11:00:00,Serie D Group I,Città Di Sant’Agata,San Luca,2x2,1,"0,2",,,,,,"14,9999999999999"
+05.11.2023,11:00:00,Serie D Group I,Vibonese,Igea Virtus,1x0,1,"0,2",,,,,,"15,1999999999999"
+05.11.2023,11:30:00,National Division,Progrès Niederkorn,Mondercange,1x1,1,"0,2",,,,,,"15,3999999999999"
+05.11.2023,11:30:00,Bundesliga,Wolfsburg,Werder Bremen,1x1,1,"0,2",,,,,,"15,5999999999998"
+05.11.2023,12:00:00,National Division,Victoria Rosport,UN Käerjéng,1x2,0,-1,,,,,,"14,5999999999998"
+05.11.2023,12:00:00,National Division,Swift Hesperange,Differdange 03,1x0,1,"0,2",,,,,,"14,7999999999998"
+05.11.2023,12:00:00,Professional League,Al Taawon,Dhamk,0x0,1,"0,2",,,,,,"14,9999999999998"
+05.11.2023,12:00:00,Liga 3,Sporting Covilhã,Pêro Pinheiro,2x0,1,"0,2",,,,,,"15,1999999999998"
+05.11.2023,12:15:00,La Liga,Valencia CF,Granada CF,1x0,1,"0,2",,,,,,"15,3999999999998"
+05.11.2023,12:15:00,Serie B,Parma,Südtirol,1x0,1,"0,2",,,,,,"15,5999999999998"
+05.11.2023,13:00:00,Eliteserien,Lillestrøm,Haugesund,0x0,1,"0,2",,,,,,"15,7999999999998"
+05.11.2023,13:05:00,Ligue 1,Monaco,Brest,1x0,1,"0,2",,,,,,"15,9999999999998"
+05.11.2023,14:00:00,First League,Slavia Praha,Viktoria Plzeň,1x0,1,"0,2",,,,,,"16,1999999999998"
+05.11.2023,14:00:00,Serie A,Roma,Lecce,0x0,1,"0,2",,,,,,"16,3999999999998"
+05.11.2023,14:00:00,First Division,AEL,Karmiotissa,2x0,1,"0,2",,,,,,"16,5999999999998"
+05.11.2023,14:00:00,Primera Division RFEF Group 2,CD Castellón,CD Alcoyano,1x0,1,"0,2",,,,,,"16,7999999999998"
+05.11.2023,15:15:00,Eliteserien,Tromsø,Strømsgodset,0x0,1,"0,2",,,,,,"16,9999999999998"
+05.11.2023,15:15:00,Super League,Aris,Atromitos,1x1,1,"0,2",,,,,,"17,1999999999998"
+05.11.2023,21:00:00,Primera División,Newell's Old Boys,Sarmiento,0x0,1,"0,2",,,,,,"17,3999999999998"
+06.11.2023,11:00:00,FNL,Torpedo Moskva,Volgar Astrakhan,0x2,0,-1,,,,,,"16,3999999999998"
+06.11.2023,12:00:00,Ukrainian Premier League,Dnipro-1,Oleksandria,1x0,1,"0,2",,,,,,"16,5999999999998"
+06.11.2023,14:00:00,Druga HNL,Šibenik,Solin,0x0,1,"0,2",,,,,,"16,7999999999998"
+06.11.2023,14:00:00,Superliga,Partizani Tirana,Vllaznia Shkodër,3x1,1,"0,2",,,,,,"16,9999999999998"
+06.11.2023,21:00:00,LFPB,Wilstermann,Real Tomayapo,1x0,1,"0,2",,,,,,"17,1999999999998"
+07.11.2023,21:30:00,Serie B,Criciúma,ABC,1x0,1,"0,2",,,,,,"17,3999999999998"
+08.11.2023,05:00:00,Liga 1,Persib,Arema,2x1,1,"0,2",,,,,,"17,5999999999998"
+08.11.2023,09:00:00,Liga 1,Persis Solo,PSS Sleman,1x0,1,"0,2",,,,,,"17,7999999999998"
+08.11.2023,09:15:00,Super League,Pahang,PDRM,1x3,0,-1,,,,,,"16,7999999999998"
+08.11.2023,21:30:00,Categoria Primera A,América de Cali,Atlético Bucaramanga,1x1,1,"0,2",,,,,,"16,9999999999998"
+08.11.2023,22:00:00,Primera Division,Diriangén,UNAN Managua,0x1,0,-1,,,,,,"15,9999999999998"
+08.11.2023,23:00:00,Liga MX,Monterrey,Santos Laguna,1x0,1,"0,2",,,,,,"16,1999999999998"
+08.11.2023,23:30:00,Primera División FPD,Herediano,Cartaginés,1x0,1,"0,2",,,,,,"16,3999999999998"
+10.11.2023,12:00:00,Premyer Liqası,Araz,Kapaz,0x0,1,"0,2",,,,,,"16,5999999999998"
+10.11.2023,14:00:00,Süper Lig,Trabzonspor,Konyaspor,0x0,1,"0,2",,,,,,"16,7999999999998"
+10.11.2023,14:10:00,2. Liga,Ried,Lafnitz,3x0,1,"0,2",,,,,,"16,9999999999998"
+10.11.2023,14:30:00,2. Bundesliga,St. Pauli,Hannover 96,0x0,1,"0,2",,,,,,"17,1999999999998"
+10.11.2023,15:00:00,Superliga,Silkeborg,Randers,0x1,0,-1,,,,,,"16,1999999999998"
+10.11.2023,15:30:00,Oberliga Nordost Nord,Hertha Zehlendorf,Tasmania Berlin,0x0,1,"0,2",,,,,,"16,3999999999998"
+10.11.2023,15:30:00,Regionalliga West,Fortuna Köln,Borussia M'gladbach II,1x3,0,-1,,,,,,"15,3999999999998"
+10.11.2023,16:00:00,Eerste Divisie,Dordrecht,PSV II,0x1,0,-1,,,,,,"14,3999999999998"
+10.11.2023,16:15:00,Challenge League,Sion,Vaduz,1x3,0,-1,,,,,,"13,3999999999998"
+10.11.2023,17:00:00,La Liga,Athletic Club Bilbao,Celta de Vigo,2x2,1,"0,2",,,,,,"13,5999999999998"
+10.11.2023,22:00:00,Liga Premier Serie A,Atlético Saltillo,Colima,0x0,1,"0,2",,,,,,"13,7999999999998"
+11.11.2023,07:30:00,Thai League 2,Nakhon Ratchasima,Customs United,2x0,1,"0,2",,,,,,"13,9999999999998"
+11.11.2023,08:00:00,2 Lig Beyaz,Erokspor,Altınordu,1x0,1,"0,2",,,,,,"14,1999999999998"
+11.11.2023,09:00:00,Meistriliiga,Tallinna FC Flora,Nõmme Kalju,0x0,1,"0,2",,,,,,"14,3999999999998"
+11.11.2023,09:00:00,Uzbekistan Super League,Navbahor,Bunyodkor,1x0,1,"0,2",,,,,,"14,5999999999998"
+11.11.2023,09:00:00,EFL League One,Peterborough United,Cambridge United,3x0,1,"0,2",,,,,,"14,7999999999998"
+11.11.2023,09:00:00,2. Liga,Komárno,Futura Humenné,1x0,1,"0,2",,,,,,"14,9999999999998"
+11.11.2023,09:00:00,Regionalliga Nordost,Greifswalder FC,BAK '07,4x0,1,"0,2",,,,,,"15,1999999999998"
+11.11.2023,09:00:00,3 Liga Group 3,Rekord Bielsko-Biała W,Gwarek Tarnowskie Góry,1x1,1,"0,2",,,,,,"15,3999999999998"
+11.11.2023,09:00:00,3 Liga Group 4,Siarka Tarnobrzeg,NKP Podhale,0x0,1,"0,2",,,,,,"15,5999999999998"
+11.11.2023,09:00:00,3 Liga Group 4,Avia Świdnik,Wiązownica,1x0,1,"0,2",,,,,,"15,7999999999998"
+11.11.2023,09:00:00,Superleague of Kosovo,Llapi,Feronikeli,1x0,1,"0,2",,,,,,"15,9999999999998"
+11.11.2023,09:30:00,Championship,Sunderland,Birmingham City,1x1,1,"0,2",,,,,,"16,1999999999998"
+11.11.2023,09:30:00,Oberliga Nordost Süd,Bischofswerdaer FV,Auerbach,0x1,0,-1,,,,,,"15,1999999999998"
+11.11.2023,10:00:00,Damallsvenskan,Linköping,Kristianstad,2x2,1,"0,2",,,,,,"15,3999999999998"
+11.11.2023,10:00:00,Regionalliga Bayern,Aubstadt,Wacker Burghausen,0x1,0,-1,,,,,,"14,3999999999998"
+11.11.2023,10:00:00,Regionalliga Bayern,Deutsche Jugend Kraft Vilzing,Schalding-Heining,1x0,1,"0,2",,,,,,"14,5999999999998"
+11.11.2023,10:00:00,Ukrainian Premier League,Polessya,Metalist 1925 Kharkiv,0x1,0,-1,,,,,,"13,5999999999998"
+11.11.2023,10:00:00,Super League,Man Utd Zambia Academy,Konkola Blades,0x0,1,"0,2",,,,,,"13,7999999999998"
+11.11.2023,10:30:00,Ligue 1,Etoile du Sahel,EGS Gafsa,1x1,1,"0,2",,,,,,"13,9999999999998"
+11.11.2023,11:00:00,Superettan,Västerås SK,Östersunds FK,0x2,0,-1,,,,,,"12,9999999999998"
+11.11.2023,11:00:00,Ettan South,Falkenberg,Olympic,2x1,1,"0,2",,,,,,"13,1999999999998"
+11.11.2023,11:00:00,First League,Mladá Boleslav,Pardubice,0x0,1,"0,2",,,,,,"13,3999999999998"
+11.11.2023,11:00:00,Super Liga,DAC,Ružomberok,0x0,1,"0,2",,,,,,"13,5999999999998"
+11.11.2023,12:00:00,Pro League,Royal Antwerp FC,Standard Liège,4x0,1,"0,2",,,,,,"13,7999999999998"
+11.11.2023,12:00:00,EFL League Two,Wrexham,Gillingham,1x0,1,"0,2",,,,,,"13,9999999999998"
+11.11.2023,12:00:00,League One,Hamilton Academical,Stirling Albion,2x0,1,"0,2",,,,,,"14,1999999999998"
+11.11.2023,12:00:00,Championship,Ipswich Town,Swansea City,2x1,1,"0,2",,,,,,"14,3999999999998"
+11.11.2023,12:00:00,1. Liga Promotion,Cham,St. Gallen II,1x0,1,"0,2",,,,,,"14,5999999999998"
+11.11.2023,12:00:00,Southern League Premier South,Walton & Hersham,Plymouth Parkway,0x1,0,-1,,,,,,"13,5999999999998"
+11.11.2023,12:00:00,Isthmian Premier Division,Horsham,Hashtag United,0x1,0,-1,,,,,,"12,5999999999998"
+11.11.2023,12:00:00,Northern Premier League,Radcliffe Borough,Gainsborough Trinity,1x0,1,"0,2",,,,,,"12,7999999999998"
+11.11.2023,12:15:00,Serie C Group A,Triestina,Pro Sesto,0x0,1,"0,2",,,,,,"12,9999999999998"
+11.11.2023,12:45:00,First League,Arda,Beroe,0x0,1,"0,2",,,,,,"13,1999999999998"
+11.11.2023,13:00:00,First Division,Nea Salamis,Doxa,0x0,1,"0,2",,,,,,"13,3999999999998"
+11.11.2023,13:30:00,PrvaLiga,Koper,Domžale,0x0,1,"0,2",,,,,,"13,5999999999998"
+11.11.2023,13:30:00,Russian Premier League,Zenit,Krasnodar,0x0,1,"0,2",,,,,,"13,7999999999998"
+11.11.2023,14:00:00,Challenge League,Thun,FC Schaffhausen,0x0,1,"0,2",,,,,,"13,9999999999998"
+11.11.2023,14:00:00,Super League,St. Gallen,Winterthur,3x1,1,"0,2",,,,,,"14,1999999999998"
+11.11.2023,14:00:00,Liga 3,Varzim,Vianense,2x0,1,"0,2",,,,,,"14,3999999999998"
+11.11.2023,14:00:00,First Division,APOEL,AEL,1x0,1,"0,2",,,,,,"14,5999999999998"
+11.11.2023,14:30:00,Montenegrin First League,Dečić,FK Jezero Plav,0x0,1,"0,2",,,,,,"14,7999999999998"
+11.11.2023,15:00:00,Ligue 2,Ajaccio,Troyes,1x0,1,"0,2",,,,,,"14,9999999999998"
+11.11.2023,15:00:00,Ligue 2,Laval,Concarneau,0x1,0,-1,,,,,,"13,9999999999998"
+11.11.2023,16:30:00,Super League,Young Boys,Luzern,3x1,1,"0,2",,,,,,"14,1999999999998"
+11.11.2023,18:30:00,Primera División,Cobresal,Audax Italiano,1x2,0,-1,,,,,,"13,1999999999998"
+11.11.2023,21:00:00,Serie A,Palmeiras,Internacional,1x0,1,"0,2",,,,,,"13,3999999999998"
+12.11.2023,08:15:00,Persha Liga,Karpaty,Ahrobiznes Volochysk,2x0,1,"0,2",,,,,,"13,5999999999998"
+12.11.2023,09:00:00,NB II,Nyíregyháza Spartacus,BVSC,1x0,1,"0,2",,,,,,"13,7999999999998"
+12.11.2023,09:00:00,Regionalliga Nordost,BFC Dynamo,Hansa Rostock II,0x0,1,"0,2",,,,,,"13,9999999999998"
+12.11.2023,09:00:00,Prva Liga,OFK Beograd,Sloboda Užice,0x0,1,"0,2",,,,,,"14,1999999999998"
+12.11.2023,09:00:00,3 Liga Group 1,Bełchatów,Olimpia Zambrów,3x0,1,"0,2",,,,,,"14,3999999999998"
+12.11.2023,09:30:00,First Division B,RFC Liege,Lierse Kempenzonen,2x1,1,"0,2",,,,,,"14,5999999999998"
+12.11.2023,10:00:00,Ettan North,Sandviken,Umeå,2x1,1,"0,2",,,,,,"14,7999999999998"
+12.11.2023,10:00:00,Ettan North,United Nordic,Sylvia,2x0,1,"0,2",,,,,,"14,9999999999998"
+12.11.2023,10:00:00,2. SNL,Beltinci,Tabor Sežana,0x0,1,"0,2",,,,,,"15,1999999999998"
+12.11.2023,10:00:00,2nd Division,Esbjerg,Middelfart,1x0,1,"0,2",,,,,,"15,3999999999998"
+12.11.2023,10:00:00,Süper Lig,Beşiktaş,İstanbul Başakşehir,0x0,1,"0,2",,,,,,"15,5999999999998"
+12.11.2023,10:00:00,Serie C Group B,Sassari Torres,Ancona 1905,0x0,1,"0,2",,,,,,"15,7999999999998"
+12.11.2023,10:30:00,First Division,Kongsvinger,Moss,0x2,0,-1,,,,,,"14,7999999999998"
+12.11.2023,10:30:00,First Division,Sogndal,Mjøndalen,0x0,1,"0,2",,,,,,"14,9999999999998"
+12.11.2023,10:30:00,First League,Levski Sofia,Botev Plovdiv,1x0,1,"0,2",,,,,,"15,1999999999998"
+12.11.2023,10:30:00,Russian Premier League,Dinamo Moskva,Orenburg,0x0,1,"0,2",,,,,,"15,3999999999998"
+12.11.2023,10:30:00,Ligue 1,Stade Tunisien,Ben Guerdane,1x0,1,"0,2",,,,,,"15,5999999999998"
+12.11.2023,10:30:00,Serie D Group B,Arconatese,Casatese,2x1,1,"0,2",,,,,,"15,7999999999998"
+12.11.2023,10:30:00,Serie D Group F,Sambenedettese,Matese,1x0,1,"0,2",,,,,,"15,9999999999998"
+12.11.2023,10:30:00,Serie D Group H,Matera,USD Palmese,1x1,1,"0,2",,,,,,"16,1999999999998"
+12.11.2023,11:00:00,Allsvenskan,Hammarby,Halmstad,1x1,1,"0,2",,,,,,"16,3999999999998"
+12.11.2023,11:00:00,First League,Viktoria Plzeň,Slovácko,1x1,1,"0,2",,,,,,"16,5999999999998"
+12.11.2023,11:00:00,Liga I,CS U Craiova,Dinamo Bucureşti,1x0,1,"0,2",,,,,,"16,7999999999998"
+12.11.2023,11:00:00,Premier League,Aston Villa,Fulham,2x0,1,"0,2",,,,,,"16,9999999999998"
+12.11.2023,11:00:00,Premier League,Liverpool,Brentford,1x0,1,"0,2",,,,,,"17,1999999999998"
+12.11.2023,11:00:00,Ligue 1,Lille,Toulouse,1x0,1,"0,2",,,,,,"17,3999999999998"
+12.11.2023,13:30:00,PrvaLiga,Olimpija,Mura,0x0,1,"0,2",,,,,,"17,5999999999998"
+12.11.2023,13:30:00,Russian Premier League,Spartak Moskva,Rostov,2x0,1,"0,2",,,,,,"17,7999999999998"
+12.11.2023,14:00:00,Primera Division RFEF Group 1,SD Ponferradina,Rayo Majadahonda,0x0,1,"0,2",,,,,,"17,9999999999998"
+12.11.2023,14:30:00,Segunda División,CD Tenerife,Villarreal II,0x1,0,-1,,,,,,"16,9999999999998"
+12.11.2023,15:00:00,SuperLiga,Partizan,Čukarički,1x0,1,"0,2",,,,,,"17,1999999999998"
+12.11.2023,15:15:00,Eliteserien,Molde,Lillestrøm,3x0,1,"0,2",,,,,,"17,3999999999998"
+12.11.2023,15:30:00,Bundesliga,RB Leipzig,Freiburg,1x1,1,"0,2",,,,,,"17,5999999999998"
+12.11.2023,16:00:00,Liga I,FCSB,U Craiova 1948,2x0,1,"0,2",,,,,,"17,7999999999998"
+12.11.2023,16:45:00,Serie C Group B,Perugia,Gubbio,1x0,1,"0,2",,,,,,"17,9999999999998"
+12.11.2023,17:00:00,La Liga,Atlético Madrid,Villarreal,1x1,1,"0,2",,,,,,"18,1999999999998"
+12.11.2023,17:30:00,Primera División,Colo-Colo,Unión La Calera,0x0,1,"0,2",,,,,,"18,3999999999998"
+12.11.2023,18:30:00,Salvadoran Primera División,Águila,Jocoro,1x0,1,"0,2",,,,,,"18,5999999999998"
+12.11.2023,23:05:00,Liga MX,León,Juárez,2x1,1,"0,2",,,,,,"18,7999999999998"
+13.11.2023,12:00:00,Ghana Premier League,Aduana Stars,Bibiani Gold Stars,3x0,1,"0,2",,,,,,"18,9999999999998"
+13.11.2023,16:45:00,Serie C Group C,Benevento,SSC Giugliano,1x0,1,"0,2",,,,,,"19,1999999999998"
+15.11.2023,23:00:00,Liga Nacional de Fútbol de Guatemala,Comunicaciones,Zacapa Tellioz,0x2,0,-1,,,,,,"18,1999999999998"
+16.11.2023,22:00:00,Salvadoran Primera División,FAS,Municipal Limeño,0x2,0,-1,,,,,,"17,1999999999998"
+17.11.2023,13:00:00,Liga Premier Serie A,Correcaminos UAT II,Coras de Nayarit,0x0,1,"0,2",,,,,,"17,3999999999998"
+17.11.2023,15:00:00,Oberliga Baden Wurttemberg,Sonnenhof Großaspach,Ravensburg,2x0,1,"0,2",,,,,,"17,5999999999998"
+17.11.2023,17:00:00,NIFL Premiership,Larne,Coleraine,1x0,1,"0,2",,,,,,"17,7999999999998"
+18.11.2023,09:00:00,Montenegrin Second League,Grbalj,Iskra,0x0,1,"0,2",,,,,,"17,9999999999998"
+18.11.2023,10:00:00,Segunda División,Progreso,Juventud,2x0,1,"0,2",,,,,,"18,1999999999998"
+18.11.2023,10:00:00,2nd Division,Middelfart,Skive,0x1,0,-1,,,,,,"17,1999999999998"
+18.11.2023,10:00:00,Regionalliga West,Koln II,Gütersloh,2x2,1,"0,2",,,,,,"17,3999999999998"
+18.11.2023,10:00:00,Regionalliga Südwest,Stuttgarter Kickers,Kickers Offenbach,1x0,1,"0,2",,,,,,"17,5999999999998"
+18.11.2023,10:00:00,Oberliga Hessen,Baunatal,SV Steinbach,2x0,1,"0,2",,,,,,"17,7999999999998"
+18.11.2023,10:30:00,Tweede Divisie,HHC,Scheveningen,1x2,0,-1,,,,,,"16,7999999999998"
+18.11.2023,10:30:00,Burundi Premier League,Vital'O,Inter Star,1x0,1,"0,2",,,,,,"16,9999999999998"
+18.11.2023,11:00:00,Tweede Divisie,Spakenburg,Sparta Rotterdam II,1x1,1,"0,2",,,,,,"17,1999999999998"
+18.11.2023,12:00:00,EFL League Two,Mansfield Town,Newport County,1x0,1,"0,2",,,,,,"17,3999999999998"
+18.11.2023,12:00:00,EFL League Two,Stockport County,Colchester United,1x0,1,"0,2",,,,,,"17,5999999999998"
+18.11.2023,12:00:00,EFL League One,Blackpool,Shrewsbury Town,2x0,1,"0,2",,,,,,"17,7999999999998"
+18.11.2023,12:00:00,League Two,Dumbarton,Elgin City,0x0,1,"0,2",,,,,,"17,9999999999998"
+18.11.2023,12:00:00,League One,Cove Rangers,Stirling Albion,1x1,1,"0,2",,,,,,"18,1999999999998"
+18.11.2023,14:00:00,Primera Division RFEF Group 2,Málaga CF,CD Alcoyano,0x2,0,-1,,,,,,"17,1999999999998"
+18.11.2023,15:00:00,LigaPro,União de Leiria,Leixões,0x0,1,"0,2",,,,,,"17,3999999999998"
+18.11.2023,15:00:00,Segunda División RFEF Group 5,Talavera CF,Montijo,1x0,1,"0,2",,,,,,"17,5999999999998"
+18.11.2023,16:00:00,First Amateur Division,Lokeren-Temse,Union Namur,1x0,1,"0,2",,,,,,"17,7999999999998"
+18.11.2023,17:00:00,Serie B,Vila Nova,Ceará,1x1,1,"0,2",,,,,,"17,9999999999998"
+18.11.2023,17:00:00,Serie B,Criciúma,Botafogo SP,1x0,1,"0,2",,,,,,"18,1999999999998"
+18.11.2023,17:00:00,Serie B,Juventude,Ponte Preta,0x0,1,"0,2",,,,,,"18,3999999999998"
+18.11.2023,18:30:00,LFPB,Nacional Potosí,Santa Cruz,2x0,1,"0,2",,,,,,"18,5999999999998"
+18.11.2023,19:00:00,Liga Premier Serie B,CDM,Chilangos,2x0,1,"0,2",,,,,,"18,7999999999998"
+19.11.2023,06:30:00,2. Liga,Petržalka akadémia,Slovan Bratislava II,3x0,1,"0,2",,,,,,"18,9999999999998"
+19.11.2023,08:00:00,Segunda División RFEF Group 5,Ursaria,Llerenense,0x0,1,"0,2",,,,,,"19,1999999999998"
+19.11.2023,08:00:00,3. Lig Group 2,Turgutluspor,Eynesil Belediyespor,0x0,1,"0,2",,,,,,"19,3999999999998"
+19.11.2023,08:00:00,2 Lig Kirmizi,Isparta Davrazspor,Etimesgut Belediyespor,0x0,1,"0,2",,,,,,"19,5999999999998"
+19.11.2023,08:00:00,2 Lig Kirmizi,Amed,Fethiyespor,0x1,0,-1,,,,,,"18,5999999999998"
+19.11.2023,08:00:00,Tercera Group 11,Ibiza Islas Pitiusas,Llosetense,1x0,1,"0,2",,,,,,"18,7999999999998"
+19.11.2023,08:00:00,Tercera Group 7,Móstoles,Torrejón,1x0,1,"0,2",,,,,,"18,9999999999998"
+19.11.2023,08:00:00,Tercera Group 9,Huétor Vega,Polideportivo Almería,0x0,1,"0,2",,,,,,"19,1999999999998"
+19.11.2023,10:00:00,Segunda División,Albion,Tacuarembó,1x0,1,"0,2",,,,,,"19,3999999999998"
+19.11.2023,10:00:00,Segunda División,Uruguay Montevideo FC,Sud América,1x1,1,"0,2",,,,,,"19,5999999999998"
+19.11.2023,10:00:00,Primera División,Liverpool FC Montevideo,Racing,1x0,1,"0,2",,,,,,"19,7999999999998"
+19.11.2023,10:00:00,Serie C Group A,Mantova,Trento,0x0,1,"0,2",,,,,,"19,9999999999997"
+19.11.2023,10:30:00,Serie D Group B,Brusaporto,Legnano,1x0,1,"0,2",,,,,,"20,1999999999997"
+19.11.2023,10:30:00,Serie D Group G,Sarrabus Ogliastra,Boreale,1x0,1,"0,2",,,,,,"20,3999999999997"
+19.11.2023,10:30:00,Serie D Group H,Virtus Casarano,Santa Maria Cilento,2x0,1,"0,2",,,,,,"20,5999999999997"
+19.11.2023,10:30:00,Serie D Group D,Victor San Marino,Sammaurese,0x0,1,"0,2",,,,,,"20,7999999999997"
+19.11.2023,10:30:00,Serie D Group I,Vibonese,Acireale,1x1,1,"0,2",,,,,,"20,9999999999997"
+19.11.2023,11:00:00,Serie D Group H,Team Altamura,Città di Fasano,0x0,1,"0,2",,,,,,"21,1999999999997"
+19.11.2023,11:45:00,Tercera Group 2,Ceares,Gijón Industrial,0x0,1,"0,2",,,,,,"21,3999999999997"
+19.11.2023,12:00:00,Ghana Premier League,Bibiani Gold Stars,Nations,0x1,0,-1,,,,,,"20,3999999999997"
+19.11.2023,12:15:00,Serie C Group B,Cesena,Lucchese,0x0,1,"0,2",,,,,,"20,5999999999997"
+19.11.2023,12:15:00,Serie C Group C,Avellino,SSC Giugliano,1x1,1,"0,2",,,,,,"20,7999999999997"
+19.11.2023,12:30:00,Tercera Group 17,Caspe,Utrillas,1x2,0,-1,,,,,,"19,7999999999997"
+19.11.2023,13:00:00,Tercera Group 5,Reddis,Mollerussa,1x0,1,"0,2",,,,,,"19,9999999999997"
+19.11.2023,14:00:00,Tercera Group 9,Real Jaén CF,Atlético Mancha Real,3x0,1,"0,2",,,,,,"20,1999999999997"
+19.11.2023,14:00:00,Primera Division RFEF Group 2,Antequera CF,Linares Deportivo,1x0,1,"0,2",,,,,,"20,3999999999997"
+19.11.2023,14:30:00,Serie C Group C,Juve Stabia,Sorrento Calcio,0x0,1,"0,2",,,,,,"20,5999999999997"
+19.11.2023,18:00:00,Liga Nacional de Fútbol de Guatemala,Cobán Imperial,Achuapa,1x0,1,"0,2",,,,,,"20,7999999999997"
+19.11.2023,18:30:00,LFPB,Wilstermann,Guabirá,1x0,1,"0,2",,,,,,"20,9999999999997"
+20.11.2023,10:00:00,Super League 2 North,Niki Volos,Makedonikos Neapolis FC,0x2,0,-1,,,,,,"19,9999999999997"
+20.11.2023,15:00:00,Ivory Coast Ligue 1,San-Pédro,SOL,0x0,1,"0,2",,,,,,"20,1999999999997"
+20.11.2023,16:45:00,UEFA Euro Qualifiers,Slovenia,Kazakhstan,1x0,1,"0,2",,,,,,"20,3999999999997"
+20.11.2023,21:30:00,Segunda División,Miramar Misiones,Atenas,0x0,1,"0,2",,,,,,"20,5999999999997"
+21.11.2023,16:45:00,Southern League Premier South,Chesham United,Sholing,1x0,1,"0,2",,,,,,"20,7999999999997"
+21.11.2023,16:45:00,Southern League Premier South,Walton & Hersham,Hendon,1x0,1,"0,2",,,,,,"20,9999999999997"
+21.11.2023,16:45:00,Isthmian Premier Division,Horsham,Margate,0x0,1,"0,2",,,,,,"21,1999999999997"
+21.11.2023,16:45:00,Northern Premier League,Radcliffe Borough,Whitby Town,0x0,1,"0,2",,,,,,"21,3999999999997"
+23.11.2023,09:30:00,Second League,Ludogorets II,Chernomorets 1919 Burgas,0x0,1,"0,2",,,,,,"21,5999999999997"
+23.11.2023,09:40:00,Division One,Dibba Al Hisn,Masfut,2x0,1,"0,2",,,,,,"21,7999999999997"
+23.11.2023,09:40:00,Division One,Al Urooba,Al Taawon,0x0,1,"0,2",,,,,,"21,9999999999997"
+23.11.2023,10:15:00,Uzbekistan Super League,Neftchi,Qizilqum,1x0,1,"0,2",,,,,,"22,1999999999997"
+23.11.2023,15:00:00,1st Division,Fredericia,B 93,0x3,0,-1,,,,,,"21,1999999999997"
+23.11.2023,20:30:00,LFPB,Aurora,Blooming,1x1,1,"0,2",,,,,,"21,3999999999997"
+24.11.2023,08:00:00,Thai League T1,Buriram United,Ratchaburi,0x0,1,"0,2",,,,,,"21,5999999999997"
+24.11.2023,12:00:00,Professional League,Al Taawon,Al Riyadh,1x0,1,"0,2",,,,,,"21,7999999999997"
+24.11.2023,14:00:00,Ukrainian Premier League,Shakhtar Donetsk,Polessya,0x0,1,"0,2",,,,,,"21,9999999999997"
+24.11.2023,15:30:00,Oberliga Rheinland Pfalz Saar,Pirmasens,Arminia Ludwigshafen,0x1,0,-1,,,,,,"20,9999999999997"
+24.11.2023,16:45:00,NIFL Championship,Portadown,Newington Youth,3x0,1,"0,2",,,,,,"21,1999999999997"
+24.11.2023,17:00:00,Primera D,Centro Español,Central Ballester,1x0,1,"0,2",,,,,,"21,3999999999997"
+24.11.2023,17:00:00,Ligue 1,PSG,Monaco,2x1,1,"0,2",,,,,,"21,5999999999997"
+25.11.2023,02:00:00,J1 League,Sanfrecce Hiroshima,Gamba Osaka,2x0,1,"0,2",,,,,,"21,7999999999997"
+25.11.2023,07:00:00,National Super League,Migori Youth FC,Kibera Black Stars,0x0,1,"0,2",,,,,,"21,9999999999997"
+25.11.2023,07:30:00,1. Lig,BB Bodrumspor,Adanaspor,0x0,1,"0,2",,,,,,"22,1999999999997"
+25.11.2023,07:30:00,1. Lig,Bandırmaspor,Şanlıurfaspor,0x1,0,-1,,,,,,"21,1999999999997"
+25.11.2023,08:00:00,Thai League 2,Nong Bua Pitchaya,Samut Prakan City,1x1,1,"0,2",,,,,,"21,3999999999997"
+25.11.2023,08:00:00,2 Lig Beyaz,Erokspor,Ankara Demirspor,1x0,1,"0,2",,,,,,"21,5999999999997"
+25.11.2023,08:00:00,3 Liga Group 1,Legia Warszawa II,Olimpia Zambrów,1x0,1,"0,2",,,,,,"21,7999999999997"
+25.11.2023,09:00:00,3 Liga Group 1,Swit,Warta Sieradz,0x1,0,-1,,,,,,"20,7999999999997"
+25.11.2023,09:15:00,Russian Premier League,Zenit,FK Sochi,1x0,1,"0,2",,,,,,"20,9999999999997"
+25.11.2023,09:30:00,Premier League,Manchester City,Liverpool,1x0,1,"0,2",,,,,,"21,1999999999997"
+25.11.2023,10:00:00,Oberliga Bayern Süd,Schwaben Augsburg,Pipinsried,1x0,1,"0,2",,,,,,"21,3999999999997"
+25.11.2023,10:00:00,Oberliga Bayern Süd,Nördlingen,Türkspor Augsburg,1x0,1,"0,2",,,,,,"21,5999999999997"
+25.11.2023,10:00:00,Regionalliga West,Fortuna Köln,Rödinghausen,0x2,0,-1,,,,,,"20,5999999999997"
+25.11.2023,10:00:00,Serie B,Como,FeralpiSalò,1x0,1,"0,2",,,,,,"20,7999999999997"
+25.11.2023,10:30:00,Oberliga Hessen,Bayern Alzenau,FC 1906 Erlensee,0x0,1,"0,2",,,,,,"20,9999999999997"
+25.11.2023,11:00:00,Ekstraklasa,Raków Częstochowa,Cracovia Kraków,0x1,0,-1,,,,,,"19,9999999999997"
+25.11.2023,11:00:00,Super Liga,Žilina,FK Košice,0x0,1,"0,2",,,,,,"20,1999999999997"
+25.11.2023,11:30:00,Bundesliga,Borussia Dortmund,Borussia M'gladbach,3x2,1,"0,2",,,,,,"20,3999999999997"
+25.11.2023,11:30:00,Bundesliga,Freiburg,Darmstadt 98,1x1,1,"0,2",,,,,,"20,5999999999997"
+25.11.2023,11:30:00,Oberliga Hamburg,Altona 93,USC Paloma,0x0,1,"0,2",,,,,,"20,7999999999997"
+25.11.2023,12:00:00,Pro League,Cercle Brugge,AS Eupen,0x0,1,"0,2",,,,,,"20,9999999999997"
+25.11.2023,12:00:00,EFL League Two,Wrexham,Morecambe,3x0,1,"0,2",,,,,,"21,1999999999997"
+25.11.2023,12:00:00,EFL League One,Peterborough United,Burton Albion,2x0,1,"0,2",,,,,,"21,3999999999997"
+25.11.2023,12:00:00,Championship,Leicester City,Watford,0x0,1,"0,2",,,,,,"21,5999999999997"
+25.11.2023,12:00:00,National League,Chesterfield,Eastleigh,0x0,1,"0,2",,,,,,"21,7999999999997"
+25.11.2023,12:00:00,Southern League Premier South,Chesham United,Basingstoke Town,2x0,1,"0,2",,,,,,"21,9999999999997"
+25.11.2023,12:00:00,Southern League Premier South,Salisbury,Dorchester Town,0x1,0,-1,,,,,,"20,9999999999997"
+25.11.2023,12:00:00,Northern Premier League,Radcliffe Borough,Bamber Bridge,1x1,1,"0,2",,,,,,"21,1999999999997"
+25.11.2023,12:00:00,Northern Premier League,Worksop Town,Marine FC,0x1,0,-1,,,,,,"20,1999999999997"
+25.11.2023,12:00:00,Southern League Premier Central,Mickleover Sports,Nuneaton Town,2x0,1,"0,2",,,,,,"20,3999999999997"
+25.11.2023,12:00:00,Southern League Premier Central,Needham Market,Bromsgrove Sporting,0x1,0,-1,,,,,,"19,3999999999997"
+25.11.2023,12:30:00,3. Liga,Ulm,Freiburg II,1x1,1,"0,2",,,,,,"19,5999999999997"
+25.11.2023,13:00:00,Bundesliga,Salzburg,Hartberg,1x1,1,"0,2",,,,,,"19,7999999999997"
+25.11.2023,13:00:00,Bundesliga,LASK Linz,Wattens,1x0,1,"0,2",,,,,,"19,9999999999997"
+25.11.2023,13:30:00,Prva HNL,Dinamo Zagreb,Osijek,1x0,1,"0,2",,,,,,"20,1999999999997"
+25.11.2023,14:00:00,Super League,Luzern,Winterthur,1x0,1,"0,2",,,,,,"20,3999999999997"
+25.11.2023,14:00:00,First Division,Paphos,Othellos,0x0,1,"0,2",,,,,,"20,5999999999997"
+25.11.2023,14:00:00,Primera Division RFEF Group 1,SD Ponferradina,SD Tarazona,0x0,1,"0,2",,,,,,"20,7999999999997"
+25.11.2023,14:30:00,SuperLiga,Partizan,Bačka Topola,0x3,0,-1,,,,,,"19,7999999999997"
+25.11.2023,14:30:00,Serie C Group A,Triestina,Arzignano Valchiampo,2x1,1,"0,2",,,,,,"19,9999999999997"
+25.11.2023,14:30:00,National First Division,Maritzburg United,Pretoria Callies,1x2,0,-1,,,,,,"18,9999999999997"
+25.11.2023,15:00:00,Professional League,Al Ahli,Al Shabab,0x0,1,"0,2",,,,,,"19,1999999999997"
+25.11.2023,15:30:00,Liga I,CFR Cluj,UTA Arad,0x0,1,"0,2",,,,,,"19,3999999999997"
+25.11.2023,16:00:00,Ekstraklasa,Legia Warszawa,Warta Poznań,1x2,0,-1,,,,,,"18,3999999999997"
+25.11.2023,17:00:00,Serie B,Atlético GO,Guarani,0x0,1,"0,2",,,,,,"18,5999999999997"
+25.11.2023,17:00:00,Serie B,Novorizontino,Criciúma,1x0,1,"0,2",,,,,,"18,7999999999997"
+25.11.2023,17:00:00,Serie B,Sport Recife,Sampaio Corrêa,3x0,1,"0,2",,,,,,"18,9999999999997"
+25.11.2023,17:00:00,Eredivisie,Ajax,Vitesse,2x0,1,"0,2",,,,,,"19,1999999999997"
+25.11.2023,17:00:00,La Liga,Atlético Madrid,RCD Mallorca,0x0,1,"0,2",,,,,,"19,3999999999997"
+25.11.2023,17:00:00,Segunda División,SD Eibar,Levante UD,1x1,1,"0,2",,,,,,"19,5999999999997"
+25.11.2023,18:00:00,Liga Nacional de Fútbol Profesional de Honduras,Marathón,Lobos UPNFM,2x0,1,"0,2",,,,,,"19,7999999999997"
+25.11.2023,20:00:00,Primera Categoría Serie A,SD Aucas,Delfin SC,0x0,1,"0,2",,,,,,"19,9999999999997"
+25.11.2023,21:00:00,Serie A,Fluminense,Coritiba,1x0,1,"0,2",,,,,,"20,1999999999997"
+25.11.2023,23:00:00,Primera División FPD,Herediano,Sporting San José,0x0,1,"0,2",,,,,,"20,3999999999997"
+25.11.2023,23:00:00,Primera División FPD,Alajuelense,Guanacasteca,0x3,0,-1,,,,,,"19,3999999999997"
+26.11.2023,01:05:00,J3 League,Kagoshima United,Azul Claro Numazu,0x0,1,"0,2",,,,,,"19,5999999999997"
+26.11.2023,03:00:00,K League 2,Busan I'Park,Cheongju,0x0,1,"0,2",,,,,,"19,7999999999997"
+26.11.2023,07:00:00,National Super League,TransMara Sugar,Gusii,2x0,1,"0,2",,,,,,"19,9999999999997"
+26.11.2023,07:30:00,Tercera Group 15,Subiza,Peña Sport FC,0x0,1,"0,2",,,,,,"20,1999999999997"
+26.11.2023,08:00:00,2 Lig Kirmizi,Kastamonuspor 1966,Derincespor,1x1,1,"0,2",,,,,,"20,3999999999997"
+26.11.2023,08:00:00,2 Lig Beyaz,Van BB,Nazilli Belediyespor,0x0,1,"0,2",,,,,,"20,5999999999997"
+26.11.2023,08:00:00,Tercera Group 11,Mallorca II,CE Constància,1x1,1,"0,2",,,,,,"20,7999999999997"
+26.11.2023,08:00:00,Tercera Group 10,Utrera,Sevilla III,2x0,1,"0,2",,,,,,"20,9999999999997"
+26.11.2023,08:00:00,Tercera Group 12,Tenerife II,CD Marino,2x1,1,"0,2",,,,,,"21,1999999999997"
+26.11.2023,08:00:00,Tercera Group 16,CD Varea,Casalarreina,0x1,0,-1,,,,,,"20,1999999999997"
+26.11.2023,08:15:00,Eerste Divisie,Roda JC,MVV,0x0,1,"0,2",,,,,,"20,3999999999997"
+26.11.2023,08:30:00,Tercera Group 5,CE L'Hospitalet,Girona II,1x0,1,"0,2",,,,,,"20,5999999999997"
+26.11.2023,09:00:00,Ligue 1,Nice,Toulouse,0x0,1,"0,2",,,,,,"20,7999999999997"
+26.11.2023,09:00:00,Prva Liga,Tekstilac Odžaci,Metalac GM,1x0,1,"0,2",,,,,,"20,9999999999997"
+26.11.2023,09:00:00,Prva Liga,OFK Beograd,Jedinstvo Ub,0x0,1,"0,2",,,,,,"21,1999999999997"
+26.11.2023,09:00:00,First Football League,Shkupi,Makedonija GjP,0x0,1,"0,2",,,,,,"21,3999999999997"
+26.11.2023,09:00:00,Tercera Group 12,Las Palmas II,Panadería Pulido,0x0,1,"0,2",,,,,,"21,5999999999997"
+26.11.2023,09:30:00,2. Bundesliga,Greuther Fürth,Wehen Wiesbaden,1x0,1,"0,2",,,,,,"21,7999999999997"
+26.11.2023,09:45:00,Professional League,Sohar,Ibri,0x2,0,-1,,,,,,"20,7999999999997"
+26.11.2023,10:00:00,1st Division,Vendsyssel,HB Køge,1x0,1,"0,2",,,,,,"20,9999999999997"
+26.11.2023,10:00:00,Ukrainian Premier League,Dynamo Kyiv,Rukh Vynnyky,2x0,1,"0,2",,,,,,"21,1999999999997"
+26.11.2023,10:00:00,Regionalliga Nord,Teutonia Hamburg,Weiche Flensburg,1x0,1,"0,2",,,,,,"21,3999999999997"
+26.11.2023,10:00:00,Super League,ZESCO United,Nkana,0x1,0,-1,,,,,,"20,3999999999997"
+26.11.2023,10:00:00,1. Lig,Eyüpspor,Manisa BBSK,0x1,0,-1,,,,,,"19,3999999999997"
+26.11.2023,10:30:00,National First Division,Baroka,MM Platinum,0x1,0,-1,,,,,,"18,3999999999997"
+26.11.2023,10:30:00,Serie D Group E,Seravezza,Mobilieri Ponsacco,1x1,1,"0,2",,,,,,"18,5999999999997"
+26.11.2023,11:00:00,1st Division,AaB,Hobro,0x0,1,"0,2",,,,,,"18,7999999999997"
+26.11.2023,11:00:00,Montenegrin First League,Budućnost,Mornar,2x2,1,"0,2",,,,,,"18,9999999999997"
+26.11.2023,11:30:00,National Division,Progrès Niederkorn,Mondorf-les-Bains,1x0,1,"0,2",,,,,,"19,1999999999997"
+26.11.2023,12:00:00,National Division,Swift Hesperange,Jeunesse d'Esch,2x0,1,"0,2",,,,,,"19,3999999999997"
+26.11.2023,12:00:00,Ghana Premier League,Aduana Stars,Accra Lions,0x0,1,"0,2",,,,,,"19,5999999999997"
+26.11.2023,12:30:00,Super League,Servette,Grasshopper,1x0,1,"0,2",,,,,,"19,7999999999997"
+26.11.2023,13:00:00,Eliteserien,Lillestrøm,Odd,1x3,0,-1,,,,,,"18,7999999999997"
+26.11.2023,13:00:00,Eliteserien,Tromsø,Haugesund,1x0,1,"0,2",,,,,,"18,9999999999997"
+26.11.2023,13:00:00,FNL,Khimki,SKA Khabarovsk,0x0,1,"0,2",,,,,,"19,1999999999997"
+26.11.2023,13:10:00,Prva HNL,Gorica,Rudeš,3x0,1,"0,2",,,,,,"19,3999999999997"
+26.11.2023,13:30:00,Ekstraklasa,Lech Poznań,Widzew Łódź,0x1,0,-1,,,,,,"18,3999999999997"
+26.11.2023,14:00:00,Serie A,Roma,Udinese,1x0,1,"0,2",,,,,,"18,5999999999997"
+26.11.2023,14:30:00,Pro League,RSC Anderlecht,RWDM,0x1,0,-1,,,,,,"17,5999999999997"
+26.11.2023,16:00:00,Serie A,Botafogo,Santos,1x0,1,"0,2",,,,,,"17,7999999999997"
+26.11.2023,16:00:00,Serie A,Atlético Mineiro,Grêmio,1x0,1,"0,2",,,,,,"17,9999999999997"
+26.11.2023,17:00:00,Segunda División,RCD Espanyol,AD Alcorcón,1x0,1,"0,2",,,,,,"18,1999999999997"
+26.11.2023,18:00:00,Liga Nacional de Fútbol de Guatemala,Antigua GFC,Xinabajul,1x1,1,"0,2",,,,,,"18,3999999999997"
+26.11.2023,18:30:00,LFPB,The Strongest,Club Always Ready,1x0,1,"0,2",,,,,,"18,5999999999997"
+26.11.2023,18:30:00,Serie A,São Paulo,Cuiabá,0x0,1,"0,2",,,,,,"18,7999999999997"
+26.11.2023,19:30:00,Primera División,Nacional,Wanderers,3x0,1,"0,2",,,,,,"18,9999999999997"
+27.11.2023,09:00:00,Liga 1,Borneo,Persis Solo,0x0,1,"0,2",,,,,,"19,1999999999997"
+27.11.2023,09:15:00,First Division,Al Bukayriyah,Hajer,0x2,0,-1,,,,,,"18,1999999999997"
+27.11.2023,13:00:00,Superliga,Partizani Tirana,Dinamo Tirana,0x0,1,"0,2",,,,,,"18,3999999999997"
+27.11.2023,17:00:00,Segunda División,Sporting Gijón,CD Eldense,1x0,1,"0,2",,,,,,"18,5999999999997"
+28.11.2023,16:45:00,Welsh Premier League,Newtown,Pontypridd Town AFC,1x0,1,"0,2",,,,,,"18,7999999999997"
+28.11.2023,16:45:00,EFL League Two,Notts County,Crawley Town,1x1,1,"0,2",,,,,,"18,9999999999997"
+28.11.2023,16:45:00,EFL League Two,Stockport County,Salford City,0x0,1,"0,2",,,,,,"19,1999999999997"
+28.11.2023,16:45:00,EFL League One,Charlton Athletic,Cheltenham Town,1x1,1,"0,2",,,,,,"19,3999999999997"
+29.11.2023,09:00:00,First Football League,Shkendija,Rabotnički,0x0,1,"0,2",,,,,,"19,5999999999997"
+29.11.2023,09:30:00,Second Division,Asyut Petroleum,Makadi,0x0,1,"0,2",,,,,,"19,7999999999997"
+29.11.2023,09:30:00,Second Division,Tanta SC,Gomhoreyat Shepin,1x0,1,"0,2",,,,,,"19,9999999999997"
+29.11.2023,10:00:00,Segunda División,Miramar Misiones,Sud América,1x0,1,"0,2",,,,,,"20,1999999999997"
+29.11.2023,11:00:00,Armenian Premier League,Banants,Ararat,1x1,1,"0,2",,,,,,"20,3999999999997"
+29.11.2023,16:30:00,Segunda División,Progreso,Albion,0x1,0,-1,,,,,,"19,3999999999997"
+29.11.2023,16:30:00,Primera División,Liverpool FC Montevideo,Boston River,1x0,1,"0,2",,,,,,"19,5999999999997"
+29.11.2023,16:45:00,Championship,Southampton,Bristol City,0x0,1,"0,2",,,,,,"19,7999999999997"
+29.11.2023,16:45:00,Championship,Sunderland,Huddersfield Town,1x1,1,"0,2",,,,,,"19,9999999999997"
+29.11.2023,16:45:00,Southern League Premier South,Gosport Borough,Hanwell Town,0x0,1,"0,2",,,,,,"20,1999999999997"
+29.11.2023,17:00:00,Championship,Ipswich Town,Millwall,3x0,1,"0,2",,,,,,"20,3999999999997"
+29.11.2023,21:15:00,Primera División,Defensor Sporting,River Plate,0x0,1,"0,2",,,,,,"20,5999999999997"
+30.11.2023,20:30:00,Serie A,Bragantino,Fortaleza,1x2,0,-1,,,,,,"19,5999999999997"
+01.12.2023,09:00:00,3. Liga Series 3,Dunărea Călăraşi,Înainte Modelu,2x0,1,"0,2",,,,,,"19,7999999999997"
+01.12.2023,09:00:00,3. Liga Series 4,Popești-Leordeni,Flacăra Moreni,0x0,1,"0,2",,,,,,"19,9999999999997"
+01.12.2023,09:15:00,Uzbekistan Super League,Navbahor,Neftchi,0x1,0,-1,,,,,,"18,9999999999997"
+01.12.2023,13:30:00,Stars League,Al Duhail,Umm Salal,0x0,1,"0,2",,,,,,"19,1999999999997"
+01.12.2023,14:00:00,1. Lig,Kocaelispor,Ümraniyespor,0x2,0,-1,,,,,,"18,1999999999997"
+01.12.2023,16:00:00,First Division B,Lommel United,KRC Genk II,0x1,0,-1,,,,,,"17,1999999999997"
+01.12.2023,16:00:00,Eerste Divisie,Cambuur,Eindhoven,1x1,1,"0,2",,,,,,"17,3999999999997"
+01.12.2023,16:00:00,National 2 Group C,Chambly,Bastia-Borgo,1x0,1,"0,2",,,,,,"17,5999999999997"
+02.12.2023,02:00:00,J3 League,Kataller Toyama,YSCC,1x1,1,"0,2",,,,,,"17,7999999999997"
+02.12.2023,07:45:00,Tercera Group 6,Atzeneta,Soneja,0x0,1,"0,2",,,,,,"17,9999999999997"
+02.12.2023,08:30:00,Thai League 2,Lampang,Kasetsart,0x0,1,"0,2",,,,,,"18,1999999999996"
+02.12.2023,09:00:00,1st Division,SønderjyskE,Hillerød,0x2,0,-1,,,,,,"17,1999999999996"
+02.12.2023,09:00:00,Thai League 2,Nakhon Si Thammarat,Kanchanaburi,2x0,1,"0,2",,,,,,"17,3999999999996"
+02.12.2023,09:00:00,First Football League,Makedonija GjP,Vardar,0x1,0,-1,,,,,,"16,3999999999996"
+02.12.2023,10:00:00,Ukrainian Premier League,Hirnyk,Oleksandria,0x1,0,-1,,,,,,"15,3999999999996"
+02.12.2023,10:00:00,Oberliga Bayern Süd,Erlbach,Ismaning,,,,,,,,,"15,3999999999996"
+02.12.2023,10:00:00,Regionalliga West,Rot-Weiß Oberhausen,Wiedenbrück,1x1,1,"0,2",,,,,,"15,5999999999996"
+02.12.2023,10:00:00,Oberliga Rheinland Pfalz Saar,TuS RW Koblenz,Cosmos Koblenz,1x0,1,"0,2",,,,,,"15,7999999999996"
+02.12.2023,11:00:00,First League,Mladá Boleslav,Karviná,,,,,,,,,"15,7999999999996"
+02.12.2023,11:00:00,NPFL,Doma United,Niger Tornadoes,1x0,1,"0,2",,,,,,"15,9999999999996"
+02.12.2023,11:30:00,Welsh Premier League,Cardiff MU,Aberystwyth Town,1x0,1,"0,2",,,,,,"16,1999999999996"
+02.12.2023,11:30:00,Welsh Premier League,Newtown,Colwyn Bay,1x2,0,-1,,,,,,"15,1999999999996"
+02.12.2023,11:30:00,SuperLiga,Partizan,Vojvodina,0x0,1,"0,2",,,,,,"15,3999999999996"
+02.12.2023,12:00:00,League Two,Stenhousemuir,Bonnyrigg Rose Athletic,1x0,1,"0,2",,,,,,"15,5999999999996"
+02.12.2023,12:00:00,League One,Falkirk,Cove Rangers,,,,,,,,,"15,5999999999996"
+02.12.2023,12:00:00,League One,Hamilton Academical,Queen of the South,3x0,1,"0,2",,,,,,"15,7999999999996"
+02.12.2023,12:00:00,Championship,Birmingham City,Rotherham United,0x0,1,"0,2",,,,,,"15,9999999999996"
+02.12.2023,12:00:00,Championship,Southampton,Cardiff City,2x0,1,"0,2",,,,,,"16,1999999999996"
+02.12.2023,12:00:00,Ukrainian Premier League,Dnipro-1,Vorskla,1x2,0,-1,,,,,,"15,1999999999996"
+02.12.2023,12:00:00,National League,Altrincham,Dorking Wanderers,,,,,,,,,"15,1999999999996"
+02.12.2023,12:00:00,National League,Southend United,Wealdstone,,,,,,,,,"15,1999999999996"
+02.12.2023,12:00:00,National League,Chesterfield,Altrincham,,,,,,,,,"15,1999999999996"
+02.12.2023,12:00:00,Isthmian Premier Division,Enfield Town,Margate,2x0,1,"0,2",,,,,,"15,3999999999996"
+02.12.2023,12:00:00,NPFL,Akwa United,Kwara United,1x1,1,"0,2",,,,,,"15,5999999999996"
+02.12.2023,12:15:00,La Liga,Athletic Club Bilbao,Rayo Vallecano,1x0,1,"0,2",,,,,,"15,7999999999996"
+02.12.2023,12:30:00,First League,Levski Sofia,Lokomotiv Plovdiv,2x0,1,"0,2",,,,,,"15,9999999999996"
+02.12.2023,13:00:00,Süper Lig,Adana Demirspor,Samsunspor,1x2,0,-1,,,,,,"14,9999999999996"
+02.12.2023,13:30:00,PrvaLiga,Celje,Koper,,,,,,,,,"14,9999999999996"
+02.12.2023,14:00:00,Serie A,Lazio,Cagliari,1x0,1,"0,2",,,,,,"15,1999999999996"
+02.12.2023,14:30:00,Bundesliga,Stuttgart,Werder Bremen,1x0,1,"0,2",,,,,,"15,3999999999996"
+02.12.2023,14:30:00,Serie C Group B,Carrarese,Recanatese,1x1,1,"0,2",,,,,,"15,5999999999996"
+02.12.2023,15:30:00,National,Red Star,Nîmes,2x0,1,"0,2",,,,,,"15,7999999999996"
+02.12.2023,16:00:00,First Amateur Division,Lokeren-Temse,KVK Tienen-Hageland,1x0,1,"0,2",,,,,,"15,9999999999996"
+02.12.2023,16:00:00,First Division B,KMSK Deinze,Club Brugge II,0x0,1,"0,2",,,,,,"16,1999999999996"
+02.12.2023,16:00:00,Primera Division RFEF Group 2,Málaga CF,Atlético Sanluqueño CF,0x0,1,"0,2",,,,,,"16,3999999999996"
+02.12.2023,16:45:00,Pro League,Royal Antwerp FC,OH Leuven,1x0,1,"0,2",,,,,,"16,5999999999996"
+02.12.2023,17:45:00,Liga 3,Felgueiras 1932,Canelas 2010,1x0,1,"0,2",,,,,,"16,7999999999996"
+02.12.2023,18:00:00,Primera División,Palestino,Curicó Unido,0x0,1,"0,2",,,,,,"16,9999999999996"
+02.12.2023,19:00:00,Primera División,Peñarol,Racing,0x0,1,"0,2",,,,,,"17,1999999999996"
+02.12.2023,21:00:00,Serie A,Atlético Mineiro,São Paulo,0x0,1,"0,2",,,,,,"17,3999999999996"
+03.12.2023,05:00:00,Liga 1,PSIS Semarang,PSS Sleman,1x0,1,"0,2",,,,,,"17,5999999999996"
+03.12.2023,08:00:00,Russian Premier League,CSKA Moskva,Rostov,1x0,1,"0,2",,,,,,"17,7999999999996"
+03.12.2023,08:00:00,3. Lig Group 3,Kuşadasıspor,Darıca Gençlerbirliği,2x0,1,"0,2",,,,,,"17,9999999999996"
+03.12.2023,08:00:00,Tercera Group 10,Utrera,Pozoblanco,0x1,0,-1,,,,,,"16,9999999999996"
+03.12.2023,09:00:00,Superleague of Kosovo,Drita,Feronikeli,2x0,1,"0,2",,,,,,"17,1999999999996"
+03.12.2023,09:30:00,Second Division,Omonia 29is Maiou,Akritas,1x0,1,"0,2",,,,,,"17,3999999999996"
+03.12.2023,10:30:00,Russian Premier League,Krasnodar,Orenburg,1x0,1,"0,2",,,,,,"17,5999999999996"
+03.12.2023,10:30:00,Serie D Group B,Brusaporto,Pontisola,0x1,0,-1,,,,,,"16,5999999999996"
+03.12.2023,11:00:00,Ligue 1,Monaco,Montpellier,1x0,1,"0,2",,,,,,"16,7999999999996"
+03.12.2023,11:00:00,Serie D Group H,Martina Franca,Santa Maria Cilento,0x0,1,"0,2",,,,,,"16,9999999999996"
+03.12.2023,11:00:00,Serie D Group H,Team Altamura,Paganese,0x1,0,-1,,,,,,"15,9999999999996"
+03.12.2023,11:00:00,NPFL,Gombe United,Kano Pillars,2x4,0,-1,,,,,,"14,9999999999996"
+03.12.2023,12:00:00,National Division,F91 Dudelange,Victoria Rosport,1x0,1,"0,2",,,,,,"15,1999999999996"
+03.12.2023,12:00:00,Liga 3,Varzim,Fafe,0x1,0,-1,,,,,,"14,1999999999996"
+03.12.2023,12:00:00,Ghana Premier League,Aduana Stars,Hearts of Oak,0x0,1,"0,2",,,,,,"14,3999999999996"
+03.12.2023,12:00:00,NPFL,Sporting Lagos,Katsina United,1x0,1,"0,2",,,,,,"14,5999999999996"
+03.12.2023,12:30:00,3. Liga,Jahn Regensburg,Freiburg II,2x1,1,"0,2",,,,,,"14,7999999999996"
+03.12.2023,13:00:00,Eliteserien,FK Bodo - Glimt,Sarpsborg 08,1x0,1,"0,2",,,,,,"14,9999999999996"
+03.12.2023,13:00:00,Eliteserien,Viking,Rosenborg,0x1,0,-1,,,,,,"13,9999999999996"
+03.12.2023,13:00:00,NB II,Győri ETO,Ajka,0x0,1,"0,2",,,,,,"14,1999999999996"
+03.12.2023,13:30:00,Super Liga,Slovan Bratislava,Ružomberok,1x2,0,-1,,,,,,"13,1999999999996"
+03.12.2023,14:00:00,Superliga,København,AGF,0x2,0,-1,,,,,,"12,1999999999996"
+03.12.2023,14:30:00,Pro League,Club Brugge,Standard Liège,1x0,1,"0,2",,,,,,"12,3999999999996"
+03.12.2023,14:30:00,Serie C Group A,Mantova,Renate,1x1,1,"0,2",,,,,,"12,5999999999996"
+03.12.2023,14:30:00,Serie C Group A,Calcio Padova,Lumezzane,1x1,1,"0,2",,,,,,"12,7999999999996"
+03.12.2023,16:00:00,Liga I,FCSB,Oţelul Galaţi,0x1,0,-1,,,,,,"11,7999999999996"
+03.12.2023,16:45:00,Serie C Group C,Avellino,Turris Neapolis,0x0,1,"0,2",,,,,,"11,9999999999996"
+03.12.2023,18:00:00,Primera División,Colo-Colo,Unión Española,0x0,1,"0,2",,,,,,"12,1999999999996"
+04.12.2023,05:00:00,Liga 1,Bali United,Arema,3x1,1,"0,2",,,,,,"12,3999999999996"
+04.12.2023,09:00:00,Liga 1,Persib,PSM,0x0,1,"0,2",,,,,,"12,5999999999996"
+04.12.2023,12:00:00,Ghana Premier League,Great Olympics,Legon Cities,0x0,1,"0,2",,,,,,"12,7999999999996"
+04.12.2023,13:30:00,Russian Premier League,Dinamo Moskva,Rubin Kazan,1x0,1,"0,2",,,,,,"12,9999999999996"
+04.12.2023,15:00:00,Superliga,Midtjylland,Viborg,2x1,1,"0,2",,,,,,"13,1999999999996"
+04.12.2023,16:00:00,Super League,AEK Athens,Aris,0x0,1,"0,2",,,,,,"13,3999999999996"
+05.12.2023,16:45:00,Southern League Premier South,Chesham United,Tiverton Town,0x0,1,"0,2",,,,,,"13,5999999999996"
+06.12.2023,21:00:00,LFPB,Aurora,Vaca Díez,2x0,1,"0,2",,,,,,"13,7999999999996"
+06.12.2023,21:00:00,LFPB,Guabirá,Independiente Petrolero,1x0,1,"0,2",,,,,,"13,9999999999996"
+07.12.2023,13:00:00,Ligi kuu Bara,Azam,KMC,2x0,1,"0,2",,,,,,"14,1999999999996"
+07.12.2023,13:30:00,PrvaLiga,Olimpija,Bravo,0x0,1,"0,2",,,,,,"14,3999999999996"
+07.12.2023,14:00:00,Botola Pro,RSB Berkane,Olympic Safi,0x0,1,"0,2",,,,,,"14,5999999999996"
+07.12.2023,17:00:00,Primera División,Nacional,Torque,0x1,0,-1,,,,,,"13,5999999999996"
+07.12.2023,17:15:00,Premier League,Tottenham Hotspur,West Ham United,1x0,1,"0,2",,,,,,"13,7999999999996"
+08.12.2023,10:00:00,Liga Leumit,Ironi Kiryat Shmona,Hapoel Ramat Gan,0x0,1,"0,2",,,,,,"13,9999999999996"
+08.12.2023,13:30:00,Stars League,Al Wakrah,Al Ahli,2x1,1,"0,2",,,,,,"14,1999999999996"
+08.12.2023,18:00:00,Primera División,Huachipato,Audax Italiano,0x0,1,"0,2",,,,,,"14,3999999999996"
+09.12.2023,07:30:00,1. Lig,BB Bodrumspor,Tuzlaspor,0x0,1,"0,2",,,,,,"14,5999999999996"
+09.12.2023,08:30:00,Persian Gulf Pro League,Sepahan,Mes Rafsanjan,0x0,1,"0,2",,,,,,"14,7999999999996"
+09.12.2023,09:00:00,Liga 1,Borneo,PSIS Semarang,1x0,1,"0,2",,,,,,"14,9999999999996"
+09.12.2023,09:00:00,2. Bundesliga,Hamburger SV,Paderborn,1x1,1,"0,2",,,,,,"15,1999999999996"
+09.12.2023,10:00:00,First League,Cherno More,Slavia Sofia,1x0,1,"0,2",,,,,,"15,3999999999996"
+09.12.2023,10:00:00,3. Liga,Ulm,Borussia Dortmund II,1x0,1,"0,2",,,,,,"15,5999999999996"
+09.12.2023,10:00:00,Premyer Liqası,Zira,Araz,0x0,1,"0,2",,,,,,"15,7999999999996"
+09.12.2023,11:00:00,First League,Slovan Liberec,Zlín,2x1,1,"0,2",,,,,,"15,9999999999996"
+09.12.2023,11:00:00,Botola Pro,Raja Casablanca,CR Khemis Zemamra,2x1,1,"0,2",,,,,,"16,1999999999996"
+09.12.2023,11:30:00,Stars League,Al Gharafa,Al Shamal,1x0,1,"0,2",,,,,,"16,3999999999996"
+09.12.2023,11:30:00,Stars League,Al Duhail,Qatar SC,1x0,1,"0,2",,,,,,"16,5999999999996"
+09.12.2023,12:00:00,National Division,UT Pétange,Marisca Mersch,2x0,1,"0,2",,,,,,"16,7999999999996"
+09.12.2023,12:00:00,EFL League Two,Notts County,Walsall,1x0,1,"0,2",,,,,,"16,9999999999996"
+09.12.2023,12:00:00,EFL League One,Blackpool,Carlisle United,1x0,1,"0,2",,,,,,"17,1999999999996"
+09.12.2023,12:00:00,EFL League One,Charlton Athletic,Cambridge United,0x0,1,"0,2",,,,,,"17,3999999999996"
+09.12.2023,12:00:00,Championship,Dundee United,Ayr United,0x0,1,"0,2",,,,,,"17,5999999999996"
+09.12.2023,12:00:00,League One,Falkirk,Kelty Hearts,1x0,1,"0,2",,,,,,"17,7999999999996"
+09.12.2023,12:00:00,Premier League,Manchester United,AFC Bournemouth,0x1,0,-1,,,,,,"16,7999999999996"
+09.12.2023,12:00:00,Northern Premier League,Rylands,Stafford Rangers,3x1,1,"0,2",,,,,,"16,9999999999996"
+09.12.2023,12:15:00,Segunda División,Real Valladolid,SD Amorebieta,0x1,0,-1,,,,,,"15,9999999999996"
+09.12.2023,13:30:00,1. Liga,Lechia Gdańsk,Chrobry Głogów,1x0,1,"0,2",,,,,,"16,1999999999996"
+09.12.2023,14:30:00,Liga 3,CD Trofense,Vianense,0x1,0,-1,,,,,,"15,1999999999996"
+09.12.2023,14:30:00,Serie C Group A,Triestina,Giana Erminio,0x0,1,"0,2",,,,,,"15,3999999999996"
+09.12.2023,14:45:00,Eredivisie,Ajax,Sparta Rotterdam,2x0,1,"0,2",,,,,,"15,5999999999996"
+09.12.2023,15:45:00,Liga I,Rapid Bucureşti,Voluntari,0x0,1,"0,2",,,,,,"15,7999999999996"
+09.12.2023,16:45:00,Pro League,KAA Gent,RWDM,2x0,1,"0,2",,,,,,"15,9999999999996"
+10.12.2023,09:00:00,Prva Liga,OFK Beograd,Dubočica,1x0,1,"0,2",,,,,,"16,1999999999996"
+10.12.2023,09:00:00,First Football League,Struga,Bregalnica Štip,1x0,1,"0,2",,,,,,"16,3999999999996"
+10.12.2023,12:30:00,3. Liga,Dynamo Dresden,Unterhaching,1x1,1,"0,2",,,,,,"16,5999999999996"
+10.12.2023,13:00:00,1. Lig,Eyüpspor,Şanlıurfaspor,2x0,1,"0,2",,,,,,"16,7999999999996"
+10.12.2023,13:10:00,Prva HNL,Rijeka,Slaven Koprivnica,0x1,0,-1,,,,,,"15,7999999999996"
+10.12.2023,14:30:00,Pro League,RSC Anderlecht,Standard Liège,1x1,1,"0,2",,,,,,"15,9999999999996"
+10.12.2023,17:00:00,La Liga,FC Barcelona,Girona FC,1x2,0,-1,,,,,,"14,9999999999996"
+11.12.2023,13:00:00,Ligi kuu Bara,Azam,JKT Tanzania,1x1,1,"0,2",,,,,,"15,1999999999996"
+13.12.2023,13:30:00,Stars League,Al Sadd,Al Duhail,0x1,0,-1,,,,,,"14,1999999999996"
+13.12.2023,16:45:00,Championship,Leicester City,Millwall,0x1,0,-1,,,,,,"13,1999999999996"
+14.12.2023,14:00:00,Egyptian Premier League,Pyramids FC,Baladiyyat Al Mehalla,1x1,1,"0,2",,,,,,"13,3999999999996"
+15.12.2023,08:00:00,Thai League 2,Nong Bua Pitchaya,Lampang,2x1,1,"0,2",,,,,,"13,5999999999996"
+15.12.2023,10:00:00,Liga Leumit,Ironi Tiberias,Hapoel Ramat Gan,1x0,1,"0,2",,,,,,"13,7999999999996"
+15.12.2023,16:00:00,Eerste Divisie,Willem II,Helmond Sport,1x1,1,"0,2",,,,,,"13,9999999999996"
+15.12.2023,17:00:00,Ligue 1,Monaco,Olympique Lyonnais,0x0,1,"0,2",,,,,,"14,1999999999996"
+16.12.2023,09:00:00,Ethiopia Premier League,Ethiopia Nigd Bank,Ethiopia Bunna,2x1,1,"0,2",,,,,,"14,3999999999996"
+16.12.2023,09:30:00,Championship,Ipswich Town,Norwich City,1x1,1,"0,2",,,,,,"14,5999999999996"
+16.12.2023,09:45:00,Arabian Gulf League,Al Wasl,Al Ittihad Kalba,1x0,1,"0,2",,,,,,"14,7999999999996"
+16.12.2023,12:00:00,Premiership,Celtic,Hearts,0x2,0,-1,,,,,,"13,7999999999996"
+16.12.2023,12:00:00,Premier League,Newcastle United,Fulham,0x0,1,"0,2",,,,,,"13,9999999999996"
+16.12.2023,12:00:00,Campeonato de Portugal Group D,Vitória Setúbal,O Elvas,1x0,1,"0,2",,,,,,"14,1999999999996"
+16.12.2023,14:00:00,Ligue 1,MC Alger,USM Khenchela,1x0,1,"0,2",,,,,,"14,3999999999996"
+16.12.2023,14:30:00,Bundesliga,RB Leipzig,Hoffenheim,1x1,1,"0,2",,,,,,"14,5999999999996"
+16.12.2023,14:30:00,Serie C Group A,Mantova,Lumezzane,0x0,1,"0,2",,,,,,"14,7999999999996"
+16.12.2023,16:00:00,First Amateur Division,RAAL La Louvière,Union Namur,3x0,1,"0,2",,,,,,"14,9999999999996"
+17.12.2023,08:30:00,Thai League 2,Chiangmai,Chanthaburi,0x0,1,"0,2",,,,,,"15,1999999999996"
+17.12.2023,09:00:00,Superleague of Kosovo,Ballkani,Prishtina,0x0,1,"0,2",,,,,,"15,3999999999996"
+17.12.2023,09:40:00,Division One,Dibba Al Hisn,Al Ramms,2x0,1,"0,2",,,,,,"15,5999999999996"
+17.12.2023,10:30:00,Serie D Group C,Clodiense,Chions,0x0,1,"0,2",,,,,,"15,7999999999996"
+17.12.2023,11:00:00,Premier League,Arsenal,Brighton & Hove Albion,0x0,1,"0,2",,,,,,"15,9999999999996"
+17.12.2023,12:00:00,Pro League,Union Saint-Gilloise,KV Mechelen,0x0,1,"0,2",,,,,,"16,1999999999996"
+17.12.2023,12:00:00,Campeonato de Portugal Group B,Amarante,CF Oliveira Douro,1x0,1,"0,2",,,,,,"16,3999999999996"
+17.12.2023,13:05:00,Ligue 1,Olympique Marseille,Clermont,2x0,1,"0,2",,,,,,"16,5999999999996"
+17.12.2023,13:30:00,Bundesliga,Bayer Leverkusen,Eintracht Frankfurt,1x0,1,"0,2",,,,,,"16,7999999999996"
+17.12.2023,13:30:00,Premier League,Liverpool,Manchester United,0x0,1,"0,2",,,,,,"16,9999999999996"
+17.12.2023,13:30:00,Super Liga,Slovan Bratislava,DAC,1x1,1,"0,2",,,,,,"17,1999999999996"
+17.12.2023,14:00:00,Botola Pro,FAR Rabat,Hassania Agadir,0x0,1,"0,2",,,,,,"17,3999999999996"
+17.12.2023,15:30:00,Bundesliga,Bayern München,Stuttgart,1x0,1,"0,2",,,,,,"17,5999999999996"
+17.12.2023,17:00:00,La Liga,Real Madrid,Villarreal,2x0,1,"0,2",,,,,,"17,7999999999996"
+17.12.2023,17:00:00,Jamaica National Premier League,Mount Pleasant Academy FC,Vere United,0x1,0,-1,,,,,,"16,7999999999996"
+18.12.2023,11:30:00,First Division,Al Quadisiya,Ohod,1x1,1,"0,2",,,,,,"16,9999999999996"
+18.12.2023,13:00:00,Premyer Liqası,Qarabağ,Neftçi,0x0,1,"0,2",,,,,,"17,1999999999996"
+19.12.2023,11:00,Persian Gulf Pro League,Esteghlal,Nassaji Mazandaran,1x0,1,"0,2",,,,,,"17,3999999999996"
+19.12.2023,17:30,La Liga,Atlético Madrid,Getafe CF,1x0,1,"0,2",,,,,,"17,5999999999996"
+20.12.2023,08:30,Iraqi Premier League,Al Quwa Al Jawiya,Duhok,1x0,1,"0,2",,,,,,"17,7999999999996"
+20.12.2023,14:00,Süper Lig,Galatasaray,Fatih Karagümrük,1x0,1,"0,2",,,,,,"17,9999999999996"
+22.12.2023,09:45,Division One,Al Urooba,Gulf Heroes,1x2,1,"0,2",,,,,,"18,1999999999996"
+22.12.2023,10:00,Liga Leumit,Hapoel Nazareth Illit,Hapoel Rishon LeZion,0x1,0,-1,,,,,,"17,1999999999996"
+22.12.2023,16:45,Championship,Raith Rovers,Ayr United,2x1,1,"0,2",,,,,,"17,3999999999996"
+22.12.2023,16:45,NIFL Premiership,Linfield,Coleraine,0x0,1,"0,2",,,,,,"17,5999999999996"
+22.12.2023,17:00,NIFL Championship,Dundela,Annagh United,4x2,1,"0,2",,,,,,"17,7999999999996"
+23.12.2023,12:00,National League,Chesterfield,Aldershot Town,1x1,1,"0,2",,,,,,"17,9999999999996"
+23.12.2023,12:00,Isthmian Premier Division,AFC Hornchurch,Canvey Island,0x0,1,"0,2",,,,,,"18,1999999999996"
