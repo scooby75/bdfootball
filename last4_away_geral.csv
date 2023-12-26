@@ -472,15 +472,15 @@ Al Ahly,3,2,1,0,5,3,2,7,egypt
 El Geish,4,2,1,1,5,3,2,7,egypt
 Zamalek,5,2,1,2,7,6,1,7,egypt
 Baladiyyat,4,1,3,0,7,5,2,6,egypt
+National Bank,5,2,0,3,8,7,1,6,egypt
 Pyramids FC,3,2,0,1,2,2,0,6,egypt
 Al Masry,4,2,0,2,7,9,-2,6,egypt
+ENPPI,5,2,0,3,5,7,-2,6,egypt
 Smouha,5,1,3,1,4,6,-2,6,egypt
 Al Mokawloon,5,1,2,2,7,8,-1,5,egypt
 Ceramica C.,5,1,2,2,4,5,-1,5,egypt
 Al Ittihad,3,1,1,1,4,5,-1,4,egypt
-National Bank,4,1,0,3,6,7,-1,3,egypt
 Pharco,4,1,0,3,4,6,-2,3,egypt
-ENPPI,4,1,0,3,3,6,-3,3,egypt
 Ismaily,5,0,1,4,2,7,-5,1,egypt
 El Daklyeh,4,0,1,3,1,8,-7,1,egypt
 Tottenham,8,5,2,1,18,10,8,17,england
@@ -951,10 +951,10 @@ Persebaya S.,8,0,4,4,3,14,-11,4,indonesia
 Barito Putera,8,0,3,5,7,15,-8,3,indonesia
 Persita,8,0,2,6,2,19,-17,2,indonesia
 TIRA Persikabo,8,0,1,7,5,18,-13,1,indonesia
-Zob Ahan,7,4,3,0,10,6,4,15,iran
+Zob Ahan,8,5,3,0,11,6,5,18,iran
 Shams A. Qazvin,8,4,2,2,12,8,4,14,iran
 Sepahan,5,4,1,0,14,3,11,13,iran
-Tractor Sazi,7,4,0,3,8,6,2,12,iran
+Tractor Sazi,8,4,1,3,8,6,2,13,iran
 Aluminium Arak,8,4,0,4,6,7,-1,12,iran
 Malavan,6,3,2,1,10,6,4,11,iran
 Persepolis,6,3,2,1,8,4,4,11,iran
@@ -1021,10 +1021,10 @@ H. Jerusalem,6,0,2,4,3,10,-7,2,israel
 M. Petah Tikva,5,0,2,3,3,11,-8,2,israel
 Ashdod,5,0,2,3,2,11,-9,2,israel
 H. Petah Tikva,6,0,1,5,4,14,-10,1,israel
-Bnei Yehuda,7,4,2,1,13,8,5,14,israel2
-Ramat Hasharon,7,3,2,2,13,9,4,11,israel2
+Bnei Yehuda,8,4,3,1,13,8,5,15,israel2
+Ramat Hasharon,8,4,2,2,18,9,9,14,israel2
 Maccabi Jaffa,6,3,1,2,13,9,4,10,israel2
-M. Herziliya,6,3,1,2,6,8,-2,10,israel2
+M. Herziliya,7,3,1,3,7,13,-6,10,israel2
 Ironi Tiberias,6,2,3,1,10,8,2,9,israel2
 Kiryat Shmona,6,3,0,3,8,7,1,9,israel2
 Hapoel Akko,8,2,3,3,8,9,-1,9,israel2
@@ -1172,9 +1172,9 @@ Al Kuwait,5,3,1,1,13,9,4,10,kuwait
 Kazma,6,3,1,2,12,17,-5,10,kuwait
 Al Nasar,6,3,0,3,12,9,3,9,kuwait
 Al Arabi SC,5,2,2,1,8,7,1,8,kuwait
-Al Shabab,4,2,1,1,7,7,0,7,kuwait
+Al Shabab,5,2,1,2,7,8,-1,7,kuwait
+Al Salmiyah,5,1,2,2,6,8,-2,5,kuwait
 Al Fahaheel,6,1,2,3,4,9,-5,5,kuwait
-Al Salmiyah,4,1,1,2,5,7,-2,4,kuwait
 Khaitan,5,0,2,3,3,10,-7,2,kuwait
 Al Jahra,6,0,1,5,4,11,-7,1,kuwait
 Riga FC,8,6,2,0,21,4,17,20,latvia
@@ -1783,15 +1783,15 @@ Al Hazm,8,0,5,3,7,14,-7,5,saudiarabia
 Al Tai,8,1,1,6,6,17,-11,4,saudiarabia
 Abha,8,0,1,7,8,29,-21,1,saudiarabia
 Jeddah,8,5,2,1,18,11,7,17,saudiarabia2
+Al Quadisiya,7,5,1,1,11,1,10,16,saudiarabia2
 Al Adalh,8,4,2,2,16,12,4,14,saudiarabia2
-Al Quadisiya,6,4,1,1,8,1,7,13,saudiarabia2
+Al Kholood,8,4,1,3,14,7,7,13,saudiarabia2
 Ohod,7,4,1,2,10,7,3,13,saudiarabia2
 Al Orubah,7,4,0,3,9,9,0,12,saudiarabia2
-Al Kholood,7,3,1,3,11,7,4,10,saudiarabia2
 Al Batin,7,3,1,3,4,4,0,10,saudiarabia2
 Al Najma,7,2,3,2,16,13,3,9,saudiarabia2
-Al Faisaly,7,2,2,3,10,13,-3,8,saudiarabia2
-Al-Jndal,7,2,1,4,5,12,-7,7,saudiarabia2
+Al Faisaly,8,2,3,3,11,14,-3,9,saudiarabia2
+Al-Jndal,8,2,1,5,6,14,-8,7,saudiarabia2
 Al Jabalain,7,1,3,3,5,10,-5,6,saudiarabia2
 Al Arabi,6,1,2,3,9,9,0,5,saudiarabia2
 Al-Ain,7,1,2,4,4,11,-7,5,saudiarabia2
@@ -1911,16 +1911,16 @@ OFK Malzenice,7,1,1,5,9,16,-7,4,slovakia2
 Slavoj Trebisov,7,1,1,5,5,15,-10,4,slovakia2
 Dolny Kubin,7,0,2,5,6,19,-13,2,slovakia2
 Spisska Nova V.,8,0,1,7,7,17,-10,1,slovakia2
-NK Celje,8,7,1,0,21,4,17,22,slovenia
-NK Olimpija,8,6,0,2,17,10,7,18,slovenia
-Mura,8,4,1,3,10,8,2,13,slovenia
-Koper,8,3,3,2,10,10,0,12,slovenia
-Radomlje,8,3,2,3,9,9,0,11,slovenia
-Domzale,8,3,1,4,13,12,1,10,slovenia
-Aluminij,8,3,1,4,8,10,-2,10,slovenia
-Bravo,8,1,4,3,8,11,-3,7,slovenia
-Maribor,8,1,3,4,9,13,-4,6,slovenia
-Rogaska,8,2,0,6,9,18,-9,6,slovenia
+NK Celje,4,4,0,0,11,1,10,12,slovenia
+Domzale,4,3,0,1,10,2,8,9,slovenia
+NK Olimpija,4,2,1,1,8,6,2,7,slovenia
+Bravo,4,2,1,1,6,5,1,7,slovenia
+Mura,4,2,1,1,4,3,1,7,slovenia
+Maribor,4,1,3,0,8,6,2,6,slovenia
+Aluminij,4,2,0,2,5,10,-5,6,slovenia
+Koper,4,0,1,3,7,12,-5,1,slovenia
+Radomlje,4,0,1,3,2,11,-9,1,slovenia
+Rogaska,4,0,0,4,4,9,-5,0,slovenia
 Mamelodi S.,8,7,1,0,11,1,10,22,southafrica
 SuperSport Utd,8,4,2,2,11,9,2,14,southafrica
 Golden Arrows,7,4,0,3,8,9,-1,12,southafrica
@@ -2075,7 +2075,7 @@ Al Wahda,5,1,1,3,2,5,-3,4,syria
 Al Ittihad,5,1,1,3,3,8,-5,4,syria
 Jabala,4,0,3,1,3,4,-1,3,syria
 Teshrin,5,0,2,3,1,5,-4,2,syria
-Horriya,4,0,0,4,1,10,-9,0,syria
+Horriya,5,0,0,5,2,12,-10,0,syria
 Azam,6,4,1,1,13,4,9,13,tanzania
 Young Africans,5,4,0,1,11,3,8,12,tanzania
 Singida,7,4,0,3,10,9,1,12,tanzania
@@ -2104,7 +2104,7 @@ Nakhon Pathom,8,2,2,4,11,17,-6,8,thailand
 Khon Kaen Utd,8,2,2,4,11,21,-10,8,thailand
 Chiangrai Utd,6,2,1,3,5,8,-3,7,thailand
 Chonburi,8,1,3,4,12,16,-4,6,thailand
-Ratchaburi,8,0,4,4,6,11,-5,4,thailand
+Ratchaburi,8,0,4,4,6,13,-7,4,thailand
 Trat,6,1,1,4,5,16,-11,4,thailand
 Prachuap,8,0,3,5,7,14,-7,3,thailand
 Lamphun Warrior,7,0,3,4,8,16,-8,3,thailand
@@ -2130,21 +2130,21 @@ Fenerbahce,8,7,1,0,18,4,14,22,turkey
 Galatasaray,8,6,1,1,12,3,9,19,turkey
 Trabzonspor,8,4,2,2,18,12,6,14,turkey
 Kayserispor,8,3,2,3,10,13,-3,11,turkey
-Besiktas,8,3,1,4,11,14,-3,10,turkey
+Besiktas,8,3,1,4,12,15,-3,10,turkey
 Sivasspor,8,3,1,4,9,16,-7,10,turkey
+Ankaragucu,8,2,3,3,13,13,0,9,turkey
 Gaziantep,8,3,0,5,10,13,-3,9,turkey
 Kasimpasa,8,2,3,3,10,13,-3,9,turkey
+Rizespor,8,2,3,3,9,16,-7,9,turkey
 Antalyaspor,8,2,2,4,13,12,1,8,turkey
-Ankaragucu,7,2,2,3,12,12,0,8,turkey
 Alanyaspor,8,2,2,4,5,12,-7,8,turkey
-Rizespor,8,2,2,4,8,16,-8,8,turkey
 Konyaspor,8,1,4,3,8,13,-5,7,turkey
 Pendikspor,8,2,1,5,10,20,-10,7,turkey
 Basaksehir,8,1,3,4,5,10,-5,6,turkey
 F. Karagumruk,8,1,2,5,7,10,-3,5,turkey
 Adana Demirspor,8,0,5,3,10,15,-5,5,turkey
 Hatayspor,8,0,4,4,4,9,-5,4,turkey
-Samsunspor,8,1,1,6,7,15,-8,4,turkey
+Samsunspor,8,1,0,7,7,17,-10,3,turkey
 Istanbulspor,8,0,1,7,3,15,-12,1,turkey
 Eyupspor,8,6,0,2,23,11,12,18,turkey2
 Kocaelispor,8,6,0,2,15,7,8,18,turkey2
@@ -2153,15 +2153,15 @@ Sakaryaspor,8,5,1,2,14,10,4,16,turkey2
 Goztepe,8,5,1,2,10,6,4,16,turkey2
 Genclerbirligi,8,4,3,1,10,8,2,15,turkey2
 Corum,8,3,3,2,13,8,5,12,turkey2
-Boluspor,7,3,2,2,5,4,1,11,turkey2
 Umraniyespor,8,3,2,3,9,9,0,11,turkey2
+Boluspor,8,3,2,3,5,6,-1,11,turkey2
 Bodrumspor,8,2,3,3,8,9,-1,9,turkey2
 Keciorengucu,8,2,3,3,6,10,-4,9,turkey2
-Sanliurfaspor,8,2,3,3,6,13,-7,9,turkey2
 Manisa BB,8,2,2,4,8,10,-2,8,turkey2
 Tuzlaspor,8,2,2,4,7,11,-4,8,turkey2
-Erzurum BB,8,1,4,3,5,9,-4,7,turkey2
 Adanaspor,8,2,1,5,7,13,-6,7,turkey2
+Sanliurfaspor,8,1,4,3,5,13,-8,7,turkey2
+Erzurum BB,8,1,3,4,5,12,-7,6,turkey2
 Altay,8,1,1,6,3,18,-15,4,turkey2
 Giresunspor,8,0,1,7,7,21,-14,1,turkey2
 Al Wasl,6,4,2,0,19,9,10,14,uae
