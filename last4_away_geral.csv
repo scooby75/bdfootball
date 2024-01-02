@@ -471,6 +471,7 @@ El Gouna,5,2,3,0,8,6,2,9,egypt
 Al Ahly,3,2,1,0,5,3,2,7,egypt
 Zamalek,5,2,1,2,7,6,1,7,egypt
 El Geish,5,2,1,2,5,4,1,7,egypt
+Al Ittihad,4,2,1,1,5,5,0,7,egypt
 National Bank,5,2,0,3,8,7,1,6,egypt
 Pyramids FC,3,2,0,1,2,2,0,6,egypt
 Baladiyyat,5,1,3,1,7,8,-1,6,egypt
@@ -479,9 +480,8 @@ ENPPI,5,2,0,3,5,7,-2,6,egypt
 Smouha,5,1,3,1,4,6,-2,6,egypt
 Ceramica C.,5,1,2,2,4,5,-1,5,egypt
 Al Mokawloon,6,1,2,3,8,11,-3,5,egypt
-Al Ittihad,3,1,1,1,4,5,-1,4,egypt
 Pharco,5,1,0,4,5,9,-4,3,egypt
-Ismaily,5,0,1,4,2,7,-5,1,egypt
+Ismaily,6,0,2,4,3,8,-5,2,egypt
 El Daklyeh,5,0,1,4,2,11,-9,1,egypt
 Liverpool,8,4,3,1,14,8,6,15,england
 Everton,8,5,0,3,11,10,1,15,england
@@ -499,99 +499,99 @@ Nottm Forest,8,2,2,4,7,15,-8,8,england
 Wolverhampton,8,2,1,5,13,16,-3,7,england
 Burnley,8,2,1,5,9,14,-5,7,england
 Luton Town,8,2,1,5,9,16,-7,7,england
-Newcastle Utd,8,1,2,5,14,17,-3,5,england
+Newcastle Utd,8,1,2,5,15,18,-3,5,england
 Brentford,8,1,1,6,6,13,-7,4,england
 Fulham,8,0,2,6,6,21,-15,2,england
 Sheffield Utd,8,0,2,6,3,21,-18,2,england
 Leicester City,8,5,2,1,14,8,6,17,england2
-Southampton,8,4,4,0,10,6,4,16,england2
-Watford,8,4,2,2,11,8,3,14,england2
+Watford,8,4,3,1,14,9,5,15,england2
+Southampton,8,3,5,0,10,7,3,14,england2
 Middlesbrough,8,4,1,3,17,13,4,13,england2
-West Brom,8,4,0,4,12,8,4,12,england2
+Cardiff City,8,4,1,3,10,9,1,13,england2
 Blackburn,8,4,0,4,15,15,0,12,england2
-Ipswich Town,8,3,3,2,10,12,-2,12,england2
+Ipswich Town,8,3,3,2,9,11,-2,12,england2
 Swansea City,8,3,2,3,12,16,-4,11,england2
 Coventry City,8,3,1,4,13,10,3,10,england2
 Leeds Utd,8,3,1,4,8,8,0,10,england2
-Cardiff City,8,3,1,4,8,10,-2,10,england2
-Millwall,8,2,3,3,12,10,2,9,england2
+Millwall,8,2,3,3,11,10,1,9,england2
 Stoke City,8,2,3,3,10,11,-1,9,england2
+West Brom,8,3,0,5,8,9,-1,9,england2
 Norwich City,8,2,2,4,11,14,-3,8,england2
-Hull City,8,2,2,4,11,16,-5,8,england2
-Preston,8,2,1,5,8,16,-8,7,england2
+Hull City,8,2,2,4,12,16,-4,8,england2
+Preston,8,2,1,5,8,15,-7,7,england2
 Bristol City,8,1,3,4,7,9,-2,6,england2
 Sunderland,8,1,3,4,4,8,-4,6,england2
 Huddersfield,8,1,3,4,6,14,-8,6,england2
 Sheffield Wed,8,2,0,6,4,12,-8,6,england2
 QP Rangers,8,1,2,5,5,10,-5,5,england2
-Birmingham City,8,1,1,6,8,18,-10,4,england2
+Birmingham City,8,1,1,6,8,19,-11,4,england2
 Plymouth,8,0,3,5,6,14,-8,3,england2
-Rotherham,8,0,2,6,4,20,-16,2,england2
+Rotherham,8,0,3,5,6,20,-14,3,england2
 Bolton,8,6,1,1,12,4,8,19,england3
 Portsmouth,8,5,2,1,14,5,9,17,england3
+Peterborough,8,5,2,1,15,10,5,17,england3
 Derby County,8,5,1,2,13,8,5,16,england3
 Barnsley,8,4,3,1,16,11,5,15,england3
-Peterborough,8,4,3,1,13,9,4,15,england3
-Stevenage,8,4,1,3,13,10,3,13,england3
+Leyton Orient,8,3,3,2,10,8,2,12,england3
 Lincoln City,8,3,2,3,7,7,0,11,england3
-Leyton Orient,8,2,4,2,9,9,0,10,england3
-Oxford Utd,8,3,1,4,10,13,-3,10,england3
-Fleetwood,8,2,3,3,9,13,-4,9,england3
-Burton Albion,8,2,2,4,6,14,-8,8,england3
+Stevenage,8,3,1,4,11,12,-1,10,england3
+Oxford Utd,8,3,1,4,9,13,-4,10,england3
+Fleetwood,8,2,3,3,9,14,-5,9,england3
 Wycombe,8,1,4,3,10,10,0,7,england3
 Charlton,8,1,4,3,9,12,-3,7,england3
-Port Vale,8,1,4,3,5,10,-5,7,england3
+Bristol Rovers,8,2,1,5,10,16,-6,7,england3
 Cheltenham,8,2,1,5,7,13,-6,7,england3
-Bristol Rovers,8,2,1,5,8,15,-7,7,england3
 Northampton,8,2,1,5,8,16,-8,7,england3
 Blackpool,8,1,3,4,11,13,-2,6,england3
+Wigan Athletic,8,1,3,4,8,11,-3,6,england3
+Port Vale,8,1,3,4,5,11,-6,6,england3
 Reading,8,1,3,4,11,18,-7,6,england3
-Wigan Athletic,8,1,2,5,8,14,-6,5,england3
+Burton Albion,8,1,2,5,3,13,-10,5,england3
 Shrewsbury,8,1,2,5,2,13,-11,5,england3
 Carlisle Utd,8,1,1,6,5,16,-11,4,england3
-Exeter City,8,1,1,6,3,22,-19,4,england3
 Cambridge Utd,8,0,3,5,5,14,-9,3,england3
-Mansfield,8,5,2,1,18,8,10,17,england4
-Barrow,8,5,1,2,17,8,9,16,england4
-Harrogate,8,5,1,2,10,7,3,16,england4
+Exeter City,8,0,1,7,4,25,-21,1,england3
+Mansfield,8,6,1,1,19,7,12,19,england4
+Harrogate,8,5,2,1,12,8,4,17,england4
+Barrow,8,5,1,2,18,11,7,16,england4
 Stockport,8,4,3,1,16,9,7,15,england4
-Bradford,8,4,0,4,14,13,1,12,england4
+Bradford,8,4,0,4,13,12,1,12,england4
 Wrexham,8,3,3,2,8,8,0,12,england4
-AFC Wimbledon,8,3,3,2,7,7,0,12,england4
+Walsall,8,3,1,4,16,16,0,10,england4
+AFC Wimbledon,8,2,4,2,5,7,-2,10,england4
 Morecambe,8,3,1,4,15,20,-5,10,england4
 Accrington,8,2,3,3,13,13,0,9,england4
-Milton Keynes,8,2,3,3,10,10,0,9,england4
+Milton Keynes,8,2,3,3,9,10,-1,9,england4
 Crewe Alexandra,8,2,3,3,13,15,-2,9,england4
-Salford City,8,2,2,4,11,11,0,8,england4
 Tranmere,8,2,2,4,10,10,0,8,england4
+Salford City,8,2,2,4,9,11,-2,8,england4
 Grimsby,8,1,4,3,11,12,-1,7,england4
-Notts County,8,2,1,5,13,17,-4,7,england4
 Crawley Town,8,2,1,5,7,12,-5,7,england4
-Walsall,8,2,1,5,10,17,-7,7,england4
-Newport,8,2,0,6,6,14,-8,6,england4
+Newport,8,2,1,5,6,13,-7,7,england4
+Gillingham,8,2,1,5,5,13,-8,7,england4
 Colchester Utd,8,2,0,6,9,20,-11,6,england4
 Doncaster,8,1,2,5,7,14,-7,5,england4
-Swindon Town,8,1,2,5,11,19,-8,5,england4
+Swindon Town,8,1,2,5,12,21,-9,5,england4
 Sutton Utd,8,1,2,5,5,20,-15,5,england4
-Gillingham,8,1,1,6,4,15,-11,4,england4
+Notts County,8,1,1,6,13,21,-8,4,england4
 Forest Green,8,0,1,7,7,19,-12,1,england4
 Oldham,8,6,1,1,18,12,6,19,england5
-Gateshead FC,8,5,2,1,20,8,12,17,england5
 Barnet,8,5,1,2,18,13,5,16,england5
 Chesterfield,8,5,1,2,12,7,5,16,england5
 Bromley,8,4,3,1,14,10,4,15,england5
+Gateshead FC,8,4,2,2,14,10,4,14,england5
 Halifax Town,8,4,2,2,9,5,4,14,england5
-Solihull Moors,8,4,2,2,11,16,-5,14,england5
-Dagenham & R.,8,3,4,1,9,6,3,13,england5
+Dagenham & R.,8,3,4,1,13,10,3,13,england5
+Dorking,8,4,1,3,11,14,-3,13,england5
 Altrincham,8,3,3,2,10,10,0,12,england5
+Aldershot Town,8,4,0,4,13,15,-2,12,england5
 York City,8,3,3,2,9,11,-2,12,england5
-Rochdale,8,3,2,3,13,14,-1,11,england5
-Dorking,8,3,2,3,9,13,-4,11,england5
+Solihull Moors,8,3,2,3,12,19,-7,11,england5
 Southend Utd,8,2,4,2,9,9,0,10,england5
 Woking,8,3,1,4,10,11,-1,10,england5
 Maidenhead Utd,8,2,3,3,12,14,-2,9,england5
-Aldershot Town,8,3,0,5,11,15,-4,9,england5
 Hartlepool,8,2,2,4,11,13,-2,8,england5
+Rochdale,8,2,2,4,11,15,-4,8,england5
 Boreham Wood,8,2,2,4,11,18,-7,8,england5
 AFC Fylde,8,2,1,5,10,13,-3,7,england5
 Eastleigh,8,2,1,5,15,20,-5,7,england5
@@ -953,11 +953,11 @@ Persita,8,0,2,6,2,19,-17,2,indonesia
 TIRA Persikabo,8,0,1,7,5,18,-13,1,indonesia
 Zob Ahan,8,5,3,0,11,6,5,18,iran
 Shams A. Qazvin,8,4,2,2,12,8,4,14,iran
-Sepahan,6,4,1,1,15,6,9,13,iran
+Sepahan,7,4,1,2,15,7,8,13,iran
 Tractor Sazi,8,4,1,3,8,6,2,13,iran
 Malavan,7,3,3,1,11,7,4,12,iran
+Persepolis,7,3,3,1,9,5,4,12,iran
 Aluminium Arak,8,4,0,4,6,7,-1,12,iran
-Persepolis,6,3,2,1,8,4,4,11,iran
 Esteghlal,8,2,5,1,9,6,3,11,iran
 Gol Gohar,7,2,4,1,4,3,1,10,iran
 Havadar,7,2,3,2,11,10,1,9,iran
@@ -1023,14 +1023,14 @@ Ashdod,6,0,2,4,2,12,-10,2,israel
 H. Petah Tikva,7,0,1,6,4,16,-12,1,israel
 Bnei Yehuda,8,4,3,1,13,8,5,15,israel2
 Ramat Hasharon,8,4,2,2,18,9,9,14,israel2
-Maccabi Jaffa,6,3,1,2,13,9,4,10,israel2
+Maccabi Jaffa,7,4,1,2,15,9,6,13,israel2
+Kiryat Shmona,7,4,0,3,9,7,2,12,israel2
 Ironi Tiberias,7,2,4,1,11,9,2,10,israel2
 M. Herziliya,7,3,1,3,7,13,-6,10,israel2
-Kiryat Shmona,6,3,0,3,8,7,1,9,israel2
 Hapoel Akko,8,2,3,3,8,9,-1,9,israel2
 H. Ironi Rishon,8,2,3,3,8,10,-2,9,israel2
+H. Nof Hagalil,8,2,2,4,9,11,-2,8,israel2
 Hapoel Afula,8,2,2,4,11,19,-8,8,israel2
-H. Nof Hagalil,7,2,1,4,7,9,-2,7,israel2
 Ihud B. Shfaram,7,2,1,4,8,14,-6,7,israel2
 H. Umm al-Fahm,7,1,3,3,7,10,-3,6,israel2
 Kafr Qasim,7,1,3,3,5,11,-6,6,israel2
@@ -1442,10 +1442,10 @@ Dundela,8,4,1,3,11,12,-1,13,northernireland2
 Bangor,8,3,2,3,16,13,3,11,northernireland2
 Ballinamallard,8,3,2,3,10,8,2,11,northernireland2
 Portadown,8,3,1,4,9,12,-3,10,northernireland2
+H&W Welders,8,2,1,5,13,17,-4,7,northernireland2
 Ballyclare,7,2,1,4,10,15,-5,7,northernireland2
 Ards,8,2,1,5,15,21,-6,7,northernireland2
 Annagh Utd,8,2,1,5,11,20,-9,7,northernireland2
-H&W Welders,8,1,2,5,10,17,-7,5,northernireland2
 Newington Youth,8,1,1,6,9,21,-12,4,northernireland2
 Dergview,8,0,2,6,5,19,-14,2,northernireland2
 Knockbreda,8,0,1,7,5,24,-19,1,northernireland2
@@ -1782,14 +1782,14 @@ Al Riyadh,8,2,0,6,8,23,-15,6,saudiarabia
 Al Hazm,8,0,5,3,8,15,-7,5,saudiarabia
 Al Tai,8,1,1,6,6,17,-11,4,saudiarabia
 Abha,8,0,1,7,11,32,-21,1,saudiarabia
-Jeddah,8,5,2,1,18,11,7,17,saudiarabia2
 Al Quadisiya,7,5,1,1,11,1,10,16,saudiarabia2
+Jeddah,8,4,2,2,17,13,4,14,saudiarabia2
 Al Adalh,8,4,2,2,16,12,4,14,saudiarabia2
 Al Kholood,8,4,1,3,14,7,7,13,saudiarabia2
 Ohod,7,4,1,2,10,7,3,13,saudiarabia2
+Al Najma,8,3,3,2,18,14,4,12,saudiarabia2
 Al Orubah,7,4,0,3,9,9,0,12,saudiarabia2
 Al Batin,7,3,1,3,4,4,0,10,saudiarabia2
-Al Najma,7,2,3,2,16,13,3,9,saudiarabia2
 Al Faisaly,8,2,3,3,11,14,-3,9,saudiarabia2
 Al Arabi,7,2,2,3,10,9,1,8,saudiarabia2
 Al-Jndal,8,2,1,5,6,14,-8,7,saudiarabia2
@@ -1797,7 +1797,7 @@ Al Jabalain,7,1,3,3,5,10,-5,6,saudiarabia2
 Al-Ain,8,1,3,4,5,12,-7,6,saudiarabia2
 Al Qaisoma,8,1,2,5,10,17,-7,5,saudiarabia2
 Hajer,7,0,4,3,7,14,-7,4,saudiarabia2
-Al Safa,8,1,1,6,5,17,-12,4,saudiarabia2
+Al Safa,8,1,1,6,6,17,-11,4,saudiarabia2
 Al Taraji,7,1,0,6,3,13,-10,3,saudiarabia2
 Al Bukayriyah,7,0,2,5,3,8,-5,2,saudiarabia2
 Celtic,8,6,1,1,19,5,14,19,scotland

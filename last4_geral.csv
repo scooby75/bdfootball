@@ -465,22 +465,22 @@ Manta,4,1,1,2,5,5,0,4,ecuador3
 I. Juniors,4,1,1,2,6,8,-2,4,ecuador3
 Macara,4,0,0,4,3,11,-8,0,ecuador3
 Guayaquil,4,0,0,4,2,11,-9,0,ecuador3
-Al Ittihad,4,3,1,0,7,3,4,10,egypt
+Al Ittihad,4,3,1,0,5,1,4,10,egypt
 ENPPI,4,3,0,1,8,5,3,9,egypt
 Al Ahly,4,2,2,0,5,3,2,8,egypt
 Smouha,4,2,2,0,3,1,2,8,egypt
 Ceramica C.,4,2,1,1,7,5,2,7,egypt
 ZED FC,4,2,1,1,5,3,2,7,egypt
 Pyramids FC,4,2,1,1,7,7,0,7,egypt
+Al Masry,4,2,1,1,4,6,-2,7,egypt
 National Bank,4,2,0,2,8,6,2,6,egypt
 El Geish,4,2,0,2,4,3,1,6,egypt
-Al Masry,4,2,0,2,5,8,-3,6,egypt
 El Gouna,4,1,2,1,6,6,0,5,egypt
 Al Mokawloon,4,1,2,1,4,5,-1,5,egypt
+Ismaily,4,1,1,2,4,5,-1,4,egypt
 Future FC,4,1,1,2,3,5,-2,4,egypt
 Zamalek,4,1,0,3,4,5,-1,3,egypt
-Ismaily,4,1,0,3,5,7,-2,3,egypt
-El Daklyeh,4,0,3,1,1,3,-2,3,egypt
+El Daklyeh,4,0,2,2,1,4,-3,2,egypt
 Pharco,4,0,1,3,4,8,-4,1,egypt
 Baladiyyat,4,0,1,3,2,9,-7,1,egypt
 Manchester City,4,3,1,0,9,4,5,10,england
@@ -489,7 +489,7 @@ Wolverhampton,4,3,0,1,9,5,4,9,england
 Tottenham,4,3,0,1,9,6,3,9,england
 Chelsea,4,3,0,1,8,5,3,9,england
 West Ham Utd,4,3,0,1,7,5,2,9,england
-Liverpool,4,2,2,0,5,2,3,8,england
+Liverpool,4,2,2,0,7,3,4,8,england
 Aston Villa,4,2,1,1,8,7,1,7,england
 Luton Town,4,2,0,2,7,7,0,6,england
 Nottm Forest,4,2,0,2,7,7,0,6,england
@@ -497,107 +497,107 @@ Crystal Palace,4,1,2,1,7,6,1,5,england
 Brighton,4,1,2,1,6,6,0,5,england
 Arsenal,4,1,1,2,4,5,-1,4,england
 Manchester Utd,4,1,1,2,4,6,-2,4,england
-Newcastle Utd,4,1,0,3,5,8,-3,3,england
+Newcastle Utd,4,1,0,3,6,8,-2,3,england
 Burnley,4,1,0,3,4,7,-3,3,england
 Everton,4,1,0,3,4,8,-4,3,england
 Fulham,4,1,0,3,2,9,-7,3,england
 Sheffield Utd,4,0,1,3,3,8,-5,1,england
 Brentford,4,0,0,4,3,10,-7,0,england
-Southampton,4,4,0,0,12,1,11,12,england2
-Leicester City,4,3,1,0,9,3,6,10,england2
-Bristol City,4,3,1,0,8,3,5,10,england2
-Middlesbrough,4,3,0,1,5,3,2,9,england2
-Coventry City,4,2,2,0,8,3,5,8,england2
-Millwall,4,2,2,0,4,1,3,8,england2
-Watford,4,2,1,1,9,7,2,7,england2
-West Brom,4,2,1,1,3,2,1,7,england2
-Hull City,4,2,0,2,8,6,2,6,england2
-Stoke City,4,1,3,0,5,3,2,6,england2
-Sheffield Wed,4,2,0,2,4,5,-1,6,england2
-Plymouth,4,1,2,1,9,9,0,5,england2
-Leeds Utd,4,1,1,2,6,4,2,4,england2
-Huddersfield,4,1,1,2,5,5,0,4,england2
-Norwich City,4,1,1,2,4,4,0,4,england2
-Rotherham,4,1,1,2,4,7,-3,4,england2
-Sunderland,4,1,1,2,2,5,-3,4,england2
-Cardiff City,4,1,1,2,4,8,-4,4,england2
-Swansea City,4,1,1,2,5,10,-5,4,england2
-Ipswich Town,4,0,3,1,3,7,-4,3,england2
-Preston,4,1,0,3,4,9,-5,3,england2
-Birmingham City,4,0,2,2,6,9,-3,2,england2
+Leicester City,4,3,1,0,10,2,8,10,england2
+Coventry City,4,3,1,0,10,3,7,10,england2
+Southampton,4,3,1,0,9,2,7,10,england2
+Millwall,4,3,1,0,4,0,4,10,england2
+Bristol City,4,2,1,1,7,4,3,7,england2
+Cardiff City,4,2,1,1,6,6,0,7,england2
+Sunderland,4,2,1,1,4,4,0,7,england2
+Swansea City,4,2,1,1,5,8,-3,7,england2
+Leeds Utd,4,2,0,2,8,3,5,6,england2
+Stoke City,4,1,3,0,4,2,2,6,england2
+Sheffield Wed,4,2,0,2,5,5,0,6,england2
+West Brom,4,2,0,2,2,2,0,6,england2
+Middlesbrough,4,2,0,2,4,5,-1,6,england2
+Watford,4,1,2,1,7,9,-2,5,england2
+Rotherham,4,1,2,1,4,6,-2,5,england2
+Norwich City,4,1,1,2,3,3,0,4,england2
+Plymouth,4,0,3,1,9,10,-1,3,england2
+Hull City,4,1,0,3,6,9,-3,3,england2
+Huddersfield,4,1,0,3,5,8,-3,3,england2
+Preston,4,1,0,3,3,6,-3,3,england2
+Ipswich Town,4,0,3,1,1,5,-4,3,england2
+Birmingham City,4,0,2,2,4,9,-5,2,england2
 QP Rangers,4,0,1,3,1,5,-4,1,england2
-Blackburn,4,0,0,4,3,12,-9,0,england2
-Derby County,4,3,1,0,8,4,4,10,england3
-Bolton,4,3,0,1,7,4,3,9,england3
-Bristol Rovers,4,3,0,1,7,6,1,9,england3
+Blackburn,4,0,1,3,5,10,-5,1,england2
+Bolton,4,4,0,0,7,2,5,12,england3
+Derby County,4,3,0,1,9,6,3,9,england3
+Northampton,4,3,0,1,5,5,0,9,england3
+Reading,4,2,2,0,9,6,3,8,england3
+Peterborough,4,2,2,0,9,7,2,8,england3
 Barnsley,4,2,2,0,8,6,2,8,england3
-Peterborough,4,2,2,0,7,5,2,8,england3
-Port Vale,4,2,1,1,9,6,3,7,england3
-Stevenage,4,2,1,1,7,4,3,7,england3
-Cambridge Utd,4,2,1,1,7,5,2,7,england3
-Cheltenham,4,2,1,1,6,4,2,7,england3
-Leyton Orient,4,2,1,1,5,4,1,7,england3
-Northampton,4,2,1,1,6,7,-1,7,england3
-Burton Albion,4,2,1,1,3,4,-1,7,england3
-Oxford Utd,4,2,0,2,8,6,2,6,england3
-Reading,4,1,3,0,7,5,2,6,england3
-Portsmouth,4,1,2,1,5,3,2,5,england3
-Exeter City,4,1,2,1,2,3,-1,5,england3
-Wycombe,4,0,3,1,2,3,-1,3,england3
-Wigan Athletic,4,1,0,3,4,6,-2,3,england3
-Blackpool,4,1,0,3,4,7,-3,3,england3
-Charlton,4,0,2,2,3,5,-2,2,england3
-Carlisle Utd,4,0,2,2,3,6,-3,2,england3
-Fleetwood,4,0,2,2,2,5,-3,2,england3
-Lincoln City,4,0,1,3,3,7,-4,1,england3
-Shrewsbury,4,0,0,4,1,8,-7,0,england3
-Milton Keynes,4,4,0,0,8,1,7,12,england4
-Mansfield,4,3,1,0,8,2,6,10,england4
-Tranmere,4,3,0,1,9,3,6,9,england4
-Walsall,4,3,0,1,7,3,4,9,england4
-Harrogate,4,3,0,1,7,5,2,9,england4
-Wrexham,4,3,0,1,6,4,2,9,england4
-Stockport,4,2,2,0,12,3,9,8,england4
-Barrow,4,2,2,0,9,4,5,8,england4
-Bradford,4,2,2,0,7,3,4,8,england4
-AFC Wimbledon,4,2,1,1,7,5,2,7,england4
-Notts County,4,2,0,2,10,5,5,6,england4
-Accrington,4,1,2,1,7,7,0,5,england4
+Cheltenham,4,2,1,1,5,3,2,7,england3
+Leyton Orient,4,2,1,1,5,3,2,7,england3
+Burton Albion,4,2,1,1,3,2,1,7,england3
+Oxford Utd,4,2,0,2,7,7,0,6,england3
+Blackpool,4,2,0,2,5,5,0,6,england3
+Cambridge Utd,4,2,0,2,5,5,0,6,england3
+Bristol Rovers,4,2,0,2,7,8,-1,6,england3
+Portsmouth,4,1,2,1,4,4,0,5,england3
+Wycombe,4,1,2,1,4,4,0,5,england3
+Port Vale,4,1,1,2,7,6,1,4,england3
+Stevenage,4,1,1,2,6,5,1,4,england3
+Wigan Athletic,4,1,1,2,3,4,-1,4,england3
+Carlisle Utd,4,1,1,2,3,5,-2,4,england3
+Exeter City,4,1,1,2,3,5,-2,4,england3
+Shrewsbury,4,1,0,3,4,6,-2,3,england3
+Fleetwood,4,0,2,2,3,7,-4,2,england3
+Charlton,4,0,1,3,3,6,-3,1,england3
+Lincoln City,4,0,0,4,2,8,-6,0,england3
+Tranmere,4,4,0,0,13,4,9,12,england4
+Mansfield,4,3,1,0,7,1,6,10,england4
+Walsall,4,3,0,1,12,4,8,9,england4
+Wrexham,4,3,0,1,8,4,4,9,england4
+Milton Keynes,4,3,0,1,6,4,2,9,england4
+Accrington,4,2,1,1,7,4,3,7,england4
+AFC Wimbledon,4,2,1,1,8,6,2,7,england4
+Harrogate,4,2,1,1,6,6,0,7,england4
+Gillingham,4,2,1,1,2,2,0,7,england4
+Notts County,4,2,0,2,11,6,5,6,england4
+Crawley Town,4,2,0,2,6,5,1,6,england4
+Bradford,4,1,2,1,5,4,1,5,england4
 Newport,4,1,2,1,6,6,0,5,england4
-Grimsby,4,1,1,2,5,5,0,4,england4
-Morecambe,4,1,1,2,8,10,-2,4,england4
-Gillingham,4,1,1,2,1,4,-3,4,england4
-Colchester Utd,4,1,0,3,6,9,-3,3,england4
-Crawley Town,4,1,0,3,4,7,-3,3,england4
-Swindon Town,4,1,0,3,3,7,-4,3,england4
-Sutton Utd,4,1,0,3,1,11,-10,3,england4
-Crewe Alexandra,4,0,2,2,5,9,-4,2,england4
-Forest Green,4,0,1,3,3,8,-5,1,england4
-Salford City,4,0,1,3,2,10,-8,1,england4
-Doncaster,4,0,1,3,2,12,-10,1,england4
+Barrow,4,1,2,1,7,8,-1,5,england4
+Stockport,4,1,2,1,4,5,-1,5,england4
+Doncaster,4,1,1,2,5,7,-2,4,england4
+Sutton Utd,4,1,1,2,2,4,-2,4,england4
+Crewe Alexandra,4,1,1,2,3,6,-3,4,england4
+Colchester Utd,4,1,0,3,5,8,-3,3,england4
+Swindon Town,4,1,0,3,4,7,-3,3,england4
+Grimsby,4,1,0,3,5,10,-5,3,england4
+Forest Green,4,0,2,2,4,7,-3,2,england4
+Morecambe,4,0,2,2,5,12,-7,2,england4
+Salford City,4,0,0,4,2,13,-11,0,england4
 Barnet,4,3,1,0,10,1,9,10,england5
 Bromley,4,3,1,0,12,6,6,10,england5
 Wealdstone,4,3,1,0,11,6,5,10,england5
 Oldham,4,3,0,1,9,5,4,9,england5
 Chesterfield,4,3,0,1,8,5,3,9,england5
-Altrincham,4,2,1,1,11,6,5,7,england5
-Halifax Town,4,2,1,1,6,4,2,7,england5
+Halifax Town,4,2,2,0,6,3,3,8,england5
 Maidenhead Utd,4,2,1,1,5,3,2,7,england5
+Eastleigh,4,2,1,1,12,12,0,7,england5
 Boreham Wood,4,2,1,1,5,9,-4,7,england5
-Eastleigh,4,2,0,2,10,11,-1,6,england5
-Solihull Moors,4,2,0,2,7,10,-3,6,england5
-Rochdale,4,1,2,1,4,3,1,5,england5
-Gateshead FC,4,1,2,1,4,5,-1,5,england5
-Woking,4,1,2,1,4,5,-1,5,england5
-Dagenham & R.,4,1,1,2,6,6,0,4,england5
-York City,4,0,4,0,3,3,0,4,england5
-Aldershot Town,4,1,1,2,5,9,-4,4,england5
-Oxford City,4,1,0,3,5,8,-3,3,england5
+York City,4,1,3,0,4,2,2,6,england5
+Solihull Moors,4,2,0,2,8,7,1,6,england5
+Dagenham & R.,4,1,2,1,9,8,1,5,england5
+Altrincham,4,1,2,1,5,5,0,5,england5
+Rochdale,4,1,2,1,4,4,0,5,england5
+Woking,4,1,2,1,4,4,0,5,england5
+AFC Fylde,4,1,1,2,4,5,-1,4,england5
+Gateshead FC,4,1,1,2,3,6,-3,4,england5
+Aldershot Town,4,1,1,2,7,11,-4,4,england5
+Oxford City,4,1,0,3,5,6,-1,3,england5
+Dorking,4,1,0,3,4,7,-3,3,england5
 Southend Utd,4,1,0,3,3,6,-3,3,england5
-AFC Fylde,4,0,2,2,5,8,-3,2,england5
 Ebbsfleet Utd,4,0,2,2,5,10,-5,2,england5
 Kidderminster,4,0,1,3,3,6,-3,1,england5
-Dorking,4,0,1,3,5,9,-4,1,england5
 Hartlepool,4,0,1,3,5,10,-5,1,england5
 Tallinna Kalev,4,3,1,0,15,3,12,10,estonia
 Kuressaare,4,3,1,0,4,1,3,10,estonia
@@ -956,17 +956,17 @@ Esteghlal,4,2,2,0,8,3,5,8,iran
 Gol Gohar,4,2,2,0,5,2,3,8,iran
 Persepolis,4,2,2,0,6,4,2,8,iran
 Aluminium Arak,4,2,2,0,4,2,2,8,iran
-Shams A. Qazvin,4,2,1,1,5,3,2,7,iran
-Sepahan,4,2,0,2,9,5,4,6,iran
+Shams A. Qazvin,4,2,1,1,4,3,1,7,iran
 Zob Ahan,4,1,3,0,2,1,1,6,iran
 Malavan,4,1,2,1,5,4,1,5,iran
 E. Khuzestan,4,1,1,2,4,6,-2,4,iran
 Havadar,4,1,1,2,4,8,-4,4,iran
+Sepahan,4,1,0,3,6,5,1,3,iran
 Foolad,4,0,3,1,1,3,-2,3,iran
 Paykan,4,0,2,2,1,4,-3,2,iran
 Sanat Naft,4,0,1,3,0,5,-5,1,iran
 N. Mazandaran,4,0,1,3,3,9,-6,1,iran
-Mes Rafsanjan,4,0,0,4,3,12,-9,0,iran
+Mes Rafsanjan,4,0,1,3,4,11,-7,1,iran
 Al Shorta,4,4,0,0,11,1,10,12,iraq
 Al Quwa Al J.,4,2,2,0,7,3,4,8,iraq
 Al Kahrabaa,4,2,2,0,8,5,3,8,iraq
@@ -1026,16 +1026,16 @@ Hapoel Akko,4,2,2,0,8,5,3,8,israel2
 Ironi Tiberias,4,2,2,0,4,2,2,8,israel2
 H. Umm al-Fahm,4,2,1,1,7,2,5,7,israel2
 Kafr Qasim,4,2,1,1,5,4,1,7,israel2
-Kiryat Shmona,4,2,0,2,9,6,3,6,israel2
+Kiryat Shmona,4,2,0,2,8,6,2,6,israel2
 Ramat Hasharon,4,2,0,2,7,6,1,6,israel2
-H. Nof Hagalil,4,2,0,2,4,4,0,6,israel2
+H. Ironi Rishon,4,2,0,2,3,3,0,6,israel2
 H. Ramat Gan,4,2,0,2,6,7,-1,6,israel2
-H. Ironi Rishon,4,2,0,2,3,4,-1,6,israel2
 Bnei Yehuda,4,1,2,1,2,2,0,5,israel2
 M. Herziliya,4,1,2,1,4,7,-3,5,israel2
 Ihud B. Shfaram,4,1,2,1,5,9,-4,5,israel2
-Hapoel Afula,4,1,1,2,6,8,-2,4,israel2
-Nes Tziona,4,1,1,2,4,7,-3,4,israel2
+Nes Tziona,4,1,1,2,4,6,-2,4,israel2
+H. Nof Hagalil,4,1,1,2,3,5,-2,4,israel2
+Hapoel Afula,4,0,2,2,5,9,-4,2,israel2
 H. Kfar Saba,4,0,0,4,2,6,-4,0,israel2
 Inter Milan,4,3,1,0,9,1,8,10,italy
 Juventus,4,3,1,0,5,2,3,10,italy
@@ -1440,9 +1440,9 @@ Newry City,4,0,0,4,0,11,-11,0,northernireland
 Bangor,4,3,1,0,11,4,7,10,northernireland2
 H&W Welders,4,3,1,0,10,5,5,10,northernireland2
 Dundela,4,3,0,1,11,6,5,9,northernireland2
-Ballyclare,4,3,0,1,7,2,5,9,northernireland2
 Institute,4,2,1,1,8,5,3,7,northernireland2
 Annagh Utd,4,2,0,2,9,9,0,6,northernireland2
+Ballyclare,4,2,0,2,6,6,0,6,northernireland2
 Ballinamallard,4,1,1,2,6,5,1,4,northernireland2
 Newington Youth,4,1,1,2,5,7,-2,4,northernireland2
 Dergview,4,1,1,2,1,6,-5,4,northernireland2
@@ -1785,19 +1785,19 @@ Al Feiha,4,0,0,4,1,13,-12,0,saudiarabia
 Al Quadisiya,4,3,1,0,10,2,8,10,saudiarabia2
 Al Arabi,4,3,0,1,7,2,5,9,saudiarabia2
 Al Batin,4,3,0,1,6,4,2,9,saudiarabia2
-Al Kholood,4,2,2,0,8,3,5,8,saudiarabia2
+Al Kholood,4,2,2,0,7,3,4,8,saudiarabia2
 Ohod,4,2,2,0,4,2,2,8,saudiarabia2
 Al-Jndal,4,2,1,1,6,4,2,7,saudiarabia2
-Jeddah,4,2,1,1,8,7,1,7,saudiarabia2
 Al Jabalain,4,2,1,1,7,6,1,7,saudiarabia2
+Al-Ain,4,1,2,1,8,7,1,5,saudiarabia2
 Al Adalh,4,0,4,0,5,5,0,4,saudiarabia2
 Hajer,4,0,4,0,4,4,0,4,saudiarabia2
-Al Najma,4,1,1,2,4,5,-1,4,saudiarabia2
+Jeddah,4,1,1,2,6,8,-2,4,saudiarabia2
+Al Faisaly,4,1,1,2,7,10,-3,4,saudiarabia2
+Al Najma,4,1,1,2,3,6,-3,4,saudiarabia2
 Al Qaisoma,4,1,1,2,6,10,-4,4,saudiarabia2
-Al Faisaly,4,1,1,2,6,11,-5,4,saudiarabia2
-Al-Ain,4,0,3,1,5,6,-1,3,saudiarabia2
 Al Orubah,4,1,0,3,3,8,-5,3,saudiarabia2
-Al Safa,4,0,2,2,3,7,-4,2,saudiarabia2
+Al Safa,4,0,2,2,4,8,-4,2,saudiarabia2
 Al Bukayriyah,4,0,1,3,4,7,-3,1,saudiarabia2
 Al Taraji,4,0,1,3,1,4,-3,1,saudiarabia2
 Hearts,4,3,1,0,7,2,5,10,scotland
