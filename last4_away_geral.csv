@@ -494,11 +494,11 @@ West Ham Utd,8,4,0,4,12,18,-6,12,england
 Arsenal,8,3,2,3,13,10,3,11,england
 Aston Villa,8,3,2,3,10,13,-3,11,england
 Crystal Palace,8,2,2,4,9,14,-5,8,england
-Brighton,8,2,2,4,12,18,-6,8,england
 Nottm Forest,8,2,2,4,7,15,-8,8,england
 Wolverhampton,8,2,1,5,13,16,-3,7,england
 Burnley,8,2,1,5,9,14,-5,7,england
 Luton Town,8,2,1,5,9,16,-7,7,england
+Brighton,8,1,3,4,9,17,-8,6,england
 Newcastle Utd,8,1,2,5,15,18,-3,5,england
 Brentford,8,1,1,6,6,13,-7,4,england
 Fulham,8,0,2,6,6,21,-15,2,england
@@ -967,7 +967,7 @@ Mes Rafsanjan,7,2,1,4,5,10,-5,7,iran
 Foolad,8,1,2,5,2,15,-13,5,iran
 E. Khuzestan,7,0,2,5,2,8,-6,2,iran
 N. Mazandaran,6,0,1,5,2,12,-10,1,iran
-Al Quwa Al J.,5,4,1,0,11,3,8,13,iraq
+Al Quwa Al J.,6,5,1,0,12,3,9,16,iraq
 Al Shorta,6,4,1,1,13,6,7,13,iraq
 Al Zawraa,6,3,3,0,6,2,4,12,iraq
 Naft Maysan,6,3,2,1,9,1,8,11,iraq
@@ -1011,12 +1011,12 @@ M. Tel Aviv,7,7,0,0,17,4,13,21,israel
 Maccabi Haifa,6,4,1,1,15,7,8,13,israel
 Hapoel Haifa,6,4,1,1,7,7,0,13,israel
 Bnei Sakhnin,7,3,3,1,8,9,-1,12,israel
+H. Beer Sheva,8,3,2,3,14,10,4,11,israel
 M. Bnei Raina,6,3,2,1,7,4,3,11,israel
-H. Beer Sheva,7,2,2,3,12,10,2,8,israel
 Hapoel Tel Aviv,6,2,2,2,8,6,2,8,israel
+Maccabi Netanya,8,2,2,4,11,11,0,8,israel
 B. Jerusalem,6,2,1,3,7,6,1,7,israel
 Hapoel Hadera,6,2,1,3,3,7,-4,7,israel
-Maccabi Netanya,7,1,2,4,8,10,-2,5,israel
 H. Jerusalem,7,1,2,4,5,11,-6,5,israel
 M. Petah Tikva,6,0,2,4,5,14,-9,2,israel
 Ashdod,6,0,2,4,2,12,-10,2,israel
@@ -1167,7 +1167,7 @@ Prishtina,8,0,6,2,4,8,-4,6,kosovo
 Gjilani,8,1,0,7,7,12,-5,3,kosovo
 Liria,8,0,2,6,4,14,-10,2,kosovo
 Fushe Kosova,8,0,1,7,3,12,-9,1,kosovo
-Al Qadsia,6,6,0,0,15,1,14,18,kuwait
+Al Qadsia,7,6,1,0,17,3,14,19,kuwait
 Kazma,7,4,1,2,14,17,-3,13,kuwait
 Al Nasar,7,4,0,3,13,9,4,12,kuwait
 Al Arabi SC,6,3,2,1,12,7,5,11,kuwait
@@ -1426,9 +1426,9 @@ Doma Utd,8,0,3,5,2,10,-8,3,nigeria
 El Kanemi,8,1,0,7,3,16,-13,3,nigeria
 Dakkada,8,0,0,8,2,15,-13,0,nigeria
 Cliftonville,8,7,0,1,20,5,15,21,northernireland
+Linfield,8,6,1,1,12,6,6,19,northernireland
 Larne,8,5,2,1,13,4,9,17,northernireland
 Crusaders,8,5,1,2,16,9,7,16,northernireland
-Linfield,8,5,1,2,11,8,3,16,northernireland
 Carrick Rangers,8,5,1,2,14,12,2,16,northernireland
 Glenavon,8,4,0,4,14,14,0,12,northernireland
 Dungannon,8,2,2,4,12,18,-6,8,northernireland
@@ -1783,13 +1783,13 @@ Al Hazm,8,0,5,3,8,15,-7,5,saudiarabia
 Al Tai,8,1,1,6,6,17,-11,4,saudiarabia
 Abha,8,0,1,7,11,32,-21,1,saudiarabia
 Al Quadisiya,7,5,1,1,11,1,10,16,saudiarabia2
+Al Adalh,8,4,3,1,16,11,5,15,saudiarabia2
 Jeddah,8,4,2,2,17,13,4,14,saudiarabia2
-Al Adalh,8,4,2,2,16,12,4,14,saudiarabia2
 Al Kholood,8,4,1,3,14,7,7,13,saudiarabia2
 Ohod,7,4,1,2,10,7,3,13,saudiarabia2
 Al Najma,8,3,3,2,18,14,4,12,saudiarabia2
 Al Orubah,7,4,0,3,9,9,0,12,saudiarabia2
-Al Batin,7,3,1,3,4,4,0,10,saudiarabia2
+Al Batin,8,3,1,4,4,7,-3,10,saudiarabia2
 Al Faisaly,8,2,3,3,11,14,-3,9,saudiarabia2
 Al Arabi,7,2,2,3,10,9,1,8,saudiarabia2
 Al-Jndal,8,2,1,5,6,14,-8,7,saudiarabia2
@@ -1798,30 +1798,30 @@ Al-Ain,8,1,3,4,5,12,-7,6,saudiarabia2
 Al Qaisoma,8,1,2,5,10,17,-7,5,saudiarabia2
 Hajer,7,0,4,3,7,14,-7,4,saudiarabia2
 Al Safa,8,1,1,6,6,17,-11,4,saudiarabia2
-Al Taraji,7,1,0,6,3,13,-10,3,saudiarabia2
+Al Taraji,8,1,0,7,4,16,-12,3,saudiarabia2
 Al Bukayriyah,7,0,2,5,3,8,-5,2,saudiarabia2
 Celtic,8,6,1,1,19,5,14,19,scotland
 Rangers,8,6,1,1,17,3,14,19,scotland
-Hearts,8,5,0,3,9,6,3,15,scotland
+Hearts,8,6,0,2,11,6,5,18,scotland
 Dundee FC,8,2,4,2,11,13,-2,10,scotland
-Kilmarnock,8,2,3,3,6,8,-2,9,scotland
+Aberdeen,8,3,1,4,12,17,-5,10,scotland
 Hibernian,8,2,3,3,10,16,-6,9,scotland
-Aberdeen,8,2,2,4,9,17,-8,8,scotland
+Kilmarnock,8,2,2,4,5,9,-4,8,scotland
 Ross County,8,1,4,3,8,14,-6,7,scotland
-Motherwell,8,1,3,4,4,10,-6,6,scotland
+Motherwell,8,0,4,4,5,12,-7,4,scotland
 St. Mirren,8,1,1,6,5,13,-8,4,scotland
 St. Johnstone,8,0,3,5,2,12,-10,3,scotland
 Livingston,8,0,1,7,4,14,-10,1,scotland
-Raith Rovers,8,7,0,1,13,7,6,21,scotland2
-Dundee Utd,8,6,2,0,18,2,16,20,scotland2
+Raith Rovers,8,7,0,1,14,8,6,21,scotland2
+Dundee Utd,8,6,2,0,17,2,15,20,scotland2
 Partick Thistle,8,4,2,2,18,12,6,14,scotland2
 Dunfermline,8,3,3,2,10,10,0,12,scotland2
-Ayr Utd,8,3,2,3,16,15,1,11,scotland2
+Ayr Utd,8,3,2,3,15,16,-1,11,scotland2
 Greenock Morton,8,2,4,2,6,7,-1,10,scotland2
 Arbroath,8,3,1,4,11,16,-5,10,scotland2
-Inverness,8,2,3,3,12,11,1,9,scotland2
-Queen`s Park,8,2,2,4,10,15,-5,8,scotland2
+Inverness,8,2,3,3,11,11,0,9,scotland2
 Airdrieonians,8,2,1,5,5,12,-7,7,scotland2
+Queen`s Park,8,1,2,5,10,17,-7,5,scotland2
 Falkirk,8,6,2,0,20,5,15,20,scotland3
 Hamilton,8,4,3,1,14,7,7,15,scotland3
 Cove Rangers,8,4,3,1,13,7,6,15,scotland3
@@ -1986,16 +1986,16 @@ Athletic Bilbao,8,3,3,2,9,8,1,12,spain
 Atletico Madrid,8,3,1,4,13,8,5,10,spain
 Las Palmas,8,3,1,4,6,8,-2,10,spain
 Rayo Vallecano,8,2,3,3,5,8,-3,9,spain
-Villarreal,8,2,3,3,9,14,-5,9,spain
 Getafe,8,1,5,2,14,14,0,8,spain
 Osasuna,8,2,1,5,11,17,-6,7,spain
 Sevilla FC,8,1,3,4,7,8,-1,6,spain
 Real Betis,8,0,6,2,6,13,-7,6,spain
+Villarreal,8,1,3,4,9,17,-8,6,spain
 Valencia,8,1,3,4,8,16,-8,6,spain
 Celta Vigo,8,1,2,5,11,15,-4,5,spain
 Mallorca,8,1,2,5,8,14,-6,5,spain
 Cadiz,8,0,4,4,6,13,-7,4,spain
-Alaves,8,0,3,5,4,12,-8,3,spain
+Alaves,8,0,4,4,5,12,-7,4,spain
 Granada,8,0,1,7,7,18,-11,1,spain
 Almeria,8,0,0,8,8,23,-15,0,spain
 Eibar,8,4,1,3,13,11,2,13,spain2
