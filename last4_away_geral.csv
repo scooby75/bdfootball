@@ -134,7 +134,7 @@ BKMA,8,2,0,6,6,15,-9,6,armenia
 Shirak,8,1,2,5,6,16,-10,5,armenia
 Van,8,0,0,8,4,28,-24,0,armenia
 Melbourne V.,5,2,3,0,9,6,3,9,australia
-Wellington,5,2,2,1,6,4,2,8,australia
+Wellington,6,2,3,1,8,6,2,9,australia
 Macarthur FC,5,2,1,2,10,10,0,7,australia
 Newcastle Jets,6,2,1,3,11,13,-2,7,australia
 Brisbane Roar,6,2,1,3,9,17,-8,7,australia
@@ -796,17 +796,17 @@ MSV Duisburg,8,0,4,4,3,9,-6,4,germany3
 Mannheim,8,1,1,6,6,17,-11,4,germany3
 Freiburg B,8,1,0,7,7,18,-11,3,germany3
 Panathinaikos,8,6,0,2,20,7,13,18,greece
-Olympiakos,7,4,3,0,11,3,8,15,greece
+Olympiakos,8,4,3,1,11,4,7,15,greece
 AEK Athens,8,4,3,1,14,10,4,15,greece
 PAOK,7,4,1,2,19,9,10,13,greece
 Asteras T.,7,4,1,2,10,8,2,13,greece
-Volos,7,1,3,3,5,12,-7,6,greece
+Volos,8,1,3,4,5,15,-10,6,greece
 Lamia,8,1,3,4,6,17,-11,6,greece
 Atromitos,8,1,2,5,9,20,-11,5,greece
-Aris,6,1,1,4,5,9,-4,4,greece
-PAS Giannina,8,0,4,4,9,15,-6,4,greece
-OFI Crete,7,0,3,4,4,13,-9,3,greece
+Aris,7,1,1,5,7,12,-5,4,greece
+PAS Giannina,8,0,3,5,9,17,-8,3,greece
 Panserraikos,8,0,3,5,6,19,-13,3,greece
+OFI Crete,8,0,3,5,4,17,-13,3,greece
 Panaitolikos,8,0,2,6,5,16,-11,2,greece
 Kifisia,6,0,1,5,3,15,-12,1,greece
 Municipal,8,4,3,1,14,8,6,15,guatemala
@@ -959,14 +959,14 @@ Malavan,7,3,3,1,11,7,4,12,iran
 Persepolis,7,3,3,1,9,5,4,12,iran
 Aluminium Arak,8,4,0,4,6,7,-1,12,iran
 Esteghlal,8,2,5,1,9,6,3,11,iran
-Gol Gohar,7,2,4,1,4,3,1,10,iran
+Gol Gohar,8,2,5,1,4,3,1,11,iran
 Havadar,7,2,3,2,11,10,1,9,iran
 Sanat Naft,7,2,2,3,8,13,-5,8,iran
 Paykan,8,1,4,3,5,9,-4,7,iran
 Mes Rafsanjan,7,2,1,4,5,10,-5,7,iran
 Foolad,8,1,2,5,2,15,-13,5,iran
 E. Khuzestan,7,0,2,5,2,8,-6,2,iran
-N. Mazandaran,6,0,1,5,2,12,-10,1,iran
+N. Mazandaran,7,0,1,6,2,13,-11,1,iran
 Al Quwa Al J.,6,5,1,0,12,3,9,16,iraq
 Al Shorta,6,4,1,1,13,6,7,13,iraq
 Al Zawraa,6,3,3,0,6,2,4,12,iraq
@@ -1007,10 +1007,10 @@ Treaty Utd,8,3,1,4,9,13,-4,10,ireland2
 Athlone Town,8,3,1,4,13,21,-8,10,ireland2
 Finn Harps,8,1,2,5,7,21,-14,5,ireland2
 Kerry,8,0,1,7,7,17,-10,1,ireland2
-M. Tel Aviv,7,7,0,0,17,4,13,21,israel
-Maccabi Haifa,6,4,1,1,15,7,8,13,israel
+M. Tel Aviv,8,8,0,0,21,5,16,24,israel
+Maccabi Haifa,7,4,2,1,17,9,8,14,israel
 Hapoel Haifa,6,4,1,1,7,7,0,13,israel
-Bnei Sakhnin,7,3,3,1,8,9,-1,12,israel
+Bnei Sakhnin,8,3,4,1,11,12,-1,13,israel
 H. Beer Sheva,8,3,2,3,14,10,4,11,israel
 M. Bnei Raina,6,3,2,1,7,4,3,11,israel
 Hapoel Tel Aviv,6,2,2,2,8,6,2,8,israel
@@ -1018,8 +1018,8 @@ Maccabi Netanya,8,2,2,4,11,11,0,8,israel
 B. Jerusalem,6,2,1,3,7,6,1,7,israel
 Hapoel Hadera,6,2,1,3,3,7,-4,7,israel
 H. Jerusalem,7,1,2,4,5,11,-6,5,israel
-M. Petah Tikva,6,0,2,4,5,14,-9,2,israel
 Ashdod,6,0,2,4,2,12,-10,2,israel
+M. Petah Tikva,7,0,2,5,6,17,-11,2,israel
 H. Petah Tikva,7,0,1,6,4,16,-12,1,israel
 Bnei Yehuda,8,4,3,1,13,8,5,15,israel2
 Ramat Hasharon,8,4,2,2,18,9,9,14,israel2
@@ -1077,19 +1077,19 @@ Spezia,8,2,2,4,8,14,-6,8,italy2
 Bari,8,1,4,3,9,11,-2,7,italy2
 Sudtirol,8,2,1,5,9,13,-4,7,italy2
 Ascoli,8,1,3,4,8,12,-4,6,italy2
+Mount Pleasant,7,5,0,2,13,7,6,15,jamaica
 Vere Utd,7,4,1,2,11,8,3,13,jamaica
-Mount Pleasant,6,4,0,2,9,6,3,12,jamaica
 Arnett Gardens,6,3,2,1,12,6,6,11,jamaica
+Portmore Utd,7,3,2,2,11,7,4,11,jamaica
 Tivoli Gardens,5,2,3,0,9,4,5,9,jamaica
-Portmore Utd,6,2,2,2,7,6,1,8,jamaica
+Waterhouse,7,2,2,3,7,9,-2,8,jamaica
+Dunbeholden,6,2,2,2,4,6,-2,8,jamaica
+Montego Bay,7,2,2,3,8,11,-3,8,jamaica
 Cavalier,5,2,1,2,7,5,2,7,jamaica
 Humble Lions,7,2,1,4,6,10,-4,7,jamaica
-Waterhouse,6,1,2,3,5,8,-3,5,jamaica
-Dunbeholden,5,1,2,2,2,5,-3,5,jamaica
-Montego Bay,6,1,2,3,6,10,-4,5,jamaica
 Harbour View,4,0,3,1,5,7,-2,3,jamaica
 Treasure Beach,6,1,0,5,6,13,-7,3,jamaica
-Molynes Utd,5,0,1,4,2,7,-5,1,jamaica
+Molynes Utd,5,0,2,3,3,7,-4,2,jamaica
 Lime Hall Acade,6,0,1,5,2,12,-10,1,jamaica
 Avispa Fukuoka,8,6,0,2,14,11,3,18,japan
 Urawa RD,8,4,2,2,10,7,3,14,japan
@@ -1172,10 +1172,10 @@ Kazma,7,4,1,2,14,17,-3,13,kuwait
 Al Nasar,7,4,0,3,13,9,4,12,kuwait
 Al Arabi SC,6,3,2,1,12,7,5,11,kuwait
 Al Kuwait,6,3,2,1,15,11,4,11,kuwait
-Al Shabab,5,2,1,2,7,8,-1,7,kuwait
+Al Shabab,6,2,1,3,7,14,-7,7,kuwait
 Al Salmiyah,5,1,2,2,6,8,-2,5,kuwait
 Al Fahaheel,7,1,2,4,5,11,-6,5,kuwait
-Khaitan,5,0,2,3,3,10,-7,2,kuwait
+Khaitan,6,0,3,3,4,11,-7,3,kuwait
 Al Jahra,6,0,1,5,4,11,-7,1,kuwait
 Riga FC,8,6,2,0,21,4,17,20,latvia
 RFS,8,5,2,1,19,10,9,17,latvia
@@ -1313,18 +1313,18 @@ Petrovac,8,1,3,4,8,11,-3,6,montenegro
 Mladost DG,8,1,3,4,10,15,-5,6,montenegro
 Rudar,8,2,0,6,4,13,-9,6,montenegro
 Jedinstvo,8,0,3,5,11,19,-8,3,montenegro
+Raja Casablanca,7,2,5,0,10,6,4,11,morocco
 Wydad,7,3,2,2,9,7,2,11,morocco
-FUS Rabat,7,3,2,2,8,6,2,11,morocco
+FUS Rabat,8,3,2,3,9,8,1,11,morocco
 Moghreb Tetouan,7,2,3,2,6,5,1,9,morocco
 FAR Rabat,6,2,2,2,11,8,3,8,morocco
-Raja Casablanca,6,1,5,0,8,6,2,8,morocco
 Berkane,6,1,5,0,5,3,2,8,morocco
-C. Mohammedia,7,2,2,3,5,7,-2,8,morocco
+C. Mohammedia,8,2,2,4,6,9,-3,8,morocco
 Union Touarga,6,2,1,3,6,6,0,7,morocco
 Maghreb de Fes,6,1,3,2,7,7,0,6,morocco
 Olympic Safi,6,1,3,2,4,7,-3,6,morocco
 Mouloudia Oujda,7,1,3,3,4,8,-4,6,morocco
-R. Zemamra,6,1,1,4,8,12,-4,4,morocco
+R. Zemamra,7,1,2,4,9,13,-4,5,morocco
 Ittihad Tanger,6,0,3,3,5,12,-7,3,morocco
 Salmi,6,1,0,5,4,12,-8,3,morocco
 Hassania Agadir,7,0,2,5,3,10,-7,2,morocco
@@ -1788,7 +1788,7 @@ Jeddah,8,4,2,2,17,13,4,14,saudiarabia2
 Al Kholood,8,4,1,3,14,7,7,13,saudiarabia2
 Ohod,7,4,1,2,10,7,3,13,saudiarabia2
 Al Najma,8,3,3,2,18,14,4,12,saudiarabia2
-Al Orubah,7,4,0,3,9,9,0,12,saudiarabia2
+Al Orubah,8,4,0,4,9,10,-1,12,saudiarabia2
 Al Batin,8,3,1,4,4,7,-3,10,saudiarabia2
 Al Faisaly,8,2,3,3,11,14,-3,9,saudiarabia2
 Al Arabi,7,2,2,3,10,9,1,8,saudiarabia2
@@ -1796,10 +1796,10 @@ Al-Jndal,8,2,1,5,6,14,-8,7,saudiarabia2
 Al Jabalain,7,1,3,3,5,10,-5,6,saudiarabia2
 Al-Ain,8,1,3,4,5,12,-7,6,saudiarabia2
 Al Qaisoma,8,1,2,5,10,17,-7,5,saudiarabia2
-Hajer,7,0,4,3,7,14,-7,4,saudiarabia2
+Hajer,8,0,4,4,7,17,-10,4,saudiarabia2
 Al Safa,8,1,1,6,6,17,-11,4,saudiarabia2
 Al Taraji,8,1,0,7,4,16,-12,3,saudiarabia2
-Al Bukayriyah,7,0,2,5,3,8,-5,2,saudiarabia2
+Al Bukayriyah,8,0,2,6,3,10,-7,2,saudiarabia2
 Celtic,8,6,1,1,19,5,14,19,scotland
 Rangers,8,6,1,1,17,3,14,19,scotland
 Hearts,8,6,0,2,11,6,5,18,scotland
@@ -1983,18 +1983,18 @@ Real Madrid,8,5,2,1,13,6,7,17,spain
 FC Barcelona,8,3,5,0,13,10,3,14,spain
 Real Sociedad,8,3,3,2,12,8,4,12,spain
 Athletic Bilbao,8,3,3,2,9,8,1,12,spain
-Atletico Madrid,8,3,1,4,13,8,5,10,spain
 Las Palmas,8,3,1,4,6,8,-2,10,spain
+Atletico Madrid,8,3,0,5,16,12,4,9,spain
 Rayo Vallecano,8,2,3,3,5,8,-3,9,spain
 Getafe,8,1,5,2,14,14,0,8,spain
 Osasuna,8,2,1,5,11,17,-6,7,spain
 Sevilla FC,8,1,3,4,7,8,-1,6,spain
-Real Betis,8,0,6,2,6,13,-7,6,spain
+Real Betis,8,0,6,2,5,11,-6,6,spain
 Villarreal,8,1,3,4,9,17,-8,6,spain
 Valencia,8,1,3,4,8,16,-8,6,spain
 Celta Vigo,8,1,2,5,11,15,-4,5,spain
-Mallorca,8,1,2,5,8,14,-6,5,spain
-Cadiz,8,0,4,4,6,13,-7,4,spain
+Mallorca,8,1,2,5,6,12,-6,5,spain
+Cadiz,8,0,4,4,6,12,-6,4,spain
 Alaves,8,0,4,4,5,12,-7,4,spain
 Granada,8,0,1,7,7,18,-11,1,spain
 Almeria,8,0,0,8,8,23,-15,0,spain
