@@ -1187,59 +1187,64 @@ Date,Hora,Liga,Home,Away,Placar FT,Winrate,Profit_Goleada
 05.01.2024,11:15,Ligue 1,NC Magra,ES Sétif,0x1,1,"0,0345"
 05.01.2024,11:15,Ligue 1,Ben Aknoun,MC Oran,2x1,1,"0,0345"
 05.01.2024,11:45,Ligue 1,ASO Chlef,USM Alger,0x1,1,"0,0345"
-06.01.2024,08:00,Super League,Nkwazi,Power Dynamos,,,
-06.01.2024,10:00,Super League,Green Eagles,Konkola Blades,,,
-06.01.2024,10:00,Super League,Man Utd Zambia Academy,Red Arrows,,,
-06.01.2024,10:00,Super League,Forest Rangers,Zanaco,,,
-06.01.2024,10:00,Super League,NAPSA Stars,Green Buffaloes,,,
-06.01.2024,10:00,Serie C Group A,Novara,US Alessandria,,,
-06.01.2024,10:00,Serie C Group A,Virtus Verona,Atalanta II,,,
-06.01.2024,10:00,Serie C Group A,Giana Erminio,Pro Patria,,,
-06.01.2024,10:00,Serie C Group C,Monopoli,Casertana,,,
-06.01.2024,10:00,Maltese Premier League,Hamrun Spartans,Floriana,,,
-06.01.2024,10:00,Ligue 2,MO Constantine,Teleghma,,,
-06.01.2024,12:00,EFL League One,Lincoln City,Shrewsbury Town,,,
-06.01.2024,12:15,Serie C Group B,Arezzo,Rimini,,,
-06.01.2024,12:15,Serie C Group B,Vis Pesaro,SPAL,,,
-06.01.2024,12:30,Tercera Group 6,Atzeneta,Jove Español,,,
-06.01.2024,13:00,Tercera Group 15,Subiza,Ardoi,,,
-06.01.2024,16:00,Botola Pro,Chabab Mohammedia,Ittihad Tanger,,,
-07.01.2024,07:30,Segunda División RFEF Group 5,Getafe II,UD San Fernando,,,
-07.01.2024,07:30,Tercera Group 4,Padura,Pasaia KE,,,
-07.01.2024,08:00,Segunda División RFEF Group 5,CDA Navalcarnero,Talavera CF,,,
-07.01.2024,08:00,Segunda División RFEF Group 5,Illescas,Gimnástica Segoviana CF,,,
-07.01.2024,09:00,Super League 2 North,Iraklis 1908,Larissa,,,
-07.01.2024,09:30,Super League 2 South,Giouchtas,Kalamata,,,
-07.01.2024,10:00,Serie C Group C,Messina,Audace Cerignola,,,
-07.01.2024,10:00,Super League 2 South,Egaleo,Diagoras,,,
-07.01.2024,10:00,Super League 2 North,Makedonikos Neapolis FC,Kozani,,,
-07.01.2024,10:00,Super League 2 North,Aiolikos,Anagennisi Karditsas,,,
-07.01.2024,10:00,Ligue 2,Rejiche,Moknine,,,
-07.01.2024,10:30,Serie D Group F,Chieti,Atletico Ascoli,,,
-07.01.2024,12:00,Campeonato de Portugal Group D,Imortal Albufeira,FC Barreirense,,,
-07.01.2024,12:00,Campeonato de Portugal Group D,Lusitano Évora 1911,Sintrense,,,
-07.01.2024,12:00,Campeonato de Portugal Group A,Brito,Mirandela,,,
-07.01.2024,12:00,Campeonato de Portugal Group B,Florgrade,Vila Meã,,,
-07.01.2024,12:00,Campeonato de Portugal Group B,SC Beira-Mar,Salgueiros,,,
-07.01.2024,12:00,Campeonato de Portugal Group B,Valadares Gaia,CF Oliveira Douro,,,
-07.01.2024,12:00,Campeonato de Portugal Group B,Amarante,AD Marco 09,,,
-07.01.2024,12:00,Campeonato de Portugal Group C,Benfica Castelo Branco,Marinhense,,,
-07.01.2024,12:00,Campeonato de Portugal Group C,Peniche,Sertanense,,,
-07.01.2024,12:00,Segunda División RFEF Group 5,Llerenense,CD Badajoz,,,
-07.01.2024,12:00,NPFL,Gombe United,Rivers United,,,
-07.01.2024,12:00,Botola Pro,Hassania Agadir,UTS Rabat,,,
-07.01.2024,12:15,Serie C Group A,Pro Sesto,Pergolettese,,,
-07.01.2024,12:15,Serie C Group B,Pineto,Gubbio,,,
-07.01.2024,12:15,Serie C Group B,Perugia,Lucchese,,,
-07.01.2024,12:15,Serie C Group B,Ancona 1905,Virtus Entella,,,
-07.01.2024,12:45,Première Division,Bougouni,COB,,,
-07.01.2024,13:00,Tercera Group 1,Paiosaco,Barbadás,,,
-07.01.2024,13:00,Campeonato de Portugal Group B,Rebordosa,Paredes,,,
-07.01.2024,13:30,Senegal Premier League,Teungueth,Pikine,,,
-07.01.2024,13:30,Senegal Premier League,Génération Foot,DSC,,,
-07.01.2024,13:30,Senegal Premier League,Guédiawaye,Diambars de Saly,,,
-07.01.2024,13:30,Senegal Premier League,US Ouakam,Sonacos,,,
-07.01.2024,14:00,Botola Pro,Moghreb Tétouan,Wydad Casablanca,,,
-07.01.2024,14:30,Serie C Group C,Crotone,Catania,,,
-07.01.2024,14:30,Serie C Group C,Brindisi,Potenza Calcio,,,
-07.01.2024,16:00,Botola Pro,Olympic Safi,Maghreb Fès,,,
+06.01.2024,08:00,Super League,Nkwazi,Power Dynamos,0x3,1,"0,0345"
+06.01.2024,10:00,Super League,Green Eagles,Konkola Blades,0x1,1,"0,0345"
+06.01.2024,10:00,Super League,Man Utd Zambia Academy,Red Arrows,1x2,1,"0,0345"
+06.01.2024,10:00,Super League,Forest Rangers,Zanaco,1x1,1,"0,0345"
+06.01.2024,10:00,Super League,NAPSA Stars,Green Buffaloes,2x1,1,"0,0345"
+06.01.2024,10:00,Serie C Group A,Novara,US Alessandria,1x0,1,"0,0345"
+06.01.2024,10:00,Serie C Group A,Virtus Verona,Atalanta II,0x1,1,"0,0345"
+06.01.2024,10:00,Serie C Group A,Giana Erminio,Pro Patria,1x2,1,"0,0345"
+06.01.2024,10:00,Serie C Group C,Monopoli,Casertana,1x2,1,"0,0345"
+06.01.2024,10:00,Maltese Premier League,Hamrun Spartans,Floriana,1x0,1,"0,0345"
+06.01.2024,10:00,Ligue 2,MO Constantine,Teleghma,1x0,1,"0,0345"
+06.01.2024,12:15,Serie C Group B,Arezzo,Rimini,1x0,1,"0,0345"
+06.01.2024,12:15,Serie C Group B,Vis Pesaro,SPAL,1x1,1,"0,0345"
+06.01.2024,12:30,Tercera Group 6,Atzeneta,Jove Español,1x0,1,"0,0345"
+06.01.2024,13:00,Tercera Group 15,Subiza,Ardoi,1x0,1,"0,0345"
+06.01.2024,16:00,Botola Pro,Chabab Mohammedia,Ittihad Tanger,1x0,1,"0,0345"
+07.01.2024,07:30,Segunda División RFEF Group 5,Getafe II,UD San Fernando,2x0,1,"0,0345"
+07.01.2024,07:30,Tercera Group 4,Padura,Pasaia KE,4x0,1,"0,0345"
+07.01.2024,08:00,Segunda División RFEF Group 5,CDA Navalcarnero,Talavera CF,0x0,1,"0,0345"
+07.01.2024,08:00,Segunda División RFEF Group 5,Illescas,Gimnástica Segoviana CF,0x0,1,"0,0345"
+07.01.2024,09:00,Super League 2 North,Iraklis 1908,Larissa,1x1,1,"0,0345"
+07.01.2024,09:30,Super League 2 South,Giouchtas,Kalamata,1x1,1,"0,0345"
+07.01.2024,10:00,Serie C Group C,Messina,Audace Cerignola,1x2,1,"0,0345"
+07.01.2024,10:00,Super League 2 South,Egaleo,Diagoras,4x1,1,"0,0345"
+07.01.2024,10:00,Super League 2 North,Makedonikos Neapolis FC,Kozani,0x0,1,"0,0345"
+07.01.2024,10:00,Super League 2 North,Aiolikos,Anagennisi Karditsas,1x1,1,"0,0345"
+07.01.2024,10:00,Ligue 2,Rejiche,Moknine,0x2,1,"0,0345"
+07.01.2024,12:00,Campeonato de Portugal Group D,Imortal Albufeira,FC Barreirense,1x3,1,"0,0345"
+07.01.2024,12:00,Campeonato de Portugal Group D,Lusitano Évora 1911,Sintrense,0x0,1,"0,0345"
+07.01.2024,12:00,Campeonato de Portugal Group A,Brito,Mirandela,1x0,1,"0,0345"
+07.01.2024,12:00,Campeonato de Portugal Group B,Florgrade,Vila Meã,1x3,1,"0,0345"
+07.01.2024,12:00,Campeonato de Portugal Group B,SC Beira-Mar,Salgueiros,0x0,1,"0,0345"
+07.01.2024,12:00,Campeonato de Portugal Group B,Valadares Gaia,CF Oliveira Douro,1x3,1,"0,0345"
+07.01.2024,12:00,Campeonato de Portugal Group B,Amarante,AD Marco 09,1x0,1,"0,0345"
+07.01.2024,12:00,Campeonato de Portugal Group C,Benfica Castelo Branco,Marinhense,2x0,1,"0,0345"
+07.01.2024,12:00,Campeonato de Portugal Group C,Peniche,Sertanense,2x1,1,"0,0345"
+07.01.2024,12:00,Segunda División RFEF Group 5,Llerenense,CD Badajoz,2x1,1,"0,0345"
+07.01.2024,12:00,NPFL,Gombe United,Rivers United,1x1,1,"0,0345"
+07.01.2024,12:00,Botola Pro,Hassania Agadir,UTS Rabat,3x2,1,"0,0345"
+07.01.2024,12:15,Serie C Group A,Pro Sesto,Pergolettese,0x2,1,"0,0345"
+07.01.2024,12:15,Serie C Group B,Pineto,Gubbio,1x2,1,"0,0345"
+07.01.2024,12:15,Serie C Group B,Perugia,Lucchese,3x0,1,"0,0345"
+07.01.2024,12:15,Serie C Group B,Ancona 1905,Virtus Entella,0x1,1,"0,0345"
+07.01.2024,12:45,Première Division,Bougouni,COB,0x0,1,"0,0345"
+07.01.2024,13:00,Tercera Group 1,Paiosaco,Barbadás,0x0,1,"0,0345"
+07.01.2024,13:00,Campeonato de Portugal Group B,Rebordosa,Paredes,0x0,1,"0,0345"
+07.01.2024,13:30,Senegal Premier League,Teungueth,Pikine,0x0,1,"0,0345"
+07.01.2024,13:30,Senegal Premier League,Génération Foot,DSC,2x0,1,"0,0345"
+07.01.2024,13:30,Senegal Premier League,Guédiawaye,Diambars de Saly,2x1,1,"0,0345"
+07.01.2024,13:30,Senegal Premier League,US Ouakam,Sonacos,1x2,1,"0,0345"
+07.01.2024,14:00,Botola Pro,Moghreb Tétouan,Wydad Casablanca,0x0,1,"0,0345"
+07.01.2024,14:30,Serie C Group C,Crotone,Catania,3x0,1,"0,0345"
+07.01.2024,14:30,Serie C Group C,Brindisi,Potenza Calcio,0x4,0,-1
+07.01.2024,16:00,Botola Pro,Olympic Safi,Maghreb Fès,1x1,1,"0,0345"
+08.01.2024,09:00,Super League 2 South,Panathinaikos II,Panachaiki,2x2,1,"0,0345"
+08.01.2024,09:30,Second Division,Nogoom El Mostakbal FC,Gomhoreyat Shepin,1x1,1,"0,0345"
+08.01.2024,12:00,Botola Pro,Riadi Salmi,Youssoufia Berrechid,3x1,1,"0,0345"
+08.01.2024,16:30,Serie C Group A,Calcio Padova,Mantova,0x5,0,-1
+08.01.2024,16:45,Serie C Group A,Lumezzane,Pro Vercelli,0x3,1,"0,0345"
+09.01.2024,09:30,Second Division,Proxy,Ghazl El Mehalla,2x2,1,"0,0345"
+09.01.2024,12:00,Ethiopia Premier League,Sidama Bunna,Adama Kenema,0x0,1,"0,0345"
