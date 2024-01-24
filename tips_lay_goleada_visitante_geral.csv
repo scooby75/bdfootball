@@ -1415,12 +1415,13 @@ Date,Hora,Liga,Home,Away,Placar FT,Winrate,Profit_Goleada
 21.01.2024,12:15,Serie B,Ascoli,Bari 1908,2x2,1,"0,0345"
 21.01.2024,12:15,Serie C Group B,Sestri Levante,Virtus Entella,0x0,1,"0,0345"
 21.01.2024,12:30,LigaPro,Torreense,Santa Clara,1x1,1,"0,0345"
-21.01.2024,13:00,Segunda División RFEF Group 5,Gimnástica Segoviana CF,CDA Navalcarnero,,,
-21.01.2024,13:00,Segunda División RFEF Group 5,Talavera CF,Getafe II,,,
-21.01.2024,13:00,National Soccer League,Police,APR,,,
-21.01.2024,14:00,Serie A,Salernitana,Genoa,,,
-21.01.2024,14:00,Primera Division RFEF Group 1,Osasuna II,SD Tarazona,,,
-21.01.2024,14:00,Primera Division RFEF Group 1,Sestao River Club,Unionistas de Salamanca CF,,,
-21.01.2024,14:00,Primera Division RFEF Group 2,Recreativo de Huelva,Córdoba,,,
-21.01.2024,14:30,Segunda División,SD Huesca,SD Eibar,,,
-21.01.2024,14:30,Serie C Group A,Virtus Verona,Legnago Salus,,,
+21.01.2024,13:00,Segunda División RFEF Group 5,Gimnástica Segoviana CF,CDA Navalcarnero,0x0,1,"0,0345"
+21.01.2024,13:00,Segunda División RFEF Group 5,Talavera CF,Getafe II,3x0,1,"0,0345"
+21.01.2024,13:00,National Soccer League,Police,APR,0x1,1,"0,0345"
+21.01.2024,14:00,Serie A,Salernitana,Genoa,1x2,1,"0,0345"
+21.01.2024,14:00,Primera Division RFEF Group 1,Osasuna II,SD Tarazona,1x1,1,"0,0345"
+21.01.2024,14:00,Primera Division RFEF Group 1,Sestao River Club,Unionistas de Salamanca CF,0x0,1,"0,0345"
+21.01.2024,14:00,Primera Division RFEF Group 2,Recreativo de Huelva,Córdoba,1x1,1,"0,0345"
+21.01.2024,14:30,Segunda División,SD Huesca,SD Eibar,2x3,1,"0,0345"
+21.01.2024,14:30,Serie C Group A,Virtus Verona,Legnago Salus,1x1,1,"0,0345"
+23.01.2024,16:45,Ligue 2,Dunkerque,Ajaccio,2x0,1,"0,0345"
