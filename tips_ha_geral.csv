@@ -296,7 +296,7 @@ Date,Hora,Liga,Home,Away,Placar FT,Winrate,Profit_HA
 06.01.2024,12:00,League One,Falkirk,Queen of the South,1x0,1,"0,5"
 07.01.2024,13:00,Süper Lig,Galatasaray,Konyaspor,3x0,1,"0,5"
 09.01.2024,16:45,League One,Falkirk,Cove Rangers,4x0,1,"0,5"
-10.01.2024,14:00,Süper Lig,Adana Demirspor,İstanbulspor,2x2,0,-1
+10.01.2024,14:00,Süper Lig,Adana Demirspor,İstanbulspor,2x2,0,"-0,5"
 13.01.2024,12:00,EFL League One,Blackpool,Exeter City,2x0,1,"0,5"
 13.01.2024,12:00,Championship,Raith Rovers,Queen's Park,1x2,0,-1
 15.01.2024,14:00,Süper Lig,Galatasaray,Kayserispor,2x1,1,"0,5"
@@ -304,3 +304,5 @@ Date,Hora,Liga,Home,Away,Placar FT,Winrate,Profit_HA
 20.01.2024,12:00,League Two,Stenhousemuir,Stranraer,1x0,1,"0,5"
 21.01.2024,15:30,Israeli Premier League,Maccabi Haifa,Maccabi Netanya,4x0,1,"0,5"
 23.01.2024,16:45,National League,Chesterfield,Woking,1x0,1,"0,5"
+26.01.2024,10:20,Division One,Al Dhafra,Al Jazira Al Hamra,2x2,0,"-0,5"
+26.01.2024,16:00,Eerste Divisie,Roda JC,Utrecht II,0x0,0,"-0,5"
