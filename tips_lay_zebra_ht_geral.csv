@@ -1026,8 +1026,6 @@ Date,Hora,Liga,Home,Away,Placar HT,Winrate,Profit_Visitante_HT
 29.12.2023,16:45,Championship,Ipswich Town,Queens Park Rangers,0x0,1,"0,2"
 29.12.2023,16:45,Isthmian Premier Division,AFC Hornchurch,Lewes,0x0,1,"0,2"
 30.12.2023,10:00,Persian Gulf Pro League,Esteghlal,Paykan,0x0,1,"0,2"
-30.12.2023,12:00,NIFL Championship,Dundela,Ards,,,
-30.12.2023,12:00,NIFL Championship,Portadown,Newington Youth,,,
 30.12.2023,12:00,Premier League,Aston Villa,Burnley,2x1,1,"0,2"
 31.12.2023,12:00,Ghana Premier League,Aduana Stars,Dreams,1x0,1,"0,2"
 01.01.2024,17:00,Premier League,Liverpool,Newcastle United,0x0,1,"0,2"
@@ -1099,3 +1097,6 @@ Date,Hora,Liga,Home,Away,Placar HT,Winrate,Profit_Visitante_HT
 28.01.2024,15:30,3. Liga,Dynamo Dresden,Borussia Dortmund II,0x1,0,-1
 28.01.2024,16:45,Ligue 1,PSG,Brest,2x0,1,"0,2"
 28.01.2024,17:00,La Liga,Atlético Madrid,Valencia CF,1x0,1,"0,2"
+30.01.2024,09:50,First Division,Al Jabalain,Al Qaisoma,1x1,1,"0,2"
+30.01.2024,16:30,Super League,Young Boys,Yverdon Sport,2x1,1,"0,2"
+30.01.2024,16:45,Championship,Leicester City,Swansea City,1x0,1,"0,2"
