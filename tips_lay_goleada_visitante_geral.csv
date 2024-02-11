@@ -1559,26 +1559,26 @@ Date,Hora,Liga,Home,Away,Placar FT,Winrate,Profit_Goleada
 04.02.2024,09:00,National Super League,Assad,Kibera Black Stars,2x1,1,"0,0345"
 04.02.2024,09:00,Ethiopia Premier League,Wolkite Ketema,Awassa Kenema,1x2,1,"0,0345"
 04.02.2024,09:30,Burundi Premier League,Vital'O,Musongati,3x0,1,"0,0345"
-04.02.2024,10:00,Serie C Group A,Pro Vercelli,Atalanta II,,,
-04.02.2024,10:00,National Soccer League,Rwamagana City,Amagaju,,,
-04.02.2024,10:00,National Soccer League,Musanze,APR,,,
-04.02.2024,10:30,Serie D Group A,Città di Varese,RG Ticino,,,
-04.02.2024,10:30,Serie D Group B,Castellanzese,Caravaggio,,,
-04.02.2024,10:30,Serie D Group E,Sangiovannese 1927,Montevarchi Calcio,,,
-04.02.2024,10:30,Serie D Group F,Chieti,Sora,,,
-04.02.2024,10:30,Serie D Group D,Fanfulla,Mezzolara,,,
-04.02.2024,10:30,Serie D Group D,Corticella,Ravenna,,,
-04.02.2024,11:00,Ligue 1,Metz,Lorient,,,
-04.02.2024,11:30,Campeonato de Portugal Group A,Montalegre,Marítimo II,,,
-04.02.2024,11:30,Ligue 1,El Bayadh,CR Belouizdad,,,
-04.02.2024,12:00,Campeonato de Portugal Group A,Ribeirão,Mirandela,,,
-04.02.2024,12:00,Campeonato de Portugal Group A,Tirsense,Camacha,,,
-04.02.2024,12:00,Primera Division RFEF Group 1,Cultural y Deportiva Leonesa,Unionistas de Salamanca CF,,,
-04.02.2024,12:00,Primera Division RFEF Group 1,Real Sociedad II,Gimnàstic de Tarragona,,,
-04.02.2024,12:15,La Liga,CA Osasuna,Celta de Vigo,,,
-04.02.2024,12:15,Segunda División,Real Oviedo,CD Eldense,,,
-04.02.2024,12:15,Serie C Group A,Lumezzane,US Alessandria,,,
-04.02.2024,13:00,Segunda División RFEF Group 5,Gimnástica Segoviana CF,Getafe II,,,
+04.02.2024,10:00,Serie C Group A,Pro Vercelli,Atalanta II,1x1,1,"0,0345"
+04.02.2024,10:00,National Soccer League,Rwamagana City,Amagaju,1x2,1,"0,0345"
+04.02.2024,10:00,National Soccer League,Musanze,APR,1x3,1,"0,0345"
+04.02.2024,10:30,Serie D Group A,Città di Varese,RG Ticino,3x1,1,"0,0345"
+04.02.2024,10:30,Serie D Group B,Castellanzese,Caravaggio,1x1,1,"0,0345"
+04.02.2024,10:30,Serie D Group E,Sangiovannese 1927,Montevarchi Calcio,0x0,1,"0,0345"
+04.02.2024,10:30,Serie D Group F,Chieti,Sora,1x1,1,"0,0345"
+04.02.2024,10:30,Serie D Group D,Fanfulla,Mezzolara,1x0,1,"0,0345"
+04.02.2024,10:30,Serie D Group D,Corticella,Ravenna,0x2,1,"0,0345"
+04.02.2024,11:00,Ligue 1,Metz,Lorient,1x2,1,"0,0345"
+04.02.2024,11:30,Campeonato de Portugal Group A,Montalegre,Marítimo II,1x3,1,"0,0345"
+04.02.2024,11:30,Ligue 1,El Bayadh,CR Belouizdad,2x1,1,"0,0345"
+04.02.2024,12:00,Campeonato de Portugal Group A,Ribeirão,Mirandela,0x2,1,"0,0345"
+04.02.2024,12:00,Campeonato de Portugal Group A,Tirsense,Camacha,1x1,1,"0,0345"
+04.02.2024,12:00,Primera Division RFEF Group 1,Cultural y Deportiva Leonesa,Unionistas de Salamanca CF,1x1,1,"0,0345"
+04.02.2024,12:00,Primera Division RFEF Group 1,Real Sociedad II,Gimnàstic de Tarragona,0x2,1,"0,0345"
+04.02.2024,12:15,La Liga,CA Osasuna,Celta de Vigo,0x3,1,"0,0345"
+04.02.2024,12:15,Segunda División,Real Oviedo,CD Eldense,1x1,1,"0,0345"
+04.02.2024,12:15,Serie C Group A,Lumezzane,US Alessandria,2x1,1,"0,0345"
+04.02.2024,13:00,Segunda División RFEF Group 5,Gimnástica Segoviana CF,Getafe II,1x3,1,"0,0345"
 04.02.2024,13:00,Segunda División RFEF Group 5,Talavera CF,SS Reyes,,,
 04.02.2024,13:00,Segunda División RFEF Group 5,CD Badajoz,Illescas,,,
 04.02.2024,13:00,National Soccer League,Rayon Sports,Marines,,,
@@ -1604,3 +1604,21 @@ Date,Hora,Liga,Home,Away,Placar FT,Winrate,Profit_Goleada
 07.02.2024,12:00,Botola Pro,FUS Rabat,Wydad Casablanca,,,
 07.02.2024,14:00,Botola Pro,Hassania Agadir,Olympic Safi,,,
 07.02.2024,14:00,Botola Pro,Moghreb Tétouan,Maghreb Fès,,,
+09.02.2024,08:00,Liga Alef South,Maccabi Yavne,Hapoel Herzliya,,,
+09.02.2024,08:00,Syrian Premier League,Al Wahda,Hottin,,,
+09.02.2024,11:45,Ligue 1,MC Oran,ASO Chlef,,,
+09.02.2024,12:45,Ligue 1,ES Sétif,USM Khenchela,,,
+09.02.2024,15:30,National,Marignane Gignac CB,Villefranche,,,
+09.02.2024,16:30,Segunda División,Levante UD,Leganés,,,
+09.02.2024,16:45,Serie C Group A,Pro Sesto,US Alessandria,,,
+10.02.2024,10:00,Serie B,Modena,Cosenza,,,
+10.02.2024,10:00,Serie B,Südtirol,Venezia,,,
+10.02.2024,12:00,EFL League One,Cambridge United,Cheltenham Town,,,
+10.02.2024,12:15,Segunda División,SD Amorebieta,Elche CF,,,
+10.02.2024,13:30,Ekstraklasa,Piast Gliwice,Górnik Zabrze,,,
+10.02.2024,14:30,Segunda División,Sporting Gijón,Real Oviedo,,,
+10.02.2024,15:00,Ligue 2,Ajaccio,Guingamp,,,
+10.02.2024,15:00,Ligue 2,Valenciennes,Laval,,,
+10.02.2024,16:00,Primera Division RFEF Group 1,SD Tarazona,UE Cornellà,,,
+10.02.2024,16:00,Primera Division RFEF Group 2,CD Alcoyano,Real Murcia,,,
+10.02.2024,17:00,La Liga,UD Las Palmas,Valencia CF,,,
