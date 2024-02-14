@@ -1579,28 +1579,28 @@ Date,Hora,Liga,Home,Away,Placar FT,Winrate,Profit_Goleada
 04.02.2024,12:15,Segunda División,Real Oviedo,CD Eldense,1x1,1,"0,0345"
 04.02.2024,12:15,Serie C Group A,Lumezzane,US Alessandria,2x1,1,"0,0345"
 04.02.2024,13:00,Segunda División RFEF Group 5,Gimnástica Segoviana CF,Getafe II,1x3,1,"0,0345"
-04.02.2024,13:00,Segunda División RFEF Group 5,Talavera CF,SS Reyes,,,
-04.02.2024,13:00,Segunda División RFEF Group 5,CD Badajoz,Illescas,,,
-04.02.2024,13:00,National Soccer League,Rayon Sports,Marines,,,
-04.02.2024,14:00,Primera Division RFEF Group 2,Antequera CF,Mérida AD,,,
-04.02.2024,16:00,Primera Division RFEF Group 1,Osasuna II,SD Ponferradina,,,
-04.02.2024,16:00,Primera Division RFEF Group 1,Sestao River Club,Arenteiro,,,
-04.02.2024,16:45,Virtus Verona,Calcio Padova,,,,
-05.02.2024,11:00,Super League 2 South,Kalamata,Ionikos,,,
-05.02.2024,12:00,Liga I,Voluntari,Hermannstadt,,,
-05.02.2024,13:00,Première Division,Afrique Football Élite,USC Kita,,,
-05.02.2024,16:30,Segunda División,Real Zaragoza,Sporting Gijón,,,
-05.02.2024,16:30,Serie C Group A,Trento,Fiorenzuola,,,
-05.02.2024,16:45,Ligue 2,Bastia,Ajaccio,,,
-06.02.2024,10:00,Serie C Group C,Picerno,Catania,,,
-06.02.2024,10:00,Ligue 2,M'saken,Korba,,,
-06.02.2024,10:00,Ligue 2,CO Médenine,Kerkennah,,,
-06.02.2024,10:25,Professional League,Al-Nahda,Dhofar,,,
-07.02.2024,09:55,First Division,Al Kholood,Al Bukayriyah,,,
-07.02.2024,10:00,Ligue 2,AS Khroub,CA Batna,,,
-07.02.2024,10:00,Ligue 2,Rejiche,Stade Gabésien,,,
-07.02.2024,12:00,Botola Pro,Riadi Salmi,Ittihad Tanger,,,
-07.02.2024,12:00,Botola Pro,CR Khemis Zemamra,UTS Rabat,,,
+04.02.2024,13:00,Segunda División RFEF Group 5,Talavera CF,SS Reyes,1x4,0,-1
+04.02.2024,13:00,Segunda División RFEF Group 5,CD Badajoz,Illescas,0x0,1,"0,0345"
+04.02.2024,13:00,National Soccer League,Rayon Sports,Marines,2x0,1,"0,0345"
+04.02.2024,14:00,Primera Division RFEF Group 2,Antequera CF,Mérida AD,2x2,1,"0,0345"
+04.02.2024,16:00,Primera Division RFEF Group 1,Osasuna II,SD Ponferradina,0x1,1,"0,0345"
+04.02.2024,16:00,Primera Division RFEF Group 1,Sestao River Club,Arenteiro,1x0,1,"0,0345"
+04.02.2024,16:45,Serie C Group A,Virtus Verona,Calcio Padova,1x1,1,"0,0345"
+05.02.2024,11:00,Super League 2 South,Kalamata,Ionikos,0x0,1,"0,0345"
+05.02.2024,12:00,Liga I,Voluntari,Hermannstadt,1x1,1,"0,0345"
+05.02.2024,13:00,Première Division,Afrique Football Élite,USC Kita,2x1,1,"0,0345"
+05.02.2024,16:30,Segunda División,Real Zaragoza,Sporting Gijón,3x0,1,"0,0345"
+05.02.2024,16:30,Serie C Group A,Trento,Fiorenzuola,0x2,1,"0,0345"
+05.02.2024,16:45,Ligue 2,Bastia,Ajaccio,1x0,1,"0,0345"
+06.02.2024,10:00,Serie C Group C,Picerno,Catania,1x0,1,"0,0345"
+06.02.2024,10:00,Ligue 2,M'saken,Korba,0x1,1,"0,0345"
+06.02.2024,10:00,Ligue 2,CO Médenine,Kerkennah,0x0,1,"0,0345"
+06.02.2024,10:25,Professional League,Al-Nahda,Dhofar,3x1,1,"0,0345"
+07.02.2024,09:55,First Division,Al Kholood,Al Bukayriyah,2x0,1,"0,0345"
+07.02.2024,10:00,Ligue 2,AS Khroub,CA Batna,0x0,1,"0,0345"
+07.02.2024,10:00,Ligue 2,Rejiche,Stade Gabésien,2x1,1,"0,0345"
+07.02.2024,12:00,Botola Pro,Riadi Salmi,Ittihad Tanger,1x3,1,"0,0345"
+07.02.2024,12:00,Botola Pro,CR Khemis Zemamra,UTS Rabat,1x2,1,"0,0345"
 07.02.2024,12:00,Botola Pro,FUS Rabat,Wydad Casablanca,,,
 07.02.2024,14:00,Botola Pro,Hassania Agadir,Olympic Safi,,,
 07.02.2024,14:00,Botola Pro,Moghreb Tétouan,Maghreb Fès,,,
@@ -1649,3 +1649,4 @@ Date,Hora,Liga,Home,Away,Placar FT,Winrate,Profit_Goleada
 11.02.2024,14:30,Segunda División,SD Eibar,Real Zaragoza,,,
 11.02.2024,15:00,Liga Premier Serie A,Atlético Saltillo,Cimarrones de Sonora II,,,
 11.02.2024,17:00,Segunda División,Burgos CF,Racing Club de Ferrol,,,
+13.02.2024,16:45,England,EFL League One,Burton Albion,Carlisle United,,
